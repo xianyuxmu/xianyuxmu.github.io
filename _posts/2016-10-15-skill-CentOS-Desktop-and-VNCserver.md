@@ -1,10 +1,12 @@
 ---
-title: CentOS 7 安装桌面和远程连接支持
-date: 2016-10-15 14:31:19
-tags:
-- skill
-
 layout: post
+title: "CentOS 7 安装桌面和远程连接支持"
+date: 2016-10-15 14:31:19 +0800
+categories:
+- Technology
+tags:
+- GNOME
+- CentOS
 ---
 
 **ECS 配置：**CPU(1 核)、内存(1024MB + 1024MB Swap)、带宽(4Mbps Max)。

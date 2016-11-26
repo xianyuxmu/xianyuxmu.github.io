@@ -1,13 +1,13 @@
 ---
-title: 设计与其过程
-date: 2016-11-17 19:45:39
+layout: post
+title: "设计与其过程"
+date: 2016-11-17 19:45:39 +0800
+categories:
+- Reading
+- Thinking
 tags:
 - 设计
-category:
-- 思考
-- 设计
-
-layout: post
+- 设计过程
 ---
 
 ## 什么是设计？

@@ -1,13 +1,12 @@
 ---
-title: 从案例深入 ES6 模块机制和 webpack 打包机制
-date: 2013-10-25 19:12:06
-tags:
-- 'ES 6 Modules'
-- 'ES6 模块'
-category:
-- 'ES 6'
-
 layout: post
+title: "从案例深入 ES6 模块机制和 webpack 打包机制"
+date: 2016-10-25 19:12:06 +0800
+categories:
+- 'Technology'
+tags:
+- 'ES6 Modules'
+- 'JavaScript'
 ---
 
 ![image](/uploads/books/classic-drucker-cover.jpg)

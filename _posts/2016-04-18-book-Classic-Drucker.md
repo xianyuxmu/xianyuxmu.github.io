@@ -1,9 +1,13 @@
 ---
 layout: post
-title: 《经典德鲁克》by Peter F. Drucker
-date: 2016-04-18 15:53:13
+title: "《经典德鲁克》by Peter F. Drucker"
+date: 2016-04-18 15:53:13 +0800
+categories:
+- Reading
+- Business
 tags:
-category: "读书笔记"
+- 管理
+- 德鲁克
 ---
 
 ![image](/uploads/books/classic-drucker-cover.jpg)
@@ -14,7 +18,6 @@ category: "读书笔记"
 <p>时间是最珍贵的资源，不能管理时间，便什么也无法管理。</p>
 <p><strong> —— Peter F. Drucker</strong></p>
 </blockquote>
-
 
 <!-- more -->
 
@@ -272,7 +275,7 @@ category: "读书笔记"
 能坚持8项原则：
 
 1. 他们问：“需要做什么？”
-2. 他们问：“什么对企业事正确的？”
+2. 他们问：“什么对企业是正确的？”
 3. 他们制定行动计划。
 4. 他们为决策承担责任。
 5. 他们对沟通承担责任。

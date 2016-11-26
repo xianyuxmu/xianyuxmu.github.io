@@ -2,9 +2,11 @@
 layout: post
 title:  "阿里云ECS CentOS 7 在 ssh 下中文乱码"
 date:   2016-10-15 13:56:58 +0800
-categories: bug
-
-layout: post
+categories:
+- Technology
+tags:
+- Bug
+- 阿里云
 ---
 
 今天升级镜像到 CentOS 7，接着使用 ssh 登录到主机发现中文显示乱码。

@@ -1,15 +1,12 @@
 ---
-title: ES6 模块的 17 个要点
-date: 2016-11-05 18:55:41
+layout: post
+title: "ES6 模块的 17 个要点"
+date: 2016-11-05 18:55:41 +0800
+categories:
+- Technology
 tags:
 - 'ECMAScript 6'
 - JavaScript
-
-category:
-- 'ECMAScript 6'
-
-layout: post
-
 ---
 
 模块是 ES6 中一个较为重要的特性，它也将成为未来 Web 项目模块开发的一个重要基础。本文在 ES6 基础上提炼出 17 个要点，能够帮助大家更好地理解 ES6 的模块机制！
