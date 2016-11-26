@@ -18,14 +18,7 @@ tags:
 
 📍：图书馆三楼自习室 B94
 
-
-
-
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-1.jpg)
-
 <!-- more -->
-
 
 
 孙正义：“时间机器”理论。
@@ -56,81 +49,8 @@ D2C致力于通过市场营销活动，贡献于四个“for”](http://www.d2cr
 [MIXI-日本人人网](https://mixi.jp/)
 
 
-![image](/uploads/nation-of-mobile/nation-of-mobile-1.jpg)
+----
 
-![image](/uploads/nation-of-mobile/nation-of-mobile-2.jpg)
+Delete the Pictures. - Updated by Robin Chen on November 27, 2016 Sunday.
 
-![image](/uploads/nation-of-mobile/nation-of-mobile-3.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-4.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-5.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-6.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-7.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-8.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-9.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-10.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-11.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-12.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-13.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-14.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-15.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-16.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-17.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-18.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-19.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-20.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-21.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-22.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-23.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-24.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-25.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-26.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-27.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-28.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-29.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-30.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-31.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-32.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-33.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-34.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-35.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-36.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-37.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-38.jpg)
-
-![image](/uploads/nation-of-mobile/nation-of-mobile-39.jpg)
 
