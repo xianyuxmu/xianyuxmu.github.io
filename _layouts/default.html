@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="author" content="{{ site.author }}" />
+    {% if page.title %}
+    <title>{{ page.title }} | {{ site.author }}</title>
+    {% else %}
+    <title>三分思考 | {{ site.author }}</title>
+    {% endif %}
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="{{ site.url }}/feed/" rel="alternate" title="{{ site.author }}" type="application/atom+xml" />
+    <link rel="stylesheet" href="/assets/css/voyage.css">
+    <link rel="stylesheet" href="/assets/css/voyage-print.css">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes">
+  </head>
+  <body>
+    <div id="container">
+      <div id="main" role="main">
+        <header>
+        <a href="/"><h1 class="site-title">三分思考。</h1></a>
+        <nav>
+        <span><a title="vitae" class="" href="{{ site.url }}/timeline/">/ timeline</a></span>
+        <span><a title="categories" class="" href="{{ site.url }}/categories/">/ categories</a></span>
+        <span><a title="tags" class="" href="{{ site.url }}/tags/">/ tags</a></span>
+        <span><a title="about" class="" href="{{ site.url }}/about/">/ about</a></span>
+        <span><a title="subscribe by RSS" class="" href="{{ site.url }}/feed/">/ subscribe</a></span>
+        </nav>
+        </header>
+        <article class="content">
+        {% if page.title %}
+        <div class="post-info">
+        <h1 class="post-title">{{ page.title }}</h1>
+        <div>
+        {% if page.date || page.categories.size > 0 || page.tags.size > 0 %}
+        
+          <span class="time text-selected">
+            {% if page.date %}
+              date:
+            {% endif %}
+            <span>{{ page.date | date:"%Y-%m-%d" }}</span>
+          </span>
+          {% if page.categories.size > 0 %}
+          <span class="categories text-selected">
+            , categories:
+            {% for cat in page.categories %}
+            <a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+            {% endfor %}
+          </span>
+          {% endif %}
+          {% if page.tags.size > 0 %}
+          <span class="tags text-selected">
+            , tags:
+            {% for tag in page.tags %}
+            <a href="{{ site.url }}/tags/#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>&nbsp;
+            {% endfor %}
+          </span>
+          {% endif %}
+          <br />
+        
+        {% endif %}
+        </div>
+        </div>
+        {% endif %}
+        {{ content }}
+        </article>
+      </div>
+    </div>
+    <script type="text/javascript">
+      
+    </script>
+  </body>
+</html>

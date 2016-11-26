@@ -1,0 +1,312 @@
+body {
+	font-family: "Avenir Next", Helvetica, Arial, sans-serif;
+	padding: 2em;
+	margin: 0 auto;
+	font-size: 14px;
+    box-sizing: border-box;
+	width: 100%;
+	color: #292929;
+	background: #fff5ec;
+	-webkit-font-smoothing: antialiased;
+}
+
+::-moz-selection {
+	color: #fff;
+	background: #f60;
+}
+
+::selection {
+	color: #fff;
+	background: #f60;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+	margin: 1.5em 0 0 0;
+}
+
+h1 {
+	font-family: "Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    font-size: 2em;
+    color: #000;
+    margin: 0;
+}
+
+h2 {
+	/*border-bottom: 1px solid #CCCCCC;*/
+	color: #000000;
+	font-size: 1.6em;
+}
+
+h3 {
+	font-size: 1.2em;
+}
+
+h4 {
+	font-size: 1em;
+}
+
+h5 {
+	font-size: 0.8px;
+}
+
+h6 {
+	color: #777777;
+	background-color: inherit;
+	font-size: 0.6em;
+}
+
+hr {
+	width: 8em;
+    border: none;
+    border-top: 1px dashed #9a3900;
+    border-bottom: 1px dashed #fff5ec;
+    margin: 0.2em 0;
+}
+
+p, blockquote, ul, ol, dl, li, table, pre {
+	margin: 1em 0;
+}
+
+blockquote {
+	border-left: 0.27em solid #f60;
+    padding-left: 0.72em;
+    color: #9a3900;
+}
+
+.blockquote-center {
+	position: relative;
+    margin: 40px 0;
+    padding: 0;
+    border-left: none;
+    text-align: center;
+}
+
+.blockquote-center:before {
+	content: '';
+	display: block;
+	margin-bottom: 1.5em;
+	border-top: 1px solid #f60;
+}
+
+.blockquote-center:after {
+	content: ' ';
+	display: block;
+	margin-top: 1.5em;
+	border-bottom: 1px solid #f60;
+}
+
+
+ul li {
+	list-style-type: none;
+}
+
+ul {
+	padding-left: 1.2em;
+}
+
+ol {
+	color: #9a3900;
+}
+
+a {
+	color: #f60;
+    text-decoration: none;
+}
+
+a:hover {
+	color: #9a3900;
+    text-decoration: underline;
+}
+
+#message {
+	border-radius: 6px;
+	border: 1px solid #ccc;
+	display:block;
+	width:100%;
+	height:60px;
+	margin:6px 0px;
+}
+
+button, #ws {
+	font-size: 10pt;
+	padding: 4px 6px;
+	border-radius: 5px;
+	border: 1px solid #bbb;
+	background-color: #eee;
+}
+
+code, pre, #ws, #message {
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 0.95em;
+	border-radius: 0.2em;
+	background-color: #fbdfc6;
+	border: 1px solid #ffd7b3;
+	color: #9a3900;
+}
+
+code {
+	border: none;
+	text-align: left;
+    word-spacing: normal;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 1.5em;
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+}
+
+pre {
+	border: 1px solid #ffd7b3;
+	overflow: auto;
+	padding: 4px 8px;
+	width: inherit;
+}
+
+pre > code {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+pre[class*="language-"] {
+    background: #f9e9db;
+}
+
+#ws { background-color: #f8f8f8; }
+
+.send { color:#77bb77; }
+.server { color:#7799bb; }
+.error { color:#AA0000; }
+
+/* Voyage */
+
+header {
+    padding: .5em 0;
+    
+}
+
+header a h1 {
+	text-align: center;
+    font-size: 2em;
+    margin: 0.8em 2em;
+}
+header a:hover {
+	text-decoration: none;
+}
+header a h1:hover {
+	text-align: center;
+    color: #9a3900;
+}
+
+header nav {
+	text-align: center;
+}
+
+header nav span {
+	max-width: 9em;
+    display: inline-block;
+    text-align: center;
+    margin-right: 2em;
+	text-transform: uppercase;
+    font-weight: 600;
+}
+
+header nav span a:hover {
+	text-decoration: underline;
+}
+
+
+
+.listing-seperator {
+	font-weight: bold;
+}
+
+.listing .listing-seperator {
+	list-style-type: none;
+	font-style: italic;
+}
+
+time {
+	color: #565050;
+}
+
+article {
+	margin-top: 2em;
+}
+
+.meta {
+    text-align: right;
+    font-size: 12px;
+    margin-top: 2em;
+}
+
+.site-title {
+	color: #f60;
+}
+.post-title {
+	font-size: 1.8em;
+	color: #9a3900;
+}
+.post-info {
+	border-bottom: 1px dashed #9a3900;
+	padding-bottom: 0.2em;
+	font-size: 0.8em;
+}
+
+.text-selected {
+	background: #ff4600;
+	color: #fff;
+}
+
+.text-selected a {
+	color: #fff;
+}
+
+.tag_and_cat a {
+	margin-right: 1em;
+	color: #9a3900;
+    font-weight: 600;
+}
+
+img, p img {
+	width: 100%;
+}
+
+.empty-box {
+	height: 3em;
+}
+
+/* adapt to mutil devices*/
+@media screen and (max-width: 767px){
+ 	body {
+ 		font-family: "Avenir Next", Helvetica, Arial, sans-serif;
+		padding: 1.2em;
+		margin: 0 auto;
+ 	}
+}
+@media screen and (min-width: 768px){
+ 	body {
+ 		max-width: 46em;
+ 	}
+}
+
+/* style for printing*/
+@media print {
+	body, pre, code, .text-selected {
+		background: #fff;
+		color: inherit;
+	}
+
+	.text-selected a {
+		color: #f60;;	
+	}
+
+}
+
+
