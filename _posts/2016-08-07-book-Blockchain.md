@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 《区块链》
 date: 2016-08-07 11:01:02 +0800
 categories:
