@@ -3,7 +3,7 @@ title:
 layout: page
 ---
 
-Hi,
+这是陈烨彬的个人主页！
 
 <blockquote class="blockquote-center">
 
