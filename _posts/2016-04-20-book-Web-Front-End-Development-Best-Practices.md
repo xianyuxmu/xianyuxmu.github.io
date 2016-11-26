@@ -10,7 +10,7 @@ tags:
 - 技术
 ---
 
-![book-Web-Front-End-Development-Best-Practices](../uploads/books/book-Web-Front-End-Development-Best-Practices.jpg)
+![book-Web-Front-End-Development-Best-Practices](/uploads/books/book-Web-Front-End-Development-Best-Practices.jpg)
 
 
 书名[《Web 前端开发最佳实践》](https://book.douban.com/subject/26305106/)，作者：[党建](http://www.cnblogs.com/dangjian/p/4228313.html)

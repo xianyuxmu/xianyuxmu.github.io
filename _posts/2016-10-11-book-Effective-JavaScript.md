@@ -10,7 +10,7 @@ tags:
 - JS进阶
 ---
 
-![book-Effective-JavaScript](../uploads/books/book-Effective-JavaScript.png)
+![book-Effective-JavaScript](/uploads/books/book-Effective-JavaScript.png)
 
 <blockquote class="blockquote-center">
 “Before reading Effective JavaScript, I thought it would be just another book on how to write better JavaScript. But this book delivers that and so much more—it gives you a deep understanding of the language. And this is crucial. Without that understanding you’ll know absolutely nothing whatever about the language itself. You’ll only know how other programmers write their code.

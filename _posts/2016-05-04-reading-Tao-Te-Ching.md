@@ -10,7 +10,7 @@ tags:
 - 'Tao Te Ching'
 ---
 
-![Tao Te Ching](../uploads/review/tao_te_ching.jpg)
+![Tao Te Ching](/uploads/review/tao_te_ching.jpg)
 
 <blockquote class="blockquote-center">
 使我介然有知，行於大道，唯施是畏。

@@ -56,7 +56,7 @@ innodb_buffer_pool_size = 8M
 
 使用“top -M”命令查看内存使用情况，512M内存mysql峰值在20%左右。
 
-![image](../uploads/mysql-quit-without-updating-pid.png)
+![image](/uploads/mysql-quit-without-updating-pid.png)
 
 问题解决！
 

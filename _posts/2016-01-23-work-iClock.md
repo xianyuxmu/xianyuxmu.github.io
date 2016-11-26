@@ -36,26 +36,26 @@ iClock是一个有趣的、有设计感的Wintel桌面时钟，她能够变换�
 下面是这个程序在Win 8下的运行截图：
 
 
-![image](../uploads/iClock/iClock-1.png)
+![image](/uploads/iClock/iClock-1.png)
 
 
 <center>认证一下项目确实在Win 8下运行，用的是朋友的电脑</center>
 
 <!-- more -->
 
-![image](../uploads/iClock/iClock-2.png)
+![image](/uploads/iClock/iClock-2.png)
 
 <center>颜色灵感来自Adidas三叶草</center>
 
-![image](../uploads/iClock/iClock-3.png)
+![image](/uploads/iClock/iClock-3.png)
 
 <center>点击左边的“show”按键后不显示时间，只显示相册</center>
 
-![image](../uploads/iClock/iClock-4.png)
+![image](/uploads/iClock/iClock-4.png)
 
 <center>配色灵感来自iPhone 5c</center>
 
-![image](../uploads/iClock/iClock-5.png)
+![image](/uploads/iClock/iClock-5.png)
 
 <center>背景是可以更换的图片，点击右边“love”键切换相册</center>
 

@@ -10,7 +10,7 @@ tags:
 - FinTech
 ---
 
-![book-Blockchain](../uploads/books/book-Blockchain.png)
+![book-Blockchain](/uploads/books/book-Blockchain.png)
 
 <blockquote class="blockquote-center">
 The future is already here — it's just not very evenly distributed.

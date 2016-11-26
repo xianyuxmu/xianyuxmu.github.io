@@ -43,13 +43,13 @@ tags:
 
 
 
-![image](../uploads/wordpress-first-look/wordpress-first-look-1.png)
+![image](/uploads/wordpress-first-look/wordpress-first-look-1.png)
 
 
 <center>[www.csmun2014.com](www.csmun2014.com)</center>
 
 
-![image](../uploads/wordpress-first-look/wordpress-first-look-1.png)
+![image](/uploads/wordpress-first-look/wordpress-first-look-1.png)
  
 
 

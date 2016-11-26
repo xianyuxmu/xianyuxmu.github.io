@@ -9,7 +9,7 @@ tags:
 - 效率
 ---
 
-![book-Aggressive-How-to-Be-A-Powerful-Man](../uploads/books/book-Aggressive-How-to-Be-A-Powerful-Man.png)
+![book-Aggressive-How-to-Be-A-Powerful-Man](/uploads/books/book-Aggressive-How-to-Be-A-Powerful-Man.png)
 
 [***精进－如何成为一个很厉害的人***](https://book.douban.com/subject/26761696/)
 

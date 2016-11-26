@@ -10,7 +10,7 @@ tags:
 - HTML5
 ---
 
-![book-Pro-HTML5-Performance](../uploads/books/book-Pro-HTML5-Performance.jpg)
+![book-Pro-HTML5-Performance](/uploads/books/book-Pro-HTML5-Performance.jpg)
 
 [《高性能 HTML5》](https://book.douban.com/subject/25868275/),英文名：***Pro HTML5 Performance***。
 

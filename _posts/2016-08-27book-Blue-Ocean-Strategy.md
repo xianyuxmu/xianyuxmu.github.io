@@ -10,7 +10,7 @@ tags:
 - 蓝海战略
 ---
 
-![Cover](../uploads/books/book-Blue-Ocean-Strategy/book-Blue-Ocean-Strategy.png) 
+![Cover](/uploads/books/book-Blue-Ocean-Strategy/book-Blue-Ocean-Strategy.png) 
 
 <blockquote class="blockquote-center">
 夫唯不争,故天下莫能与之争。
@@ -29,7 +29,7 @@ Amazon: [***Blue Ocean Strategy: How to Create Uncontested Market Space and Make
 
 蓝海战略 给出了一套系统性的 *分析框架* 和 *工具*，帮助企业在过度拥挤的产业市场中展开**“竞争”**！本书从量化分析 108 家公司推出的新业务开始，来研究*开创蓝海*是如何影响一个公司的收入和利润。同时，本书对于我们而言，也教会了我们在以后的人生中，如何成为这种扩张的推动者。
 
-![Strategy Canvas](../uploads/books/book-Blue-Ocean-Strategy/blue-ocean.jpg) 
+![Strategy Canvas](/uploads/books/book-Blue-Ocean-Strategy/blue-ocean.jpg) 
 
 > Bule Ocean is ALWAYS THERE!
 
@@ -38,7 +38,7 @@ Amazon: [***Blue Ocean Strategy: How to Create Uncontested Market Space and Make
 ## ***SUMMARY:***
 
 
-![Strategy Canvas](../uploads/books/book-Blue-Ocean-Strategy/01.png)
+![Strategy Canvas](/uploads/books/book-Blue-Ocean-Strategy/01.png)
 
 
 # 第一部分：蓝海战略
@@ -53,7 +53,7 @@ Amazon: [***Blue Ocean Strategy: How to Create Uncontested Market Space and Make
 
 蓝海战略以**价值创新(value innovation)**为战略逻辑，在这种战略逻辑下，你不是把精力放在大白竞争对手上，而是放在全力为 **买方** 和 **企业自身** 创造价值飞跃上，并由此开创新的无人争抢的市场空间，且滴摆脱竞争。
 
-![Strategy Canvas](../uploads/books/book-Blue-Ocean-Strategy/02.png)
+![Strategy Canvas](/uploads/books/book-Blue-Ocean-Strategy/02.png)
 
 创新需要根植于***价值***之中。
 
@@ -90,7 +90,7 @@ Amazon: [***Blue Ocean Strategy: How to Create Uncontested Market Space and Make
 - 第三，它展示了企业自身的战略轮廓，或价值曲线，描绘出企业对竞争元素如何投资，以及未来将怎样投资。
 
 
-![Strategy Canvas](../uploads/books/book-Blue-Ocean-Strategy/1.jpg)
+![Strategy Canvas](/uploads/books/book-Blue-Ocean-Strategy/1.jpg)
 
 20 世纪 90 年代末美国葡萄酒业战略布局图
 
@@ -105,7 +105,7 @@ Amazon: [***Blue Ocean Strategy: How to Create Uncontested Market Space and Make
 - **增加:** 哪些元素的含量应该增加到产业标准之上？
 - **创造:** 哪些产业从未有过的元素需要创造？
 
-![四步动作框架](../uploads/books/book-Blue-Ocean-Strategy/2.png)
+![四步动作框架](/uploads/books/book-Blue-Ocean-Strategy/2.png)
 
 四步动作框架(The Four Actions Framework)
 
@@ -119,20 +119,20 @@ Amazon: [***Blue Ocean Strategy: How to Create Uncontested Market Space and Make
 同样的，[黄尾袋鼠(*yellow tail*)](http://www.yellowtailwine.com/)的案例打破了传统，打造了一种新的个性。
 
 
-![黄尾袋鼠战略布局图](../uploads/books/book-Blue-Ocean-Strategy/3.jpg)
+![黄尾袋鼠战略布局图](/uploads/books/book-Blue-Ocean-Strategy/3.jpg)
 
 黄尾袋鼠战略布局图(Strategic Canvas of Yellow Tail)
 
 
 ### 黄尾袋鼠 剔除－减少－增加－创造坐标格
 
-![黄尾袋鼠 剔除－减少－增加－创造坐标格](../uploads/books/book-Blue-Ocean-Strategy/4.png)
+![黄尾袋鼠 剔除－减少－增加－创造坐标格](/uploads/books/book-Blue-Ocean-Strategy/4.png)
 
 黄尾袋鼠 剔除－减少－增加－创造坐标格
 
 ### 价值创新
 
-![Value Innovation](../uploads/books/book-Blue-Ocean-Strategy/5.jpg)
+![Value Innovation](/uploads/books/book-Blue-Ocean-Strategy/5.jpg)
 
 Value Innovation
 
@@ -145,13 +145,13 @@ Value Innovation
 
 事实上，检验一项战略是否有效和强有力的一个好方法，就是看它是否包含一个*有力且真实的主题句*。
 
-![西南航空公司的战略布局图](../uploads/books/book-Blue-Ocean-Strategy/6.png)
+![西南航空公司的战略布局图](/uploads/books/book-Blue-Ocean-Strategy/6.png)
 
 [西南航空公司](https://www.southwest.com/)的战略布局图(The Strategy of Southwest Airlines)
 
 
 
-![太阳马戏团的战略布局图](../uploads/books/book-Blue-Ocean-Strategy/7.png)
+![太阳马戏团的战略布局图](/uploads/books/book-Blue-Ocean-Strategy/7.png)
 
 太阳马戏团的战略布局图([Cirque de Soleil](https://www.cirquedusoleil.com/)'s Strategic Canvas)
 
@@ -173,7 +173,7 @@ Value Innovation
 
 [NetJets](https://www.netjets.com/Home/) 通过提供商业航空和私人飞机的各自优势，从中开创了一片价值十亿美元的 **专机部分所有权** 蓝海。一方面，商务旅行避免了购买一架飞机高昂的固定投资，另一方面企业每年可以按需购买机票降低可变成本。
 
-![NetJets 的战略布局图](../uploads/books/book-Blue-Ocean-Strategy/8.jpg)
+![NetJets 的战略布局图](/uploads/books/book-Blue-Ocean-Strategy/8.jpg)
 
 NetJets 的战略布局图
 
@@ -184,7 +184,7 @@ NetJets 的战略布局图
 “[曲线美(Curves)](https://www.curves.com/fitness)”女性健身俱乐部从一个被认为是过度饱和的健身市场中，跨越了 **传统健康俱乐部** 和 **家庭健身计划** 两个战略集团，吸收了这两大战略集团各自的优势，创建了一片新的蓝海。
 
 
-![曲线美健身俱乐部的战略布局图](../uploads/books/book-Blue-Ocean-Strategy/9.png)
+![曲线美健身俱乐部的战略布局图](/uploads/books/book-Blue-Ocean-Strategy/9.png)
 
 曲线美健身俱乐部的战略布局图
 
@@ -204,7 +204,7 @@ NetJets 的战略布局图
 
 
 
-![美国城市公交车业的战略布局图(2001 年左右)](../uploads/books/book-Blue-Ocean-Strategy/10.jpg)
+![美国城市公交车业的战略布局图(2001 年左右)](/uploads/books/book-Blue-Ocean-Strategy/10.jpg)
 美国城市公交车业的战略布局图(2001 年左右)
 
 博得(Borders)和巴诺(Barnes & Noble)超级连锁书店重新定义了他们所提供的服务范围。他们把所售产品从书籍转换为阅读的乐趣、知识的探索，通过增加阅读室、咖啡吧等，创造了一种适宜阅读学习的环境。由此，开创了了蓝海。
@@ -254,7 +254,7 @@ NetJets 的战略布局图
 
 ### 战略视觉化的四个步骤：
 
-![战略视觉化的四个步骤](../uploads/books/book-Blue-Ocean-Strategy/11.png)
+![战略视觉化的四个步骤](/uploads/books/book-Blue-Ocean-Strategy/11.png)
 
 战略视觉化的四个步骤(The Four Steps of Visualizing Strategy)
 
@@ -280,7 +280,7 @@ PMS: 先驱者、迁移者、安于现状者
 
 高层经理们应该转而将价值和创新作为管理企业**业务构成**的重要参数。
 
-![检验一套业务组合的增长潜力](../uploads/books/book-Blue-Ocean-Strategy/12.jpg)
+![检验一套业务组合的增长潜力](/uploads/books/book-Blue-Ocean-Strategy/12.jpg)
 
 检验一套业务组合的增长潜力(***The PMS Map***)
 
@@ -304,7 +304,7 @@ PMS: 先驱者、迁移者、安于现状者
 ### 非顾客的三个层次：
 
 
-![非顾客的三个层次](../uploads/books/book-Blue-Ocean-Strategy/13.png)
+![非顾客的三个层次](/uploads/books/book-Blue-Ocean-Strategy/13.png)
 
 非顾客的三个层次(The Three Tiers of Non Customers)
 
@@ -321,7 +321,7 @@ PMS: 先驱者、迁移者、安于现状者
 通过正确的战略顺序，评估蓝海创意，减少商业模式的风险。
 
 
-![蓝海战略的顺序](../uploads/books/book-Blue-Ocean-Strategy/14.jpg)
+![蓝海战略的顺序](/uploads/books/book-Blue-Ocean-Strategy/14.jpg)
 
 蓝海战略的顺序(The Stratrgic Sequence)
 
@@ -334,20 +334,20 @@ PMS: 先驱者、迁移者、安于现状者
 
 ### 买方效用定位图：
 
-![买方效用定位图](../uploads/books/book-Blue-Ocean-Strategy/15.jpg)
+![买方效用定位图](/uploads/books/book-Blue-Ocean-Strategy/15.jpg)
 
 买方效用定位图(buyer utility map)(即买方体验周期的六个阶段，每个阶段都是我们所说的 *效用杠杆(The Six Utility Levers)*)
 
-![Buyer Experience Cycle](../uploads/books/book-Blue-Ocean-Strategy/16.jpg)
+![Buyer Experience Cycle](/uploads/books/book-Blue-Ocean-Strategy/16.jpg)
 
 Buyer Experience Cycle
 
-![买方效用杠杆要点](../uploads/books/book-Blue-Ocean-Strategy/17.jpg)
+![买方效用杠杆要点](/uploads/books/book-Blue-Ocean-Strategy/17.jpg)
 
 买方效用杠杆要点(Key Point of The Six Utility Levers)
 
 
-![Uncovering Blocks to Buyer Utility](../uploads/books/book-Blue-Ocean-Strategy/18.jpg)
+![Uncovering Blocks to Buyer Utility](/uploads/books/book-Blue-Ocean-Strategy/18.jpg)
 
 Uncovering Blocks to Buyer Utility
 
@@ -365,7 +365,7 @@ Uncovering Blocks to Buyer Utility
 关键是不要去比照产业内的竞争定价，而要跨越不同产业和非产业，比照替代品和他择品的定价。
 
 
-![大众价格走廊](../uploads/books/book-Blue-Ocean-Strategy/19.jpg)
+![大众价格走廊](/uploads/books/book-Blue-Ocean-Strategy/19.jpg)
 
 大众价格走廊(Price Corridor of The Mass)
 
@@ -376,7 +376,7 @@ Uncovering Blocks to Buyer Utility
 由价格推导出成本，而不是由成本推导出价格。
 
 
-![蓝海战略的利润模式](../uploads/books/book-Blue-Ocean-Strategy/20.jpg)
+![蓝海战略的利润模式](/uploads/books/book-Blue-Ocean-Strategy/20.jpg)
 
 蓝海战略的利润模式(Profit Model of Blue Ocean Strategy)
 
@@ -385,7 +385,7 @@ Uncovering Blocks to Buyer Utility
 
 蓝海战略可能在企业的三种利益相关人之间引发畏惧和抵触——***雇员、商业伙伴和公众***。在教育你的雇员、商业伙伴以及广大公众时，关键的挑战就是与之开诚布公地讨论**为什么采用新创意是必要的**。
 
-![蓝海创意指数表](../uploads/books/book-Blue-Ocean-Strategy/21.jpg)
+![蓝海创意指数表](/uploads/books/book-Blue-Ocean-Strategy/21.jpg)
 
 蓝海创意指数表(Blue Ocean Idea(BOI) Index)
 
@@ -426,7 +426,7 @@ Uncovering Blocks to Buyer Utility
 
 公平过程如何影响人们的态度和行为：
 
-![公平过程如何影响人们的态度和行为](../uploads/books/book-Blue-Ocean-Strategy/22.jpg)
+![公平过程如何影响人们的态度和行为](/uploads/books/book-Blue-Ocean-Strategy/22.jpg)
 
 公平过程如何影响人们的态度和行为(How Fair Process affects People's Attitudes & Behaviors)
 
@@ -437,7 +437,7 @@ Uncovering Blocks to Buyer Utility
 - 明确期望(Clarity of Expectation) － 阐述游戏规则，让基层一开始就知道将用什么来评判他们表现的标准。
 
 
-![战略制定中：拥有或缺乏公平过程对战略执行的影响](../uploads/books/book-Blue-Ocean-Strategy/23.jpg)
+![战略制定中：拥有或缺乏公平过程对战略执行的影响](/uploads/books/book-Blue-Ocean-Strategy/23.jpg)
 
 战略制定中：拥有或缺乏公平过程对战略执行的影响
 
@@ -449,11 +449,11 @@ Uncovering Blocks to Buyer Utility
 
 ### 模仿壁垒
 
-![蓝海战略的模仿壁垒](../uploads/books/book-Blue-Ocean-Strategy/24.jpg)
+![蓝海战略的模仿壁垒](/uploads/books/book-Blue-Ocean-Strategy/24.jpg)
 
 蓝海战略的模仿壁垒(Imitation Barriers to Blue Ocean Strategy)
 
-![蓝海战略的模仿壁垒2](../uploads/books/book-Blue-Ocean-Strategy/25.png)
+![蓝海战略的模仿壁垒2](/uploads/books/book-Blue-Ocean-Strategy/25.png)
 
 ### 何时再次启动价值创新
 

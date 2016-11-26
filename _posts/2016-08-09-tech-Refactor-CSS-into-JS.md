@@ -10,7 +10,7 @@ tags:
 - React
 ---
 
-![image](../uploads/tech/tech-Refactor-CSS-into-JS/tech-Refactor-CSS-into-JS.png)
+![image](/uploads/tech/tech-Refactor-CSS-into-JS/tech-Refactor-CSS-into-JS.png)
 
 在这几天对 ***CSS in JS*** 的学习、研究及若干实践之后... 
 
@@ -182,7 +182,7 @@ var Link = React.createClass({
 
 JS 中实现伪元素(pseudo element)  `:before` & `:after`
 
-![image](../uploads/tech/tech-Refactor-CSS-into-JS/pseudo_elememt_in_js.png)
+![image](/uploads/tech/tech-Refactor-CSS-into-JS/pseudo_elememt_in_js.png)
 
 ---
 

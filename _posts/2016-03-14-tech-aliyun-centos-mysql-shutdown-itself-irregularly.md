@@ -113,7 +113,7 @@ Drop your ib_log files and Put innodb_force_recovery=6 in config file and restar
 
 
 
-![image](../uploads/htop1.png)
+![image](/uploads/htop1.png)
 
 一看 mysql 进程占用的 VIRT 怎么这么多！这时，你要是多刷新几下你服务器上搭建的 WordPress 网站的主页的话，会出现 mysql 内存占用率超过 50% 的情况，这时候 mysql 进程就会被 linux 内核杀死。也就出现了我们在 MySQL 的 error.log 中看到的“[Note] InnoDB: Database was not shutdown normally!” 日志了。
 

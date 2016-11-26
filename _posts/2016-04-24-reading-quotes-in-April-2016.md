@@ -10,7 +10,7 @@ tags:
 ---
 
 
-![reading quotes April 2016](../uploads/reading/reading_quotes_April_2016.jpg)
+![reading quotes April 2016](/uploads/reading/reading_quotes_April_2016.jpg)
 
 <blockquote class="blockquote-center">
 

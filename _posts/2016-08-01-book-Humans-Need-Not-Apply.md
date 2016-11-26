@@ -10,7 +10,7 @@ tags:
 - AI
 ---
 
-![book-Humans-Need-Not-Apply](../uploads/books/book-Humans-Need-Not-Apply.png)
+![book-Humans-Need-Not-Apply](/uploads/books/book-Humans-Need-Not-Apply.png)
 
 <blockquote class="blockquote-center">
 世殊则事异，事异则备变。

@@ -14,7 +14,7 @@ mac displays chaotic code with some character
 
 大约前两周(今天是2016年04月23日)开始，使用 Mac 时，输入中文冒号“：”时会显示成一个类似[阿拉伯文字](https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%97#/media/File:WritingSystemsoftheWorld.png)的字符。类似下面这样，总之是显示成“乱码”了。
 
-![中文冒号显示成这样子](../uploads/solution/solution-mac-displays-chaotic-code-with-chinese-character/3.png)
+![中文冒号显示成这样子](/uploads/solution/solution-mac-displays-chaotic-code-with-chinese-character/3.png)
 
 <!-- more -->
 
@@ -31,12 +31,12 @@ mac displays chaotic code with some character
 下面我将解释为什么会出现这个问题：
 
 首先请下载下载字体：[Lucida Grande Regular](http://www.911fonts.com/font-download/download_LucidaGrandeRegular_6216.htm)，点击安装，出现以下：
-![Mac font installation](../uploads/solution/solution-mac-displays-chaotic-code-with-chinese-character/1.png)
+![Mac font installation](/uploads/solution/solution-mac-displays-chaotic-code-with-chinese-character/1.png)
 
 出现了***“重复字体”***！！！
 
 安装完之后查看该字体，提示信息**“已安装了此字体的多个副本”**：
-![Mac font installation](../uploads/solution/solution-mac-displays-chaotic-code-with-chinese-character/2.png)
+![Mac font installation](/uploads/solution/solution-mac-displays-chaotic-code-with-chinese-character/2.png)
 
 原因就是这个。
 

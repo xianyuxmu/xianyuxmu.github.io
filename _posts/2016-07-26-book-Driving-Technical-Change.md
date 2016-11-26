@@ -10,7 +10,7 @@ tags:
 - 工作方式
 ---
 
-![book-Driving-Technical-Change](../uploads/books/book-Driving-Technical-Change.png)
+![book-Driving-Technical-Change](/uploads/books/book-Driving-Technical-Change.png)
 
 <blockquote class="blockquote-center">
 知己知彼。入游其樊。

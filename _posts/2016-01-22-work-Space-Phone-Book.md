@@ -32,7 +32,7 @@ Space Phone Book项目是我在2013年7月份，也就是大一的第三个学�
 
 我和其他三个好朋友一同组建了“Space”(中文名:空格键)小组，我们的作品都采用Space进行命名，Space寓意为：空间、宇宙、空格、空格键。
 
-![image](../uploads/space-phone-book/space-phone-book-1.jpg)
+![image](/uploads/space-phone-book/space-phone-book-1.jpg)
 
 我们当时的角色都是一样的，都是从零开始探索一个课题。
 
@@ -42,7 +42,7 @@ Space Phone Book项目是我在2013年7月份，也就是大一的第三个学�
 
 第二三周，我们实现了今天要讲的重磅产品－Space Phone Book
 
-![image](../uploads/space-phone-book/space-phone-book-2.png)
+![image](/uploads/space-phone-book/space-phone-book-2.png)
 
 <center>我们引入了“图形界面”</center>
 
@@ -50,7 +50,7 @@ Space Phone Book项目是我在2013年7月份，也就是大一的第三个学�
 
 我们使用C语言在控制台下面实现了一个极类似“SQL”操作形式的电话本。
 
-![image](../uploads/space-phone-book/space-phone-book-3.png)
+![image](/uploads/space-phone-book/space-phone-book-3.png)
 
 <center>主界面</center>
 
@@ -63,45 +63,45 @@ insert、delete、update、select、group…结构化查询语句一应具全。
 1、表格绘画模块
 
 
-![image](../uploads/space-phone-book/space-phone-book-4.png)
+![image](/uploads/space-phone-book/space-phone-book-4.png)
 
 <center>按地点进行排序A、B、C…</center>
 
 
-![image](../uploads/space-phone-book/space-phone-book-5.png)
+![image](/uploads/space-phone-book/space-phone-book-5.png)
 
 <center>select 一行，没问题</center>
 
-![image](../uploads/space-phone-book/space-phone-book-6.png)
+![image](/uploads/space-phone-book/space-phone-book-6.png)
 
 
 <center>select 两行，没问题</center>
 
-![image](../uploads/space-phone-book/space-phone-book-7.png)
+![image](/uploads/space-phone-book/space-phone-book-7.png)
 
 好吧，这个功能跟SQL是一样的，说真的，用C写真不好写
 
 2、Space Search(万能搜索，跟Mac上的Spot Light类似)
 
-![image](../uploads/space-phone-book/space-phone-book-8.png)
+![image](/uploads/space-phone-book/space-phone-book-8.png)
 
 <center>模糊查询“m i”显示结果为Mike</center>
 
-![image](../uploads/space-phone-book/space-phone-book-9.png)
+![image](/uploads/space-phone-book/space-phone-book-9.png)
 
 <center>分词，从“I love you，kate”中分出“kate”关键词</center>
 
-![image](../uploads/space-phone-book/space-phone-book-10.png)
+![image](/uploads/space-phone-book/space-phone-book-10.png)
 
 <center>输入“BankSchool”自动查找Office为“bank”“School”的结果</center>
 
 3、命令识别模块
 
-![image](../uploads/space-phone-book/space-phone-book-11.png)
+![image](/uploads/space-phone-book/space-phone-book-11.png)
 
 <center>任意输入，不会挂，还会提醒你哪个位置出错</center>
 
-![image](../uploads/space-phone-book/space-phone-book-12.png)
+![image](/uploads/space-phone-book/space-phone-book-12.png)
 
 <center>对错误的命令进行提示</center>
 

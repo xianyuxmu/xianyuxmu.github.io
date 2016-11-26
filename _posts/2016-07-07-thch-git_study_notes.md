@@ -32,7 +32,7 @@ Git - stash用法:[Git - stash用法](https://segmentfault.com/a/119000000255416
 
 如图1：
 
-![Git log 图](../uploads/tech/git_study_notes/git_study_notes_1.png)
+![Git log 图](/uploads/tech/git_study_notes/git_study_notes_1.png)
 
 图1 Git log 图
 
@@ -43,21 +43,21 @@ Git - stash用法:[Git - stash用法](https://segmentfault.com/a/119000000255416
 5. 切换到 `B` 分支，执行 `git rebase master`，执行结果如图2，按照提示执行 `vim master-branch.txt` 解决冲突如图3。
 6. 冲突解决完之后，执行 `git add master-branch.txt`后再执行 `git rebase --continue`, rebase 完成如图4。
 
-![图2](../uploads/tech/git_study_notes/git_study_notes_2.png)
+![图2](/uploads/tech/git_study_notes/git_study_notes_2.png)
 
 图2
 
-![图3](../uploads/tech/git_study_notes/git_study_notes_3.png)
+![图3](/uploads/tech/git_study_notes/git_study_notes_3.png)
 
 图3
 
-![图4](../uploads/tech/git_study_notes/git_study_notes_4.png)
+![图4](/uploads/tech/git_study_notes/git_study_notes_4.png)
 
 图4
 
 ---
 
-Git 模拟仓库打包在 [testgit.zip](../uploads/testgit.zip) 中
+Git 模拟仓库打包在 [testgit.zip](/uploads/testgit.zip) 中
 。
 
 

@@ -10,7 +10,7 @@ tags:
 - ES6
 ---
 
-![react_es6_in_depth](../uploads/tech/react_es6_in_depth.png)
+![react_es6_in_depth](/uploads/tech/react_es6_in_depth.png)
 
 ### 首先，
 

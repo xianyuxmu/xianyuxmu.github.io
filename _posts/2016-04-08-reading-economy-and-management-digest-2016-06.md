@@ -17,12 +17,12 @@ tags:
 
 <blockquote class="blockquote-center">关键词：IP、银行业</blockquote>
 
-![image](../uploads/magazine-economy-and-management-digest-2016-06/cover.jpg)
+![image](/uploads/magazine-economy-and-management-digest-2016-06/cover.jpg)
 
 <!-- more -->
 
 
-![image](../uploads/magazine-economy-and-management-digest-2016-06/1.jpg)
+![image](/uploads/magazine-economy-and-management-digest-2016-06/1.jpg)
 
 <div style="text-align:center;">Cover</div>
 
@@ -119,7 +119,7 @@ DVD。婚纱。高铁。
 
 国内银行过去利润好是根源是因为长期存在***“存贷差”***。
 
-![image](../uploads/magazine-economy-and-management-digest-2016-06/2.jpg)
+![image](/uploads/magazine-economy-and-management-digest-2016-06/2.jpg)
 
 
 “行业中高层纷纷出逃。”

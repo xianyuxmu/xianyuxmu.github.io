@@ -39,7 +39,7 @@ MQ新闻客户端是一个定位在宠物媒体，类似《华尔街日报》iOS
 
 产品主页如下图：
 
-![image](../uploads/iOS-first-look.png)
+![image](/uploads/iOS-first-look.png)
 
 
 

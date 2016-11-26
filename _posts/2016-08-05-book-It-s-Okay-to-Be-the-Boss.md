@@ -10,7 +10,7 @@ tags:
 ---
 
 
-![book-It-s-Okay-to-Be-the-Boss](../uploads/books/book-It-s-Okay-to-Be-the-Boss.png)
+![book-It-s-Okay-to-Be-the-Boss](/uploads/books/book-It-s-Okay-to-Be-the-Boss.png)
 
 <div class="text-center">书名有点标题党。</div>
 <!-- more -->

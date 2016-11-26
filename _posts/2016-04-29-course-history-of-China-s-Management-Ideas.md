@@ -312,7 +312,7 @@ iPhone －> App Store －> iPad －> Apple 其他产品。
 
 产品过程图，如下：
 
-![image](../uploads/course/daodejing/daodejing_1.png)
+![image](/uploads/course/daodejing/daodejing_1.png)
 
 
 区域 1 是 未知的创新阶段。**“道隐无名”**。
@@ -342,7 +342,7 @@ iPhone －> App Store －> iPad －> Apple 其他产品。
 	道生之，德蓄之。道在古汉文中：意指一个人走在路上，路走了就有了。德在古汉文中包含：人的行为。头发。眼睛。心。四个方面。
 
 
-![image](../uploads/course/daodejing/daodejing_2.png)
+![image](/uploads/course/daodejing/daodejing_2.png)
 
 区域 1：	探索阶段。从0到1.专注于探索阶段，其他的业务外包。
 

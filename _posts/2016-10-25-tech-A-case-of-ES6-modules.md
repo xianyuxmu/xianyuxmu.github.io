@@ -458,42 +458,42 @@ export default Actions;
 
 ### 追踪错误栈如下图：
 
-![追踪错误栈图](../uploads/tech/tech-A-case-of-ES6-modules/1.png)
+![追踪错误栈图](/uploads/tech/tech-A-case-of-ES6-modules/1.png)
 
 上图1：错误栈。其中 `webpackJsonp()` 用于异步加载代码块(chunks)，具体请查看[output.jsonpFunction](https://webpack.github.io/docs/configuration.html#output-jsonpfunction)
 
-![追踪错误栈图](../uploads/tech/tech-A-case-of-ES6-modules/2.png)
+![追踪错误栈图](/uploads/tech/tech-A-case-of-ES6-modules/2.png)
 
 上图2：这句代码触发了错误
 
-![追踪错误栈图](../uploads/tech/tech-A-case-of-ES6-modules/3.png)
+![追踪错误栈图](/uploads/tech/tech-A-case-of-ES6-modules/3.png)
 
 上图3：这句代码触发了错误
 
 ### 下面具体阐述一下错误发生的过程：
 
-![追踪错误栈图](../uploads/tech/tech-A-case-of-ES6-modules/4.png)
+![追踪错误栈图](/uploads/tech/tech-A-case-of-ES6-modules/4.png)
 
 上图4：注意现在这个还是只有一条搜索记录
 
-![追踪错误栈图](../uploads/tech/tech-A-case-of-ES6-modules/5.png)
+![追踪错误栈图](/uploads/tech/tech-A-case-of-ES6-modules/5.png)
 
 上图5：注意第 20 行，这度代码的意思是，当访问 `0+UC` 时，去调用 `zGIv`，也就是执行第 24 行中的代码。
 
-![追踪错误栈图](../uploads/tech/tech-A-case-of-ES6-modules/6.png)
+![追踪错误栈图](/uploads/tech/tech-A-case-of-ES6-modules/6.png)
 
 上图6：`aVn+` 初始化的时候， 已经初始化过 `zGIv`(在第 2180 行调用)，这是 `zGIv` 模块第一次被初始化，此时 `zGIv` 模块会被标记为 `loaded: true`。按照 ES6 的模块机制来说，每个模块只能实例化一次(TODO: 详细见 [ES6 模块文章]())。
 
-![追踪错误栈图](../uploads/tech/tech-A-case-of-ES6-modules/7.png)
+![追踪错误栈图](/uploads/tech/tech-A-case-of-ES6-modules/7.png)
 
 上图7：在这里，`NSxC`(第 2139 行) 模块加载的时候需要加载 `0+UC` 模块(第 2152 行)模块，而调用 `0+UC` 模块时，又去加载了一次 `zGIv` 模块，具体请看(图5)。这时候，再一次初始化 `zGIv` 模块，OK，`zGIv` 模块被二次加载，***出错***。
 
-![追踪错误栈图](../uploads/tech/tech-A-case-of-ES6-modules/8.png)
+![追踪错误栈图](/uploads/tech/tech-A-case-of-ES6-modules/8.png)
 
 上图8：在第一次加载(在图6中) `zGIv` 模块的时候，执行到上面这张图片中第 10 行 `return ` 语句代码的时候，在第 11 行 `o.loaded = !0`，`loaded` 属性被设置为 `true` ，最终在第 12 行代码中 返回 `o.exports`。而当第二次调用 `0+UC` 模块时(在图7步骤) ，执行到这段代码就会出错，请看下图。
 
 
-![追踪错误栈图](../uploads/tech/tech-A-case-of-ES6-modules/9.png)
+![追踪错误栈图](/uploads/tech/tech-A-case-of-ES6-modules/9.png)
 
 上图9：请先看上图中第 5 行代码，要被夹在模块 `0+UC` 的 `loaded` 状态还是 `false`，并且跳过了第 3 行 `if(r[n])` 步骤开始执行第 10 行，这时候可以执行没有错，具体是怎么执行的呢？当第 10 行代码执行 `e[n].call(o.exports, o, o.exports, t)` 语句的时候，在语里面调用 `t(n)`, 也就是  `t('0+UC')`;接着 `t('0+UC')` 照常执行；执行到***图5*** 中的第 20 行，然后这个 `0+UC` 模块返回 `"zGIv"` 字符串，接着又去执行一次 `zGIv` 模块；最后，按照 ES6 模块执行中的 [ModuleEvaluation() Concrete Method](http://www.ecma-international.org/ecma-262/6.0/#sec-moduleevaluation) 函数，这个函数返回 `undefined`，这就是我们看到的错误： `lib.js:formatted:10 Uncaught TypeError: Cannot read property 'call' of undefined(…)`。 这个错误中的 `undefined` 就是 `ModuleEvaluation()` 函数返回的。
 
@@ -523,7 +523,7 @@ export default Actions;
 ```
 
 
-![追踪错误栈图](../uploads/tech/tech-A-case-of-ES6-modules/10.png)
+![追踪错误栈图](/uploads/tech/tech-A-case-of-ES6-modules/10.png)
 
 上图10：`0+UC` 模块 和 `zGIv` 模块是被单独的分开的，单独加在，因此两个模块都初始化一次，就能正常运行了！
 
@@ -548,7 +548,7 @@ export default Actions;
 
 这两段话已经讲得很清楚了，我们再来看一下在控制台下的文件目录结构
 
-![追踪错误栈图](../uploads/tech/tech-A-case-of-ES6-modules/11.png)
+![追踪错误栈图](/uploads/tech/tech-A-case-of-ES6-modules/11.png)
 
 上图11：这是 webpack-dev-server 启动后，在本地浏览器打开的情况。
 

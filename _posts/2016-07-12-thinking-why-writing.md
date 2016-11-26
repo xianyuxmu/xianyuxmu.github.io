@@ -9,7 +9,7 @@ tags:
 - 提高自己
 ---
 
-![image](../uploads/thought/thought-why-writing.png)
+![image](/uploads/thought/thought-why-writing.png)
 
 今天 Q2 Review，我们谈到了写 wiki 这个话题，并做了点延伸讨论。总结为一个：*写作*。
 

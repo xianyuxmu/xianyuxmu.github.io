@@ -41,23 +41,23 @@ tags:
 
 下面直接通过App首次启动的Wizard Guide图片介绍这个App：
 
-![image](../uploads/xmu-lecture-first-android-app/xmu-lecture-first-android-app-1.png)
+![image](/uploads/xmu-lecture-first-android-app/xmu-lecture-first-android-app-1.png)
 
 <center>开机界面，古朴优雅的感觉</center>
 
-![image](../uploads/xmu-lecture-first-android-app/xmu-lecture-first-android-app-2.png)
+![image](/uploads/xmu-lecture-first-android-app/xmu-lecture-first-android-app-2.png)
 
 <!-- more -->
 
-![image](../uploads/xmu-lecture-first-android-app/xmu-lecture-first-android-app-3.png)
+![image](/uploads/xmu-lecture-first-android-app/xmu-lecture-first-android-app-3.png)
 
-![image](../uploads/xmu-lecture-first-android-app/xmu-lecture-first-android-app-4.png)
+![image](/uploads/xmu-lecture-first-android-app/xmu-lecture-first-android-app-4.png)
 
-![image](../uploads/xmu-lecture-first-android-app/xmu-lecture-first-android-app-5.png)
+![image](/uploads/xmu-lecture-first-android-app/xmu-lecture-first-android-app-5.png)
 
-![image](../uploads/xmu-lecture-first-android-app/xmu-lecture-first-android-app-6.png)
+![image](/uploads/xmu-lecture-first-android-app/xmu-lecture-first-android-app-6.png)
 
-![image](../uploads/xmu-lecture-first-android-app/xmu-lecture-first-android-app-7.png)
+![image](/uploads/xmu-lecture-first-android-app/xmu-lecture-first-android-app-7.png)
 
 
 
