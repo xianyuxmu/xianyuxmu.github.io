@@ -282,6 +282,16 @@ img, p img {
 	height: 3em;
 }
 
+/* common css */
+
+.center {
+	text-align: center;
+}
+
+.main-color {
+	color: #9a3900;
+}
+
 /* adapt to mutil devices*/
 @media screen and (max-width: 767px){
  	body {
