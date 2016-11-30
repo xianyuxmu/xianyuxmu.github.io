@@ -3,7 +3,7 @@ title:
 layout: page
 ---
 
-<h1 class="main-color center" style="font-size: 1em; font-weight: 400;">
+<h1 class="main-color" style="font-size: 1em; font-weight: 400;">
 这是陈烨彬的个人主页！
 </h1>
 
