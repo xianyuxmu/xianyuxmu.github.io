@@ -8,12 +8,7 @@ tags:
 - 'Financial Review'
 ---
 
-资管的本质：
-
-<blockquote class="blockquote-center">
-<p>受人之托，代客理财</p>
-</blockquote>
-
+资产管理的本质是“受人之托，代客理财”。
 
 ## 传统资产管理公司
 
@@ -231,4 +226,4 @@ contents above are finished on February 05, 2017 23:36
 
 ----
 
-End by Robin on February 06, 2017 at Home, Wangjing
+End by Robin on February 06, 2017 24:00 at Home, Wangjing
