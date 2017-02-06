@@ -8,7 +8,7 @@ tags:
 - 为人处世
 ---
 
-<blockquote class="center">
+<blockquote class="blockquote-center">
 <p>「圍師必闕，窮寇莫追」</p>
 <p> —— 《孫子兵法．軍爭篇》</p>
 </blockquote>
