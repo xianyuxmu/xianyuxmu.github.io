@@ -9,11 +9,6 @@ tags:
 
 ---
 
-
-特性应该考虑到浏览器提供的默认行为
-
-----
-
 ## JavaScript 简史
 
 1995年05月，[Brendan Eich](http://en.wikipedia.org/wiki/Brendan_Eich) 在10天内设计出 JavaScript。原先还被叫做 Mocha、LiveScript。
