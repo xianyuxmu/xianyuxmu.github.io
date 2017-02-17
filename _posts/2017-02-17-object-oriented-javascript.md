@@ -11,7 +11,7 @@ tags:
 
 JavaScript 是一门**基于原型而非基于类**的语言。Java 中一切都基于类，JavaScript 一切都基于原型，所以 JS 是基于原型的。
 
-![how-to-traverse-dom](../uploads/tech/javascript/javascript-object-system.jpeg)
+![javascript-object-system](../uploads/tech/javascript/javascript-object-system.jpeg)
 
 基于对象编程能够简化重用。
 
