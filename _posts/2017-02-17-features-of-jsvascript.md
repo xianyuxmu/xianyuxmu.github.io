@@ -39,7 +39,7 @@ tags:
 
 **闭包在技术上的定义**：内部函数在其父函数执行结束之后，依然能够引用其外围函数(outer enclosing functions，不仅仅是父函数)中的变量。
 
-![javascript-closure](../uploads/tech/javascript/javascript-closure.png)
+![javascript-closure](/uploads/tech/javascript/javascript-closure.png)
 
 闭包示意图
 

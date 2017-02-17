@@ -27,11 +27,11 @@ DOM 采用 `DOM Level n` 来进行版本标识，目前最新是 [DOM4](https://
 
 Document 通常看做一个整体，文档中的每个标签都是一个 `Element`。
 
-![broswer-object-model](../uploads/tech/javascript/broswer-object-model.gif)
+![broswer-object-model](/uploads/tech/javascript/broswer-object-model.gif)
 
 整个 `window` 对象的结构
 
-![html-tree](../uploads/tech/javascript/html-tree.gif)
+![html-tree](/uploads/tech/javascript/html-tree.gif)
 
 HTML 树结构
 
@@ -50,7 +50,7 @@ HTML 树结构
 </ul>
 ```
 
-![how-to-traverse-dom](../uploads/tech/javascript/how-to-traverse-dom.png)
+![how-to-traverse-dom](/uploads/tech/javascript/how-to-traverse-dom.png)
 
 代码一对应的关系图
 

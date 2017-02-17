@@ -29,7 +29,7 @@ JavaScript 所运行的代码中，无论是全局上下文中的函数，还是
 
 两个线程共同捕获事件，并依据是否注册过事件处理程序来对其进行归类。这个过程叫做**事件循环**。
 
-![how-to-traverse-dom](../uploads/tech/javascript/javascript-event-loop.png)
+![how-to-traverse-dom](/uploads/tech/javascript/javascript-event-loop.png)
 
 1. 每次循环开始，都会检查是否注册过事件处理程序，如果没有什么都不做；如果有，事件循环会将其放入 JavaScript ***队列的首部***，使得 **JavaScript 可以第一时间**
 
