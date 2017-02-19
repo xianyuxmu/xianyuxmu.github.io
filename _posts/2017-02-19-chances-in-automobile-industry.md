@@ -66,4 +66,10 @@ tags:
 
 ----
 
+相关资料：
+
+- [2017年中国汽车市场格局：市场力量主导，有望略微增长](https://www.ihs.com/info/chi/automotive-industry.html)
+
+----
+
 Robin on February 19, 2017 Sunday at Wangjing CBD.
