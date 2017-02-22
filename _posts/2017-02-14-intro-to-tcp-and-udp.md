@@ -28,6 +28,14 @@ Comparison Chart: [TCP vs. UDP](http://www.diffen.com/difference/TCP_vs_UDP)
 
 Features: [Comparison of UDP and TCP](https://en.wikipedia.org/wiki/User_Datagram_Protocol#Comparison_of_UDP_and_TCP)
 
+![tcp-udp-comparison-diagram](/uploads/tech/tcp-udp-comparison-diagram-1.png)
+
+from Internet
+
+![tcp-udp-comparison-diagram](/uploads/tech/tcp-udp-comparison-diagram-2.jpg)
+
+from Internet
+
 
 ## Why Different?
 
