@@ -23,6 +23,13 @@ JavaScript 所运行的代码中，无论是全局上下文中的函数，还是
 
 > 请记住，除了 Web Worker 之外，JavaScript 都是单线程的。
 
+了解 JavaScript 的事件循环，可以查看这篇文章[《JavaScript 运行机制详解：再谈Event Loop》](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)，浅显易懂、更加直观的视频讲解 [Philip Roberts: Help, I’m stuck in an event-loop.](https://vimeo.com/96425312)，事件循环的 DEMO 请访问 [loupe](http://latentflip.com/loupe)。
+
+注意点：
+
+1. 即时在 JavaScript 线程阻塞的时候触发的 UI 事件没反应(点击按钮没效果)，该事件**也会被加入到事件队列**中。
+2. JavaScript 事件队列中事件的执行是按顺序的。
+
 ### 事件循环
 
 事件循环需要浏览器中两个线程之间的合作：**事件跟踪线程**和**JavaScript线程**。
