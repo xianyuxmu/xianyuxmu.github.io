@@ -51,7 +51,7 @@ Chrome 稍后阅读插件: [Save to Pocket](https://chrome.google.com/webstore/d
 [RSS 的生命力：分享100个订阅源](http://cnfeat.com/blog/2016/01/29/100Subscription/) - 2016.01.29 Latest post by cnfeat.
  
  
-###### 同时，欢迎订阅我的 RSS[请点击这里！](http://think.vinci.link/atom.xml)  
+###### 同时，欢迎订阅我的 RSS[请点击这里！](/feed)  
 
 <blockquote class="blockquote-center">生命短暂，不要把时间浪费于做同样的选择。</blockquote>
 
