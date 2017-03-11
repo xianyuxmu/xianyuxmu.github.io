@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "CentOS 7 安装桌面和远程连接支持"
+title: CentOS 7 安装桌面和远程连接支持
 date: 2016-10-15 14:31:19 +0800
 categories:
-- Technology
+- Tech
 tags:
 - GNOME
 - CentOS

@@ -3,7 +3,7 @@ layout: post
 title: 'ES6 下的函数式编程'
 date: 2016-12-24 13:19:00 +0800
 categories:
-- Technology
+- Tech
 tags:
 - 函数式编程
 - JavaScript

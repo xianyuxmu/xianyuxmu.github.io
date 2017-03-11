@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "阿里云服务器 MySQL 经常自动停止挂掉重启的完美解决方式"
+title: 阿里云服务器 MySQL 经常自动停止挂掉重启的完美解决方式
 date: 2016-03-14 12:07:53 +0800
 categories:
-- Technology
+- Tech
 tags:
 - Bug
 - MySQL

@@ -3,7 +3,7 @@ layout: post
 title: "从案例深入 ES6 模块机制和 webpack 打包机制"
 date: 2016-10-25 19:12:06 +0800
 categories:
-- 'Technology'
+- Tech
 tags:
 - 'ES6 Modules'
 - 'JavaScript'

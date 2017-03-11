@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Pro HTML5 Performance"
+title: Pro HTML5 Performance
 date: 2016-04-23 13:19:50 +0800
 categories:
 - Reading
-- Technology
+- Tech
 tags:
 - Web优化
 - HTML5

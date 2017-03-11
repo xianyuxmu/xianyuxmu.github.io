@@ -3,7 +3,7 @@ layout: post
 title: "ES6 模块的 17 个要点"
 date: 2016-11-05 18:55:41 +0800
 categories:
-- Technology
+- Tech
 tags:
 - 'ECMAScript 6'
 - JavaScript

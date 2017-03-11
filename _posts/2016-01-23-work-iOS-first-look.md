@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "MQ新闻客户端－第一个iOS项目"
+title: MQ新闻客户端－第一个iOS项目
 date: 2016-01-23 00:51:36 +0800
 categories:
 - Works
-- Technology
+- Tech
 tags:
 - 个人作品
 - 我的大学

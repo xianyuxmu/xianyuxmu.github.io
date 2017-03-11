@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "思考《道德经》"
+title: 思考《道德经》
 date: 2016-05-04 13:01:01 +0800
 categories:
 - Thinking

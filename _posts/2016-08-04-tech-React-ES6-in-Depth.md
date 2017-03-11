@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "从 React 深入 ES6"
+title: 从 React 深入 ES6
 date: 2016-08-04 19:15:35 +0800
 categories:
-- Technology
+- Tech
 tags:
 - 技术
 - React

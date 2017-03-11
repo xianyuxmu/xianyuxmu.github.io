@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《经典德鲁克》by Peter F. Drucker"
+title: 《经典德鲁克》by Peter F. Drucker
 date: 2016-04-18 15:53:13 +0800
 categories:
 - Reading

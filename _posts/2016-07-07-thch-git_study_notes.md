@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Git Study Notes"
+title: Git Study Notes
 date: 2016-07-07 16:45:00 +0800
 categories:
-- Technology
+- Tech
 tags:
 - Git
 ---

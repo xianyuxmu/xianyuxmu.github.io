@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "business not begin from you taking it over"
+title: business not begin from you taking it over
 date: 2016-08-07 11:20:37 +0800
 categories:
 - Thinking

@@ -4,7 +4,7 @@ title: "Space Phone Book – 使用C实现SQL"
 date: 2016-01-22 23:50:14 +0800
 categories:
 - Works
-- Technology
+- Tech
 tags:
 - 个人作品
 - 我的大学

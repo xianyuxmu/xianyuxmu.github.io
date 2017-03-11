@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《经济管理文摘》2016.06"
+title: 《经济管理文摘》2016.06
 date: 2016-04-08 13:30:32 +0800
 categories:
 - Reading

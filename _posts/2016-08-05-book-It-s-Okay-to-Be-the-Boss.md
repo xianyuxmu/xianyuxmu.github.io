@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "It's Okay to Be the Boss"
+title: It's Okay to Be the Boss
 date: 2016-08-05 12:50:24 +0800
 categories:
 - Reading

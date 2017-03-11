@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '《移动的帝国－日本移动互联网兴衰启示录》'
+title: 《移动的帝国－日本移动互联网兴衰启示录》
 date: 2016-04-02 22:01:31 +0800
 categories:
 - Reading

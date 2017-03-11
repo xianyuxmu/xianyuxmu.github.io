@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《中国管理思想史》个人笔记与思考"
+title: 《中国管理思想史》个人笔记与思考
 date: 2016-04-29 13:30:54 +0800
 categories:
 - Reading

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "阿里云ECS CentOS 7 在 ssh 下中文乱码"
+title:  阿里云ECS CentOS 7 在 ssh 下中文乱码
 date:   2016-10-15 13:56:58 +0800
 categories:
-- Technology
+- Tech
 tags:
 - Bug
 - 阿里云

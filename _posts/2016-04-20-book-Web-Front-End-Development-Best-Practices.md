@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "《Web 前端开发最佳实践》 Notes"
+title: 《Web 前端开发最佳实践》 Notes
 date: 2016-04-20 13:06:46 +0800
 categories:
 - Reading
-- Technology
+- Tech
 tags: 
 - Web前端
 - 技术

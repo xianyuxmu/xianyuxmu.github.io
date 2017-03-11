@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Mac 中文字符显示为乱码"
+title: Mac 中文字符显示为乱码
 date: 2016-04-23 14:25:58 +0800
 categories:
-- Technology
+- Tech
 tags:
 - Bug
 - Mac字符乱码

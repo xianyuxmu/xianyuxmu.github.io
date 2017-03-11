@@ -3,7 +3,7 @@ layout: post
 title: "阿里云ECS 错误”MySQL server quit without updating PID file”解决办法"
 date: 2016-01-23 14:07:52 +0800
 categories:
-- Technology
+- Tech
 tags: 
 - Bug
 - 阿里云

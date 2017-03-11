@@ -3,7 +3,7 @@ layout: post
 title: 'Redux: reducer 和 combineReducers() 使用注意点'
 date: 2017-01-11 20:24:48 +0800
 categories:
-- Technology
+- Tech
 tags:
 - Redux
 ---

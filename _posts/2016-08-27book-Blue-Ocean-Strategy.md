@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《蓝海战略》摘要"
+title: 《蓝海战略》摘要
 date: 2016-08-27 19:30:37 +0800
 categories:
 - Reading

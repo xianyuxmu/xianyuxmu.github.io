@@ -4,7 +4,7 @@ title: 《人工智能时代》
 date: 2016-08-01 22:28:20 +0800
 categories:
 - Reading
-- Technology
+- Tech
 tags:
 - 人工智能
 - AI

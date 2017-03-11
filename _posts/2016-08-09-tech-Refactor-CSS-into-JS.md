@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "使用 JS 写 CSS 与 React 内联样式"
+title: 使用 JS 写 CSS 与 React 内联样式
 date: 2016-08-09 16:39:47 +0800
 categories:
-- Technology
+- Tech
 tags:
 - CSS
 - JS

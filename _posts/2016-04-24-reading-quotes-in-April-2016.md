@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'reading quotes in April, 2016'
+title: Reading Quotes in April, 2016
 date: 2016-04-24 19:49:33 +0800
 categories:
 - Reading

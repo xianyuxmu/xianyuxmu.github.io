@@ -3,7 +3,7 @@ layout: post
 title: 为什么写作
 date: 2016-07-12 19:48:18 +0800
 categories:
-- Technology
+- Thinking
 tags:
 - 写作
 - 提高自己

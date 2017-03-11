@@ -4,7 +4,7 @@ title: "《Effective JavaScript》"
 date: 2016-10-11 13:09:28 +0800
 categories:
 - Reading
-- Technology
+- Tech
 tags:
 - JavaScript
 - JS进阶
