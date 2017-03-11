@@ -4,13 +4,13 @@ layout: page
 ---
 
 <div class='tag_and_cat'>
-{% for tag in site.tags %}
+{% for tag in site.tags reversed %}
 <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
 {% endfor %}
 </div>
 
 <ul class="listing">
-{% for tag in site.tags %}
+{% for tag in site.tags reversed %}
   <li class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</li>
 {% for post in tag[1] %}
   <li class="listing-item">
