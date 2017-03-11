@@ -3,7 +3,6 @@ layout: post
 title: 《厦大讲座》Android App － 第一次完整的项目经历
 date: 2016-01-23 00:38:56 +0800
 categories:
-- Works
 - Tech
 tags:
 - 个人作品
