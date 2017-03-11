@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Reeder 3: sync RSS Subscriptions between Mac & iPhone
+title: 'Reeder 3: sync RSS Subscriptions between Mac & iPhone'
 date: 2016-04-13 12:44:01 +0800
 categories:
 - Life
+- Reading
 tags:
 - RSS
 - 阅读工具
