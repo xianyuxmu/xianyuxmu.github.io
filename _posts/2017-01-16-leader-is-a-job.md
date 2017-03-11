@@ -3,7 +3,7 @@ layout: post
 title: 领导是一门工作
 date: 2017-02-16 22:24:00 +0800
 categories:
-- Tinking
+- Thinking
 tags:
 - The Essential Drucker
 

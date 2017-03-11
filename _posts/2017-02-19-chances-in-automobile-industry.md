@@ -3,7 +3,7 @@ layout: post
 title: 汽车行业的机会
 date: 2017-02-19 11:41:00 +0800
 categories:
-- Tinking
+- Thinking
 - Business
 tags:
 - 不确定的世界

@@ -3,7 +3,7 @@ layout: post
 title: 2017 房地产前瞻
 date: 2017-02-19 11:41:00 +0800
 categories:
-- Tinking
+- Thinking
 - Business
 tags:
 - 不确定的世界

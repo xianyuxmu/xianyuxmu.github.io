@@ -3,7 +3,7 @@ layout: post
 title: 科技大布局
 date: 2017-02-19 10:41:00 +0800
 categories:
-- Tinking
+- Thinking
 - Business
 tags:
 - 不确定的世界
