@@ -1,3 +1,14 @@
+---
+layout: post
+title: Deployment of pm2
+date: 2017-03-15 20:11:00 +0800
+categories:
+- Tech
+tags:
+- pm2
+
+---
+
 ## pm2 deploy
 
 

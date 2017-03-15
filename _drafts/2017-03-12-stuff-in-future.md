@@ -1,3 +1,15 @@
+---
+layout: post
+title: 未来的世界
+date: 2017-03-15 20:11:00 +0800
+categories:
+- Tech
+- Thinking
+tags:
+- Future
+
+---
+
 未来是什么？
 
 
