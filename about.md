@@ -2,28 +2,45 @@
 layout: page
 title: ABOUT
 permalink: /about/
+
 ---
+
+
+
+## Contact Information
+
+[douban](https://www.douban.com/people/54904096/)
+／[GitHub](https://github.com/xianyuxmu)
+／[Instagram](https://www.instagram.com/robinchen17/)
+
+Email: [xianyuxmu@gmail.com](mailto:xianyuxmu@gmail.com)
+
+
+
+## My Timeline
+
+- Next - Any thing could happen...
+
+
+
+## Working Experience
+
+- 2016 ~ Now Front-End Engineer of Meituan, Inc. of China
+- 2015 ~ 2016 A Small Team Leader of A Startup in Xiamen, developing a News App(Internship).
+- 2014 ~ 2016 Technical Director of Lecture Organization, Xiamen University 
+
+## Education Background
+
+- 2014 ~ 2016 Bachelor of Business Management, Xiamen University of China
+- 2012 ~ 2016 Bachelor of Software Engineering, Xiamen University of China
+
+----
+
+## 关于博客
 
 <blockquote class="blockquote-center">
 <p>过十分的生活，做三分的思考！</p>
 </blockquote>
-
-
-社交／Social Networking:
-[豆瓣](https://www.douban.com/people/54904096/)
-／[GitHub](https://github.com/xianyuxmu)
-／[Google+](https://plus.google.com/u/0/108098881131336504752)
-／[Instagram](https://www.instagram.com/robinchen17/)
-
-----
-
-联系我／Contract Me：
-
-**邮箱：** 打开这个[链接](https://github.com/xianyuxmu)，邮箱在页面左侧！
-
-**Email:** Open this [Link](https://github.com/xianyuxmu), and you will find email address in the left!
-
-----
 
 ## 关于 tags
 
@@ -39,7 +56,7 @@ permalink: /about/
 <p>
 以铜为鉴，可正衣寇；以古为鉴，可知兴替；以人为鉴，可明得失。朕尝保此三鉴，内防己过。今魏徵逝，一鉴亡矣。
 </p>
-<p> —— 唐太宗<p>
+<p> —— 唐太宗</p>
 </blockquote>
 
 
