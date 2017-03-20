@@ -59,6 +59,7 @@ SonarQube 特性：
 - [Quora：代码质量和发展速度可以兼得](http://www.infoq.com/cn/news/2015/08/quora-qlint?utm_source=news_about_Code_Quality&utm_medium=link&utm_campaign=Code_Quality)
 - [Google之类公司的代码质量如何？](http://blog.jobbole.com/74107/)
 - [QA的未来](http://www.infoq.com/cn/news/2016/11/future-qa-atlassian?utm_source=news_about_Code_Quality&utm_medium=link&utm_campaign=Code_Quality)
+- [Quality assistance: how Atlassian does QA](https://www.atlassian.com/inside-atlassian/qa)
 - [使用 Sonar 进行代码质量管理](https://www.ibm.com/developerworks/cn/java/j-lo-sonar/)
 - [SonarQube - Continuous Code Quality](https://www.sonarqube.org/) 
 
