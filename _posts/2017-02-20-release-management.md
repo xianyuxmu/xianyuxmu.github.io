@@ -55,7 +55,8 @@ SemVer 风格的版本号命名规则：`MAJOR.MINOR.PATCH`
 Git 增加 tag：
 
 ``` bash
-$ git tag v1.0.0
+$ git tag v1.0.0 
+$ git tag v1.0.0 -m 'my version description message'
 ```
 
 Git 删除 tag：
@@ -64,6 +65,23 @@ Git 删除 tag：
 $ git tag -d v1.0.0
 $ git push origin :refs/tags/v1.0.0
 ```
+
+查看 tag：
+
+``` bash
+$ git show v1.0.0
+```
+
+将 tag 推到远程仓库：
+
+``` bash
+$ git push origin v1.5 # 推送单个 tag
+$ git push origin --tags # 推送所有的 tags
+```
+
+相关资料：
+
+- [2.6 Git 基础 - 打标签](https://git-scm.com/book/zh/v1/Git-%E5%9F%BA%E7%A1%80-%E6%89%93%E6%A0%87%E7%AD%BE)
 
 ----
 
