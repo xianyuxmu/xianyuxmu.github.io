@@ -11,15 +11,21 @@ tags:
 
 ## 代码质量重要性
 
-由于研发人员能力习惯的差异、历史代码不断堆积
+代码质量的重要性是不言而喻的，不用过多的强调。
+
+## 什么导致了代码质量下降
+
+- 持续不断的代码变更；
+- 持续不断的架构演变；
+- 参差不齐的人员素质以及习惯；
 
 ## 如何提高代码质量
 
-- 研发规范；
+- 良好的研发规范；
 - 代码 Review；
 - 代码 lint 工具；
 - 研发人员意识、工程素质的提高（心要到达）；
-- 加入测试（单元测试、回归测试）；
+- 加入测试（单元测试、回归测试、覆盖率测试）；
 - 持续追求代码质量，不断改进 CQA 方案(CQA: Code Quality Analysis)；
 
 
@@ -34,22 +40,19 @@ tags:
 - 不要依赖手工检查
 - 定时清查代码，减少变动成本
 
-
-
-
-
-
 ## SonarQube 介绍
 
 > [Sonar](https://www.sonarqube.org/) 是一个用于代码质量管理的开放平台。通过插件机制，Sonar 可以集成不同的测试工具，代码分析工具，以及持续集成工具，Sonar 可以方便地被集成到 Jenkins、Travis CI。 -- *IBM*
 
+Sonar 免费支持 Java、JavaScript、Python、PHP、C#、XML、CSS、Android (Android lint) ，而收费的第三方插件
+
 SonarQube 特性：
 
 - 即时跟踪项目质量变化；
-- 检查代码的复杂度；
+- 复杂度分析；
 - 指出重复代码；
-- 统计单元测试覆盖率；
-- 发现 Bug（Code Smells、Security Vulnerability、自定义规则）；
+- 测试和覆盖率；
+- 代码风格（Code Smells、Security Vulnerability、自定义规则）；
 - 集成所有项目（风险视图、总体质量报告）；
 
 
