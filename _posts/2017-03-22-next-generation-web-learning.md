@@ -1,10 +1,16 @@
+---
+layout: post
+title: 下一代 Web
+date: 2017-03-22 20:00:00 +0800
+categories:
+- Tech
+tags:
+- Web
+
+---
 
 
 ## 下一代 Web 学习
-
-下一代 Web
-
-
 
 ### [App Shell 模型](https://developers.google.com/web/fundamentals/architecture/app-shell)
 
