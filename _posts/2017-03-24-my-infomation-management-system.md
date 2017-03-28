@@ -23,3 +23,51 @@ Google Alerts 很强大，基于关键词来搜索实时快讯，并通过邮箱
 - 关注公司的关键词（如 Apple、Google 等）来获取讯息；
 
 > 注意：要使用 Google Alerts，需要先注册 Google 账号。
+
+## 自媒体
+
+### keso怎么看
+
+微信号：kesoview
+
+ItTalks
+
+魏武挥，微信号：wwh_33330533 
+
+
+----
+
+### 技术领域
+
+- [InfoQ](http://www.infoq.com/cn/)
+- [DDFE - 滴滴前端博客](https://github.com/DDFE/DDFE-blog)
+- [凹凸实验室 - 京东前端](https://aotu.io/)
+- [JDC - 京东设计中心](https://jdc.jd.com/)
+- [腾讯CDC - 腾讯用户研究与体验设计部](http://cdc.tencent.com)
+- [腾讯MXD - 腾讯移动互联网设计团队](http://mxd.tencent.com/)
+- [腾讯AlloyTeam - 全端团队](http://www.alloyteam.com/)
+- [ISUX - 腾讯品牌体验设计](https://isux.tencent.com/)
+- [FED - 淘宝前端团队](http://taobaofed.org/)
+- [Baidu FEX team](https://github.com/fex-team)
+- [UXC - 百度用户体验中心](http://mux.baidu.com/case)
+- [IDL - 百度深度学习实验室](http://idl.baidu.com/IDL-direction.html)
+
+
+### 技术前沿
+
+- [百度大脑](https://ai.baidu.com/)
+- [Research at Google](https://research.google.com/)
+
+### 名人
+
+- [Elon Mask](https://twitter.com/elonmusk)
+- [Andy Rubin](https://twitter.com/Arubin)
+
+
+### 关注大公司的最新动态
+
+- Amazon
+- Google
+- Apple
+- Microsoft
+
