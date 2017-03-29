@@ -71,3 +71,13 @@ ItTalks
 - Apple
 - Microsoft
 
+### 技术
+
+- [Google Open Source](https://opensource.google.com/)
+
+
+### 行业分析
+
+- [行业分析 - 知乎](https://www.zhihu.com/topic/19595918/hot)
+- [中国未来的赚钱行业有哪些？](https://www.zhihu.com/question/23560166)
+
