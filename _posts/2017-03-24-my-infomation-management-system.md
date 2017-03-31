@@ -64,12 +64,48 @@ ItTalks
 - [Andy Rubin](https://twitter.com/Arubin)
 
 
-### 关注大公司的最新动态
+## 大公司的最新动态
 
-- Amazon
-- Google
-- Apple
-- Microsoft
+### Amazon
+
+- [Amazon - Twitter](https://twitter.com/amazon)
+- 创建 Google Alerts 快讯：Amazon
+- [Amazon - GeekWire](http://www.geekwire.com/amazon/)
+
+
+### Google
+
+
+### Apple
+
+- [Apple Leadership](https://www.apple.com/pr/bios/)
+
+
+### Microsoft
+
+## 名人最新动态
+
+- [Elon Musk](https://twitter.com/elonmusk)
+- [Tim Cook](https://twitter.com/tim_cook)
+- [Donald J. Trump](https://twitter.com/realDonaldTrump)
+- [Jeff Bezos](https://twitter.com/JeffBezos)
+
+
+## All about Trump
+
+- [Trump](http://www.trump.com/)
+
+
+## Social Media News
+
+- [The New York Times](https://twitter.com/nytimes)
+- [Recode](https://twitter.com/Recode)
+- [500 Startups](https://twitter.com/500Startups)
+- [Twitter Moments - Today, News, Monthly, Sports, Entertainment & Fun](https://twitter.com/i/moments)
+- [TechCrunch](https://twitter.com/TechCrunch)
+- [Google](https://twitter.com/Google)
+- [National Geographic](https://twitter.com/NatGeo)
+
 
 ### 技术
 
@@ -80,4 +116,5 @@ ItTalks
 
 - [行业分析 - 知乎](https://www.zhihu.com/topic/19595918/hot)
 - [中国未来的赚钱行业有哪些？](https://www.zhihu.com/question/23560166)
+- [互联网研究报告 - CNNIC 中国互联网络信息中心](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/)
 
