@@ -11,7 +11,7 @@ tags:
 
 ---
 
-<blockquote>
+<blockquote class="blockquote-center">
 <p>你们要进窄门。因为引到灭亡，那门是宽的，路是大的，进去的人也多。</p>
 <p>——《圣经》</p>
 </blockquote>
