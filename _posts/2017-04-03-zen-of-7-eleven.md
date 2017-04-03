@@ -8,6 +8,7 @@ categories:
 tags:
 - 零售
 - 铃木敏文
+- 7-Eleven
 
 ---
 
