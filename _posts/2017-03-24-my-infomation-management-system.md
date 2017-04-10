@@ -81,6 +81,10 @@ ItTalks
 - [Apple Leadership](https://www.apple.com/pr/bios/)
 
 
+### Uber
+
+- [Uber Engineering Blog](https://eng.uber.com/)
+
 ### Microsoft
 
 ## 名人最新动态
