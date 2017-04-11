@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deployment of pm2
+title: pm2
 date: 2017-03-15 20:11:00 +0800
 categories:
 - Tech
@@ -38,7 +38,11 @@ tags:
 
 ----
 
+## pm2 监控
 
+- [watchmen](https://github.com/iloire/WatchMen)
+- [pm25](https://github.com/PaulGuo/PM25)
+- [open-falcon](open-falcon.org)
 
 
 
