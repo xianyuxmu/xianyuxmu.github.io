@@ -46,6 +46,7 @@ tags:
 
 - [nginx服务器安装及配置文件详解](https://yq.aliyun.com/articles/47359)
 - [nginx做负载均衡器以及proxy缓存配置](https://segmentfault.com/a/1190000002873747?spm=5176.100239.blogcont47359.11.3jf7bT)
+- [Nginx 配置陷阱和常见错误（翻译）](http://www.7rack.info/Nginx-Config-Pitfalls.html)
 
 ### Nginx 配置文件说明
 
