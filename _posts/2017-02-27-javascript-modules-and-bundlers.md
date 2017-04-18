@@ -90,6 +90,7 @@ A JavaScript bundler start from entry file, then recursively imports until whole
 - [Tree-shaking with webpack 2 and Babel 6](http://www.2ality.com/2015/12/webpack-tree-shaking.html) - Intros to tree-sharking.
 - [Brief history of JavaScript Modules](https://medium.com/@sungyeol.choi/javascript-module-module-loader-module-bundler-es6-module-confused-yet-6343510e7bde)
 - [The future of bundling JavaScript modules](http://www.2ality.com/2015/12/bundling-modules-future.html)
+- [The Evolution of JavaScript Modularity](https://github.com/myshov/history-of-javascript/tree/master/4_evolution_of_js_modularity)
 
 
 ----
