@@ -9,6 +9,8 @@ tags:
 
 ---
 
+# 简介
+
 ## 代码质量重要性
 
 代码质量的重要性是不言而喻的，不用过多的强调。
@@ -68,4 +70,79 @@ SonarQube 特性：
 
 ----
 
-Robin on March 20, 2017 Monday
+> Contents above are written by Robin on March 20, 2017 Monday
+
+# 本地 SonarQube
+
+## 安装
+
+> 以 Mac 为例。
+
+教程: [Get Started in Two Minutes](https://docs.sonarqube.org/display/SONAR/Get+Started+in+Two+Minutes)
+
+### 基本安装
+
+1. 下载 [SonarQube](http://www.sonarsource.org/downloads/)，并解压到 `/etc/sonarqube`
+2. 下载 [SonarQube Scanner](https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner)，并解压到 `/etc/sonar-scanner`
+3. 执行 `/etc/sonarqube/bin/[OS]/sonar.sh console` 命令启动 SonarQube（注意要把 `[OS]` 替换成 `/etc/sonarqube/bin/` 下存在的某个文件路径。）。在浏览器中打开 [http://localhost:9000](http://localhost:9000)，就可以访问本地的 `SonarQube`。
+4. 开始扫描代码。切换到项目路径 `/your-project-name`，执行 `/etc/sonarqube/bin/sonar-scanner -Dsonar.projectKey=your-project-name -Dsonar.sources=.`
+5. 代码扫描完成后，打开 [http://localhost:9000](http://localhost:9000)，然后登陆(默认用户名: admin，密码: admin)查看扫描报告。
+
+如果出现下面这个问题：
+
+```
+INFO: ------------------------------------------------------------------------
+INFO: EXECUTION FAILURE
+INFO: ------------------------------------------------------------------------
+Total time: 7.572s
+Final Memory: 8M/223M
+INFO: ------------------------------------------------------------------------
+ERROR: Error during Sonar runner execution
+ERROR: Unable to execute Sonar
+ERROR: Caused by: You must define the following mandatory properties for 'Unknown':   sonar.projectKey, sonar.projectName, sonar.projectVersion, sonar.sources
+ERROR:
+ERROR: To see the full stack trace of the errors, re-run SonarQube Runner with the -e switch.
+ERROR: Re-run SonarQube Runner using the -X switch to enable full debug logging.
+```
+
+> 常见的一个错误，解决方案在这里：[Sonar Setup Undefined Mandatory Properties](http://stackoverflow.com/questions/21204350/sonar-setup-undefined-mandatory-properties)。
+
+你需要在待运行 SonarQube 检查的项目目录下创建一个文件：`sonar-project.properties`，然后增加以下内容：
+
+```
+# Required metadata／必要字段
+sonar.projectKey=sonar-runner-simple
+sonar.projectName=项目名称(这个名称将在 SonarQube 中显示)
+sonar.projectVersion=1.0
+
+# 设置为当前路径
+sonar.sources=.
+
+# 设置待检查项目的语言类型
+sonar.language=js
+
+# Encoding of the source files
+sonar.sourceEncoding=UTF-8
+```
+
+
+### 使用 sonarlint 集成到开发环境(IDE)
+
+使用 [SonarLint](http://www.sonarlint.org/index.html) 插件，可以把 SonarQube 集成到本地开发环境中，如：Eclipse、IntelliJ IDEA、WebStorm 以及 Visual Studio 等 IDE 中。
+
+继承步骤（以 `IntelliJ IDEA` 为例子）：
+
+- 下载 [SonarLint for IntelliJ IDEA](http://www.sonarlint.org/intellij/index.html)(链接中包含教程)，下载完成后不用解压文件。
+- 打开 `IntelliJ IDEA` > Preferences > Pulgin，点击 `Install Pulgin from disk...` ，然后选中刚才下载的文件并安装。
+- 接着在 `IntelliJ IDEA` > Preferences > Other Settings 中选中 `SonarLint General Settings`，填写：
+	- Nmae：起个名字
+	- Server URL：`http://localhost:9000/`
+	- Token: (这个值需要点击 `Create Token`，然后在浏览器打开的页面中生成一个 `Token`，然后复制到这里)
+- 点击 `Test connection`，成功后点击 `OK` 退出弹框。
+- 然后选择 `SonarLint Project Settings`，点击选中 `Enable binding to remote SonarQube server`，然后：
+	- 在 `Bind to Server` 选择我们刚才在 `SonarLint General Settings` 添加的本地服务器。
+- 完成本地 IDE 与本地 SonarQube 服务接入。
+
+----
+
+Robin on April 18, 2017 Tuesday
