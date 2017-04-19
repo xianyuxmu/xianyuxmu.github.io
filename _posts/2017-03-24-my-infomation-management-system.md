@@ -87,6 +87,10 @@ ItTalks
 
 ### Microsoft
 
+### Facebook
+
+- [Facebook News Room](https://newsroom.fb.com/)
+
 ## 名人最新动态
 
 - [Elon Musk](https://twitter.com/elonmusk)
