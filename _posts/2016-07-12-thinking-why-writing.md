@@ -40,3 +40,5 @@ tags:
 
 [如何把1小时用出10小时的效果？](http://mp.weixin.qq.com/s?__biz=MjM5NDA4MjAzMA==&mid=211561459&idx=1&sn=0f4045c58c3f46816dab5e7f98db9d4c&3)
 
+[Why I write? And you should too.](https://medium.com/the-mission/why-i-write-and-you-should-too-7fedbf5885e1)
+
