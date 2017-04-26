@@ -14,7 +14,7 @@ tags:
 上周五，在听网易云音乐的私人FM，又听到一首我喜欢的 *Soft Rock* 歌：***It Never Rains in Southern California - Albert hammond***。
 
 <blockquote class="blockquote-center">
-<p>为什么所有带 California 都那么好听😘</p>
+<p>为什么所有带 California 都那么好听 😘</p>
 <div>
 <embed src="//music.163.com/style/swf/widget.swf?sid=1063590&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"/>
 </div>
