@@ -80,3 +80,9 @@ tags:
 - [大坑和小铲子](http://www.ruanyifeng.com/blog/2009/07/big_hole_and_little_shovel.html) - 人生如何挖坑。
 - Work hard, have fun and make history.
 - [Learning These 9 Tough Skills Will Immediately Improve Your Entire Life](https://medium.com/the-mission/learning-these-9-tough-skills-will-pay-off-for-the-rest-of-your-life-f3ae97d8fb4c)
+
+----
+
+> 今晚去看了《春娇救志明》，没预期好看，剧情普普通通。
+
+Robin on April 28, 2017 Fri. 
