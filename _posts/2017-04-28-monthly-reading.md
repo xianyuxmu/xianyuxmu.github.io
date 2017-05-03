@@ -17,6 +17,7 @@ tags:
 - [Learning These 9 Tough Skills Will Immediately Improve Your Entire Life](https://medium.com/the-mission/learning-these-9-tough-skills-will-pay-off-for-the-rest-of-your-life-f3ae97d8fb4c)
 - [Money, Health, Family— 10 rules to live by from the times of Socrates to Modern day](https://medium.com/the-mission/money-health-family-10-rules-to-live-by-from-the-times-of-socrates-to-modern-day-c0e5c35f9c36)
 - [You won’t win until they start betting against you](https://medium.com/the-mission/you-wont-win-until-they-start-betting-against-you-a97a3141690e) - [SPANX](http://www.spanx.com/) & [wikipedia](https://en.wikipedia.org/wiki/Spanx)
+- [当我们追求不可替代......|荐读](http://www.sohu.com/a/137082982_616638) - must read!
 
 ## Management
 
