@@ -14,6 +14,9 @@ tags:
 
 - [有没有安全的工作？](http://www.ruanyifeng.com/blog/2015/12/safe-job.html) - 为什么中国很少见35岁以上的程序员？因为他们上学时学习的东西都淘汰了，必须和年轻人一起学习新技术。你很难比年轻人更有竞争力，其中最关键的是，雇佣刚走出校门的学生，比雇佣你便宜得多。但是：胜任一份工作只和人的能力有关系，和年轻没有太大的必然关系。
 - [神秘人：谈马云都可以，但不能谈这个人](https://moment.douban.com/post/106013/) - 像蔡崇信这样的人不可能在公司内部培养出来，只能从公司外部找，但多半公司找的时候已经是快要上市了，他们来的目的就是准备上市。而前期创业者把该犯的错误已全部犯过了，也付出了惨重的代价，而有些投资上的错误根本不可逆。
+- [社會行走100訣…丹尼士文摘（佳句庫）](http://denniswatch.mysinablog.com/index.php?op=ViewArticle&articleId=1074546) - 把敬業變成習慣，短期來看是為了雇主，長期來看是為了自己
+- 「在我一生中要把犯下的所有錯誤，都是把我原本意欲說『不』的時候，說了聲『是』。」…美國劇作家哈特（Moss Hart）／ *All the mistakes I ever made were when I wanted to say 'No' and said 'Yes'. - Moss Hart*
+- 「我們唯一的錯誤，就是完全沒有從錯誤中學習。」…知名作家博得（Jacob Braude）
 
 ----
 
@@ -39,6 +42,7 @@ tags:
 ## Tech
 
 - [Elasticsearch](https://www.elastic.co/products/elasticsearch) - 当前流行的企业级搜索引擎
+- [Third parties have always been the key to Amazon’s smart home domination plans](https://techcrunch.com/2017/05/06/amazon-echo-world-domination/?ncid=tcdaily&utm_medium=TCnewsletter)
 
 ## Front End
 
