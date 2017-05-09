@@ -47,6 +47,8 @@ tags:
 ## Front End
 
 - [Airbnb’s new open source library lets you design with React and render to Sketch](https://techcrunch.com/2017/04/25/airbnbs-new-open-source-library-lets-you-design-with-react-and-render-to-sketch/)
+- [log4js-node](https://github.com/nomiddlename/log4js-node) - A port of log4js to node.js - 日志分类、分级管理。
+- [CSRF 攻击的应对之道](https://www.ibm.com/developerworks/cn/web/1102_niugang_csrf/)
 
 ----
 
