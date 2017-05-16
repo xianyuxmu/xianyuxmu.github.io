@@ -18,6 +18,7 @@ tags:
 - 「在我一生中要把犯下的所有錯誤，都是把我原本意欲說『不』的時候，說了聲『是』。」…美國劇作家哈特（Moss Hart）／ *All the mistakes I ever made were when I wanted to say 'No' and said 'Yes'. - Moss Hart*
 - 「我們唯一的錯誤，就是完全沒有從錯誤中學習。」…知名作家博得（Jacob Braude）
 - better than yesterday!
+- [Sanjay Gupta Delivers University of Michigan Spring 2012 Commencement Address](https://singjupost.com/sanjay-gupta-delivers-university-of-michigan-spring-2012-commencement-address-full-transcript/2/?singlepage=1) - Make each moment count! Wake up with a sense of purpose.
 
 ----
 
@@ -35,6 +36,10 @@ tags:
 - [未来的娱乐业](http://www.ruanyifeng.com/blog/2017/01/entainment.html)
 - [Windows 10 S laptops will start at $189 and ship this summer](https://techcrunch.com/2017/05/02/windows-10-s-laptops-will-start-at-189-and-ship-this-summer/)
 - [中国房价泡沫收场的N种姿势](http://www.ftchinese.com/story/001072362?full=y) - 讲的不错。
+- [马云先让吃货解决丹麦生蚝，再用内容解决精神饥渴](https://www.sohu.com/a/138367070_116048)
+- [马云将推动美国小企业增加对华出口](http://www.ftchinese.com/story/001072522)
+- [马云：用10年布局拉美 推动中小企业全球化](http://finance.sina.com.cn/stock/usstock/c/2017-05-05/doc-ifyeychk7064041.shtml)
+- [Amazon Business送你一张通往欧洲千亿级B2B市场的入场券](http://mt.sohu.com/20170509/n492328048.shtml)
 
 
 
@@ -51,6 +56,7 @@ tags:
 - [log4js-node](https://github.com/nomiddlename/log4js-node) - A port of log4js to node.js - 日志分类、分级管理。
 - [CSRF 攻击的应对之道](https://www.ibm.com/developerworks/cn/web/1102_niugang_csrf/)
 - [前端转行DevOps经验分享 - NodeParty #21](https://mp.weixin.qq.com/s?__biz=MzA4MzYyNjM2OQ==&mid=2247484033&idx=2&sn=4129871a90af5ff8c31b84a32604fca1)
+- [react-static-boilerplate](https://github.com/kriasoft/react-static-boilerplate) - 统一路由配置方案
 
 ----
 
