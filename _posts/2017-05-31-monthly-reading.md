@@ -10,6 +10,14 @@ tags:
 
 ---
 
+<blockquote class="blockquote-center">
+<p>FUTURE VISION</p>
+<p>
+I love visions! Visions empower our imaginations, empower our momentum, enlarge our dreams!
+</p>
+</blockquote>
+
+
 ## Life
 
 - [有没有安全的工作？](http://www.ruanyifeng.com/blog/2015/12/safe-job.html) - 为什么中国很少见35岁以上的程序员？因为他们上学时学习的东西都淘汰了，必须和年轻人一起学习新技术。你很难比年轻人更有竞争力，其中最关键的是，雇佣刚走出校门的学生，比雇佣你便宜得多。但是：胜任一份工作只和人的能力有关系，和年轻没有太大的必然关系。
@@ -22,7 +30,11 @@ tags:
 
 ----
 
-## Management
+## Future
+
+- [Productivity Future Vision - Microsoft](https://www.microsoft.com/enterprise/productivityvision/default.aspx) - I love visions! Visions empower our imaginations, empower our momentum, enlarge our dreams!
+- [How AI-powered organizations are getting ahead - Microsoft](https://enterprise.microsoft.com/en-us/articles/roles/it-leader/ai-powered-organizations-getting-ahead/)
+- [Microsoft Lays Out Its Vision for Windows at Build 2017](http://www.tested.com/tech/windows/611331-microsoft-lays-out-its-vision-windows-build-2017/)
 
 
 ----
@@ -40,6 +52,7 @@ tags:
 - [马云将推动美国小企业增加对华出口](http://www.ftchinese.com/story/001072522)
 - [马云：用10年布局拉美 推动中小企业全球化](http://finance.sina.com.cn/stock/usstock/c/2017-05-05/doc-ifyeychk7064041.shtml)
 - [Amazon Business送你一张通往欧洲千亿级B2B市场的入场券](http://mt.sohu.com/20170509/n492328048.shtml)
+- [TripAdvisor（猫途鹰）发布丝绸之路旅行趋势数据](http://travelweekly-china.com/57760)
 
 
 
