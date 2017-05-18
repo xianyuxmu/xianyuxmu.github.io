@@ -35,6 +35,8 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 - [Productivity Future Vision - Microsoft](https://www.microsoft.com/enterprise/productivityvision/default.aspx) - I love visions! Visions empower our imaginations, empower our momentum, enlarge our dreams!
 - [How AI-powered organizations are getting ahead - Microsoft](https://enterprise.microsoft.com/en-us/articles/roles/it-leader/ai-powered-organizations-getting-ahead/)
 - [Microsoft Lays Out Its Vision for Windows at Build 2017](http://www.tested.com/tech/windows/611331-microsoft-lays-out-its-vision-windows-build-2017/)
+- [微信iOS 6.5.8发布：实验室支持搜一搜、看一看](http://m.cnbeta.com/view/613531.htm)
+- [Google I/O 2017六大亮点解读：计算机视觉技术无处不在](http://www.cnbeta.com/articles/tech/613625.htm)
 
 
 ----
@@ -53,6 +55,7 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 - [马云：用10年布局拉美 推动中小企业全球化](http://finance.sina.com.cn/stock/usstock/c/2017-05-05/doc-ifyeychk7064041.shtml)
 - [Amazon Business送你一张通往欧洲千亿级B2B市场的入场券](http://mt.sohu.com/20170509/n492328048.shtml)
 - [TripAdvisor（猫途鹰）发布丝绸之路旅行趋势数据](http://travelweekly-china.com/57760)
+- [麦当劳澳大利亚推出MyMacca's应用 实现快速取餐](http://m.cnbeta.com/view/613665.htm)
 
 
 
@@ -70,6 +73,7 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 - [CSRF 攻击的应对之道](https://www.ibm.com/developerworks/cn/web/1102_niugang_csrf/)
 - [前端转行DevOps经验分享 - NodeParty #21](https://mp.weixin.qq.com/s?__biz=MzA4MzYyNjM2OQ==&mid=2247484033&idx=2&sn=4129871a90af5ff8c31b84a32604fca1)
 - [react-static-boilerplate](https://github.com/kriasoft/react-static-boilerplate) - 统一路由配置方案
+- [如何打造公司级公共前端团队](https://github.com/DDFE/DDFE-blog/issues/2)
 
 ----
 
