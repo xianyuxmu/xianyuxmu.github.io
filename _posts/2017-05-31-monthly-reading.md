@@ -37,6 +37,7 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 - [Microsoft Lays Out Its Vision for Windows at Build 2017](http://www.tested.com/tech/windows/611331-microsoft-lays-out-its-vision-windows-build-2017/)
 - [微信iOS 6.5.8发布：实验室支持搜一搜、看一看](http://m.cnbeta.com/view/613531.htm)
 - [Google I/O 2017六大亮点解读：计算机视觉技术无处不在](http://www.cnbeta.com/articles/tech/613625.htm)
+- [马云：我不是什么偶像 近看都是一堆毛病](http://finance.sina.com.cn/chanjing/gsnews/2017-05-15/doc-ifyfeivp5708639.shtml)
 
 
 ----
@@ -74,6 +75,8 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 - [前端转行DevOps经验分享 - NodeParty #21](https://mp.weixin.qq.com/s?__biz=MzA4MzYyNjM2OQ==&mid=2247484033&idx=2&sn=4129871a90af5ff8c31b84a32604fca1)
 - [react-static-boilerplate](https://github.com/kriasoft/react-static-boilerplate) - 统一路由配置方案
 - [如何打造公司级公共前端团队](https://github.com/DDFE/DDFE-blog/issues/2)
+- [大公司里怎样开发和部署前端代码](https://github.com/fouber/blog/issues/6#issuecomment-300974559)
+- [指数级增长背后，滴滴出行业务系统的架构升级](https://github.com/DDFE/DDFE-blog/issues/6)
 
 ----
 
