@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url:  "http://robinchen.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xianyuxmu
 github_username:  xianyuxmu
-author: 陈烨彬
+author: 陈烨彬 Robin Chen
 # Build settings
 markdown: kramdown
 # theme: voyage
