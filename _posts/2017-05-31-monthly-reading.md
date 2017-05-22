@@ -27,6 +27,7 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 - 「我們唯一的錯誤，就是完全沒有從錯誤中學習。」…知名作家博得（Jacob Braude）
 - better than yesterday!
 - [Sanjay Gupta Delivers University of Michigan Spring 2012 Commencement Address](https://singjupost.com/sanjay-gupta-delivers-university-of-michigan-spring-2012-commencement-address-full-transcript/2/?singlepage=1) - Make each moment count! Wake up with a sense of purpose.
+- [米兰](https://zh.wikipedia.org/wiki/%E7%B1%B3%E8%98%AD)／[Milan](https://en.wikipedia.org/wiki/Milan)
 
 ----
 
