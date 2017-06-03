@@ -1,7 +1,7 @@
 ---
 layout: post
 title: June 2017 月读
-date: 2017-06-30 15:59:00 +0800
+date: 2017-06-01 15:59:00 +0800
 categories:
 - Reading
 - Life
