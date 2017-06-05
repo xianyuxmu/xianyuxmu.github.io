@@ -32,6 +32,10 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 
 ## Business
 
+- [“互联网女皇”2017 趋势报告里，别错过这些有趣的信息](http://www.ifanr.com/846182)
+- [郭台铭：苹果亚马逊已提供资金 协助富士康收购东芝闪存](http://tech.qq.com/a/20170605/020746.htm)
+- [传途家与Airbnb洽谈资本合作](http://tech.qq.com/a/20170605/003014.htm)
+- [2017互联网女皇报告中文完整版](http://tech.qq.com/a/20170601/009038.htm#p=1)
 
 ----
 
