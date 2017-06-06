@@ -49,3 +49,4 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 
 ## 思考
 
+- 今天一早上，醒来之后看到雪球给我推送的WWDC 2017相关消息，才知道今天是苹果开发者大会。看了详细的报道，有点振奋人心，感慨：世界变化太快了，大家都在努力改变这个世界。我要好好加油，去创造价值。 - *June 06, 2017 20:18*
