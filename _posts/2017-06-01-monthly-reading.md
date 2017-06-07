@@ -22,6 +22,7 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 
 ## Life
 
+- [致敬经典｜杰克·特劳特：战略就是定位](https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650080389&idx=1&sn=75258c3961d7b37d90a0963680da4a2a) - 昨天，特劳特先生去世。致敬！
 
 ----
 
