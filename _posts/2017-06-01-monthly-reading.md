@@ -24,6 +24,7 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 
 - [致敬经典｜杰克·特劳特：战略就是定位](https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650080389&idx=1&sn=75258c3961d7b37d90a0963680da4a2a) - 昨天，特劳特先生去世。致敬！
 
+
 ----
 
 ## Future
@@ -51,3 +52,4 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 ## 思考
 
 - 今天一早上，醒来之后看到雪球给我推送的WWDC 2017相关消息，才知道今天是苹果开发者大会。看了详细的报道，有点振奋人心，感慨：世界变化太快了，大家都在努力改变这个世界。我要好好加油，去创造价值。 - *June 06, 2017 20:18*
+- 晚上回来家里，把曲婉婷的歌导入iTunes，并同步到iPhone，也包括了几本audiobook。钰铃回复我的消息。 - June 08, 2017
