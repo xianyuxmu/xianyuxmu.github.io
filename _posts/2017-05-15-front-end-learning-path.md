@@ -26,6 +26,8 @@ image from *[Roadmap to becoming a web developer in 2017](https://github.com/kam
 
 不过，参加工作前还需要通过面试，面试不仅考察基本开发能力，同时还会有笔试。关于**“如何找工作”**，我开了主题放在本文后面讨论。
 
+- **[front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017)** - 前端红宝书
+
 ### 进阶
 
 > 进阶意味着把事情做得出色，而不仅仅是把事情做好。
@@ -133,6 +135,7 @@ image from *[Roadmap to becoming a web developer in 2017](https://github.com/kam
 
 - [开发者手册 - 阮一峰](http://www.ruanyifeng.com/blog/developer/)
 - [Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
+- **[front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017)** - 前端红宝书
 
 ----
 
