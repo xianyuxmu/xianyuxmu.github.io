@@ -23,11 +23,14 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 ## Life
 
 - [致敬经典｜杰克·特劳特：战略就是定位](https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650080389&idx=1&sn=75258c3961d7b37d90a0963680da4a2a) - 昨天，特劳特先生去世。致敬！
+- [english-level-up-tips-for-chinese-programmers-and-designers](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers)
 
 
 ----
 
 ## Future
+
+- [CHICAGO TECH SALARY GUIDE](http://intersog.com/blog/chicago-tech-salary-guide-2015/)
 
 
 ----
@@ -46,6 +49,10 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 
 ## Front End
 
+- [移动H5前端性能优化指南](https://isux.tencent.com/h5-performance.html) - 前端优化
+- [如何理解 Web 语义化？](https://www.zhihu.com/question/20455165)
+	- 所谓语义化，是指**数据的含义**，语义化目的：帮助人、机器等读懂 HTML。
+	- [HTML 5的革新——语义化标签(一)](http://www.html5jscss.com/html5-semantics-section.html)、[HTML 5的革新——语义化标签(二)](http://www.html5jscss.com/html5-semantics-rich.html)
 
 ----
 
