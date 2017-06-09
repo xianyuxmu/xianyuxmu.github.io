@@ -58,7 +58,3 @@ iClock是一个有趣的、有设计感的Wintel桌面时钟，她能够变换�
 
 <center>背景是可以更换的图片，点击右边“love”键切换相册</center>
 
-
-GitHub：https://github.com/xianyuxmu/iClock-Desktop-Clock
-
-在GitHub包括了release 版本的exe(在配有VS 2012开发环境下即可运行)，还包括了源代码！

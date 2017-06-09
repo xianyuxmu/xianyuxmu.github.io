@@ -109,7 +109,3 @@ insert、delete、update、select、group…结构化查询语句一应具全。
 这是一个很小的项目，但当时，我们团队倾尽自己的时间、知识去创造出我们能做到的最好的水准。我们获得了那个小学期的小组全班第二名(80人的班)，我个人获得“最佳代码”荣誉！
 
 ———————————-
-
-我们当时做pre的的课件：http://pan.baidu.com/s/1nt9tw7n
-
-项目GitHub地址：https://github.com/xianyuxmu/Space-Phone-Book
