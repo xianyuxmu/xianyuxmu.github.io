@@ -24,6 +24,7 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 
 - [致敬经典｜杰克·特劳特：战略就是定位](https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650080389&idx=1&sn=75258c3961d7b37d90a0963680da4a2a) - 昨天，特劳特先生去世。致敬！
 - [english-level-up-tips-for-chinese-programmers-and-designers](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers)
+- [《每周工作4小时》读书笔记](https://book.douban.com/review/5197541/) - 有备无患。
 
 
 ----
@@ -31,6 +32,15 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 ## Future
 
 - [CHICAGO TECH SALARY GUIDE](http://intersog.com/blog/chicago-tech-salary-guide-2015/)
+
+## Money
+
+- [三大报表里子都是啥？财务老司机带你唠唠就明白了](http://cj.sina.com.cn/article/detail/2160994315/258844?column=china&ch=9) - 有了强健的骨骼（资产负债表），有力的肌肉（利润表），这个时候最关键的，便是拥有健康的血液———流动的现金流量表。
+- [SAP-FI： 财务借贷 && 三大报表](http://www.jianshu.com/p/e5aff9716d17)
+	- 利润表/ 損益表（Profit and Loss Account）：它反映企業收入、支出及盈利的表現。
+	- 資產負債表（Balance Sheet）：它反映企業資產、負債及資本的期末狀況。
+	- 現金流量表（Cash Flow Statement）：它反映企業現金流量的來龍去脈，當中分為經營活動、投資活動及融資活動三部份。
+	- 股东权益变动表（Statement of Stockholders Equity）
 
 
 ----
@@ -41,6 +51,8 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 - [郭台铭：苹果亚马逊已提供资金 协助富士康收购东芝闪存](http://tech.qq.com/a/20170605/020746.htm)
 - [传途家与Airbnb洽谈资本合作](http://tech.qq.com/a/20170605/003014.htm)
 - [2017互联网女皇报告中文完整版](http://tech.qq.com/a/20170601/009038.htm#p=1)
+- [Whole Foods Market](http://www.wholefoodsmarket.com/)
+
 
 ----
 
