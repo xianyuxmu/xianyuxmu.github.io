@@ -65,6 +65,7 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 - [如何理解 Web 语义化？](https://www.zhihu.com/question/20455165)
 	- 所谓语义化，是指**数据的含义**，语义化目的：帮助人、机器等读懂 HTML。
 	- [HTML 5的革新——语义化标签(一)](http://www.html5jscss.com/html5-semantics-section.html)、[HTML 5的革新——语义化标签(二)](http://www.html5jscss.com/html5-semantics-rich.html)
+- In JavaScript, `undefined` means a variable has been declared but has not yet been assigned a value. `null` is an assignment value. It can be assigned to a variable as a representation of no value.
 
 ----
 
