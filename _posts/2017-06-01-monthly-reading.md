@@ -17,14 +17,14 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 </p>
 </blockquote>
 
-## 产品
-
 
 ## Life
 
 - [致敬经典｜杰克·特劳特：战略就是定位](https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650080389&idx=1&sn=75258c3961d7b37d90a0963680da4a2a) - 昨天，特劳特先生去世。致敬！
 - [english-level-up-tips-for-chinese-programmers-and-designers](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers)
 - [《每周工作4小时》读书笔记](https://book.douban.com/review/5197541/) - 有备无患。
+- [[BONUS] How to Believe in Your Idea Enough to Take the First Step](https://themission.co/bonus-how-to-believe-in-your-idea-enough-to-take-the-first-step-56a93cb0986b)
+	- 足够的自信意味着你踏出了第一步。
 
 
 ----
@@ -32,6 +32,8 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 ## Future
 
 - [CHICAGO TECH SALARY GUIDE](http://intersog.com/blog/chicago-tech-salary-guide-2015/)
+- [技术决定历史](http://www.ruanyifeng.com/blog/2017/05/technology-is-future.html) - 市值前五大的都是科技公司
+
 
 ## Money
 
@@ -52,7 +54,16 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 - [传途家与Airbnb洽谈资本合作](http://tech.qq.com/a/20170605/003014.htm)
 - [2017互联网女皇报告中文完整版](http://tech.qq.com/a/20170601/009038.htm#p=1)
 - [Whole Foods Market](http://www.wholefoodsmarket.com/)
+- [阿里巴巴两年投资210亿美元全球“扫货”](http://news.sina.com.cn/c/2017-06-10/doc-ifyfzhpq6474857.shtml)
+	- 马云在9日亮相的演讲环节中，并不认同风口论。一开始他便直言，“我特别讨厌每个季度向投资者汇报业绩。企业不应该依赖机会，好像抓住机会就能做好，错过机会就要死掉。企业的核心应该是解决问题，让社会能够发展进步，这样的企业才有价值才能做大。”
+- [Amazon is gobbling Whole Foods for $13.7 billion](https://techcrunch.com/2017/06/16/report-amazon-is-gobbling-whole-foods-for-a-reported-13-7-billion/?utm_medium=TCnewsletter)
 
+
+----
+
+## 产品
+
+- [微信之父张小龙：产品经理的必备书单](http://www.cyzone.cn/a/20140513/257583.html)
 
 ----
 
