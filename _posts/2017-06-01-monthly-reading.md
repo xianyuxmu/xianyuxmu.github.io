@@ -23,7 +23,7 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 - [致敬经典｜杰克·特劳特：战略就是定位](https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650080389&idx=1&sn=75258c3961d7b37d90a0963680da4a2a) - 昨天，特劳特先生去世。致敬！
 - [english-level-up-tips-for-chinese-programmers-and-designers](https://github.com/byoungd/english-level-up-tips-for-chinese-programmers-and-designers)
 - [《每周工作4小时》读书笔记](https://book.douban.com/review/5197541/) - 有备无患。
-- [[BONUS] How to Believe in Your Idea Enough to Take the First Step](https://themission.co/bonus-how-to-believe-in-your-idea-enough-to-take-the-first-step-56a93cb0986b)
+- [[BONUS] How to Believe in Your Idea Enough to Take the First Step](https://themission.co/bonus-how-to-believe-in-your-idea-enough-to-take-the-first-step-56a93cb0986b) - youtube: [How to Believe in Your Idea Enough to Take the First Step James Altucher ](https://www.youtube.com/watch?v=c1geQ-UHC1k)
 	- 足够的自信意味着你踏出了第一步。
 
 
