@@ -9,6 +9,11 @@ tags:
 
 ---
 
+## General
+
+- My dad encouraged us to fail. Growing up, he would ask us what we failed at that week. If we didn't have something, he would disappointed. It changed my mindset st an early age that failure is not the outcome, failure is not trying. Don't be afraid to fail. - *Sara Blakely*
+- As soon as I stopped trying to think about a business idea and started focusing on what I'm passionate about, that's when it came to me. - *Nick woodman, Founder of GoPro*
+
 ## Michelangelo
 
 Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
