@@ -11,12 +11,9 @@ tags:
 ---
 
 <blockquote class="blockquote-center">
-<p>FUTURE VISION</p>
-<p>
-I love visions! Visions empower our imaginations, empower our momentum, enlarge our dreams!
-</p>
+<p>在实际购买之前，至少要看过100套房。</p>
+<p>—— The Real Book of Real Estate</p>
 </blockquote>
-
 
 ## Life
 
