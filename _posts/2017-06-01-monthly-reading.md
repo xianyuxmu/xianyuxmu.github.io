@@ -85,3 +85,4 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 
 - 今天一早上，醒来之后看到雪球给我推送的WWDC 2017相关消息，才知道今天是苹果开发者大会。看了详细的报道，有点振奋人心，感慨：世界变化太快了，大家都在努力改变这个世界。我要好好加油，去创造价值。 - *June 06, 2017 20:18*
 - 晚上回来家里，把曲婉婷的歌导入iTunes，并同步到iPhone，也包括了几本audiobook。钰铃回复我的消息。 - June 08, 2017
+- 昨天给伟颖寄送了生日礼物，时间好快，转眼就是一年了。 - 20 June, 2017
