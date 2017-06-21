@@ -43,3 +43,8 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 
 - [How to Believe in Your Idea Enough to Take the First Step](https://themission.co/bonus-how-to-believe-in-your-idea-enough-to-take-the-first-step-56a93cb0986b)
 	- 足够的自信意味着你踏出了第一步。
+
+## Business
+
+- Get to market first. Customers want high-quality products at low prices, and they want them now. - ***Business@The Speed of Thought***, by Bill Gates
+- Leaders shouldn't try to make every decision. - ***Business@The Speed of Thought***, by Bill Gates
