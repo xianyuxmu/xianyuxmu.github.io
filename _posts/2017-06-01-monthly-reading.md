@@ -33,6 +33,7 @@ tags:
 - [技术决定历史](http://www.ruanyifeng.com/blog/2017/05/technology-is-future.html) - 市值前五大的都是科技公司
 - [Apple just created, and killed, a generation of AR businesses](https://techcrunch.com/2017/06/19/apple-just-created-and-killed-a-generation-of-ar-businesses/?utm_medium=TCnewsletter) - 未来是一个AR的世界。在增强现实之下，未来我们的生活的每个细节都将被增强现实覆盖。举例：在任何一个地方，拿起手机，摄像头中就可以看到环境中出现很多被摆放得东西。AR World，put an AR on it! Related: [Modsy - Try On Furniture in Your 3D Home](https://www.modsy.com/)
 - [Google releases new TensorFlow Object Detection API](https://techcrunch.com/2017/06/16/object-detection-api/?ncid=tcdaily&utm_medium=TCnewsletter) - 未来的AI将是开放的，基础能力将开放给所有人，更高端的功能会收费。
+- [In Detroit, Jack Ma called counterfeit goods the “cancer” of Alibaba](https://qz.com/1010934/in-detroit-jack-ma-called-counterfeit-goods-the-cancer-of-alibaba/)
 
 
 ## Money
