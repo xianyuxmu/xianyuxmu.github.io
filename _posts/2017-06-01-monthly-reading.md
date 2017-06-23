@@ -22,6 +22,7 @@ tags:
 - [《每周工作4小时》读书笔记](https://book.douban.com/review/5197541/) - 有备无患。
 - [[BONUS] How to Believe in Your Idea Enough to Take the First Step](https://themission.co/bonus-how-to-believe-in-your-idea-enough-to-take-the-first-step-56a93cb0986b) - youtube: [How to Believe in Your Idea Enough to Take the First Step James Altucher ](https://www.youtube.com/watch?v=c1geQ-UHC1k)
 	- 足够的自信意味着你踏出了第一步。
+- [对话王兴：太多人关注边界，而不关注核心](https://www.sohu.com/a/150707340_118792)
 
 
 ----
