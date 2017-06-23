@@ -30,6 +30,8 @@ tags:
 
 - [CHICAGO TECH SALARY GUIDE](http://intersog.com/blog/chicago-tech-salary-guide-2015/)
 - [技术决定历史](http://www.ruanyifeng.com/blog/2017/05/technology-is-future.html) - 市值前五大的都是科技公司
+- [Apple just created, and killed, a generation of AR businesses](https://techcrunch.com/2017/06/19/apple-just-created-and-killed-a-generation-of-ar-businesses/?utm_medium=TCnewsletter) - 未来是一个AR的世界。在增强现实之下，未来我们的生活的每个细节都将被增强现实覆盖。举例：在任何一个地方，拿起手机，摄像头中就可以看到环境中出现很多被摆放得东西。AR World，put an AR on it! Related: [Modsy - Try On Furniture in Your 3D Home](https://www.modsy.com/)
+- [Google releases new TensorFlow Object Detection API](https://techcrunch.com/2017/06/16/object-detection-api/?ncid=tcdaily&utm_medium=TCnewsletter) - 未来的AI将是开放的，基础能力将开放给所有人，更高端的功能会收费。
 
 
 ## Money
@@ -66,6 +68,9 @@ tags:
 
 ## Tech
 
+- [2017年DevOps报告新鲜出炉](https://mp.weixin.qq.com/s?__biz=MzI4MjE3MTcwNA==&mid=2664335760&idx=1&sn=4dce96c383233a519240a3f5fbe4e475)
+- [Medium网站的技术栈](http://www.infoq.com/cn/news/2017/06/medium-technology-stack)
+
 
 ## Front End
 
@@ -82,4 +87,3 @@ tags:
 
 - 今天一早上，醒来之后看到雪球给我推送的WWDC 2017相关消息，才知道今天是苹果开发者大会。看了详细的报道，有点振奋人心，感慨：世界变化太快了，大家都在努力改变这个世界。我要好好加油，去创造价值。 - *June 06, 2017 20:18*
 - 晚上回来家里，把曲婉婷的歌导入iTunes，并同步到iPhone，也包括了几本audiobook。钰铃回复我的消息。 - June 08, 2017
-- 昨天给伟颖寄送了生日礼物，时间好快，转眼就是一年了。 - 20 June, 2017
