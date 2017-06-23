@@ -18,6 +18,9 @@ tags:
 	- “如果发出声音是危险的，那就保持沉默；如果自觉无力发光，那就别去照亮别人。但是，不要习惯了黑暗就为黑暗辩护；不要为自己的苟且而得意洋洋； 不要嘲讽那些比自己更勇敢、更有热量的人们。可以卑微如尘土，不可扭曲如蛆虫。”—— 曼德拉
 	- 姑娘，去做不擅长的事情，去做你害怕的事情，这样你才会有所突破。你总是想着安逸地呆在自己的安全区内，你当然永远也走不出去。 - 豆瓣网友
 - ***Most Want to Change. Few Do.*** Real Change Requires Purpose.
+- Action is the proper fruit of knowledge. ― *Thomas Fuller*
+- Knowledge is a treasure but practice is the key to it.  — *Thomas Fuller, Clergyman*
+	- 「学识是宝藏，但实践才是打开它的钥匙。」– 汤玛斯‧富勒
 
 ## Michelangelo
 
