@@ -21,6 +21,7 @@ tags:
 - Action is the proper fruit of knowledge. ― *Thomas Fuller*
 - Knowledge is a treasure but practice is the key to it.  — *Thomas Fuller, Clergyman*
 	- 「学识是宝藏，但实践才是打开它的钥匙。」– 汤玛斯‧富勒
+- 人生有些快乐的时光，一定要写下来并且牢牢记住它们。年轻时我们要敢于冒险，要去追去那最疯狂的梦想。 - Robin's review on 《从零到百亿》
 
 ## Michelangelo
 
