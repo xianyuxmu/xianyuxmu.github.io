@@ -35,6 +35,7 @@ tags:
 - [Google releases new TensorFlow Object Detection API](https://techcrunch.com/2017/06/16/object-detection-api/?ncid=tcdaily&utm_medium=TCnewsletter) - 未来的AI将是开放的，基础能力将开放给所有人，更高端的功能会收费。
 - [In Detroit, Jack Ma called counterfeit goods the “cancer” of Alibaba](https://qz.com/1010934/in-detroit-jack-ma-called-counterfeit-goods-the-cancer-of-alibaba/)
 - [Jack Ma: World leaders must make 'hard choices' or the next 30 years will be painful](http://www.cnbc.com/2017/06/21/alibabas-jack-ma-says-people-will-work-four-hours-a-day-in-30-years.html)
+- [谈谈苹果的AI战略](http://www.infoq.com/cn/news/2017/06/Talk-Apple-AI-strategy)
 
 
 ## Money
@@ -73,6 +74,8 @@ tags:
 
 - [2017年DevOps报告新鲜出炉](https://mp.weixin.qq.com/s?__biz=MzI4MjE3MTcwNA==&mid=2664335760&idx=1&sn=4dce96c383233a519240a3f5fbe4e475)
 - [Medium网站的技术栈](http://www.infoq.com/cn/news/2017/06/medium-technology-stack)
+- [京东商城交易平台的高可用架构之路](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659599350&idx=1&sn=bf189b08fbc5e9b6ab7031893113a13a)
+- [来自Datadog的Docker全球使用调查报告](http://www.infoq.com/cn/news/2017/06/Docker-global-survey-Datadog)
 
 
 ## Front End
