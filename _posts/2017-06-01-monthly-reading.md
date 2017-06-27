@@ -24,6 +24,7 @@ tags:
 	- 足够的自信意味着你踏出了第一步。
 - [对话王兴：太多人关注边界，而不关注核心](https://www.sohu.com/a/150707340_118792)
 - [Magical Europe](https://vimeo.com/92179785)
+- [山高路远，江湖再见！](https://mp.weixin.qq.com/s/hp-PiBAtfZhtPuXWTE31LQ)
 
 
 ----
