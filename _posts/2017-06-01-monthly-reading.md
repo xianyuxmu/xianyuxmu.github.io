@@ -97,3 +97,4 @@ tags:
 
 - 今天一早上，醒来之后看到雪球给我推送的WWDC 2017相关消息，才知道今天是苹果开发者大会。看了详细的报道，有点振奋人心，感慨：世界变化太快了，大家都在努力改变这个世界。我要好好加油，去创造价值。 - *June 06, 2017 20:18*
 - 晚上回来家里，把曲婉婷的歌导入iTunes，并同步到iPhone，也包括了几本audiobook。钰铃回复我的消息。 - June 08, 2017
+- 这个世界牛逼的人很多，什么会是你的优势。 - 今天看[All About That Bass - Postmodern Jukebox European Tour Version](https://www.youtube.com/watch?v=aLnZ1NQm2uk)、[Hermes Music A wonderful version of All Of Me by The Don Live in](https://www.youtube.com/watch?v=R_obmEaNGNQ)，感慨到每个人要建立起什么样的优势。每个人要实现的价值不同，我们一生中可以创造很多的价值，而什么是我们最应该创造的价值。
