@@ -25,6 +25,7 @@ tags:
 - [对话王兴：太多人关注边界，而不关注核心](https://www.sohu.com/a/150707340_118792)
 - [Magical Europe](https://vimeo.com/92179785)
 - [山高路远，江湖再见！](https://mp.weixin.qq.com/s/hp-PiBAtfZhtPuXWTE31LQ)
+- [三大报表的关系，面试经常被问到。](https://www.douban.com/group/topic/27556804/)
 
 
 ----
