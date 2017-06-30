@@ -64,6 +64,7 @@ tags:
 	- 马云在9日亮相的演讲环节中，并不认同风口论。一开始他便直言，“我特别讨厌每个季度向投资者汇报业绩。企业不应该依赖机会，好像抓住机会就能做好，错过机会就要死掉。企业的核心应该是解决问题，让社会能够发展进步，这样的企业才有价值才能做大。”
 - [Amazon is gobbling Whole Foods for $13.7 billion](https://techcrunch.com/2017/06/16/report-amazon-is-gobbling-whole-foods-for-a-reported-13-7-billion/?utm_medium=TCnewsletter)
 - [美国加州旅游网](http://www.visitcalifornia.com/)
+- [腾讯的新生存土壤：科技创新驱动下的粤港澳大湾区](http://www.sohu.com/a/151044194_115929)
 
 
 ----
