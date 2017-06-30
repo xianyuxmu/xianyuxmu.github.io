@@ -22,6 +22,10 @@ tags:
 - Knowledge is a treasure but practice is the key to it.  — *Thomas Fuller, Clergyman*
 	- 「学识是宝藏，但实践才是打开它的钥匙。」– 汤玛斯‧富勒
 - 人生有些快乐的时光，一定要写下来并且牢牢记住它们。年轻时我们要敢于冒险，要去追去那最疯狂的梦想。 - Robin's review on 《从零到百亿》
+- “Coming up with an idea is the least important part of creating something great. It has to be the right idea and have good taste, but the execution and delivery are what’s key.” – *Sergey Brin, Google Co-Founder*
+- “Champions have the courage to keep turning the pages because they know a better chapter lies ahead.” - *Paula White, Pastor*
+	- 「冠军有不断翻页的勇气，因为他们知道下一个章节会更好。」– 宝拉·怀特 (牧师)
+- “There are no limitations to what you can do, have, or be except the limitations you place on yourself by your own thinking.” - *Brian Tracy, Motivational Coach*
 
 ## Michelangelo
 
