@@ -137,6 +137,10 @@ image from *[Roadmap to becoming a web developer in 2017](https://github.com/kam
 - [Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
 - **[front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017)** - 前端红宝书
 
+### 学习资源
+
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome#books) - 😎 Curated list of awesome lists
+
 ----
 
 Robin on May 17, 2017
