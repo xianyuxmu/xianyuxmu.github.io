@@ -27,6 +27,12 @@ tags:
 	- 「冠军有不断翻页的勇气，因为他们知道下一个章节会更好。」– 宝拉·怀特 (牧师)
 - “There are no limitations to what you can do, have, or be except the limitations you place on yourself by your own thinking.” - *Brian Tracy, Motivational Coach*
 - "When one must, one can." – *Charlotte Whitton, Feminist*
+	- 「当一个人必须做某件事，他就可以达成。」– 夏洛特·惠顿 (女权主义者)
+- “Only someone who is well-prepared has the opportunity to improvise.” – *Ingmar Bergman, Director*
+	- 「只有準備充份的人能夠即席表演。」– 英格瑪·柏格曼 (導演)
+- “I will prepare, and someday my chance will come.” - *Abraham Lincoln, 16th President of the United States*
+	- 「我将准备，而有一天我的机会将会来临。」– 亚伯拉罕‧林肯 (美国第 16 任总统)
+
 
 ## Michelangelo
 
