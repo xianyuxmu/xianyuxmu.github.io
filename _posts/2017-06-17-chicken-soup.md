@@ -26,6 +26,7 @@ tags:
 - “Champions have the courage to keep turning the pages because they know a better chapter lies ahead.” - *Paula White, Pastor*
 	- 「冠军有不断翻页的勇气，因为他们知道下一个章节会更好。」– 宝拉·怀特 (牧师)
 - “There are no limitations to what you can do, have, or be except the limitations you place on yourself by your own thinking.” - *Brian Tracy, Motivational Coach*
+- "When one must, one can." – *Charlotte Whitton, Feminist*
 
 ## Michelangelo
 
