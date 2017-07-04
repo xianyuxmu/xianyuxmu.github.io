@@ -32,6 +32,7 @@ tags:
 	- 「只有準備充份的人能夠即席表演。」– 英格瑪·柏格曼 (導演)
 - “I will prepare, and someday my chance will come.” - *Abraham Lincoln, 16th President of the United States*
 	- 「我将准备，而有一天我的机会将会来临。」– 亚伯拉罕‧林肯 (美国第 16 任总统)
+- 美丽背后，必有某种努力。 
 
 
 ## Michelangelo
