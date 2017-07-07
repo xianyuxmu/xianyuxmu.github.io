@@ -18,6 +18,7 @@ tags:
 ## Life
 
 - [Good Add Up - Facebook](https://www.facebook.com/goodaddsup)
+- [苹果庆祝美国国家公园日 Apple Watch 又有新徽章了](http://www.cnbeta.com/articles/tech/627511.htm) - 让推广Apple Pay变得更有意义。
 
 
 ----
