@@ -33,6 +33,9 @@ tags:
 - “I will prepare, and someday my chance will come.” - *Abraham Lincoln, 16th President of the United States*
 	- 「我将准备，而有一天我的机会将会来临。」– 亚伯拉罕‧林肯 (美国第 16 任总统)
 - 美丽背后，必有某种努力。 
+- 「成功的婚姻需要和同一個人多次墮入愛河。」– 米格恩·麥克勞琳 (作家)
+- “Growth and comfort do not coexist” — Ginni Rometty
+- 承诺恐怕只有听的人会记得。 - 来自 2017年07月07日某个同事的头像。
 
 
 ## Michelangelo
