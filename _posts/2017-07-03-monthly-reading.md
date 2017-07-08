@@ -40,6 +40,8 @@ tags:
 - [Facebook now has 2 billion monthly users… and responsibility](https://techcrunch.com/2017/06/27/facebook-2-billion-users/)
 - [无人便利店成资本新宠](http://finance.sina.com.cn/roll/2017-06-27/doc-ifyhmpew3674293.shtml) - 不管是Amazon Go还是国内的缤果盒子、[F5未来商店](https://www.f5-store.com/)，都还没有达到可以规模推广扩张的地步。
 	- [阿里挖来亚马逊最高级别华人科学家，曾主导Amazon Go算法](http://36kr.com/p/5081085.html) - 阿里也在布局未来的商店。
+- [《爆品战略》一张图看懂爆品三大法则](http://www.jianshu.com/p/978ef0a77c5f)
+- [《长尾理论》数字化带来的天翻地覆](http://www.jianshu.com/p/d498381a38af)
 
 
 ----
