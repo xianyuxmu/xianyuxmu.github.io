@@ -58,6 +58,8 @@ tags:
 - [静下心来想想，为什么领域模型对于架构师如此重要？](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659599364&idx=1&sn=af9d1f51847665d64ccad086ced519a7)
 - 无服务器的令人兴奋之处不是针对主流企业IT来说的，而是针对印度和中国的下一代初创企业。
 - [美团点评酒旅前端的技术体系](https://zhuanlan.zhihu.com/p/23976121)
+- [How do I use node's REPL?](https://docs.nodejitsu.com/articles/REPL/how-to-use-nodejs-repl/) - Node.js ships with a REPL, which is short for 'Read-Eval-Print Loop'. It is the Node.js shell; any valid Javascript which can be written in a script can be passed to the REPL. It can be extremely useful for experimenting with node.js, debugging code, and figuring out some of Javascript's more eccentric behaviors.
+- [docker容器内网络请求缓慢问题解决](http://blog.csdn.net/embbnux/article/details/52771097)
 
 
 ----

@@ -36,6 +36,8 @@ tags:
 - 「成功的婚姻需要和同一個人多次墮入愛河。」– 米格恩·麥克勞琳 (作家)
 - “Growth and comfort do not coexist” — Ginni Rometty
 - 承诺恐怕只有听的人会记得。 - 来自 2017年07月07日某个同事的头像。
+- Mama always said: Life Is Like A Box Of Chocolates. You never know what you're gonna get. - *Forrest Gump*
+- Take your models to reality. - *Law of Attraction Coaching*
 
 
 ## Michelangelo
