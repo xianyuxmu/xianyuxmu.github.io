@@ -26,7 +26,7 @@ React 官方提供的性能优化建议已经写得很好了，请查看：[Opti
 - 使用纯组件 `React.PureComponent`，纯组件 `shouldComponentUpdate()` 方法的实现为“浅比较(shallow prop and state comparison)”，意味着引用类型的值在其属性改变而本身引用不变时，不会重绘。
 - 保持数组中各个元素的每个 `key` 独立，避免数组中各个元素的 `key` 相互影响。
 
-	* > Keys help React identify which items have changed, are added, or are removed. ***Keys should be given to the elements inside the array*** to give the elements a stable identity. Keys only make sense in the context of the surrounding array. More Info: [in-depth explanation about why keys are necessary](https://facebook.github.io/react/docs/reconciliation.html#recursing-on-children)、[Keyed Fragments](Keyed Fragments).
+	* > Keys help React identify which items have changed, are added, or are removed. ***Keys should be given to the elements inside the array*** to give the elements a stable identity. Keys only make sense in the context of the surrounding array. More Info: [in-depth explanation about why keys are necessary](https://facebook.github.io/react/docs/reconciliation.html#recursing-on-children)、[Keyed Fragments](https://facebook.github.io/react/docs/create-fragment.html).
 - 避免其他的组件间数据的相互影响。比如父组件在重绘时会引起子组件的重绘，而有的子组件并不需要重绘。这种情况下可以在子组件的 `shouldComponentUpdate()` 对比一下 `this.props` 和 `nextProps`。
 
 ----
