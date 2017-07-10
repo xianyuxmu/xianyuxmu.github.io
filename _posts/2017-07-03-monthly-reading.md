@@ -42,6 +42,11 @@ tags:
 	- [阿里挖来亚马逊最高级别华人科学家，曾主导Amazon Go算法](http://36kr.com/p/5081085.html) - 阿里也在布局未来的商店。
 - [《爆品战略》一张图看懂爆品三大法则](http://www.jianshu.com/p/978ef0a77c5f)
 - [《长尾理论》数字化带来的天翻地覆](http://www.jianshu.com/p/d498381a38af)
+- [看好新零售前景德银上调阿里巴巴目标价至201美元](http://blog.sina.com.cn/s/blog_4a78b4ee0102xcyq.html?tj=fina)
+- [Lex专栏：阿里巴巴为何加大押注东南亚？](http://www.ftchinese.com/story/001073226)
+- [Alibaba is selling US e-commerce site 11 Main just a year after it opened](https://qz.com/434600/alibaba-has-closed-down-11-main-its-us-based-amazon-competitor-one-year-after-launch/) - 阿里在美国的 11 Main
+- [中国千禧一代：快消品网购生力军](http://www.ftchinese.com/story/001069988?tcode=smartrecommend&ulu-rcmd=1_02ap_ap_0_5b9b4661d18141f59ac80036b67e9d3f&position=instory) - 一项研究发现，约4.15亿中国千禧一代通过手机购买日常用品，使得中国快速消费品在线销售的增速达到了美国的7倍.
+- [偏爱外国货的中国人](http://www.ftchinese.com/story/001053069?tcode=smartrecommend&ulu-rcmd=1_02ap_ap_8_8851dea93da8435ab585141a3772d31d) - 如果中国能像邻国一样，发展出像韩国三星(Samsung)或者日本丰田(Toyota)那样的大品牌，就不仅可以打开国内13.5亿人的市场，同时还能进入全球数十亿人的市场。***如果中国不能打造出或者收购此类品牌，那么在未来的几十年中，中国持续多年的贸易顺差就有转为逆差的风险，而这并不是中国经济再平衡战略——向消费驱动型转变——的本意。***
 
 
 ----
