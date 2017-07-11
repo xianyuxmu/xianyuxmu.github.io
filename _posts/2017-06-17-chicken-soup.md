@@ -34,10 +34,14 @@ tags:
 	- 「我将准备，而有一天我的机会将会来临。」– 亚伯拉罕‧林肯 (美国第 16 任总统)
 - 美丽背后，必有某种努力。 
 - 「成功的婚姻需要和同一個人多次墮入愛河。」– 米格恩·麥克勞琳 (作家)
-- “Growth and comfort do not coexist” — Ginni Rometty
+- ***“Growth and comfort do not coexist”*** — Ginni Rometty
 - 承诺恐怕只有听的人会记得。 - 来自 2017年07月07日某个同事的头像。
 - Mama always said: Life Is Like A Box Of Chocolates. You never know what you're gonna get. - *Forrest Gump*
 - Take your models to reality. - *Law of Attraction Coaching*
+- “As long as you’re going to be thinking anyway, think big.” — *Donald Trump, Real Estate Magnate*
+	- 「既然你无论如何都要想，想大的。」– 唐纳‧川普
+- “Most people have to get to a point where they don’t have a choice before they’ll change something.” – *Serena Mackesy, Writer*
+	- 「大部份的人必須等到沒有其它選擇才會做出改變。」– 瑟琳娜‧麥卡鍚 (作家)
 
 
 ## Michelangelo
@@ -58,6 +62,9 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- 细节成就完美，完美不是细节。
 - What do you despise? By this you are truly known.
 	- 你会鄙视已知的，对未知的充满期待。
+- 此刻的你、此刻的热情
+	- **激情有一天会消失，永远不要浪费此刻的热情。**
+	- 知其过去，方知未来。
 
 
 ## Medium
