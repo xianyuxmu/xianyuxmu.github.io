@@ -65,6 +65,10 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - 此刻的你、此刻的热情
 	- **激情有一天会消失，永远不要浪费此刻的热情。**
 	- 知其过去，方知未来。
+- **“FASHION FADES, ONLY STYLE REMAINS THE SAME.”** - *Coco Chanel*
+	- 流行易逝，风格永存。
+	- Mode passes, style remains.
+	- La mode passe, le style reste.
 
 
 ## Medium
