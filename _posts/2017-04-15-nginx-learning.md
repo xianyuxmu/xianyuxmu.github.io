@@ -258,6 +258,52 @@ upstream myapp1 {
 
 另外，Nginx 还支持负载均衡的服务器的健康检查配置。
 
+#### SSL配置
+
+```
+server {
+    # 默认情况下HTTPS监听443端口
+    listen  443 ssl;
+    server_name  localhost;
+    root  /var/www/;
+    # 下面这些都是配置SSL需要的
+    ssl on;
+    # 下面两个字段需要的crt利用openssl生成，具体可以看[这里](http://nginx.org/en/docs/http/configuring_https_servers.html)
+    ssl_certificate ssl/localhost.crt;
+    ssl_certificate_key ssl/localhost.key;
+    ssl_session_timeout 10m;
+    ssl_protocols SSLv2 SSLv3 TLSv1;
+    ssl_ciphers HIGH:!aNULL:!MD5;
+    ssl_prefer_server_ciphers on;
+    location = /info {
+        allow 127.0.0.1;
+        deny all;
+        rewrite (.*) /info.php;
+    }
+    location /phpmyadmin/ {
+        root /usr/local/share/phpmyadmin;
+        index index.php index.html index.htm;
+    }
+    location / {
+        include /usr/local/etc/nginx/conf.d/php-fpm;
+    }
+    error_page 403 /403.html;
+    error_page 404 /404.html;
+}
+```
+
+#### 限制访问
+
+```
+# 当匹配到/info的时候只允许10.7.101.224访问，其它的全部限制
+# 同时改写为/info.php
+location = /info {
+    allow 10.7.101.224;
+    deny all;
+    rewrite (.*) /info.php
+}
+```
+
 
 ## Nginx 处理请求过程
 
@@ -304,6 +350,9 @@ from [Inside NGINX: How We Designed for Performance & Scale](https://www.nginx.c
 - [Inside NGINX: How We Designed for Performance & Scale](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
 - [The Architecture of Open Source Applications (Volume 2): nginx](http://www.aosabook.org/en/nginx.html)
 - [lua-nginx-module](https://github.com/openresty/lua-nginx-module)
+- [前端工程师应该知道的Nginx](https://www.arayzou.com/2016/09/20/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%84nginx/)
+- [前端工程师学习Nginx入门篇](http://cnt1992.github.io/2016/03/18/simple-intro-to-nginx/) - 注解还不错
+- [前端er该知道的一些关于Nginx的事](https://github.com/future-team/blog/blob/master/source/_posts/genffy/fe-developer-should-know-somethings-about-nginx.md) - 上海点评团队
 
 ----
 
