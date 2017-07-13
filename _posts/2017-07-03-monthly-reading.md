@@ -36,6 +36,8 @@ tags:
 - [Inside Station F, the startup megacampus that just opened in Paris](https://techcrunch.com/2017/07/08/inside-station-f-the-startup-megacampus-that-just-opened-in-paris) - 未来的国际分工、合作会加剧，学好英文变得尤其重要，有了世界语言才能更好地与世界接轨。
 - [‘Chinafrica’ is a macro megatrend set to impact everything from Silicon Valley to Wall Street](https://techcrunch.com/2017/07/07/chinafrica-is-a-macro-megatrend-set-to-impact-everything-from-silicon-valley-to-wall-street/)
 - [50 Smartest Companies 2017](https://www.technologyreview.com/lists/companies/2017/)
+- [马云：不只是"五新" 阿里巴巴还要做到"五个全球"](http://news.xinhuanet.com/fortune/2017-07/11/c_129652788.htm) - 阿里巴巴要做到“五个全球”，即全球买、全球卖，全球付、全球运、全球游。阿里巴巴想做五件事情，帮助中小企业、帮助年轻人、帮助女性，实现这“五个全球”。
+- [刘强东没说大话，百万京东便利店项目推出一大杀器](http://www.sohu.com/a/155468174_122441)
 
 
 ----
@@ -62,6 +64,7 @@ tags:
 - [腾讯最隐秘的二号人物刘炽平，和他打过的那些仗](https://www.sohu.com/a/153293194_114778)
 - [百度总裁陆奇：AI革命的核心是知识革命](http://news.xinhuanet.com/fortune/2017-07/05/c_1121267720.htm) - *目前，AI领域的机会非常多，但AI开发壁垒还很高，陆奇表示，百度要为每一位AI开发者破除障碍、创造机会，提供工具、数据、基础设施，以及良好的开发环境。*
 - [Microsoft confirms layoff reports, reorganization expected to impact thousands](https://techcrunch.com/2017/07/06/microsoft-confirms-layoff-reports-reorganization-expected-to-impact-thousands/) - LAYOFF!
+- [Amazon’s Prime Day was the biggest sales day in its history, up 60% on 2016 led by the Echo](https://techcrunch.com/2017/07/12/amazons-prime-day-was-the-biggest-sales-day-in-its-history-up-60-on-2016-led-by-the-echo/)
 
 
 ----
