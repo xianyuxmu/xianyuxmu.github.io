@@ -69,6 +69,7 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- 流行易逝，风格永存。
 	- Mode passes, style remains.
 	- La mode passe, le style reste.
+- 「所有的計畫都是先列出要做的事，再決定優先順序。」– 亞倫‧拉凱恩 (時間管理作家)
 
 
 ## Medium
