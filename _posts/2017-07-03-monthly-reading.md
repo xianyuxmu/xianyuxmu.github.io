@@ -19,6 +19,7 @@ tags:
 
 - [Good Add Up - Facebook](https://www.facebook.com/goodaddsup)
 - [苹果庆祝美国国家公园日 Apple Watch 又有新徽章了](http://www.cnbeta.com/articles/tech/627511.htm) - 让推广Apple Pay变得更有意义。
+- [囚徒困境](https://zh.wikipedia.org/wiki/%E5%9B%9A%E5%BE%92%E5%9B%B0%E5%A2%83)
 
 
 ----
@@ -87,6 +88,7 @@ tags:
 - Apple Core ML - 将机器学习能力开放给每个开发者使用是关键。Apple并不能将机器学习应用到任何地方，但通过开发者就可以把机器学习应用到更多的场景中.
 - [Google CLOUD VISION API](https://cloud.google.com/vision/) - [Cloud Machine Learning Perception services updates: Cloud Video Intelligence enters beta and Cloud Vision gets new features](https://cloud.google.com/blog/big-data/2017/06/cloud-machine-learning-perception-services-updates-cloud-video-intelligence-enters-beta-and-cloud-vision-gets-new-features)
 - [***What we learned at VueConf***](https://vuejsfeed.com/blog/what-we-learned-at-vueconf)
+- [百度陆奇最新内部演讲：如何成为一个优秀的工程师？](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486666&idx=1&sn=e5038ef1027c28db3aab3d7ce8bf0471)
 
 
 ----
