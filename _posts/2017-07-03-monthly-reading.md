@@ -38,7 +38,8 @@ tags:
 - [‘Chinafrica’ is a macro megatrend set to impact everything from Silicon Valley to Wall Street](https://techcrunch.com/2017/07/07/chinafrica-is-a-macro-megatrend-set-to-impact-everything-from-silicon-valley-to-wall-street/)
 - [50 Smartest Companies 2017](https://www.technologyreview.com/lists/companies/2017/)
 - [马云：不只是"五新" 阿里巴巴还要做到"五个全球"](http://news.xinhuanet.com/fortune/2017-07/11/c_129652788.htm) - 阿里巴巴要做到“五个全球”，即全球买、全球卖，全球付、全球运、全球游。阿里巴巴想做五件事情，帮助中小企业、帮助年轻人、帮助女性，实现这“五个全球”。
-- [刘强东没说大话，百万京东便利店项目推出一大杀器](http://www.sohu.com/a/155468174_122441)
+- [京东便利店](http://www.sohu.com/a/155468174_122441)
+	- [京东新通路事业部是怎么一回事儿？](https://www.zhihu.com/question/39624776)
 
 
 ----
