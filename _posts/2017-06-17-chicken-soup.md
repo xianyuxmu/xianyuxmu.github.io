@@ -42,6 +42,10 @@ tags:
 	- 「既然你无论如何都要想，想大的。」– 唐纳‧川普
 - “Most people have to get to a point where they don’t have a choice before they’ll change something.” – *Serena Mackesy, Writer*
 	- 「大部份的人必須等到沒有其它選擇才會做出改變。」– 瑟琳娜‧麥卡鍚 (作家)
+	- 预知变化，提早行动。
+- “Circumstances may cause interruptions and delays, but never lose sight of your goal.” – *Mario Andretti, Race Car Driver*
+	- 「環境因素或許會帶來干擾或耽擱，但別讓你的目標從視線離開。」– 馬里奧‧安德烈蒂 (賽車手)
+
 
 
 ## Michelangelo
