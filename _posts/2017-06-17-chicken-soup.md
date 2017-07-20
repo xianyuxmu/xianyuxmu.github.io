@@ -45,7 +45,15 @@ tags:
 	- 预知变化，提早行动。
 - “Circumstances may cause interruptions and delays, but never lose sight of your goal.” – *Mario Andretti, Race Car Driver*
 	- 「環境因素或許會帶來干擾或耽擱，但別讓你的目標從視線離開。」– 馬里奧‧安德烈蒂 (賽車手)
-
+- 此刻的你、此刻的热情
+	- **激情有一天会消失，永远不要浪费此刻的热情。**
+	- 知其过去，方知未来。
+- **“FASHION FADES, ONLY STYLE REMAINS THE SAME.”** - *Coco Chanel*
+	- 流行易逝，风格永存。
+	- Mode passes, style remains.
+	- La mode passe, le style reste.
+- 「所有的計畫都是先列出要做的事，再決定優先順序。」– 亞倫‧拉凱恩 (時間管理作家)
+- 通常人们失去朋友不是因为拒绝借钱嘛，而是因为借了钱。 - 叔本华
 
 
 ## Michelangelo
@@ -66,15 +74,6 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- 细节成就完美，完美不是细节。
 - What do you despise? By this you are truly known.
 	- 你会鄙视已知的，对未知的充满期待。
-- 此刻的你、此刻的热情
-	- **激情有一天会消失，永远不要浪费此刻的热情。**
-	- 知其过去，方知未来。
-- **“FASHION FADES, ONLY STYLE REMAINS THE SAME.”** - *Coco Chanel*
-	- 流行易逝，风格永存。
-	- Mode passes, style remains.
-	- La mode passe, le style reste.
-- 「所有的計畫都是先列出要做的事，再決定優先順序。」– 亞倫‧拉凱恩 (時間管理作家)
-- 通常人们失去朋友不是因为拒绝借钱嘛，而是因为借了钱。 - 叔本华
 
 
 ## Medium
