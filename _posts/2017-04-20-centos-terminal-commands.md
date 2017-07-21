@@ -90,6 +90,15 @@ A pipeline is a sequence of one or more commands separated by the control operat
 
 `[!] command1 [ | command2 ...]`, command1 命令的结果会被传到 command2 中。
 
+### 文件链接命令 ln
+
+ln命令是Linux中一个非常重要命令，它的功能是为某一个文件在另外一个位置建立一个同步的链接。
+
+Linux文件系统中，有所谓的链接(link)，我们可以将其视为档案的别名，而链接又可分为两种 : 硬链接(hard link)与软链接(symbolic link)，硬链接的意思是一个档案可以有多个名称，而软链接的方式则是产生一个特殊的档案，该档案的内容是指向另一个档案的位置。硬链接是存在同一个文件系统中，而软链接却可以跨越不同的文件系统。
+
+- 硬连接: `ln TARGET LINK_NAME`
+- 软链接: `ln -s TARGET LINK_NAME`
+
 
 
 ----
