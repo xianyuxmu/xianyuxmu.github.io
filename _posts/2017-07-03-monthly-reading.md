@@ -20,6 +20,7 @@ tags:
 - [Good Add Up - Facebook](https://www.facebook.com/goodaddsup)
 - [苹果庆祝美国国家公园日 Apple Watch 又有新徽章了](http://www.cnbeta.com/articles/tech/627511.htm) - 让推广Apple Pay变得更有意义。
 - [囚徒困境](https://zh.wikipedia.org/wiki/%E5%9B%9A%E5%BE%92%E5%9B%B0%E5%A2%83)
+- [孙宏斌](https://baike.baidu.com/item/%E5%AD%99%E5%AE%8F%E6%96%8C/10345181) - 彪悍的人生
 
 
 ----
@@ -43,6 +44,8 @@ tags:
 - [GOOGLE GLASS 2.0 IS A STARTLING SECOND ACT](https://www.wired.com/story/google-glass-2-is-here/)
 	- [WE'VE ALL BEEN BUSY](http://www.x.company/glass/)
 	- [Smart Glass Transforms Doctor’s Office Visits, Improves Satisfaction](http://annualreport2015.sutterhealth.org/project/smart-glass/)
+- 未来的销售：故事性、文案性销售，掌握渠道(粉丝)、如何生产内容变得越来越关键
+	- [Amazon launches Spark, a shoppable feed of stories and photos aimed at Prime members](https://techcrunch.com/2017/07/18/amazon-launches-spark-a-shoppable-feed-of-stories-and-photos-aimed-at-prime-members/)
 
 
 ----
@@ -93,6 +96,9 @@ tags:
 - [Google CLOUD VISION API](https://cloud.google.com/vision/) - [Cloud Machine Learning Perception services updates: Cloud Video Intelligence enters beta and Cloud Vision gets new features](https://cloud.google.com/blog/big-data/2017/06/cloud-machine-learning-perception-services-updates-cloud-video-intelligence-enters-beta-and-cloud-vision-gets-new-features)
 - [***What we learned at VueConf***](https://vuejsfeed.com/blog/what-we-learned-at-vueconf)
 - [百度陆奇最新内部演讲：如何成为一个优秀的工程师？](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486666&idx=1&sn=e5038ef1027c28db3aab3d7ce8bf0471)
+- [你是如何搭建 Web 前端性能监控系统的？](https://www.zhihu.com/question/37585246)
+	- [NY Web Perf Meetup: Peeling the Web Performance Onion](https://www.slideshare.net/catchpoint/ny-webperf-peelingonion?qid=a6296849-f0ce-4c71-9322-0be0f6eedb27&v=qf1&b=&from_search=8)
+	- [7 天打造前端性能监控系统](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
 
 
 ----
