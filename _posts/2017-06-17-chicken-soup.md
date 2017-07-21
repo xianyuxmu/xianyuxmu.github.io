@@ -43,6 +43,7 @@ tags:
 - “Most people have to get to a point where they don’t have a choice before they’ll change something.” – *Serena Mackesy, Writer*
 	- 「大部份的人必須等到沒有其它選擇才會做出改變。」– 瑟琳娜‧麥卡鍚 (作家)
 	- 预知变化，提早行动。
+	- Change before you have to. - *Jack Welch*
 - “Circumstances may cause interruptions and delays, but never lose sight of your goal.” – *Mario Andretti, Race Car Driver*
 	- 「環境因素或許會帶來干擾或耽擱，但別讓你的目標從視線離開。」– 馬里奧‧安德烈蒂 (賽車手)
 - 此刻的你、此刻的热情
@@ -56,7 +57,9 @@ tags:
 - 通常人们失去朋友不是因为拒绝借钱嘛，而是因为借了钱。 - 叔本华
 
 
-## Michelangelo
+## 名人归类
+
+### Michelangelo
 
 Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 
@@ -74,6 +77,13 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- 细节成就完美，完美不是细节。
 - What do you despise? By this you are truly known.
 	- 你会鄙视已知的，对未知的充满期待。
+
+### Jack Welch
+
+- Change before you have to.
+- Face reality as it is, not as it was or as you wish it to be.
+- Control your own destiny or someone else will.
+- If you don't have a competitive advantage, don't compete.
 
 
 ## Medium
