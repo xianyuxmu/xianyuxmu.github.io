@@ -46,6 +46,7 @@ tags:
 	- [Smart Glass Transforms Doctor’s Office Visits, Improves Satisfaction](http://annualreport2015.sutterhealth.org/project/smart-glass/)
 - 未来的销售：故事性、文案性销售，掌握渠道(粉丝)、如何生产内容变得越来越关键
 	- [Amazon launches Spark, a shoppable feed of stories and photos aimed at Prime members](https://techcrunch.com/2017/07/18/amazon-launches-spark-a-shoppable-feed-of-stories-and-photos-aimed-at-prime-members/)
+- [笔记 - 读书笔记](https://book.douban.com/review/8465035/) - 内容扩张得越多，就越需要过滤，以便使得注意力聚焦。注意力流到哪里，金钱就跟到哪里。
 
 
 ----
