@@ -54,6 +54,7 @@ tags:
 ## Money
 
 - [杜邦分析法](https://zh.wikipedia.org/wiki/%E6%9D%9C%E9%82%A6%E5%88%86%E6%9E%90%E6%B3%95)
+- [黄奇帆复旦演讲全文：房地产和实体失衡的十个方面及五项应对措施](http://www.guancha.cn/economy/2017_05_28_410581_s.shtml)
 
 ----
 
