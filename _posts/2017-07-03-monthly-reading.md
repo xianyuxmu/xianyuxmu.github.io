@@ -21,6 +21,10 @@ tags:
 - [苹果庆祝美国国家公园日 Apple Watch 又有新徽章了](http://www.cnbeta.com/articles/tech/627511.htm) - 让推广Apple Pay变得更有意义。
 - [囚徒困境](https://zh.wikipedia.org/wiki/%E5%9B%9A%E5%BE%92%E5%9B%B0%E5%A2%83)
 - [孙宏斌](https://baike.baidu.com/item/%E5%AD%99%E5%AE%8F%E6%96%8C/10345181) - 彪悍的人生
+- [The Marriage Decision: Everything Forever or Nothing Ever Again](https://waitbutwhy.com/2016/09/marriage-decision.html)
+	- [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+	- [Your Life in Weeks](https://waitbutwhy.com/2014/05/life-weeks.html) - 非常有启发意义！！！
+- [Want To Become A Multi-Millionaire? Do These 14 Things Immediately](https://medium.com/the-mission/want-to-become-a-multi-millionaire-then-do-these-14-things-immediately-18065dc492a1)
 
 
 ----
@@ -75,6 +79,9 @@ tags:
 - [百度总裁陆奇：AI革命的核心是知识革命](http://news.xinhuanet.com/fortune/2017-07/05/c_1121267720.htm) - *目前，AI领域的机会非常多，但AI开发壁垒还很高，陆奇表示，百度要为每一位AI开发者破除障碍、创造机会，提供工具、数据、基础设施，以及良好的开发环境。*
 - [Microsoft confirms layoff reports, reorganization expected to impact thousands](https://techcrunch.com/2017/07/06/microsoft-confirms-layoff-reports-reorganization-expected-to-impact-thousands/) - LAYOFF!
 - [Amazon’s Prime Day was the biggest sales day in its history, up 60% on 2016 led by the Echo](https://techcrunch.com/2017/07/12/amazons-prime-day-was-the-biggest-sales-day-in-its-history-up-60-on-2016-led-by-the-echo/)
+- [马云现身盒马鲜生 创始人侯毅曾讲述为何能爆红](https://www.sohu.com/a/157363537_430392) - 盒马鲜生基于场景定位，围绕吃这个场景来构建商品品类。
+	- [如何评价盒马鲜生？](https://www.zhihu.com/question/50270244)
+	- [2017年生鲜电商怎么做？（大量内部数据披露）](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjAzNw==&mid=2247483776&idx=1&sn=b2c5327b4ed0b5af7fdbb210cd1f604a)
 
 
 ----
