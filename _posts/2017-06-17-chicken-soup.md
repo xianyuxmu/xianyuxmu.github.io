@@ -58,6 +58,8 @@ tags:
 - 喜欢争辩会把事情弄糟。 - 蒙田
 - Wait but why?  - [*Tim Urban*](https://waitbutwhy.com/2014/05/life-weeks.html)
 - A Rocket will never be able to leave the Earth's atmosphere. - *The New York Times, 1936*
+- Never betray your intention. - *Prison Break Season 5*
+- Don't interrupt your enemies when they're making a mistake. - *Napoleon*
 
 
 ## 名人归类
