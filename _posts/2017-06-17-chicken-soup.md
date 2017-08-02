@@ -90,6 +90,21 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - Control your own destiny or someone else will.
 - If you don't have a competitive advantage, don't compete.
 
+### Friedrich Wilhelm Nietzsche
+
+- “True liberty is to have power over oneself in all things.” - *Michel de Montaigne, Philosopher*
+	- 「真正的自由是在所有時候都能控制自己。」– 蒙田 (哲學家)
+- 一个人知道自己为什么而活，就可以忍受任何一种生活。
+- That which does not kill us makes us stronger.
+	- 但凡不能杀死你的，最终都会使你更强大。
+- 不能听命于自己者，就要受命于他人。
+- 谦逊基于力量，傲慢基于无能。
+- 千万不要忘记：我们飞翔得越高，我们在那些不能飞翔的人眼中的形象越是渺小。
+- 没有可怕的深度，就没有美丽的水面。
+- 信仰就是不想知道真相是什么。
+- 不妨大胆，因为我们终将失去。
+- 聪明的人只要能掌握自己，便什么也不会失去。
+- 平淡的生活，往往是最危险的。
 
 ## Medium
 
