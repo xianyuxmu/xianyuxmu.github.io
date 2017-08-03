@@ -35,6 +35,7 @@ tags:
 
 ## Business
 
+- [Apple hits an all-time high and is seemingly in striking distance of being a $1 trillion company](https://techcrunch.com/2017/08/01/apple-hits-an-all-time-high-and-is-seemingly-in-striking-distance-of-being-a-1-trillion-company/)
 
 
 ----
@@ -64,6 +65,8 @@ tags:
 - [美团点评收银台前端可用性保障实践](http://www.infoq.com/cn/articles/the-availability-of-meituan-cash-front-desk-practice)
 - [Re：重识微服务架构](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486706&idx=1&sn=715f5bcf7ed3bd77fe0d2a2ff37bf993) - 常见的微服务组件及概念、微服务架构与单体架构的对比、使用场景
 - [AWS 架构图的简单图标](https://aws.amazon.com/cn/architecture/icons/) - A如何画WS结构图
+- File System of CentOS is `ext4`, and it is case-sensitive(use this command `df -khT` to check it). Mac's File System is *Journaled HFS+*(MacOS Sierra), it is non case-sensitive.
+	- CentOS的文件系统(ext4)是大小写敏感的，Mac的文件系统(Journaled HFS+)是大小写不敏感的。
 
 
 

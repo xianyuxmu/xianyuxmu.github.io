@@ -60,6 +60,8 @@ tags:
 - A Rocket will never be able to leave the Earth's atmosphere. - *The New York Times, 1936*
 - Never betray your intention. - *Prison Break Season 5*
 - Don't interrupt your enemies when they're making a mistake. - *Napoleon*
+- “The most painful moment in my life also became the moment I showed the most strength and courage.” — *Cecelia Ahern, Novelist*
+	- 「我人生最痛苦的時刻，也是我展現最多力量與勇氣的時刻。」– 西西莉雅·艾亨 (小說家)
 
 
 ## 名人归类
@@ -105,6 +107,7 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - 不妨大胆，因为我们终将失去。
 - 聪明的人只要能掌握自己，便什么也不会失去。
 - 平淡的生活，往往是最危险的。
+- 没有事实，只有诠释。
 
 ## Medium
 
