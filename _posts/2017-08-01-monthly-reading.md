@@ -18,6 +18,7 @@ tags:
 ## Life
 
 - [在不提供付款方式的情况下创建或使用您的 Apple ID](https://support.apple.com/zh-cn/HT204034)
+- [40 Lessons from 40 Years of Apple Ads](https://medium.com/the-mission/40-lessons-from-40-years-of-apple-ads-f87101fed4f6)
 
 ----
 
