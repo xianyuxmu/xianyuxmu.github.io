@@ -24,6 +24,7 @@ tags:
 
 ## Future
 
+- [Amazon正在威胁品牌，甚至你的工作](http://news.rfidworld.com.cn/2017_07/4d3845ccc965bac1.html) - 当品牌不能再带给你什么，你就会关注产品的本质：质量。
 
 
 ----
