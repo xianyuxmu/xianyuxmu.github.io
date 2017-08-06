@@ -38,6 +38,7 @@ tags:
 ## Business
 
 - [Apple hits an all-time high and is seemingly in striking distance of being a $1 trillion company](https://techcrunch.com/2017/08/01/apple-hits-an-all-time-high-and-is-seemingly-in-striking-distance-of-being-a-1-trillion-company/)
+- [Storyselling: Your 8-Step Guide to Selling with Stories](http://www.lifelearn.com/knowledge_center/storyselling-your-8-step-guide-to-selling-with-stories/)
 
 
 ----
