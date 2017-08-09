@@ -19,12 +19,14 @@ tags:
 
 - [在不提供付款方式的情况下创建或使用您的 Apple ID](https://support.apple.com/zh-cn/HT204034)
 - [40 Lessons from 40 Years of Apple Ads](https://medium.com/the-mission/40-lessons-from-40-years-of-apple-ads-f87101fed4f6)
+- [Dolores del Rio](http://www.imdb.com/name/nm0003123/)
 
 ----
 
 ## Future
 
 - [Amazon正在威胁品牌，甚至你的工作](http://news.rfidworld.com.cn/2017_07/4d3845ccc965bac1.html) - 当品牌不能再带给你什么，你就会关注产品的本质：质量。
+- [Cruise is running an autonomous ride-hailing service for employees in SF](https://techcrunch.com/2017/08/08/cruise-is-running-an-autonomous-ride-hailing-service-for-employees-in-sf)
 
 
 ----
@@ -70,6 +72,7 @@ tags:
 - [AWS 架构图的简单图标](https://aws.amazon.com/cn/architecture/icons/) - A如何画WS结构图
 - File System of CentOS is `ext4`, and it is case-sensitive(use this command `df -khT` to check it). Mac's File System is *Journaled HFS+*(MacOS Sierra), it is non case-sensitive.
 	- CentOS的文件系统(ext4)是大小写敏感的，Mac的文件系统(Journaled HFS+)是大小写不敏感的。
+- [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 理解JavaScript
 
 
 
