@@ -62,6 +62,8 @@ tags:
 - Don't interrupt your enemies when they're making a mistake. - *Napoleon*
 - “The most painful moment in my life also became the moment I showed the most strength and courage.” — *Cecelia Ahern, Novelist*
 	- 「我人生最痛苦的時刻，也是我展現最多力量與勇氣的時刻。」– 西西莉雅·艾亨 (小說家)
+- “Be yourself. Everyone else is already taken.” - *Oscar Wilde, Writer*
+	- 「做你自己，其他人都已經有人做了。」– 奧斯卡‧王爾德 (作家)
 
 
 ## 名人归类
