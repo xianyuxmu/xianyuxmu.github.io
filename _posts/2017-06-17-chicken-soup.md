@@ -62,9 +62,10 @@ tags:
 - Don't interrupt your enemies when they're making a mistake. - *Napoleon*
 - “The most painful moment in my life also became the moment I showed the most strength and courage.” — *Cecelia Ahern, Novelist*
 	- 「我人生最痛苦的時刻，也是我展現最多力量與勇氣的時刻。」– 西西莉雅·艾亨 (小說家)
-- “Be yourself. Everyone else is already taken.” - *Oscar Wilde, Writer*
-	- 「做你自己，其他人都已經有人做了。」– 奧斯卡‧王爾德 (作家)
 
+
+
+----
 
 ## 名人归类
 
@@ -110,6 +111,19 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - 聪明的人只要能掌握自己，便什么也不会失去。
 - 平淡的生活，往往是最危险的。
 - 没有事实，只有诠释。
+
+### Oscar Wilde
+
+- “Be yourself. Everyone else is already taken.” - *Oscar Wilde, Writer*
+	- 「做你自己，其他人都已經有人做了。」– 奧斯卡‧王爾德 (作家)
+- I like men who have a future and women who have a past. - *Oscar Wilde, Writer*
+	- 我喜欢有未来的男人和有过去的女人。 
+- Between men and women there is no friendship possible. There is passion, enmity, worship, love, but no friendship. 
+	- 男女之间不可能存在友谊，有的只是爱恨情仇。
+- Don't give a woman advice; one should never give a woman anything she can't wear in the evening. 
+	- 不要给女人忠告；决不要给女人任何她晚上不能穿戴的东西。 
+
+----
 
 ## Medium
 
