@@ -27,6 +27,8 @@ tags:
 
 - [Amazon正在威胁品牌，甚至你的工作](http://news.rfidworld.com.cn/2017_07/4d3845ccc965bac1.html) - 当品牌不能再带给你什么，你就会关注产品的本质：质量。
 - [Cruise is running an autonomous ride-hailing service for employees in SF](https://techcrunch.com/2017/08/08/cruise-is-running-an-autonomous-ride-hailing-service-for-employees-in-sf)
+- [京东宣布年内要建300家零售体验店 与线上实时同价](http://finance.sina.com.cn/roll/2017-08-09/doc-ifyixcaw3706867.shtml)
+- [Amazon Business](https://www.amazon.com/b?ie=UTF8&node=12656676011)
 
 
 ----
@@ -82,3 +84,4 @@ tags:
 
 - 现在出发，沿着地铁13号线，去看看还未到过的地方。 - 05 Aug. 2017 12:17
 - 为什么要早点下班？因为晚点会下暴雨，现在被雨困在恒创大厦。 - 08 Aug. 2017
+- 沟通的第一要素在于正确的认识自己，尤其是正确认识自己想法的根源，确保自己时刻处于理性的状态下，不要被情绪左右，确保自己处于“空明”的状态下，对于任何问题，不要预先做出假设性的判断，然后带着自己的观点去和别人沟通。空碗才能盛饭，空屋才能住人，任何的骄傲和自满，都会让我们失去成长和学习的机会。 - 11 August 2017
