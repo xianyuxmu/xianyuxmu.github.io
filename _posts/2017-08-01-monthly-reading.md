@@ -75,6 +75,7 @@ tags:
 - File System of CentOS is `ext4`, and it is case-sensitive(use this command `df -khT` to check it). Mac's File System is *Journaled HFS+*(MacOS Sierra), it is non case-sensitive.
 	- CentOS的文件系统(ext4)是大小写敏感的，Mac的文件系统(Journaled HFS+)是大小写不敏感的。
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 理解JavaScript
+- [PWA 初探：基本特性与标准现状](http://harttle.com/2017/01/28/pwa-explore.html)
 
 
 
