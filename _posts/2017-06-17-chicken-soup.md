@@ -64,6 +64,7 @@ tags:
 	- 「我人生最痛苦的時刻，也是我展現最多力量與勇氣的時刻。」– 西西莉雅·艾亨 (小說家)
 - “If you don’t know where you’re going, you might not get there.” - *– Yogi Berra, Baseball Manager*
 	- 「如果你不知道你要去哪，你可能將到不了。」- 尤吉‧貝拉
+- 常常，我们会因为胆小的事而感到遗憾，又对疯狂勇敢的事而觉得滑稽可笑。
 
 
 
