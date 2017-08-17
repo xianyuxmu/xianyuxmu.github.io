@@ -29,6 +29,10 @@ tags:
 - [Cruise is running an autonomous ride-hailing service for employees in SF](https://techcrunch.com/2017/08/08/cruise-is-running-an-autonomous-ride-hailing-service-for-employees-in-sf)
 - [京东宣布年内要建300家零售体验店 与线上实时同价](http://finance.sina.com.cn/roll/2017-08-09/doc-ifyixcaw3706867.shtml)
 - [Amazon Business](https://www.amazon.com/b?ie=UTF8&node=12656676011)
+- [中国楼市或迎来阿里巴巴时代](http://economics.dwnews.com/news/2017-08-09/60006079.html) - 阿里巴巴打造中国首个“智慧住房租赁平台”，把公共租赁住房、长租公寓、开发企业自持房源、中介居间代理房源、个人出租房源全部纳入平台管理。
+- [Amazon debuts ‘Instant Pickup Points’ in the U.S. for pickups in minutes](https://techcrunch.com/2017/08/15/amazon-debuts-instant-pickup-points-in-the-u-s-for-pickups-in-minutes/)
+	- [Get snacks, drinks and more in 2 minutes](https://www.amazon.com/gp/campus/instantpickup)
+- [The World’s Most Attractive Employer Rankings 2017](http://universumglobal.com/articles/2017/06/worlds-attractive-employer-rankings-2017/)
 
 
 ----
@@ -43,6 +47,7 @@ tags:
 
 - [Apple hits an all-time high and is seemingly in striking distance of being a $1 trillion company](https://techcrunch.com/2017/08/01/apple-hits-an-all-time-high-and-is-seemingly-in-striking-distance-of-being-a-1-trillion-company/)
 - [Storyselling: Your 8-Step Guide to Selling with Stories](http://www.lifelearn.com/knowledge_center/storyselling-your-8-step-guide-to-selling-with-stories/)
+
 
 
 ----
