@@ -67,6 +67,8 @@ tags:
 - 常常，我们会因为胆小的事而感到遗憾，又对疯狂勇敢的事而觉得滑稽可笑。
 - “Too many of us are not living our dreams because we are living our fears.” *— Les Brown, Motivational Speaker*
 	- 太多人没有活在自己的梦想里，因为他们活在恐惧中。
+- “Tears will get you sympathy. Sweat will get you results.” *- Anonymous*
+	- 「泪水会为你带来同情，汗水会为你带来结果。」– 无名氏
 
 
 
