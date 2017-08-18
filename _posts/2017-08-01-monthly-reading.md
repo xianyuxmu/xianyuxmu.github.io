@@ -82,6 +82,7 @@ tags:
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 理解JavaScript
 - [PWA 初探：基本特性与标准现状](http://harttle.com/2017/01/28/pwa-explore.html)
 - [如何成为一个合格的技术Leader？](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486723&idx=1&sn=224c352a4b58d1187d20c9b08259ff54)
+- [我对前端工程化的理解](https://juejin.im/post/58ac334e8d6d810058c103e0)
 
 
 
