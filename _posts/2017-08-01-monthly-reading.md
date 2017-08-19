@@ -11,15 +11,26 @@ tags:
 ---
 
 <blockquote class="blockquote-center">
-<p>When one must, one can.</p>
-<p>—— Charlotte Whitton, Feminist</p>
+<p>Most Advanced Yet Acceptable.</p>
+<p>—— MAYA</p>
 </blockquote>
+
+## TOP
+
+[*The Four-Letter Code to Selling Just About Anything*](https://www.theatlantic.com/magazine/archive/2017/01/what-makes-things-cool/508772/) - What makes things cool?
+
+- *Loewy believed that consumers are torn between a curiosity about new things and a fear of anything too new.*
+- [Why Apple Always Wins By Copying aka MAYA.](https://hackernoon.com/why-apple-always-wins-by-copying-aka-maya-6c21de7a1f28)
 
 ## Life
 
 - [在不提供付款方式的情况下创建或使用您的 Apple ID](https://support.apple.com/zh-cn/HT204034)
 - [40 Lessons from 40 Years of Apple Ads](https://medium.com/the-mission/40-lessons-from-40-years-of-apple-ads-f87101fed4f6)
 - [Dolores del Rio](http://www.imdb.com/name/nm0003123/)
+- [From SS France to SS Norway in the Port of New York](http://www.worldshipny.com/francenorwaypony.shtml)
+	- [World Ship Society](http://www.worldshipny.com/index.shtml)
+	- [Maritime Matters](http://maritimematters.com/)
+- [Guimaraes](http://maritimematters.com/2017/08/radiance-on-the-river-part-three/)
 
 ----
 
@@ -33,6 +44,10 @@ tags:
 - [Amazon debuts ‘Instant Pickup Points’ in the U.S. for pickups in minutes](https://techcrunch.com/2017/08/15/amazon-debuts-instant-pickup-points-in-the-u-s-for-pickups-in-minutes/)
 	- [Get snacks, drinks and more in 2 minutes](https://www.amazon.com/gp/campus/instantpickup)
 - [The World’s Most Attractive Employer Rankings 2017](http://universumglobal.com/articles/2017/06/worlds-attractive-employer-rankings-2017/)
+- [Meet Spot, the robot dog that can run, hop and open doors | Marc Raibert](https://www.youtube.com/watch?v=AO4In7d6X-c)
+	- Goal: Robot >= Human/Animal
+	- Mobility, Dexterity, Perception.
+	- by *Boston Dynamics*
 
 
 ----
@@ -83,6 +98,10 @@ tags:
 - [PWA 初探：基本特性与标准现状](http://harttle.com/2017/01/28/pwa-explore.html)
 - [如何成为一个合格的技术Leader？](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486723&idx=1&sn=224c352a4b58d1187d20c9b08259ff54)
 - [我对前端工程化的理解](https://juejin.im/post/58ac334e8d6d810058c103e0)
+- [squashing commits with rebase](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html)
+- While both are designed to contain files not belonging to the operating system, `/opt` and `/usr/local` are not intended to contain the same set of files. According to the [*Filesystem Hierarchy Standard*](http://www.pathname.com/fhs/pub/fhs-2.3.html)
+	-  `/opt` is for "the installation of add-on application software packages".
+	-  `/usr/local` is "for use by the system administrator when installing software locally".
 
 
 
