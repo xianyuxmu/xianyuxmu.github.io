@@ -69,6 +69,8 @@ tags:
 	- 太多人没有活在自己的梦想里，因为他们活在恐惧中。
 - “Tears will get you sympathy. Sweat will get you results.” *- Anonymous*
 	- 「泪水会为你带来同情，汗水会为你带来结果。」– 无名氏
+- “Happiness is the consequence of personal effort.” *– Elizabeth Gilbert, Writer*
+	- 「快樂是努力換來的。」– 伊莉莎白·吉兒伯特 (作家)
 
 
 
