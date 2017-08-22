@@ -102,6 +102,8 @@ tags:
 - While both are designed to contain files not belonging to the operating system, `/opt` and `/usr/local` are not intended to contain the same set of files. According to the [*Filesystem Hierarchy Standard*](http://www.pathname.com/fhs/pub/fhs-2.3.html)
 	-  `/opt` is for "the installation of add-on application software packages".
 	-  `/usr/local` is "for use by the system administrator when installing software locally".
+- [无服务器架构是移动开发者的福音？](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247485614&idx=1&sn=62bc5b5679279ab4fef4bd7700b69ac7)
+	- 无服务器架构抽离了所有与基础设施和服务器框架相关的细节，你只需要编写代码实现你想要的业务逻辑，并在数据发生变更的时候进行响应。服务器依然存在，只是你不需要再去做任何与部署和管理服务器相关的工作。
 
 
 
