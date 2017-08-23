@@ -21,6 +21,8 @@ tags:
 
 - *Loewy believed that consumers are torn between a curiosity about new things and a fear of anything too new.*
 - [Why Apple Always Wins By Copying aka MAYA.](https://hackernoon.com/why-apple-always-wins-by-copying-aka-maya-6c21de7a1f28)
+- [For today’s designers. And tomorrow’s designs.](https://www.adobe.com/products/experience-design.html#xd-ux-from-a-to-z-video)
+	- Adobe的革新让我十分振奋，未来很精彩！
 
 ## Life
 
@@ -62,6 +64,11 @@ tags:
 
 - [Apple hits an all-time high and is seemingly in striking distance of being a $1 trillion company](https://techcrunch.com/2017/08/01/apple-hits-an-all-time-high-and-is-seemingly-in-striking-distance-of-being-a-1-trillion-company/)
 - [Storyselling: Your 8-Step Guide to Selling with Stories](http://www.lifelearn.com/knowledge_center/storyselling-your-8-step-guide-to-selling-with-stories/)
+- [亚马逊的自营品牌越来越多了，这让供应商们很担心](http://www.sohu.com/a/164464935_114778)
+	- [Amazon owns a whole collection of secret brands](https://qz.com/1039381/amazon-owns-a-whole-collection-of-secret-brands/)
+	- 如果某种产品卖得很好，亚马逊就会尝试与生产商合作，自营这种产品。这种做法让很多供应商忧心忡忡，从长期合作关系来看，这显然不是什么好兆头。
+	- 在未来，可能你穿的衣服，吃的食物，看的节目，用的家具和其他小部件而都来自亚马逊一家公司。
+- [‘Airbnb for boats’ startup Boatsetter buys competitor Boatbound](https://techcrunch.com/2017/08/17/peer-to-peer-boat-rental/) - 更加细分的市场
 
 
 
@@ -104,6 +111,7 @@ tags:
 	-  `/usr/local` is "for use by the system administrator when installing software locally".
 - [无服务器架构是移动开发者的福音？](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247485614&idx=1&sn=62bc5b5679279ab4fef4bd7700b69ac7)
 	- 无服务器架构抽离了所有与基础设施和服务器框架相关的细节，你只需要编写代码实现你想要的业务逻辑，并在数据发生变更的时候进行响应。服务器依然存在，只是你不需要再去做任何与部署和管理服务器相关的工作。
+- [使用 Lighthouse 审查网络应用](https://developers.google.com/web/tools/lighthouse/) - 
 
 
 
