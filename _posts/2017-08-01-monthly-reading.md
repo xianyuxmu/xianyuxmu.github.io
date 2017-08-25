@@ -23,6 +23,8 @@ tags:
 - [Why Apple Always Wins By Copying aka MAYA.](https://hackernoon.com/why-apple-always-wins-by-copying-aka-maya-6c21de7a1f28)
 - [For today’s designers. And tomorrow’s designs.](https://www.adobe.com/products/experience-design.html#xd-ux-from-a-to-z-video)
 	- Adobe的革新让我十分振奋，未来很精彩！
+- [32年后，马云拿2000万美元回报他第一个贵人](http://cj.sina.com.cn/article/detail/2949462582/157303)
+	- 当年肯听说马云买房困难，还支援了5万美金。
 
 ## Life
 
@@ -69,6 +71,10 @@ tags:
 	- 如果某种产品卖得很好，亚马逊就会尝试与生产商合作，自营这种产品。这种做法让很多供应商忧心忡忡，从长期合作关系来看，这显然不是什么好兆头。
 	- 在未来，可能你穿的衣服，吃的食物，看的节目，用的家具和其他小部件而都来自亚马逊一家公司。
 - [‘Airbnb for boats’ startup Boatsetter buys competitor Boatbound](https://techcrunch.com/2017/08/17/peer-to-peer-boat-rental/) - 更加细分的市场
+- [阿里巴巴第一季营收超预期 电商业务仍是主要营收来源](http://cn.reuters.com/article/alibaba-q1-revenue-ecommerce-0818-idCNKCS1AY02X)
+	- 弘亚世纪资深分析师Steven Zhu表示，**最起码目前还没有见到实体和虚拟技术完全整合，这是个问题。** “如果没有全面整合，那么新零售仍只会是个概念，不会成为现实。”
+- 雷军说：“马云是用服务器在赚钱，我们睡觉了他还在赚钱，我们是靠人在赚钱，这两种模式相比，肯定是服务器会战胜单纯靠人来赚钱。”
+- [All the companies from Y Combinator’s Summer 2017 Demo Day (Day 2)](https://techcrunch.com/2017/08/22/yc-demo-day-s17-day-2/)
 
 
 
