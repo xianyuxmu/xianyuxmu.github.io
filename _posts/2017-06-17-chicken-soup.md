@@ -71,6 +71,10 @@ tags:
 	- 「泪水会为你带来同情，汗水会为你带来结果。」– 无名氏
 - “Happiness is the consequence of personal effort.” *– Elizabeth Gilbert, Writer*
 	- 「快樂是努力換來的。」– 伊莉莎白·吉兒伯特 (作家)
+- **Few things are impossible in themselves; and it is often for want of will, rather than of means, that man fails to succeed.** - *La Rocheforcauld, French writer*
+	- 事情很少有根本做不成的；其所以做不成，与其说是条件不够，不如说是由于决心不够。 - 法国作家 罗切福考尔德•L.
+- “Purpose is that sense that we are part of something bigger than ourselves, that we are needed, that we have something better ahead to work for. Purpose is what creates true happiness.” *– Mark Zuckerberg, Facebook Co-Founder*
+	- 「生活的目的，是感覺自己屬於一個比自己更大的目標、感覺我們被需要、感覺我們為更好的未來努力。目的能創造真正的快樂。」– 馬克．祖克柏 (臉書創辦人)
 
 
 
