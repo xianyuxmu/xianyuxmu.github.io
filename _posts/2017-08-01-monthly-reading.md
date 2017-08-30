@@ -35,6 +35,7 @@ tags:
 	- [World Ship Society](http://www.worldshipny.com/index.shtml)
 	- [Maritime Matters](http://maritimematters.com/)
 - [Guimaraes](http://maritimematters.com/2017/08/radiance-on-the-river-part-three/)
+- [The 30 Point Checklist to Accelerate Your Learning](https://medium.com/the-mission/the-30-point-checklist-to-accelerate-your-learning-ee9695bd8bd0)
 
 ----
 
@@ -75,6 +76,7 @@ tags:
 	- 弘亚世纪资深分析师Steven Zhu表示，**最起码目前还没有见到实体和虚拟技术完全整合，这是个问题。** “如果没有全面整合，那么新零售仍只会是个概念，不会成为现实。”
 - 雷军说：“马云是用服务器在赚钱，我们睡觉了他还在赚钱，我们是靠人在赚钱，这两种模式相比，肯定是服务器会战胜单纯靠人来赚钱。”
 - [All the companies from Y Combinator’s Summer 2017 Demo Day (Day 2)](https://techcrunch.com/2017/08/22/yc-demo-day-s17-day-2/)
+- [途牛发布《2017七夕旅游消费报告》：酒店预订火爆 拼假出游人气高](http://www.travelweekly-china.com/60705)
 
 
 
@@ -117,7 +119,10 @@ tags:
 	-  `/usr/local` is "for use by the system administrator when installing software locally".
 - [无服务器架构是移动开发者的福音？](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247485614&idx=1&sn=62bc5b5679279ab4fef4bd7700b69ac7)
 	- 无服务器架构抽离了所有与基础设施和服务器框架相关的细节，你只需要编写代码实现你想要的业务逻辑，并在数据发生变更的时候进行响应。服务器依然存在，只是你不需要再去做任何与部署和管理服务器相关的工作。
-- [使用 Lighthouse 审查网络应用](https://developers.google.com/web/tools/lighthouse/) - 
+- [使用 Lighthouse 审查网络应用](https://developers.google.com/web/tools/lighthouse/)
+- [滴滴是如何高效处理线上故障的？](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247485639&idx=1&sn=c8ed98a3dc6352304952b8d0afe5da9e)
+- [腾讯游戏容器云平台的技术演进之路](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247485623&idx=1&sn=e53b30a1291d9863647b55d101325ada)
+- [Kubernetes在GitHub](http://www.infoq.com/cn/news/2017/08/Kubernetes-GitHub)
 
 
 
