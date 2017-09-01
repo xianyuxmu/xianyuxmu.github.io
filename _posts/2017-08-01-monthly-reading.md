@@ -25,6 +25,7 @@ tags:
 	- Adobe的革新让我十分振奋，未来很精彩！
 - [32年后，马云拿2000万美元回报他第一个贵人](http://cj.sina.com.cn/article/detail/2949462582/157303)
 	- 当年肯听说马云买房困难，还支援了5万美金。
+- [阿里巴巴：一棵梧桐树，长了18年 | 封面](http://blog.sina.com.cn/s/blog_5f0b84100102x4yh.html?tj=1)
 
 ## Life
 
@@ -36,6 +37,8 @@ tags:
 	- [Maritime Matters](http://maritimematters.com/)
 - [Guimaraes](http://maritimematters.com/2017/08/radiance-on-the-river-part-three/)
 - [The 30 Point Checklist to Accelerate Your Learning](https://medium.com/the-mission/the-30-point-checklist-to-accelerate-your-learning-ee9695bd8bd0)
+- [10 European Destinations to Visit in 2017](https://www.jetsetter.com/magazine/1374/european-destinations-2017)
+	- Lisbon, Portugal
 
 ----
 
@@ -53,6 +56,8 @@ tags:
 	- Goal: Robot >= Human/Animal
 	- Mobility, Dexterity, Perception.
 	- by *Boston Dynamics*
+- [阿里巴巴：金砖五国网络零售额占全球47%](http://finance.sina.com.cn/stock/usstock/c/2017-08-29/doc-ifykiuaz1776949.shtml)
+	- 2017年8月，金砖国家经贸部长会议批准了《金砖国家电子商务合作倡议》。报告认为，金砖五国电子商务合作潜力巨大。预计到2022年，金砖国家网络零售总额将增加至30061亿美元，占全球网络零售总额的比例上升到59%。
 
 
 ----
