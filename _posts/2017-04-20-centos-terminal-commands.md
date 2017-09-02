@@ -22,6 +22,16 @@ tags:
 
 ## 使用笔记
 
+### 查看CentOS版本
+
+rpm --query centos-release
+
+cat /etc/centos-release
+
+cat /etc/redhat-release
+
+cat /etc/os-release
+
 ### 常用的命令
 
 开启简易的端口，通过 ip 访问查看该目录下的文件：`python -m SimpleHTTPServer 8410`
