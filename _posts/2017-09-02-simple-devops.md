@@ -47,5 +47,9 @@ Build and run the app:
 
 - [Configure automated builds on Docker Hub](https://docs.docker.com/docker-hub/builds/)
 - [HOW TO USE YOUR OWN REGISTRY](https://blog.docker.com/2013/07/how-to-use-your-own-registry/)
+- Kubernetes
+	- [阿里云容器服务-高可用Kubernetes部署指南](https://yq.aliyun.com/articles/88526)
+	- [通过 Kubernetes Web UI 管理应用](https://help.aliyun.com/document_detail/53764.html?spm=5176.100239.blogcont88526.38.odIera)
+	- [通过 kubectl 连接 Kubernetes 集群](https://help.aliyun.com/document_detail/53755.html?spm=5176.100239.blogcont88526.36.odIera) - 本地连接远程机器集群
 
 
