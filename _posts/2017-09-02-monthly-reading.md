@@ -52,6 +52,29 @@ tags:
 ## Tech
 
 - [Understand your Distributed Application with Elasticsearch, Logstash and Kibana by *Benoît Quartier, Camptocamp*](https://portal.klewel.com/watch/webcast/elasticsearch-meetup-november-2016/talk/1)
+- [滴滴是如何高效率处理线上故障的？](http://www.infoq.com/cn/news/2017/08/didi-ops-practise)
+- [随行付孙志坤：DevOps企业落地，工具比脚本更重要](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247485633&idx=1&sn=ce24f039077b6baf6e6e2fd6ba3e7adb)
+- [JavaScript正在吞噬这个世界](http://www.infoq.com/cn/news/2017/08/JavaScript-eating-world)
+- **单点故障**（single point of failure）简称SPOF，，是指系统中一旦失效，就会让整个系统无法运作的部件[1]，换句话说，是单点故障、全体故障。
+	- 最重要的是，每个域至少要有2个域控制器。
+	- 域控制器不要放在同一个物理位置。
+	- 部属多个AD依赖的系统。
+- [Fork A Repo](https://help.github.com/articles/fork-a-repo/)
+	- **A fork is a copy of a repository.** Forking a repository allows you to freely experiment with changes without affecting the original project.
+- [阿里云容器服务持续交付](https://github.com/AliyunContainerService/DevOps)
+- 而对于DevOps只有三个问题是严肃的：
+	- 如何重建你的系统（How to recreate your system？）
+	- 如何安全地部署你的系统（How to safely change your system）
+	- 部署后的问题监控与解决（When something has gone wrong)
+- [基于容器服务的持续集成与云端交付（一）- 交付之禅](http://www.infoq.com/cn/articles/CICDInCaaS-DeliveryPrinciple)
+- [DevOps与阿里云容器服务（三）](https://yq.aliyun.com/articles/58414)
+	- 灰度发布
+	- A/B Test
+- Jenkins 2.0实现持续集成
+	- [使用阿里云容器服务Jenkins 2.0实现持续集成之the tag you want篇(updated on 2017.09.06)](https://yq.aliyun.com/articles/72703)
+	- [使用阿里云容器服务Jenkins实现持续集成和Docker镜像构建(updated on 2017.3.3)](https://yq.aliyun.com/articles/53971)
+	- [使用阿里云容器服务Jenkins 2.0实现持续集成之Pipeline篇(updated on 2016.12.23)](https://yq.aliyun.com/articles/64970)
+	- [容器服务slack运维机器人](https://yq.aliyun.com/articles/58422)
 
 
 ----
