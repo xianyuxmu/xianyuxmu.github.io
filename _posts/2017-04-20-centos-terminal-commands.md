@@ -22,7 +22,7 @@ tags:
 
 ## 使用笔记
 
-### 查看CentOS版本
+### 查看CentOS系统版本
 
 rpm --query centos-release
 
