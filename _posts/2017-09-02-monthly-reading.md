@@ -76,6 +76,9 @@ tags:
 	- [使用阿里云容器服务Jenkins实现持续集成和Docker镜像构建(updated on 2017.3.3)](https://yq.aliyun.com/articles/53971)
 	- [使用阿里云容器服务Jenkins 2.0实现持续集成之Pipeline篇(updated on 2016.12.23)](https://yq.aliyun.com/articles/64970)
 	- [容器服务slack运维机器人](https://yq.aliyun.com/articles/58422)
+- [Merging vs. Rebasing - Git](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+	- This creates a new “merge commit” in the feature branch that ties together the histories of both branches.
+	- But, instead of using a merge commit, rebasing re-writes the project history by creating brand new commits for each commit in the original branch.
 
 
 ----
@@ -83,4 +86,5 @@ tags:
 ## 思考
 
 - 今天参加“江南愤青”的分享，观点不错。
+- 人要学会如何更好地与优秀的人一块共事，不要浪费时间适应、改造笨拙的人。
 	
