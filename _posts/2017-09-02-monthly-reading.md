@@ -79,6 +79,12 @@ tags:
 - [Merging vs. Rebasing - Git](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 	- This creates a new “merge commit” in the feature branch that ties together the histories of both branches.
 	- But, instead of using a merge commit, rebasing re-writes the project history by creating brand new commits for each commit in the original branch.
+- [弹性伸缩部署](https://yq.aliyun.com/articles/4226)
+	- 弹性伸缩的的基础和关键在资源调度，分为自动伸缩、计划伸缩：
+	- 自动伸缩：根据日常负载情况，计算应用所需的计算资源，以此达到降低成本、提升稳定性的目的。
+	- 计划伸缩：也称作定时伸缩，应用场景主要是根据计划提前做好各个系统的容量准备，以便承受可预见的瞬间访问高峰。
+	- 弹性伸缩在业界有两个方向，一个是垂直化的扩展（Scale up），一个水平化的扩展（Scale out）。从业务发展的角度来看应该是水平扩展的能力，这要求业务都是无状态的，通过负载均衡技术将访问请求分配到集群每一台机器上，不管是增加还是减少机器，业务的连续性都不应受到影响。
+- [Apache Kafka™ is a distributed streaming platform. What exactly does that mean?](https://kafka.apache.org/intro.html)
 
 
 ----
