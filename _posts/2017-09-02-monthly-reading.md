@@ -85,6 +85,7 @@ tags:
 	- 计划伸缩：也称作定时伸缩，应用场景主要是根据计划提前做好各个系统的容量准备，以便承受可预见的瞬间访问高峰。
 	- 弹性伸缩在业界有两个方向，一个是垂直化的扩展（Scale up），一个水平化的扩展（Scale out）。从业务发展的角度来看应该是水平扩展的能力，这要求业务都是无状态的，通过负载均衡技术将访问请求分配到集群每一台机器上，不管是增加还是减少机器，业务的连续性都不应受到影响。
 - [Apache Kafka™ is a distributed streaming platform. What exactly does that mean?](https://kafka.apache.org/intro.html)
+- [AWS 案例研究：猎豹移动](https://aws.amazon.com/cn/solutions/case-studies/cheetah-mobile/?hp=tile)
 
 
 ----
