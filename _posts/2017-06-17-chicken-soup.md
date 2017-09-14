@@ -77,6 +77,9 @@ tags:
 	- 「生活的目的，是感覺自己屬於一個比自己更大的目標、感覺我們被需要、感覺我們為更好的未來努力。目的能創造真正的快樂。」– 馬克．祖克柏 (臉書創辦人)
 - “In the end, we are our choices. Build yourself a great story.” *– Jeff Bezos, Entrepreneur*
 	- 到最后，我们将成为我们所有的选择。把自己打造成一个故事。
+- 成为自己的英雄，而不是受害者。
+- What comes out of your mouth is determined by what goes into your mind. *- Zig Ziglar*
+- “When you’re surrounded by people who share a passionate commitment around a common purpose, anything is possible.” *- Howard Schultz*
 
 
 
@@ -137,7 +140,7 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- 男女之间不可能存在友谊，有的只是爱恨情仇。
 - Don't give a woman advice; one should never give a woman anything she can't wear in the evening. 
 	- 不要给女人忠告；决不要给女人任何她晚上不能穿戴的东西。 
-- 成为自己的英雄，而不是受害者。
+
 
 ----
 

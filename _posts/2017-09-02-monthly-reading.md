@@ -11,8 +11,7 @@ tags:
 ---
 
 <blockquote class="blockquote-center">
-<p>Most Advanced Yet Acceptable.</p>
-<p>—— MAYA</p>
+<p>Are You Missing Purpose? </p>
 </blockquote>
 
 ## TOP
@@ -20,6 +19,10 @@ tags:
 
 ## Life
 
+- [Innovation Hack: The Law of Rich Input](https://medium.com/the-mission/innovation-hack-the-law-of-rich-input-d43d8f4e1911)
+	- “Garbage in, Garbage out” is a maxim that comes from the world of computing.
+	- “If you put wrong figures into the machine, will the right answers come out?”
+- [How to Find Your Mission and Success](https://medium.com/the-mission/how-to-find-your-mission-and-success-f24b9cd69fcb)
 
 ----
 
@@ -86,6 +89,8 @@ tags:
 	- 弹性伸缩在业界有两个方向，一个是垂直化的扩展（Scale up），一个水平化的扩展（Scale out）。从业务发展的角度来看应该是水平扩展的能力，这要求业务都是无状态的，通过负载均衡技术将访问请求分配到集群每一台机器上，不管是增加还是减少机器，业务的连续性都不应受到影响。
 - [Apache Kafka™ is a distributed streaming platform. What exactly does that mean?](https://kafka.apache.org/intro.html)
 - [AWS 案例研究：猎豹移动](https://aws.amazon.com/cn/solutions/case-studies/cheetah-mobile/?hp=tile)
+- [Git LFS](https://www.atlassian.com/git/tutorials/git-lfs)
+- [Reddit 是如何面试工程师的](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486804&idx=1&sn=0f8a9e8e0ef78ee3c817100921286bdf)
 
 
 ----
