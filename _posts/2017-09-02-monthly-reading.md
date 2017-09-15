@@ -23,6 +23,9 @@ tags:
 	- “Garbage in, Garbage out” is a maxim that comes from the world of computing.
 	- “If you put wrong figures into the machine, will the right answers come out?”
 - [How to Find Your Mission and Success](https://medium.com/the-mission/how-to-find-your-mission-and-success-f24b9cd69fcb)
+- [卡辛斯基的警告](http://survivor.ruanyifeng.com/future/unabomber.html)
+- [你的B计划在哪里？](http://survivor.ruanyifeng.com/plan-b/plan-b.html)
+- [为什么上班和下班已经过时](http://survivor.ruanyifeng.com/collapse/remote-work.html)
 
 ----
 
@@ -91,6 +94,8 @@ tags:
 - [AWS 案例研究：猎豹移动](https://aws.amazon.com/cn/solutions/case-studies/cheetah-mobile/?hp=tile)
 - [Git LFS](https://www.atlassian.com/git/tutorials/git-lfs)
 - [Reddit 是如何面试工程师的](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486804&idx=1&sn=0f8a9e8e0ef78ee3c817100921286bdf)
+- [Mesos Mr-Redis 沙箱试用到上线](http://dockone.io/article/2658)
+	- [Introduction to Redis Cluster](http://intro2libsys.com/focused-redis-topics/day-one/intro-redis-cluster)
 
 
 ----
