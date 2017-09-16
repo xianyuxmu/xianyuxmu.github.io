@@ -52,6 +52,4 @@ Build and run the app:
 	- [通过 Kubernetes Web UI 管理应用](https://help.aliyun.com/document_detail/53764.html?spm=5176.100239.blogcont88526.38.odIera)
 	- [通过 kubectl 连接 Kubernetes 集群](https://help.aliyun.com/document_detail/53755.html?spm=5176.100239.blogcont88526.36.odIera) - 本地连接远程机器集群
 - [Node.js clustering made easy with PM2](https://keymetrics.io/2015/03/26/pm2-clustering-made-easy/)
-
-
-
+- [Node.js, PM2, Docker & Docker-compose DevOps](https://medium.com/@adriendesbiaux/node-js-pm2-docker-docker-compose-devops-907dedd2b69a)
