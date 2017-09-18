@@ -80,6 +80,12 @@ tags:
 - 成为自己的英雄，而不是受害者。
 - What comes out of your mouth is determined by what goes into your mind. *- Zig Ziglar*
 - “When you’re surrounded by people who share a passionate commitment around a common purpose, anything is possible.” *- Howard Schultz*
+- “The only thing you really have in your life is time. And if you invest that time in yourself, to have great experiences that are going to enrich you, then you can’t possibly lose.” *– Steve Jobs, Entrepreneur*
+	- 「你真正擁有的其實只有時間，如果你把時間用在投資自己，得到很棒且能豐富你人生的經驗，你不可能會失去什麼。」– 史蒂夫‧賈伯斯 (企業家)
+- “Go for it now. The future is promised to no one.” *– Wayne Dyer, Self-help Author*
+	- 「現在就行動，沒有人可以保證未來。」– 韋恩‧戴爾 (勵志作家)
+- “Life is a series of commas, not periods.” *— Matthew McConaughey, Actor*
+	- 「人生是一系列的逗号，不是句号。」– 马修‧麦康纳 (演员) 
 
 
 
