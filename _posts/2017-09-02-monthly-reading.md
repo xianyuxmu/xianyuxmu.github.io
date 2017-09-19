@@ -99,6 +99,8 @@ tags:
 - [Reddit 是如何面试工程师的](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486804&idx=1&sn=0f8a9e8e0ef78ee3c817100921286bdf)
 - [Mesos Mr-Redis 沙箱试用到上线](http://dockone.io/article/2658)
 	- [Introduction to Redis Cluster](http://intro2libsys.com/focused-redis-topics/day-one/intro-redis-cluster)
+- [DevOps实践-打造自服务持续交付 -下](http://www.infoq.com/cn/articles/devops--build-self-service-continuous-delivery-part02)
+- [小红书里的秘密：机器学习如何帮助十人算法团队快速达成目标](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653162991&idx=1&sn=0340dab728514c9998f6af10aab4d412)
 
 
 ----
