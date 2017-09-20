@@ -86,6 +86,8 @@ tags:
 	- 「現在就行動，沒有人可以保證未來。」– 韋恩‧戴爾 (勵志作家)
 - “Life is a series of commas, not periods.” *— Matthew McConaughey, Actor*
 	- 「人生是一系列的逗号，不是句号。」– 马修‧麦康纳 (演员) 
+- “The only thing we have to fear is fear itself.” *— Franklin D. Roosevelt, 32nd U.S. president*
+	- 「 我们唯一需要害怕的事是害怕本身。」– 富兰克林‧罗斯福 (美国第 32 任总统)
 
 
 
