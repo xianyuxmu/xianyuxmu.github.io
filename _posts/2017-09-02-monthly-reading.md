@@ -101,6 +101,7 @@ tags:
 	- [Introduction to Redis Cluster](http://intro2libsys.com/focused-redis-topics/day-one/intro-redis-cluster)
 - [DevOps实践-打造自服务持续交付 -下](http://www.infoq.com/cn/articles/devops--build-self-service-continuous-delivery-part02)
 - [小红书里的秘密：机器学习如何帮助十人算法团队快速达成目标](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653162991&idx=1&sn=0340dab728514c9998f6af10aab4d412)
+- [React的替代方案Inferno发布1.0版本](http://www.infoq.com/cn/news/2017/01/inferno-1-react-javascript)
 
 
 ----
