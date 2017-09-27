@@ -104,6 +104,9 @@ tags:
 - [React的替代方案Inferno发布1.0版本](http://www.infoq.com/cn/news/2017/01/inferno-1-react-javascript)
 - [Classes (ES6) Sample](https://googlechrome.github.io/samples/classes-es6/)
 - [React Binding Patterns: 5 Approaches for Handling this](https://medium.freecodecamp.org/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56)
+- HTML标签
+	- [HTML Element Reference](https://www.w3schools.com/TAgs/ref_byfunc.asp)
+	- [HTML element reference - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 
 ----
