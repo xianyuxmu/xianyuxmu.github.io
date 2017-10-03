@@ -34,3 +34,6 @@ On each node, copy the `etcd.yaml` file into `/etc/kubernetes/manifests/etcd.yam
 	- Clustered etcd already replicates your storage to all master instances in your cluster. This means that to lose data, all three nodes would need to have their physical (or virtual) disks fail at the same time.
 	- ![High-Availability Clusters](https://d33wubrfki0l68.cloudfront.net/2555d34e3008aab4b049ca5634cfabc2078ccf92/3269a/images/docs/ha.svg)
 - [Tools for Monitoring Compute, Storage, and Network Resources](https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/)
+- [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/)
+	- [十分钟带你理解Kubernetes核心概念](http://dockone.io/article/932)
+	- [Getting Started with Kubernetes on Google Container Engine](http://omerio.com/2016/01/02/getting-started-with-kubernetes-on-google-container-engine/)
