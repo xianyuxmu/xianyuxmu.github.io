@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 正态分布
-date: 2016-10-04 11:41:00 +0800
+date: 2017-10-04 11:41:00 +0800
 categories:
 - Thinking
 - Work
