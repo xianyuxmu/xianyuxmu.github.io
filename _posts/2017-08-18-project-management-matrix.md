@@ -71,9 +71,9 @@ from [戴明循环](http://wiki.mbalib.com/wiki/%E6%88%B4%E6%98%8E%E5%BE%AA%E7%8
 
 根本原因分析法的目标是找出：
 
-问题（发生了什么）；
-原因（为什么发生）；
-措施（什么办法能够阻止问题再次发生）。
+- 问题（发生了什么）；
+- 原因（为什么发生）；
+- 措施（什么办法能够阻止问题再次发生）。
 
 from [根本原因分析(Root Cause Analysis)](http://wiki.mbalib.com/wiki/%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90)
 
