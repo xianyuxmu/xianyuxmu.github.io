@@ -11,11 +11,12 @@ tags:
 ---
 
 <blockquote class="blockquote-center">
-<p>Are You Missing Purpose? </p>
+<p>Look back, feel proud!</p>
 </blockquote>
 
 ## TOP
 
+- 在未来，数据将会实现实时、可量化、可视化
 
 
 ## Life
