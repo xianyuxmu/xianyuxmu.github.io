@@ -41,3 +41,8 @@ tags:
 - Mobility
 - Agility(Cost)
 - Simplicity
+
+### IT
+
+- 全球基础架构
+
