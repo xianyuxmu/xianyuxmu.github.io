@@ -18,6 +18,7 @@ tags:
 
 - 在未来，数据将会实现实时、可量化、可视化。
 - The most radical and transformative of inventions are often those that empower others to unleash their creativity – to pursue their dreams! *- Jeff Bezos*
+- [AWS 初创公司](https://aws.amazon.com/cn/startups/)
 
 
 ## Life
