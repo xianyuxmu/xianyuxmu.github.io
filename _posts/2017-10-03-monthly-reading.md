@@ -57,7 +57,7 @@ tags:
 
 ## 产品
 
-
+- [Google’s Airpods competitor do real-time language translation](https://techcrunch.com/2017/10/04/googles-airpods-competitor-do-real-time-language-translation/)
 
 ----
 
