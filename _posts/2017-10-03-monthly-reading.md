@@ -30,7 +30,9 @@ tags:
 
 ## Future
 
-
+- [The Reports Are In: AI and Robots Will Significantly Threaten Jobs in 5 Years](https://futurism.com/reports-ai-robots-threaten-jobs-5-years/)
+	- [IT Experts Foresee 60 Percent of Businesses Affected by Automation Within Five Years](https://futurism.com/it-experts-foresee-60-percent-of-businesses-affected-by-automation-within-five-years/)
+	- [The competing forces shaping 2030](http://www.pwc.com/us/futureworkforce)
 
 
 ----
@@ -51,6 +53,7 @@ tags:
 	- 天然保健品制造商 GSC Products 也是一样的情况，他们不只是透过亚马逊购买配料和补给品，也在运用亚马逊测试新产品的市场反应并调整价格，从而在其他其他销售渠道提供更容易被接受的价格。
 	- 一但确定产品是“胜利组”，GSC 便会将该产品退出亚马逊的庞大销售网络，只与少数的亚马逊大卖家合作，并转而专注在将产品批发给其他网络零售商和传统商店，来确保亚马逊不会削减到实体店的定价。
 - [马云vs贝索斯 亚马逊和阿里巴巴必有的一战](http://www.dsb.cn/64480.html)
+- [万事达卡发布2017世界旅游目的地指数 多座中国城市受欢迎](http://www.travelweekly-china.com/61769)
 
 
 
@@ -65,7 +68,15 @@ tags:
 
 ## Tech
 
-
+- [Facebook发布了React 16](https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247485470&idx=1&sn=a1ebade3f432e2ca3b5639335a4aaac5)
+- [React的新引擎—React Fiber是什么？](https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247485343&idx=1&sn=19d362e06fc50c51228c4cff541bf875)
+- 张辉清
+	- [中小研发团队架构实践之总体架构设计](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650998176&idx=1&sn=968965208a80dbc3434858d0bdfa82f1)
+	- [可参考的才是有价值的：中小型研发团队架构落地实践18篇，含案例、代码](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650998168&idx=1&sn=d523142085e613475b73fb5ada13e292)
+	- [技改之路：从单块应用到微服务，我的血泪总结](http://www.infoq.com/cn/articles/from-single-app-to-micro-service)
+	- [中小型研发团队架构实践三要点](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486905&idx=1&sn=e562243e2ba9330ac70f6546cf7da222)
+- [良好的研发团队文化是怎样「长」成的？一句成功的十四字真言！](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650995465&idx=1&sn=a6c12b7290076f74da2533c0f3020753)
+- [你的公司到底是技术驱动还是业务驱动？如何权衡？](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486356&idx=1&sn=33adebafddf1b618f4ac5d956c864ac2)
 
 
 ----
