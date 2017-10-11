@@ -94,6 +94,14 @@ link: http://www.binarytides.com/linux-find-command-examples/
 
 ```
 
+----
+
+排序、去重：
+
+`cat <your file> | sort | uniq`
+
+----
+
 ### 串行执行
 
 A pipeline is a sequence of one or more commands separated by the control operator `'|'`.
