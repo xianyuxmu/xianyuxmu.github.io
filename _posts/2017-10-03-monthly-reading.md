@@ -77,6 +77,8 @@ tags:
 	- [中小型研发团队架构实践三要点](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486905&idx=1&sn=e562243e2ba9330ac70f6546cf7da222)
 - [良好的研发团队文化是怎样「长」成的？一句成功的十四字真言！](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650995465&idx=1&sn=a6c12b7290076f74da2533c0f3020753)
 - [你的公司到底是技术驱动还是业务驱动？如何权衡？](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486356&idx=1&sn=33adebafddf1b618f4ac5d956c864ac2)
+- [The State of the Octoverse 2017](https://octoverse.github.com/)
+- [GRPC](https://grpc.io/)
 
 
 ----
