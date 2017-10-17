@@ -20,6 +20,8 @@ tags:
 - The most radical and transformative of inventions are often those that empower others to unleash their creativity – to pursue their dreams! *- Jeff Bezos*
 - [AWS 初创公司](https://aws.amazon.com/cn/startups/)
 - 吉姆.柯林斯曾在一个长达6年的研究项目中(项目收录进《基业长青》)，从上百家公司中筛选出基业长青的企业，通过大量数据分析和访谈，总结出了这些公司的“秘方”和规律，而与基业长青对照的公司，都是曾经风靡一时但最终没落的企业。他发现成功企业要实现经久不衰，不仅需要一个杰出的创始人(他称作“造钟人”)，还需要一个凌驾于利润之上的远大使命，在此之下构建价值观和经营流程，此外还需要时常拥有“胆大包天”的创新，这即是前面所述的破坏性创新，这能保证大企业在市场刷新时提前做好准备。但是在大企业里尝试破坏性创新是很不现实的，企业价值观、经营流程、资源分配已经注定了它只能在当前市场运转，所以很多企业选择成立独立机构或投资新创企业(并不合并)，以创造破坏性创新的温床，由它们进入非主流、不成熟的市场，最终提升企业壁垒。 - from [豆瓣](https://book.douban.com/review/6201925/)
+- [AR mystery startup Magic Leap looking to raise as much as $1B in Series D round](https://techcrunch.com/2017/10/12/ar-mystery-startup-magic-leap-looking-to-raise-as-much-as-1b-in-new-round/)
+- [Everything announced at Oculus’ Connect 4 VR conference](https://techcrunch.com/gallery/oculus-connect/slide/1/)
 
 
 ## Life
