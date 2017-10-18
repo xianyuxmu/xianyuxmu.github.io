@@ -27,6 +27,7 @@ tags:
 ## Life
 
 - [美团点评王兴清华大学演讲：别不把自己当回事，别太把自己当回事](https://36kr.com/p/5095421.html)
+- [杜嘉班纳](https://zh.wikipedia.org/zh-hans/%E6%9D%9C%E5%98%89%E7%8F%AD%E7%BA%B3)
 
 ----
 
