@@ -16,6 +16,10 @@ tags:
 
 ## TOP
 
+- The world is getting smaller, and markets are getting bigger. *- Daniel Meiland, Executive Chairman, Egon Zehnder International*
+	- 世界在变得越来越小，市场在变得越来越大。
+- 身在纽约，你会获得与你身在上海、迪拜不一样的想法。
+- 玫瑰易名，馨香如故。
 - 在未来，数据将会实现实时、可量化、可视化。
 - The most radical and transformative of inventions are often those that empower others to unleash their creativity – to pursue their dreams! *- Jeff Bezos*
 - [AWS 初创公司](https://aws.amazon.com/cn/startups/)
