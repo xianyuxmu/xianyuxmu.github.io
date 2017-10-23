@@ -89,6 +89,7 @@ tags:
 - “The only thing we have to fear is fear itself.” *— Franklin D. Roosevelt, 32nd U.S. president*
 	- 「 我们唯一需要害怕的事是害怕本身。」– 富兰克林‧罗斯福 (美国第 32 任总统)
 - “When performance is measured, performance improves. When performance is measured and reported, the rate of improvement accelerates.” *— Thomas S. Monson*
+- “Everything has beauty, but not everyone sees it.” *- Confucius*
 
 
 
