@@ -41,6 +41,7 @@ tags:
 - [The Reports Are In: AI and Robots Will Significantly Threaten Jobs in 5 Years](https://futurism.com/reports-ai-robots-threaten-jobs-5-years/)
 	- [IT Experts Foresee 60 Percent of Businesses Affected by Automation Within Five Years](https://futurism.com/it-experts-foresee-60-percent-of-businesses-affected-by-automation-within-five-years/)
 	- [The competing forces shaping 2030](http://www.pwc.com/us/futureworkforce)
+- [WordPress团队-远程工作、全球化协作](https://automattic.com/about/)
 
 
 ----
@@ -97,3 +98,4 @@ tags:
 	- 成就我们今天的，不只是我们成功过的经验，也包括了那些我们翻过的错。
 - 午后去星巴克loftel到六点，看了80页IB，现在打扮一下去三里屯，给钰铃购买礼物——Jo Malone玫瑰。 *14 Oct. 2017*
 - 这两周要晋升加薪了，准备开启新的stage。 *on 22 Oct. 2017*
+- We don’t make software for free, we make it for freedom. *- automattic.com*
