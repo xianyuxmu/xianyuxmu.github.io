@@ -88,6 +88,7 @@ tags:
 - [你的公司到底是技术驱动还是业务驱动？如何权衡？](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486356&idx=1&sn=33adebafddf1b618f4ac5d956c864ac2)
 - [The State of the Octoverse 2017](https://octoverse.github.com/)
 - [GRPC](https://grpc.io/)
+- [Docker官方将支持Kubernetes，容器编排大战宣告结束](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247485810&idx=1&sn=22f34aa78772cd55f7585e9f95d955b4)
 
 
 ----
