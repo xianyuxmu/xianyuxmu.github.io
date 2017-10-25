@@ -89,6 +89,10 @@ tags:
 - [The State of the Octoverse 2017](https://octoverse.github.com/)
 - [GRPC](https://grpc.io/)
 - [Docker官方将支持Kubernetes，容器编排大战宣告结束](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247485810&idx=1&sn=22f34aa78772cd55f7585e9f95d955b4)
+- [大前端之路 —— 如何用 Web 技术一统三端开发](https://zhuanlan.zhihu.com/p/30183840)
+- [易观 CTO 郭炜：技术架构升级其实是整个公司的升级](http://www.sohu.com/a/195219990_465988)
+- [英语流利说CTO胡哲人：从1到100的技术团队管理之道](http://www.10tiao.com/html/680/201708/2655160868/1.html)
+- [Building Browser Extensions At Scale](https://tech.grammarly.com/blog/building-browser-extensions-at-scale)
 
 
 ----
