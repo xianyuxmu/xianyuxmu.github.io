@@ -93,6 +93,9 @@ tags:
 - [易观 CTO 郭炜：技术架构升级其实是整个公司的升级](http://www.sohu.com/a/195219990_465988)
 - [英语流利说CTO胡哲人：从1到100的技术团队管理之道](http://www.10tiao.com/html/680/201708/2655160868/1.html)
 - [Building Browser Extensions At Scale](https://tech.grammarly.com/blog/building-browser-extensions-at-scale)
+- [ZooKeeper](https://zookeeper.apache.org/) - *ZooKeeper* is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
+- 图标数据毛刺
+	- 连续的图中，某些数值很非常大，而大部分的数据显得很小，这是去毛刺就是要把这个大数值去掉，便于图标的查看。
 
 
 ----
