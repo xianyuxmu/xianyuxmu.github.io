@@ -33,6 +33,7 @@ tags:
 - [美团点评王兴清华大学演讲：别不把自己当回事，别太把自己当回事](https://36kr.com/p/5095421.html)
 - [杜嘉班纳](https://zh.wikipedia.org/zh-hans/%E6%9D%9C%E5%98%89%E7%8F%AD%E7%BA%B3)
 - [Three Strategies to Power Your Self-Directed Learning](https://medium.com/the-mission/three-strategies-to-power-your-self-directed-learning-adc93872692c)
+- [Watch the Amazon HQ2 video pitches from Detroit, Boston, Pittsburgh, Philly, Las Vegas, Atlanta, and DFW](https://techcrunch.com/gallery/watch-the-amazon-hq2-video-pitches-from-detroit-boston-pittsburgh-philly-las-vegas-atlanta-and-dfw/slide/1/)
 
 ----
 
@@ -107,3 +108,4 @@ tags:
 - 午后去星巴克loftel到六点，看了80页IB，现在打扮一下去三里屯，给钰铃购买礼物——Jo Malone玫瑰。 *14 Oct. 2017*
 - 这两周要晋升加薪了，准备开启新的stage。 *on 22 Oct. 2017*
 - We don’t make software for free, we make it for freedom. *- automattic.com*
+- Bought a iPhone X. *- 27 Oct. 2017*
