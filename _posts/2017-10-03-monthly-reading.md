@@ -64,6 +64,8 @@ tags:
 	- 一但确定产品是“胜利组”，GSC 便会将该产品退出亚马逊的庞大销售网络，只与少数的亚马逊大卖家合作，并转而专注在将产品批发给其他网络零售商和传统商店，来确保亚马逊不会削减到实体店的定价。
 - [马云vs贝索斯 亚马逊和阿里巴巴必有的一战](http://www.dsb.cn/64480.html)
 - [万事达卡发布2017世界旅游目的地指数 多座中国城市受欢迎](http://www.travelweekly-china.com/61769)
+- [美团点评获腾讯领投40亿美元 公司进阶至社会企业](http://news.xinhuanet.com/food/2017-10/23/c_1121840051.htm)
+	- 进阶成社会企业了？
 
 
 
@@ -109,3 +111,4 @@ tags:
 - 这两周要晋升加薪了，准备开启新的stage。 *on 22 Oct. 2017*
 - We don’t make software for free, we make it for freedom. *- automattic.com*
 - Bought a iPhone X. *- 27 Oct. 2017*
+- 决定还是买chanel chance送给钰铃。 *- 28 Oct. 2017*
