@@ -91,7 +91,9 @@ tags:
 - “When performance is measured, performance improves. When performance is measured and reported, the rate of improvement accelerates.” *— Thomas S. Monson*
 - “Everything has beauty, but not everyone sees it.” *- Confucius*
 - Ability is nothing without opportunity. *- Napoleon Bonaparte*
-- There are only two forces that unite men — fear and interest. All great revolutions originate in fear, for the play of interests does not lead to accomplishment. *- Napoleon Bonaparte*
+- There are only two forces that unite men — fear and interest. All great revolutions originate in fear, for the play of interests does not lead to accomplishment. *- Napoleon Bonaparte*]
+- “A year from now you will wish you had started today.” *– Karen Lamb, Author*
+	- 一年之后，你会希望今天有所行动。
 
 
 
