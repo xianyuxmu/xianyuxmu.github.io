@@ -26,6 +26,7 @@ tags:
 - 吉姆.柯林斯曾在一个长达6年的研究项目中(项目收录进《基业长青》)，从上百家公司中筛选出基业长青的企业，通过大量数据分析和访谈，总结出了这些公司的“秘方”和规律，而与基业长青对照的公司，都是曾经风靡一时但最终没落的企业。他发现成功企业要实现经久不衰，不仅需要一个杰出的创始人(他称作“造钟人”)，还需要一个凌驾于利润之上的远大使命，在此之下构建价值观和经营流程，此外还需要时常拥有“胆大包天”的创新，这即是前面所述的破坏性创新，这能保证大企业在市场刷新时提前做好准备。但是在大企业里尝试破坏性创新是很不现实的，企业价值观、经营流程、资源分配已经注定了它只能在当前市场运转，所以很多企业选择成立独立机构或投资新创企业(并不合并)，以创造破坏性创新的温床，由它们进入非主流、不成熟的市场，最终提升企业壁垒。 - from [豆瓣](https://book.douban.com/review/6201925/)
 - [AR mystery startup Magic Leap looking to raise as much as $1B in Series D round](https://techcrunch.com/2017/10/12/ar-mystery-startup-magic-leap-looking-to-raise-as-much-as-1b-in-new-round/)
 - [Everything announced at Oculus’ Connect 4 VR conference](https://techcrunch.com/gallery/oculus-connect/slide/1/)
+- [360度绩效考核](https://baike.baidu.com/item/360%E5%BA%A6%E7%BB%A9%E6%95%88%E8%80%83%E6%A0%B8)
 
 
 ## Life
@@ -99,7 +100,14 @@ tags:
 - [ZooKeeper](https://zookeeper.apache.org/) - *ZooKeeper* is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
 - 图标数据毛刺
 	- 连续的图中，某些数值很非常大，而大部分的数据显得很小，这是去毛刺就是要把这个大数值去掉，便于图标的查看。
-
+- ***Nginx 负载均衡是工作在网络协议的第7层***（HTTP），nginx还可以支持工作在网络协议的第4层（传输层）的负载均衡，实现该功能的模块是stream_core模块。
+- [四层、七层负载均衡的区别](http://www.jianshu.com/p/fa937b8e6712)
+	- 所谓四层就是基于IP+端口的负载均衡；七层就是基于URL等应用层信息的负载均衡；
+	- 负载均衡器通常称为四层交换机或七层交换机。四层交换机主要分析IP层及TCP/UDP层，实现四层流量负载均衡。七层交换机除了支持四层负载均衡以外，还有分析应用层的信息，如HTTP协议URI或Cookie信息。
+	- 负载均衡分为**L4 switch**（四层交换），即在OSI第4层工作，就是TCP层啦。此种Load Balance不理解应用协议（如HTTP/FTP/MySQL等等）。例子：LVS，F5。
+	- 另一种叫做L7 switch（七层交换），OSI的最高层，应用层。此时，该Load Balancer能理解应用协议。例子： haproxy，MySQL Proxy。
+	- 七层应用负载的好处，是使得整个网络更智能化
+- [WEB请求过程](http://www.jianshu.com/p/ea419d550032)
 
 ----
 

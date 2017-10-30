@@ -94,6 +94,8 @@ tags:
 - There are only two forces that unite men — fear and interest. All great revolutions originate in fear, for the play of interests does not lead to accomplishment. *- Napoleon Bonaparte*]
 - “A year from now you will wish you had started today.” *– Karen Lamb, Author*
 	- 一年之后，你会希望今天有所行动。
+- “Don’t argue with the people of strong determination, because they may change the fact.” *– William Shakespeare, Writer*
+	- 别和意志坚决的人争论，因为他们可能将改变现实。 - 威廉•莎士比亚
 
 
 
