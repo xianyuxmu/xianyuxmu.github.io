@@ -98,8 +98,10 @@ tags:
 	- [使用阿里云容器服务Jenkins 2.0实现持续集成之Pipeline篇(updated on 2016.12.23)](https://yq.aliyun.com/articles/64970)
 	- [容器服务slack运维机器人](https://yq.aliyun.com/articles/58422)
 - [Merging vs. Rebasing - Git](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
-	- This creates a new “merge commit” in the feature branch that ties together the histories of both branches.
-	- But, instead of using a merge commit, rebasing re-writes the project history by creating brand new commits for each commit in the original branch.
+	- This creates a new “merge commit” in the feature branch that ties together the histories of both branches. - 不改变历史提交记录，生成一个新的merge提交记录，该记录合并了两个分支。
+	- But, instead of using a merge commit, rebasing re-writes the project history by creating brand new commits for each commit in the original branch. - 改变提交历史记录，以目标分支(master等)为基础，改写当前分支的新增的提交历史记录。
+	- **The major benefit of rebasing is that you get a much cleaner project history.**If you don’t follow the Golden Rule of Rebasing, re-writing project history can be potentially catastrophic for your collaboration workflow. And, less importantly, rebasing loses the context provided by a merge commit—you can’t see when upstream changes were incorporated into the feature.
+	- So, before you run git rebase, always ask yourself, “Is anyone else looking at this branch?” If the answer is yes, take your hands off the keyboard and start thinking about a non-destructive way to make your changes. Otherwise, you’re safe to re-write history as much as you like.
 - [弹性伸缩部署](https://yq.aliyun.com/articles/4226)
 	- 弹性伸缩的的基础和关键在资源调度，分为自动伸缩、计划伸缩：
 	- 自动伸缩：根据日常负载情况，计算应用所需的计算资源，以此达到降低成本、提升稳定性的目的。
