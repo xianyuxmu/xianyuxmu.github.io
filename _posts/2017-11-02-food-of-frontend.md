@@ -60,6 +60,15 @@ tags:
 
 ## 常用资源
 
+### 技术潮流
+
+- [PWA](https://developers.google.com/web/progressive-web-apps/)
+
 ### 常用框架
 
 - [ThinkJS](https://www.thinkjs.org/)
+- [Matter.js](http://brm.io/matter-js/) - Matter.js is a 2D physics engine for the web
+
+### Web工具
+
+- [Tools for Web Developers](https://developers.google.com/web/tools/)
