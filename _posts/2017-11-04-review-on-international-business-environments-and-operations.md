@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《国际商务环境与运作》评论
+title: 《国际商务环境与运作》摘要
 date: 2017-11-04 18:04:00 +0800
 categories:
 - Business
