@@ -40,5 +40,6 @@ tags:
 
 - Use `.bind()` when you want that function to later be called with a certain context, useful in events. Use `.call()` or `.apply()` when you want to invoke the function immediately, and modify the context. from [Javascript call() & apply() vs bind()?](https://stackoverflow.com/questions/15455009/javascript-call-apply-vs-bind)
 - [Alimei/hangzhouYunQi2017ppt](https://github.com/Alimei/hangzhouYunQi2017ppt) - 2017杭州云栖大会精华PPT
+- [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
 
