@@ -53,6 +53,9 @@ tags:
 - [精通DevOps必备的50款顶级工具](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247485863&idx=1&sn=176f93a62583372e401dd2720d79e11d&chksm=e8d7f665dfa07f73bdeb57dd954f875a267d0b3afefa0afcf62d1d6d6d87020c7915b044327e&scene=27#wechat_redirect)
 - [构建Uber端到端技术栈的十条经验](http://www.infoq.com/cn/news/2017/10/building-uber-tech-stack-10-tips)
 - [**中小型研发团队架构实践三要点**](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247486905&idx=1&sn=e562243e2ba9330ac70f6546cf7da222)
+- [前端开发清单](https://github.com/JohnsenZhou/Front-End-Checklist)
+- [高性能高并发系统的稳定性保障](https://juejin.im/entry/585a50feac502e00671121e1)
+- [京东大促备战思路和方法2.0解密](https://mp.weixin.qq.com/s?__biz=MzIwODA4NjMwNA==&mid=2652898119&idx=1&sn=07d8ed6395a035018bd8fadbbc93ee59)
 
 
 ## Thinking
