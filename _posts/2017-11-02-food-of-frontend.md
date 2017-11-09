@@ -72,3 +72,12 @@ tags:
 ### Web工具
 
 - [Tools for Web Developers](https://developers.google.com/web/tools/)
+- 测试
+	- 端到端测试
+		- [End-to-end Tests that Don’t Suck with Puppeteer](https://ropig.com/blog/end-end-tests-dont-suck-puppeteer/) - The most important thing for any app is that it works for your users. In practice, Selenium tests are slow, brittle, and costly.
+	- SSR
+		- [NUXT.js](https://nuxtjs.org/)
+
+### 开源项目门户
+
+- [GoogleChrome](https://github.com/GoogleChrome)
