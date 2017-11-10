@@ -24,6 +24,8 @@ tags:
 	- “If I have seen further than others, it is by standing upon the shoulders of giants.” *-  Isaac Newton*
 	- Identify valuable knowledge at the right time.
 - *Data for making decision.*
+- [Apple said to be spending $1 billion on original content in 2018](https://techcrunch.com/2017/08/16/apple-said-to-be-spending-1-billion-on-original-content-in-2018/)
+	- 原创内容
 
 ## Life
 
@@ -37,6 +39,8 @@ tags:
 - [36氪首发 | 阿里十年陈创立金融科技公司「潘帕斯」，获数千万人民币天使轮融资](http://36kr.com/p/5099959.html)
 	- 在接受采访时跟我聊起了前段时间爆红的“西二旗”程序员们，他们的特征是“月入五万却过得像月入五千”，他认为这一定程度反映了未来新一代财富人群的共同特点：年轻有活力，专注于奋斗而积累了大量财富，但是非常忙，没有时间和精力做财富管理，这样的中产阶层人群会不断增加。其次，中国金融市场资产端产品越来越丰富，给大类资产配置提供了条件。并且，随着国际市场的开放，全球资产配置的需求会越来越多。
 - **资产支持证券(Asset-Backed Security,以下简称ABS)**，是一种债券性质的金融工具，是一种以资产信用为支持的证券，常见包括：信用卡贷款、学生贷款、汽车贷款、设备租赁、消费贷款、房屋资产抵押贷款等为标的资产的证券化产品。ABS融资模式是以项目所属的资产为支撑的证券化融资方式，即以项目所拥有的资产为基础，以项目资产可以带来的预期收益为保证，通过在资本市场发行债券来募集资金的一种项目融资方式。
+- [中国网络购买力继续升温，阿里巴巴利润翻番](https://cn.nytimes.com/business/20171103/alibaba-earnings/)
+- [Amazon Key](https://www.amazon.com/b?&node=17285120011)
 
 ## World
 
