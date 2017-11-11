@@ -26,6 +26,7 @@ tags:
 - *Data for making decision.*
 - [Apple said to be spending $1 billion on original content in 2018](https://techcrunch.com/2017/08/16/apple-said-to-be-spending-1-billion-on-original-content-in-2018/)
 	- 原创内容
+- [任宇昕：腾讯不会大举进入电商 明年向企鹅号投入100亿](http://www.sohu.com/a/203039823_115565)
 
 ## Life
 
