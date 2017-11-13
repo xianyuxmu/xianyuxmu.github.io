@@ -62,6 +62,10 @@ tags:
 - [前端开发清单](https://github.com/JohnsenZhou/Front-End-Checklist)
 - [高性能高并发系统的稳定性保障](https://juejin.im/entry/585a50feac502e00671121e1)
 - [京东大促备战思路和方法2.0解密](https://mp.weixin.qq.com/s?__biz=MzIwODA4NjMwNA==&mid=2652898119&idx=1&sn=07d8ed6395a035018bd8fadbbc93ee59)
+- React 生命周期，from [React 相关知识](https://github.com/wy-ei/notebook/issues/27):
+	- 首次加载的时候：`componentWillMount -> render -> componentDidMount`
+	- 组件更新的时候：`componentWillReceiveProps -> shouldComponentUpdate -> componentWillUpdate -> render -> componentDidUpdate`
+	- 组件卸载的时候：`componentWillUnmount`
 
 
 ## Thinking
