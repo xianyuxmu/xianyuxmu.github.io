@@ -27,6 +27,10 @@ tags:
 - [Apple said to be spending $1 billion on original content in 2018](https://techcrunch.com/2017/08/16/apple-said-to-be-spending-1-billion-on-original-content-in-2018/)
 	- 原创内容
 - [任宇昕：腾讯不会大举进入电商 明年向企鹅号投入100亿](http://www.sohu.com/a/203039823_115565)
+- 征信
+	- [中国人民银行征信中心 - 常见问题解答](http://www.pbccrc.org.cn/zxzx/kefzx/201401/9435199b9a284116b89b27faa6c9408d.shtml)
+	- [企业信用报告（自主查询版）样本](http://www.pbccrc.org.cn/zxzx/qyzx/201401/9d21885d4aca4865816d9ed223ce2b74.shtml)
+	- [征信基本概念](http://www.pbccrc.org.cn/zxzx/zxzs/201401/87814073facf4b9795480d40fd626467.shtml)
 
 ## Marketing
 
