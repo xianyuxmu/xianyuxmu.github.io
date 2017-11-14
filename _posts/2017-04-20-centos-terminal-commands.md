@@ -117,6 +117,21 @@ Linux文件系统中，有所谓的链接(link)，我们可以将其视为档案
 - 硬连接: `ln TARGET LINK_NAME`
 - 软链接: `ln -s TARGET LINK_NAME`
 
+### 文件搜索
+
+- 使用文件名：`find ./src -name "*.js" -print`，使用`-iname`忽略大小写。
+	- 否定参数：`find ./src ! -name "*.js"`
+- 使用正则：`find ./src -regex ".*\.md$"`
+
+### 日志查看
+
+- 查看实时日志：`tail -f file` 或者 `tail -F file`
+- 显示文件最后<n>行：`tail -n <n> file`
+
+### grep
+
+- 搜索包含特定内容的文本行: `grep pattern filename`
+	- 忽略大小写: `grep -i "TExt" file.txt`
 
 
 ----

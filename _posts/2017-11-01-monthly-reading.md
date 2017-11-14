@@ -28,6 +28,10 @@ tags:
 	- 原创内容
 - [任宇昕：腾讯不会大举进入电商 明年向企鹅号投入100亿](http://www.sohu.com/a/203039823_115565)
 
+## Marketing
+
+- [从首席营销官到“首席增长官”，可口可乐为何做出如此巨大的转变？](https://mp.weixin.qq.com/s/iiuopK4baBh7Mug-Qr2pHg)
+
 ## Life
 
 - 今天加薪了。 - *2017.11.08*
@@ -62,13 +66,31 @@ tags:
 - [前端开发清单](https://github.com/JohnsenZhou/Front-End-Checklist)
 - [高性能高并发系统的稳定性保障](https://juejin.im/entry/585a50feac502e00671121e1)
 - [京东大促备战思路和方法2.0解密](https://mp.weixin.qq.com/s?__biz=MzIwODA4NjMwNA==&mid=2652898119&idx=1&sn=07d8ed6395a035018bd8fadbbc93ee59)
-- React 生命周期，from [React 相关知识](https://github.com/wy-ei/notebook/issues/27):
+- React 生命周期，from [React 相关知识](https://github.com/wy-ei/notebook/issues/27):		
 	- 首次加载的时候：`componentWillMount -> render -> componentDidMount`
 	- 组件更新的时候：`componentWillReceiveProps -> shouldComponentUpdate -> componentWillUpdate -> render -> componentDidUpdate`
 	- 组件卸载的时候：`componentWillUnmount`
+- [《高性能网站建设指南》笔记](https://github.com/wy-ei/notebook/issues/15)
+- 一般测试过程：单元测试、功能测试(用来确保每个组件、功能正常工作) -> 端到端测试、集成测试(用来确保不同组件互相合作) -> 冒烟测试（一般是大范围的集成测试。比较初级的测试，仅仅是为了检查各个组件是否能一起工作，而并不去深究功能上是否正确）
+	- [JavaScript 测试︰ 单元 vs 功能 vs 集成测试](https://juejin.im/entry/584ab2dc128fe1006c7cdc11)
+	- [单元测试，集成测试概念与各种工具介绍](http://blog.csdn.net/fireofjava/article/details/12834599)
+- [Kubernetes与云原生应用概览](https://mp.weixin.qq.com/s/t03np4jreW2iLxP6uiG9ag)
+	- 云原生包含三个点：
+		- 微服务
+		- 持续交付
+		- DevOps 
+- [webp - A new image format for the Web](https://developers.google.com/speed/webp/)
+	- WebP is a modern image format that provides superior lossless and lossy compression for images on the web. Using WebP, webmasters and web developers can create smaller, richer images that make the web faster.
+	- WebP lossless images are 26% smaller in size compared to PNGs. WebP lossy images are 25-34% smaller than comparable JPEG images at equivalent SSIM quality index.
+	- Why smaller? ***WebP encodes only the difference.***
+- Flexbox Layout
+	- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+	- [flex 布局相关知识](https://github.com/wy-ei/notebook/issues/14)
 
 
 ## Thinking
 
 - 一个没有立场的人总是相信任何事。 - 马丁•路德金
 - 最终，我们记得的不是我们敌人的话语，而是我们朋友的沉默。
+- 一个公司上层管理人员拥有雄心和干劲，是公司增长的保证。 - from *Focal Point*
+- **能够带来80%～90%成果的那10%～20%的活动是什么？**

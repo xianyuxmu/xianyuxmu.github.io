@@ -102,3 +102,4 @@ TP是指 Top Percentile，
 
 - [7 天打造前端性能监控系统](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
 - [前端性能优化相关](https://github.com/wy-ei/notebook/issues/34)
+- [《高性能网站建设指南》笔记](https://github.com/wy-ei/notebook/issues/15)
