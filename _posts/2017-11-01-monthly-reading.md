@@ -31,6 +31,7 @@ tags:
 	- [中国人民银行征信中心 - 常见问题解答](http://www.pbccrc.org.cn/zxzx/kefzx/201401/9435199b9a284116b89b27faa6c9408d.shtml)
 	- [企业信用报告（自主查询版）样本](http://www.pbccrc.org.cn/zxzx/qyzx/201401/9d21885d4aca4865816d9ed223ce2b74.shtml)
 	- [征信基本概念](http://www.pbccrc.org.cn/zxzx/zxzs/201401/87814073facf4b9795480d40fd626467.shtml)
+- [技术教育的兴起](http://www.ruanyifeng.com/blog/2017/11/technology-training.html) - 好久不看阮一峰老师文章。这文章值得一读。
 
 ## Marketing
 
@@ -90,6 +91,8 @@ tags:
 - Flexbox Layout
 	- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 	- [flex 布局相关知识](https://github.com/wy-ei/notebook/issues/14)
+- While em is relative to the `font-size` of its direct or nearest parent, rem is only relative to the html (root) `font-size`. - Jeremy Church
+- **火焰图就是看顶层的哪个函数占据的宽度最大。只要有"平顶"（plateaus），就表示该函数可能存在性能问题。**
 
 
 ## Thinking
