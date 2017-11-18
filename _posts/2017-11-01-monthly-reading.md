@@ -32,6 +32,7 @@ tags:
 	- [企业信用报告（自主查询版）样本](http://www.pbccrc.org.cn/zxzx/qyzx/201401/9d21885d4aca4865816d9ed223ce2b74.shtml)
 	- [征信基本概念](http://www.pbccrc.org.cn/zxzx/zxzs/201401/87814073facf4b9795480d40fd626467.shtml)
 - [技术教育的兴起](http://www.ruanyifeng.com/blog/2017/11/technology-training.html) - 好久不看阮一峰老师文章。这文章值得一读。
+- 任何新的蓝海都在变成红海，未来有两种公司有优势：**其一是不断发现新蓝海的；其二是帮助红海中的公司取胜的。**伴随着科技高速发展，新蓝海的探索难度越来越难、成本越来越大；而红海不断到来、始终存在。
 
 ## Marketing
 
