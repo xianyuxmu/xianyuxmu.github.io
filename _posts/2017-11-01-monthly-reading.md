@@ -102,3 +102,4 @@ tags:
 - 最终，我们记得的不是我们敌人的话语，而是我们朋友的沉默。
 - 一个公司上层管理人员拥有雄心和干劲，是公司增长的保证。 - from *Focal Point*
 - **能够带来80%～90%成果的那10%～20%的活动是什么？**
+- All of start with the same level, none. All the difference we have come from how we use the time.
