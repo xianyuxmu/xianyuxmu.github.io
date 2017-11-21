@@ -53,6 +53,7 @@ tags:
 - **资产支持证券(Asset-Backed Security,以下简称ABS)**，是一种债券性质的金融工具，是一种以资产信用为支持的证券，常见包括：信用卡贷款、学生贷款、汽车贷款、设备租赁、消费贷款、房屋资产抵押贷款等为标的资产的证券化产品。ABS融资模式是以项目所属的资产为支撑的证券化融资方式，即以项目所拥有的资产为基础，以项目资产可以带来的预期收益为保证，通过在资本市场发行债券来募集资金的一种项目融资方式。
 - [中国网络购买力继续升温，阿里巴巴利润翻番](https://cn.nytimes.com/business/20171103/alibaba-earnings/)
 - [Amazon Key](https://www.amazon.com/b?&node=17285120011)
+- [中文版Bixby登陆中国 三星Galaxy S8/Note 8月底升级](http://www.cnbeta.com/articles/tech/672473.htm)
 
 ## World
 
