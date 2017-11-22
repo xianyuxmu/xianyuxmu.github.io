@@ -104,3 +104,4 @@ tags:
 - 一个公司上层管理人员拥有雄心和干劲，是公司增长的保证。 - from *Focal Point*
 - **能够带来80%～90%成果的那10%～20%的活动是什么？**
 - All of start with the same level, none. All the difference we have come from how we use the time.
+- 今年的圣诞计划去上海过😄 - 22 Nov. 2017
