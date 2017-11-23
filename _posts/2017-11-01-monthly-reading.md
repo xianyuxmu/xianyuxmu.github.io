@@ -54,6 +54,8 @@ tags:
 - [中国网络购买力继续升温，阿里巴巴利润翻番](https://cn.nytimes.com/business/20171103/alibaba-earnings/)
 - [Amazon Key](https://www.amazon.com/b?&node=17285120011)
 - [中文版Bixby登陆中国 三星Galaxy S8/Note 8月底升级](http://www.cnbeta.com/articles/tech/672473.htm)
+- [都在搞智慧物流， 阿里和京东打法有何不同?](http://tech.sina.com.cn/csj/2017-11-22/doc-ifynwhww6051930.shtml)
+	- 当前，我国物流企业法人单位数近30万家，A级物流企业超过4000家。
 
 ## World
 
