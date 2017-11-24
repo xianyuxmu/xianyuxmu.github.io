@@ -33,6 +33,8 @@ tags:
 	- [征信基本概念](http://www.pbccrc.org.cn/zxzx/zxzs/201401/87814073facf4b9795480d40fd626467.shtml)
 - [技术教育的兴起](http://www.ruanyifeng.com/blog/2017/11/technology-training.html) - 好久不看阮一峰老师文章。这文章值得一读。
 - 任何新的蓝海都在变成红海，未来有两种公司有优势：**其一是不断发现新蓝海的；其二是帮助红海中的公司取胜的。**伴随着科技高速发展，新蓝海的探索难度越来越难、成本越来越大；而红海不断到来、始终存在。
+- [深化开放战略 美团点评生活服务开放平台发布](http://finance.sina.com.cn/roll/2017-11-23/doc-ifypacti7365876.shtml)
+	- 未来，平台需要不断地开放能力，才能更加强大。
 
 ## Marketing
 
@@ -97,6 +99,9 @@ tags:
 	- [flex 布局相关知识](https://github.com/wy-ei/notebook/issues/14)
 - While em is relative to the `font-size` of its direct or nearest parent, rem is only relative to the html (root) `font-size`. - Jeremy Church
 - **火焰图就是看顶层的哪个函数占据的宽度最大。只要有"平顶"（plateaus），就表示该函数可能存在性能问题。**
+- linux中的set命令: `"set -e"`
+	- "Exit immediately if a simple command exits with a non-zero status."
+- [opsnull/follow-me-install-kubernetes-cluster／和我一步步部署 kubernetes 集群](https://github.com/opsnull/follow-me-install-kubernetes-cluster)
 
 
 ## Thinking
