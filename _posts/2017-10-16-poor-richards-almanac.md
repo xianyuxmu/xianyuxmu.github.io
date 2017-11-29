@@ -10,6 +10,12 @@ tags:
 
 ---
 
+<blockquote class="blockquote-center">
+<p>“Man can either buy his wisdom or borrow it. By buying it, he pays full price in personal time and treasure. But by borrowing it, he capitalizes on the lessons learned from the failures of others.
+”</p>
+<p>- Benjamin Franklin</p>
+</blockquote>
+
 ***NOTES FROM***
 
 ## 穷理查年鉴：一生必知的智慧箴言
