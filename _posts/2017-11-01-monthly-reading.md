@@ -113,3 +113,4 @@ tags:
 - **能够带来80%～90%成果的那10%～20%的活动是什么？**
 - All of start with the same level, none. All the difference we have come from how we use the time.
 - 今年的圣诞计划去上海过😄 - 22 Nov. 2017
+- 人生充满了无数的选择，舍得舍得，你将舍弃，你也会得到。
