@@ -36,10 +36,17 @@ tags:
 - [深化开放战略 美团点评生活服务开放平台发布](http://finance.sina.com.cn/roll/2017-11-23/doc-ifypacti7365876.shtml)
 	- 未来，平台需要不断地开放能力，才能更加强大。
 - 美国的网贷平台需要申请了美国30多个州的小贷业务牌照后，方能开展网络借贷业务，大大提高了从业成本；而在中国，遵循属地管理的小贷业务，通过互联网小贷的方式，就可以将业务扩展至全国。
+- [Black Friday pushes Jeff Bezos’ net worth to $100 billion](https://techcrunch.com/2017/11/25/black-friday-pushes-jeff-bezos-net-worth-to-100-billion/)
+	- 关注长期有价值的东西
 
 ## Marketing
 
 - [从首席营销官到“首席增长官”，可口可乐为何做出如此巨大的转变？](https://mp.weixin.qq.com/s/iiuopK4baBh7Mug-Qr2pHg)
+- [你盯着代购的这些澳洲小众品牌，京东也想拿下来](https://www.cbnweek.com/articles/normal/19470)
+	- [BAMBI - 澳大利亚床上用品](https://www.bambi.com.au/)
+- 围栏男士内裤案例
+	- [好奇吗？1199元的围栏内裤有赞开店，狂砸电梯广告效果如何？](http://www.sohu.com/a/161731299_495691)
+	- [如何评价"围栏男士内裤"投放的电梯广告?](https://www.zhihu.com/question/60843056)
 
 ## Life
 
@@ -104,6 +111,11 @@ tags:
 - linux中的set命令: `"set -e"`
 	- "Exit immediately if a simple command exits with a non-zero status."
 - [opsnull/follow-me-install-kubernetes-cluster／和我一步步部署 kubernetes 集群](https://github.com/opsnull/follow-me-install-kubernetes-cluster)
+- **微信小程序思考**
+	- 小程序提供了丰富的基础组件给开发者，开发者可以像搭积木一样，组合各种组件拼合成自己的小程序。
+	- 微信要越来越强，微信的能力会不断地加强。
+- [阿里巴巴正式开源其自研容器技术Pouch](http://www.infoq.com/cn/articles/alibaba-pouch)
+
 
 
 ## Thinking
