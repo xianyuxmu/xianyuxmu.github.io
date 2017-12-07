@@ -28,6 +28,11 @@ tags:
 - [「猩便利」开6家便利店，无人货架后以资本+互联网模式进行更大布局](https://36kr.com/p/5095036.html)
 	- 便利店的平均毛利是 30%，这是一个微利的，精细的行业。
 	- 猩便利则发迹于上海，是中国便利店最发达的地方之一，人均拥有数是 3466人/店。
+- [GM launches Marketplace for in-car shopping and reservations](https://techcrunch.com/2017/12/05/gm-launches-marketplace-for-in-car-shopping-and-reservations)
+	- 未来的服务基于场景，你可以随时、随地、通过随意的方式获取同一个服务。
+- [Gym-As-You-Go wants to let you pay per exercise](https://techcrunch.com/2017/12/03/gym-as-you-go/)
+	- [eGym raises $45M Series C for cloud-connected gym equipment and fitness software](https://techcrunch.com/2016/03/21/egym/)
+	- 精细化计费。
 
 ## Tech
 
