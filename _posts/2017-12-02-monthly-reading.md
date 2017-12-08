@@ -37,6 +37,9 @@ tags:
 ## Tech
 
 - [AWS re:Invent 2017：全托管的Kubernetes、无服务器RDBMS和DynamoDB Global Table](http://www.infoq.com/cn/news/2017/12/aws-reinvent-day-one)
+- [亚马逊与谷歌把自己年薪 25 万刀的员工“租”给了小公司](http://www.sohu.com/a/209067492_114778)
+	- 大公司将提供尖端的技术服务，外租员工可以加速公司技术的应用。
+- EPEL - Extra Packages for Enterprise Linux.
 
 ## Thinking
 
