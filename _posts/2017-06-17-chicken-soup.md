@@ -109,6 +109,9 @@ tags:
 - **有人已经获得了巨大的成功，这是你也能够成功的证明。**——亚伯拉罕•林肯
 - 博观而约取，厚积而薄发。 - 苏轼
 - The better you dress, the worse you can behave.
+- There is no result in nature without a cause; understand the cause and you will have no need of the experiment. — *Leonardo da Vinci*
+	- 大自然永远无限的理由。 - 达芬奇
+	- 优胜略汰、适者生存。Natural selection and survival of the fittest. 
 
 
 
