@@ -32,6 +32,11 @@ tags:
 - 北韩的存在，让美国多了一个小弟。设想一下：如果北韩被灭了，半岛统一了，以高丽民族的德行，他们还会甘心当美国的小弟？到了那时，更有可能出现的局面是——统一的韩国在“美、中、俄”三个大国之间玩平衡。美国名正言顺在南韩驻军。如果北韩被灭了，半岛统一了，韩国民众还会容许美国佬在自己国家驻军吗？ - from web
 - 博弈论考虑游戏中的个体的预测行为和实际行为，并研究它们的优化策略。表面上不同的相互作用可能表现出相似的激励结构（incentive structure），所以它们是同一个游戏的特例。其中一個有名有趣的應用例子是囚徒困境。 from [博弈论](https://zh.wikipedia.org/wiki/%E5%8D%9A%E5%BC%88%E8%AE%BA)
 
+## Business
+
+- [腾讯入股永辉 新零售战局拉开？](http://finance.sina.com.cn/stock/s/2017-12-12/doc-ifypsvkp2241348.shtml)
+- [京东家电与五星电器战略合作落地无界零售：推动超大型体验店一城一店](http://www.sohu.com/a/209799795_115565)
+
 ## Marketing
 
 - [Amadeus最新调研：中国移动端旅游预订量远超亚太地区其他国家](http://www.travelweekly-china.com/63316)
@@ -47,6 +52,7 @@ tags:
 	- [eGym raises $45M Series C for cloud-connected gym equipment and fitness software](https://techcrunch.com/2016/03/21/egym/)
 	- 精细化计费。
 - [Apple confirms Shazam acquisition; Snap and Spotify also expressed interest](https://techcrunch.com/2017/12/11/apple-shazam-deal/)
+
 
 ## Tech
 
