@@ -112,6 +112,7 @@ tags:
 - There is no result in nature without a cause; understand the cause and you will have no need of the experiment. — *Leonardo da Vinci*
 	- 大自然永远无限的理由。 - 达芬奇
 	- 优胜略汰、适者生存。Natural selection and survival of the fittest. 
+- “You can’t predict, you can prepare.” — *Howard Marks* from [Be Prepared To Lose Your Job In The Future… If You Don’t Learn This One Skill Now](https://medium.com/the-mission/be-prepared-to-lose-your-job-in-the-future-if-you-dont-learn-this-one-skill-now-8a87ade2a268)
 
 
 

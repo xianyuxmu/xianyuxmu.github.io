@@ -36,6 +36,7 @@ tags:
 
 - [腾讯入股永辉 新零售战局拉开？](http://finance.sina.com.cn/stock/s/2017-12-12/doc-ifypsvkp2241348.shtml)
 - [京东家电与五星电器战略合作落地无界零售：推动超大型体验店一城一店](http://www.sohu.com/a/209799795_115565)
+- [Alibaba will soon begin selling cars using these gigantic vending machines](https://techcrunch.com/2017/12/14/alibaba-car-vending-machines/)
 
 ## Marketing
 
