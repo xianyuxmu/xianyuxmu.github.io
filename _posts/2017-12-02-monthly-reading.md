@@ -32,6 +32,11 @@ tags:
 - [中国的中产阶级主要指哪一群人？](https://www.zhihu.com/question/19710550)
 - 北韩的存在，让美国多了一个小弟。设想一下：如果北韩被灭了，半岛统一了，以高丽民族的德行，他们还会甘心当美国的小弟？到了那时，更有可能出现的局面是——统一的韩国在“美、中、俄”三个大国之间玩平衡。美国名正言顺在南韩驻军。如果北韩被灭了，半岛统一了，韩国民众还会容许美国佬在自己国家驻军吗？ - from web
 - 博弈论考虑游戏中的个体的预测行为和实际行为，并研究它们的优化策略。表面上不同的相互作用可能表现出相似的激励结构（incentive structure），所以它们是同一个游戏的特例。其中一個有名有趣的應用例子是囚徒困境。 from [博弈论](https://zh.wikipedia.org/wiki/%E5%8D%9A%E5%BC%88%E8%AE%BA)
+- [Be Prepared To Lose Your Job In The Future… If You Don’t Learn This One Skill Now](https://medium.com/the-mission/be-prepared-to-lose-your-job-in-the-future-if-you-dont-learn-this-one-skill-now-8a87ade2a268)
+	- “What’s Going to Change?”
+	- What’s NOT going to change in the next 10 years?
+	- “You can’t predict, you can prepare.” — Howard Marks
+	- “Predicting rain doesn’t count. Building arks does.” — Warren Buffett
 
 ## Business
 
@@ -61,7 +66,18 @@ tags:
 - [AWS re:Invent 2017：全托管的Kubernetes、无服务器RDBMS和DynamoDB Global Table](http://www.infoq.com/cn/news/2017/12/aws-reinvent-day-one)
 - [亚马逊与谷歌把自己年薪 25 万刀的员工“租”给了小公司](http://www.sohu.com/a/209067492_114778)
 	- 大公司将提供尖端的技术服务，外租员工可以加速公司技术的应用。
-- EPEL - Extra Packages for Enterprise Linux.
+- EPEL - *Extra Packages for Enterprise Linux*.
+- [2018 GitHub最火技术趋势](http://www.infoq.com/cn/news/2017/12/github-2018-tech-trends)
+- [GitHub's technology predictions for 2018](https://github.com/blog/2480-github-s-technology-predictions-for-2018)
+	- Data will rule all. Over the last several years, Cloud 1.0 has been about computing in big clouds, while Cloud 2.0 is all about data. Today all companies are data companies, whether they know it or not.
+	- The workflow war will heat up, and building better workflow tools.
+	- Open source will keep climbing the stack. A decade ago, Linux was a big deal. Now it’s standard. Open source technologies, like Kubernetes, are becoming integral to developers' workflows.
+	- New tools will help developers get their ideas to production faster and save them time turning knobs under the hood.
+	- Security will move into the spotlight, permanently. Security needs to be built into code development, not added in production.
+- [Human Interface Guidelines - iOS](https://developer.apple.com/ios/human-interface-guidelines/overview/iphone-x/)
+- [Magic Leap shows off its Magic Leap One ‘Creator Edition’ AR headset, shipping in 2018](https://techcrunch.com/2017/12/20/magic-leap-shows-off-its-magic-leap-one-creators-edition-ar-headset-shipping-in-2018/)
+- [Apple will reportedly unify iOS and Mac apps in 2018](https://techcrunch.com/2017/12/20/apple-will-reportedly-unify-ios-and-mac-apps-in-2018/)
+
 
 ## Thinking
 
@@ -78,5 +94,3 @@ tags:
 - 在北京的最后一天。 - 14 Dec. 2017
 - 上海的生活比我预期的更加精彩。 - 19 Dec. 2017
 - 今晚，去宜家买了吊衣杆、办公桌和台灯。 - 20 Dec. 2017
-- 今晚，又去了宜家，准备买泰吉桌面框架，没买到，因为一个公司买了所有的泰吉。 - 21 Dec. 2017
-
