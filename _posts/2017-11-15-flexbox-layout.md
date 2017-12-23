@@ -122,7 +122,7 @@ from [深入理解css3中的flex-grow、flex-shrink、flex-basis](http://zhoon.g
 		- 说明：This is the shorthand for `flex-grow`, `flex-shrink` and `flex-basis` combined. Default is `0 1 auto`. **It is recommended that you use this shorthand property**
 	- align-self:
 		- 说明：This allows the default alignment (or the one specified by `align-items`) to be overridden for individual flex items.
-		- align-self: auto | flex-start | flex-end | center | baseline | stretch;
+		- align-self: `auto | flex-start | flex-end | center | baseline | stretch`;
 		- ***Note that `float`, `clear` and `vertical-align` have no effect on a flex item.***
 
 
