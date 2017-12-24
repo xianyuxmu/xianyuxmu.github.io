@@ -116,6 +116,7 @@ tags:
 - Knowing is not enough; we must apply. Willing is not enough; we must do. - *Johann Wolfgang von Goethe*
 - “Predicting rain doesn’t count. Building arks does.” — Warren Buffett
 - ***See the world not as it is, but as it should be.*** - Glee
+- 人生在勤，不索何获？ - 张衡
 
 
 
