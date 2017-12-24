@@ -115,6 +115,7 @@ tags:
 - “You can’t predict, you can prepare.” — *Howard Marks* from [Be Prepared To Lose Your Job In The Future… If You Don’t Learn This One Skill Now](https://medium.com/the-mission/be-prepared-to-lose-your-job-in-the-future-if-you-dont-learn-this-one-skill-now-8a87ade2a268)
 - Knowing is not enough; we must apply. Willing is not enough; we must do. - *Johann Wolfgang von Goethe*
 - “Predicting rain doesn’t count. Building arks does.” — Warren Buffett
+- ***See the world not as it is, but as it should be.*** - Glee
 
 
 
