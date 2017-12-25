@@ -1,0 +1,24 @@
+---
+layout: post
+title: The 2rd week in Shanghai
+date: 2017-12-25 22:51:00 +0800
+categories:
+- Life
+tags:
+- 52WeeksinShanghai
+
+---
+
+## Weekly Plan
+
+## The 2rd Week in Shanghai
+
+Time Range: 2017.12.25-2017.12.31
+
+- 周一：
+	- 今天完成了本周的关键任务：不带包上班；
+	- 最后，以加班结束今天，这是今年第二次加班，赶上了圣诞节🎄
+
+
+## Summary
+
