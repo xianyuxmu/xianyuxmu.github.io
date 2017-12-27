@@ -44,6 +44,7 @@ tags:
 - [腾讯入股永辉 新零售战局拉开？](http://finance.sina.com.cn/stock/s/2017-12-12/doc-ifypsvkp2241348.shtml)
 - [京东家电与五星电器战略合作落地无界零售：推动超大型体验店一城一店](http://www.sohu.com/a/209799795_115565)
 - [Alibaba will soon begin selling cars using these gigantic vending machines](https://techcrunch.com/2017/12/14/alibaba-car-vending-machines/)
+- [等额本金和等额本息](http://esf.bd.fang.com/zt/201505/huankuanfangshi.html)
 
 ## Marketing
 
@@ -78,6 +79,8 @@ tags:
 - [Human Interface Guidelines - iOS](https://developer.apple.com/ios/human-interface-guidelines/overview/iphone-x/)
 - [Magic Leap shows off its Magic Leap One ‘Creator Edition’ AR headset, shipping in 2018](https://techcrunch.com/2017/12/20/magic-leap-shows-off-its-magic-leap-one-creators-edition-ar-headset-shipping-in-2018/)
 - [Apple will reportedly unify iOS and Mac apps in 2018](https://techcrunch.com/2017/12/20/apple-will-reportedly-unify-ios-and-mac-apps-in-2018/)
+- 只含中文、数字、字母的正则：`/^[a-zA-Z0-9\\u4e00-\\u9fa5]+$/`
+	- [正则表达式解析](https://regexr.com/)
 
 
 ## Thinking
