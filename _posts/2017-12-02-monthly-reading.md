@@ -46,6 +46,8 @@ tags:
 - [京东家电与五星电器战略合作落地无界零售：推动超大型体验店一城一店](http://www.sohu.com/a/209799795_115565)
 - [Alibaba will soon begin selling cars using these gigantic vending machines](https://techcrunch.com/2017/12/14/alibaba-car-vending-machines/)
 - [等额本金和等额本息](http://esf.bd.fang.com/zt/201505/huankuanfangshi.html)
+	- 等额本金：每月支付的“本金”是固定的，每月支付的总金额=固定月本金+利息，月利息随着时间减少。
+	- 等额本息：每月支付的“本金+利息”是固定的，每月支付的利息减少，本金增加。
 
 ## Marketing
 
