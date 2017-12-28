@@ -20,6 +20,7 @@ tags:
 	- 一周前，王慧文宣布结束餐饮平台“松鼠便利店”和“共享充电宝”两个试点项目的运营，也是一样的道理，美团点评要做超级平台，必须学会放弃小机会。
 - [一路被唱衰的比特币，怎么就到了1w美元了？据说还将涨到4w美元！](https://mp.weixin.qq.com/s/rwCBANFj4hb9FlW_QrDb3A)
 	- “比特币将经历由繁盛到疲软，直至消亡的阶段。——Wired，比特币价值 13.30 美元。
+- [梁信军：我看中国未来十年](https://36kr.com/p/5068700.html)
 
 ## Life
 
@@ -61,6 +62,7 @@ tags:
 	- [eGym raises $45M Series C for cloud-connected gym equipment and fitness software](https://techcrunch.com/2016/03/21/egym/)
 	- 精细化计费。
 - [Apple confirms Shazam acquisition; Snap and Spotify also expressed interest](https://techcrunch.com/2017/12/11/apple-shazam-deal/)
+- [The Echo Dot was the best-selling product on all of Amazon this holiday season](https://techcrunch.com/2017/12/26/the-echo-dot-was-the-best-selling-product-on-all-of-amazon-this-holiday-season/)
 
 
 ## Tech
