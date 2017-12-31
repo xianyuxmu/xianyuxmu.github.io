@@ -11,6 +11,10 @@ tags:
 
 ---
 
+<blockquote class="blockquote-center">
+<p>"Where are we now? from the next day"</p>
+</blockquote>
+
 ## Top
 
 - [The Best Advice For Remote Work Success From 10 Global Teams [Free Guide]](https://blog.trello.com/remote-work-team-success-guide)
