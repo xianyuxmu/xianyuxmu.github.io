@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 2rd week in Shanghai
+title: The 2ed week in Shanghai
 date: 2017-12-25 22:51:00 +0800
 categories:
 - Life
@@ -11,7 +11,7 @@ tags:
 
 ## Weekly Plan
 
-## The 2rd Week in Shanghai
+## The 2ed Week in Shanghai
 
 Time Range: 2017.12.25-2017.12.31
 
