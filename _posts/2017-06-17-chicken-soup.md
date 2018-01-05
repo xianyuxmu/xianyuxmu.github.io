@@ -117,6 +117,8 @@ tags:
 - “Predicting rain doesn’t count. Building arks does.” — Warren Buffett
 - ***See the world not as it is, but as it should be.*** - Glee
 - 人生在勤，不索何获？ - 张衡
+- 每个人心里都有一团火，路过的人只看到烟。 - 《至爱梵高·星空之谜》
+- 有些事，你现在不做. 一辈子都不会做了. 只要你想做成一件事. 全世界都会来帮你. - 《搭车去柏林》
 
 
 
