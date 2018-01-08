@@ -47,9 +47,20 @@ tags:
 
 - [覆盖4万餐厅占据90%排队市场，这家公司想分食3万亿餐饮蛋糕](https://mp.weixin.qq.com/s/TjNNvGRPIHmoOAbiYxxKNg)
 	- 「我们的执行力是其他公司没法比的，我们的产品功能也比他们领先一点。」
+- [张五常：从黄奇帆的发展思维说中国的财富累积](http://news.efnchina.com/show-123-32439-1.html)
+- [黄奇帆：房地产和实体经济十大失衡和五大长效机制（权威版）](http://www.yicai.com/news/5293041.html)
 
 
 ## Marketing
+- [什么是SPU、SKU、ARPU](http://www.ikent.me/blog/3017)
+	- SPU = Standard Product Unit （标准化产品单元）
+		- 商品：淘宝叫item，京东叫product，商品特指与商家有关的商品，每个商品有一个商家编码，每个商品下面有多个颜色，款式，可以有多个SKU。
+	- SKU=stock keeping unit(库存量单位)
+		- SKU即库存进出计量的单位， 可以是以件、盒、托盘等为单位。在服装、鞋类商品中使用最多最普遍。 例如纺织品中一个SKU通常表示：规格、颜色、款式。
+	- ARPU=Average Revenue Per User(每用户平均收入)
+		- ARPU注重的是一个时间段内运营商从每个用户所得到的利润。因此，高端的用户越多，ARPU越高。在这个时间段里，从运营商的运营情况来看，ARPU值高说明利润高，这段时间效益好。
+	- 总结：**SPU是标准化产品单元，区分品种；SKU是库存量单位，区分单品；商品特指与商家有关的商品，可对应多个SKU。**从广义上讲，类目>SPU>SKU。
+		- 例如：分类：手机；spu：苹果6；sku：土豪金 苹果6
 
 
 ## Tech
