@@ -111,6 +111,10 @@ tags:
 from [如何理解Vue.js的组件中的slot?](https://segmentfault.com/q/1010000005614045)
 
 - Tags in git are lightweight references that point to an SHA hash of a commit. Unlike branches, they are not mutable and once created should not be deleted. Tags may be lightweight (in which case they refer to the commit directly) or annotated (in which case they point to a tag object which points to the commit).
+- The `vertical-align` CSS property specifies the vertical alignment of an inline or table-cell box.
+	- text-top
+	- text-bottom
+	- top bottom
 
 
 ## Thinking
