@@ -115,6 +115,21 @@ from [如何理解Vue.js的组件中的slot?](https://segmentfault.com/q/1010000
 	- text-top
 	- text-bottom
 	- top bottom
+- ***为什么一般的业务中后台要用Java***:
+	- Java面向对象的设计可以很好地满足业务设计；
+	- Java拥有稳定、成熟的体系：SpringMVC、消息队列、中间件；
+	- JVM: 稳定、跨平台、经久不衰；
+- [2017 JavaScript生态圈调查报告](https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247485702&idx=1&sn=8e4b158e712b9c25a20c4efb2b5cb86c) - 如何选取技术战，这一篇就够了
+	- [State of JavaScript 2017](https://stateofjs.com/2017/introduction/)
+- [Pinterest的PWA实践](https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247485707&idx=1&sn=60de1fcd951f76e1c057421bb8d02130) - 分块打包、本地缓存优先
+	- [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
+		- 分块打包降低大小
+		- 使用lighthouse做性能评估优化
+		- 使用PWA加载优化(Service Workers & Application Shell)
+- [来自腾讯云的智能电商系统构建与实战精解](https://mp.weixin.qq.com/s/XCqw4kb2THfZeUNjEzL16g)
+	- 小红书采用了腾讯云
+- [中小型研发团队架构实践：高效率、低风险，一键发布并测试的持续集成工具Jenkins](http://www.infoq.com/cn/articles/architecture-practice-11-jenkins)
+- [解读2017之Kubernetes+云原生：明天会更好](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247487283&idx=1&sn=b3fafe12bf3a3a3f0955c31520b7604a)
 
 
 ## Thinking
