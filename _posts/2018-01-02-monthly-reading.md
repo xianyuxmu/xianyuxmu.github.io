@@ -130,6 +130,16 @@ from [如何理解Vue.js的组件中的slot?](https://segmentfault.com/q/1010000
 	- 小红书采用了腾讯云
 - [中小型研发团队架构实践：高效率、低风险，一键发布并测试的持续集成工具Jenkins](http://www.infoq.com/cn/articles/architecture-practice-11-jenkins)
 - [解读2017之Kubernetes+云原生：明天会更好](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247487283&idx=1&sn=b3fafe12bf3a3a3f0955c31520b7604a)
+- [2017 年崛起的 JS 项目](https://juejin.im/post/5a633babf265da3e2a0dadcc)
+	- [2017 JavaScript Rising Stars](https://risingstars.js.org/2017/en/)
+	- 潮流更迭，其宗不变。
+- 温故而知新，复习了一下：`React this.setState`: [setState() from React Offical Docs.](https://reactjs.org/docs/react-component.html#setstate)
+	- `setState()` enqueues changes to the component state and tells React that this component and its children need to be re-rendered with the updated state. **This is the primary method you use to update ...**
+	- `setState()` does not always immediately update the component. It may batch or defer the update until later.
+- JavaScript的字符串比较：
+	- 注意若类型间比较的自动类型转换问题，必要时使用强类型的TypeScript；
+	- 注意**两个字符串间**的比较(不会自动转成数字再比较)，例如：`'10' > '2'`，结果为：`false`；
+	- 排查`比较符`相关问题一定要明确：**比较变量的类型、以及将转换成的类型是什么**；
 
 
 ## Thinking
