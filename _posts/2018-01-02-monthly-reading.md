@@ -140,6 +140,7 @@ from [如何理解Vue.js的组件中的slot?](https://segmentfault.com/q/1010000
 	- 注意若类型间比较的自动类型转换问题，必要时使用强类型的TypeScript；
 	- 注意**两个字符串间**的比较(不会自动转成数字再比较)，例如：`'10' > '2'`，结果为：`false`；
 	- 排查`比较符`相关问题一定要明确：**比较变量的类型、以及将转换成的类型是什么**；
+- [Parcel.js带来零配置JavaScript模块打包器](http://www.infoq.com/cn/news/2018/01/parceljs-zero-config-module-bund)
 
 
 ## Thinking
