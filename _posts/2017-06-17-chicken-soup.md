@@ -122,6 +122,22 @@ tags:
 - **潮流更迭，其宗不变。** - Robin Chen
 - “**像别人看我们一样看我们自己可能会证实我们对别人最坏的猜忌。** —— 富兰克林·P.琼斯（cited in Peter， 1977）”
 	- Excerpt From: 斯科特·普劳斯 (Scott Plous). “决策与判断.” iBooks.  
+- “Those who think they have no time for bodily exercise will sooner or later have to find time for illness.” – Edward Stanley, Statesman
+	- 「那些覺得自己沒有時間運動的人，遲早要騰出時間來生病。」– 愛德華·斯坦利 (英國政治家)
+- “If we worked on the assumption that what is accepted as true really is true, then there would be little hope for advance.” – Orville Wright, Inventor
+	- 「如果我們假設，被接受的事實真是事實的話，那進步就沒什麼希望了。」– 奧維爾·萊特 (發明家)
+- “Good judgment comes from experience, and a lot of that comes from bad judgment.” — Will Rogers, Humorist
+	- 「明智的判斷來自經驗， 而經驗往往源自錯誤的判斷。」– 威爾‧羅傑斯 (幽默演員)
+- “The power of imagination makes us infinite.” – John Muir, Environmentalist
+	- 「想像讓我們的能力無限大。」– 約翰·繆爾 (環保運動領袖)
+- “I want to live my life, not record it.” – Jackie Kennedy, First Lady of the U.S.
+	- 「我想要生活，不是紀錄生活。」– 賈桂琳·甘迺迪 (美國第一夫人)
+- “God gives the nuts, but he does not crack them. ” — Franz Kafka, Writer
+	- 「上帝給我們堅果，但不會為我們敲開外殼。」– 法蘭茲‧卡夫卡 (作家)
+- “My life didn’t please me, so I created my life.” – Coco Chanel, Fashion Designer
+	- 「我的生活不能取悦我，所以我創造了自己的生活。」– 可可‧香奈兒 (時裝設計師)
+- “When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.” – Henry Ford, Industrialist
+	- 「當你覺得諸事不順時，記住飛機是逆著風而飛起，不是順著風。」– 亨利‧福特 (工業家)
 
 
 
