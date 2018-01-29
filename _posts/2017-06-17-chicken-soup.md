@@ -138,6 +138,7 @@ tags:
 	- 「我的生活不能取悦我，所以我創造了自己的生活。」– 可可‧香奈兒 (時裝設計師)
 - “When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.” – Henry Ford, Industrialist
 	- 「當你覺得諸事不順時，記住飛機是逆著風而飛起，不是順著風。」– 亨利‧福特 (工業家)
+- “Where the determination is, the way can be found.”  ― George S. Clason, The Richest Man in Babylon
 
 
 
