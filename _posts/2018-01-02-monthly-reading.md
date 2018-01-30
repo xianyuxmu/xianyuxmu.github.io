@@ -17,6 +17,7 @@ tags:
 
 ## Top
 
+- [Cali](https://en.wikipedia.org/wiki/Cali)
 - [乔布斯的管理课](http://www.ruanyifeng.com/blog/2014/10/real-leadership-lessons-of-steve-jobs.html)
 	- 一、保持专注
 	- 二、保持简单
