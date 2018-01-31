@@ -148,6 +148,19 @@ from [如何理解Vue.js的组件中的slot?](https://segmentfault.com/q/1010000
 	- 排查`比较符`相关问题一定要明确：**比较变量的类型、以及将转换成的类型是什么**；
 - [Parcel.js带来零配置JavaScript模块打包器](http://www.infoq.com/cn/news/2018/01/parceljs-zero-config-module-bund)
 - [HTML for Icon Font Usage](https://css-tricks.com/html-for-icon-font-usage/)
+- [使用CSS来上报数据——给予url()](https://github.com/jbtronics/CrookedStyleSheets/blob/master/docs/README.zh.md)
+- [What’s new in Vue Devtools 4.0](https://medium.com/the-vue-point/whats-new-in-vue-devtools-4-0-9361e75e05d0)
+- [Use `rem` for Global Sizing; Use `em` for Local Sizing](https://css-tricks.com/rem-global-em-local/)
+	- 使用`rem`：识别不同的设备，给`<html/>`设定不同的基础值；
+	- 巧用`rem`和`em`：
+		- Global Sizing：相对于`<html/>`,使用`rem`；
+		- Local Sizing：相对于`父元素`，使用`em`；
+- [不管你的Redis集群规模有多大，都是时候思考下如何提升资源利用率了](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247487375&idx=1&sn=07f44efab38ac0cb37fe4cf9890f0cb3)
+	- 不管什么数据、不管这数据有多大、不管数据有多少通通塞进去，最后导致的问题就是 Redis 内存使用持续上升，但是又不知道里面的数据是不是有用，是否可以拆分和清理。
+	- 一个 Redis 的实例用了那么大的内存，里边到底存了啥？都有哪些 key？每个 key 占用了多少空间？
+	- 目标：缓存分级、监控清理机制、可预见性和可见性、缓存的利用率。
+- User Acceptance Testing (UAT)
+	- [What is User Acceptance Testing?](https://blog.testlodge.com/what-is-user-acceptance-testing/)
 
 
 ## Thinking
