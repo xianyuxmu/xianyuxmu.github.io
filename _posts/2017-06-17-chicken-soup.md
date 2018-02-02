@@ -139,6 +139,8 @@ tags:
 - “When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.” – Henry Ford, Industrialist
 	- 「當你覺得諸事不順時，記住飛機是逆著風而飛起，不是順著風。」– 亨利‧福特 (工業家)
 - “Where the determination is, the way can be found.”  ― George S. Clason, The Richest Man in Babylon
+- “Man are disturbed not by things, but by the view which they take of them.” – Epictetus, Philosopher
+	- 「人們的困擾不是來自事情的本身，而是來自他們對事情的看法」– 愛比克泰德 (哲學家)
 
 
 
