@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 4th week in Shanghai
+title: The 7th week in Shanghai
 date: 2018-01-29 23:22:00 +0800
 categories:
 - Life
@@ -33,6 +33,10 @@ Time Range: 2018.01.29-2018.02.04
 - 周六：
 	- 午后去公司，把一些文章整理了。
 	- 晚饭小杨生煎。现在准备去宜家，买些家具。
+- 周日：
+	- 下午：苏宁买了电视。第二天才能交货。
+	- 傍晚：去宜家。买了新的电视柜。
+	- 晚上：来福士言又几。看书。
 
 ## Summary
 
