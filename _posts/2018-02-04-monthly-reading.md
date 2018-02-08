@@ -35,6 +35,12 @@ tags:
 ## Tech
 
 - [HTML5](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5)
+- [微信小程序中，真机和模拟器效果不一样](http://blog.csdn.net/tangxiujiang/article/details/77606696)
+	- 小程序开发的几大问题：
+		- rpx在不同机型计算结果不一致，导致实际效果不一致。rpx最好是偶数。
+		- CSS样式支持在不同机型的表现不一致。
+- [The Complete Guide to A/B Testing](https://vwo.com/ab-testing/)
+	- A/B Testing 用户可分类的支持。
 
 
 ## Thinking
