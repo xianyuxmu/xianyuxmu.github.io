@@ -144,7 +144,8 @@ tags:
 - "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did." - Mark Twain
 	- “二十年后，你会对你没有做过的事情感到失望，而不是你做过的事情。”——马克吐温
 - Mark Twain
-	- s better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt.
+	- ***The secret of getting ahead is getting started.***
+	- It's better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt.
 	- Age is an issue of mind over matter. If you don't mind, it doesn't matter.
 	- Do the right thing. It will gratify some people and astonish the rest.
 	- “EXPLORE. DREAM. DISCOVER.” 
