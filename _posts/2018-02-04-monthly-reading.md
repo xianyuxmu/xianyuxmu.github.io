@@ -46,6 +46,7 @@ tags:
 
 ## Business
 
+- [历次股灾：原因、救市、效果和启示](http://www.huangrong123.com/?p=8360)
 
 
 ## Marketing
