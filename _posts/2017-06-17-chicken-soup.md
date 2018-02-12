@@ -230,6 +230,11 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- 男女之间不可能存在友谊，有的只是爱恨情仇。
 - Don't give a woman advice; one should never give a woman anything she can't wear in the evening. 
 	- 不要给女人忠告；决不要给女人任何她晚上不能穿戴的东西。 
+- Don't wish it happens, make it happens. 
+- ***The best way to predict the future is to create/invent it.*** ― Walter Isaacson, Steve Jobs
+- Some people want it to happen, some wish it would happen, others make it happen. - *Michael Jordan*
+- ***“If you act like you can do something, then it will work.”*** ― Walter Isaacson, Steve Jobs
+- “So many books, so little time.” ― Frank Zappa
 
 
 ----
