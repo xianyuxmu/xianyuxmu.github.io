@@ -170,6 +170,9 @@ tags:
 	- “IF YOU DON’T READ THE NEWSPAPER YOU ARE UNINFORMED, IF YOU DO READ THE NEWSPAPER YOU ARE MISINFORMED.”
 	- “I’VE HAD A LOT OF WORRIES IN MY LIFE, MOST OF WHICH NEVER HAPPENED.”
 	- “IT IS WISER TO FIND OUT THAN TO SUPPOSE.”
+- 常常，我们的行动不如我们的想法明智。
+- “Actions to address risks and opportunities”
+	- 行动用于衡量风险和机会。
 
 
 
