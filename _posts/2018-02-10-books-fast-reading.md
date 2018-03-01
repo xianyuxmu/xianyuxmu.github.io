@@ -31,3 +31,10 @@ tags:
 		- [怎么理解「精益创业」创业模式？](https://www.zhihu.com/question/20449597)
 		- 假设本身并不科学！可证伪的假设才是科学的。 - 卡尔•波普尔
 		- [Eric Ries - The Lean Startup - Google Tech Talk](https://www.slideshare.net/startuplessonslearned/eric-ries-the-lean-startup-google-tech-talk)
+- 《精益创业实战》
+	- AARRR模型（获取用户、提高活跃度、提高留存率、获取收入、自传播）
+	- MVP（最小时可执行产品）
+	- 有想法，马上落地。
+	- 真正的目标可以概括成：理解客户需求（是什么在困扰客户），发现顾客购买产品的规律，利用合理的商业模型获取利润。
+	- 执行、探索、学习。
+- 《》 
