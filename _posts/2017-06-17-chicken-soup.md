@@ -145,6 +145,7 @@ tags:
 	- “二十年后，你会对你没有做过的事情感到失望，而不是你做过的事情。”——马克吐温
 - Mark Twain
 	- ***The secret of getting ahead is getting started.***
+		- 领先的秘诀是——马上开始。
 	- It's better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt.
 	- Age is an issue of mind over matter. If you don't mind, it doesn't matter.
 	- Do the right thing. It will gratify some people and astonish the rest.
@@ -238,6 +239,27 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - Some people want it to happen, some wish it would happen, others make it happen. - *Michael Jordan*
 - ***“If you act like you can do something, then it will work.”*** ― Walter Isaacson, Steve Jobs
 - “So many books, so little time.” ― Frank Zappa
+
+### 爱因斯坦
+
+- 一个从未犯错的人是因为他不曾尝试新鲜事物。
+	- Anyone who has never made a mistake has never tried anything new.
+- 宇宙中最强大的力，就是复利。
+	- The most powerful force in the universe is compound interest.
+- 如一个想法在最初并不荒谬，那它就没希望。
+	- If at first the idea is not absurd, then there is no hope for it.
+- 一个人最高的本领就是**适应客观世界的能力**。
+- 并不是我聪明，只是我和问题相处较久。
+- 想像力远比知识更重要。因知识有限，想像则无限,它包含一切,推动着进步,为人类进化的源泉。
+	- Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.
+- 态度上的软弱会变成性格上的软弱。
+	- Weakness of attitude becomes weakness of character.
+- 从来没有犯过错误的人也从没有尝试过新事物。
+	- Anyone who has never made a mistake has never tried anything new.
+- 成功＝艰苦劳动＋正确的方法＋少说空话。
+	- “Genius is 1% talent and 99% percent hard work...”
+	- A + B + C = Success if, A = Hard Work, B = Hard Play, C = Keeping your mouthshut.
+	- **Success = hard work + the right way to + talk less empty talk.** -Albert Einstein
 
 
 ----
