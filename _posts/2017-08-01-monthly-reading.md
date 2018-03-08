@@ -25,7 +25,7 @@ tags:
 	- Adobe的革新让我十分振奋，未来很精彩！
 - [32年后，马云拿2000万美元回报他第一个贵人](http://cj.sina.com.cn/article/detail/2949462582/157303)
 	- 当年肯听说马云买房困难，还支援了5万美金。
-- [阿里巴巴：一棵梧桐树，长了18年 | 封面](http://blog.sina.com.cn/s/blog_5f0b84100102x4yh.html?tj=1)
+- [阿里巴巴：一棵梧桐树，长了18年](http://blog.sina.com.cn/s/blog_5f0b84100102x4yh.html?tj=1)
 
 ## Life
 
