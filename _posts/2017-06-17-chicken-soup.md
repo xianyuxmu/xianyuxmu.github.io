@@ -174,6 +174,8 @@ tags:
 - 常常，我们的行动不如我们的想法明智。
 - “Actions to address risks and opportunities”
 	- 行动用于衡量风险和机会。
+- Good artists copy, great artists steal. 巧匠摩形，大师窃意。——毕加索
+- “If you act like you can do something, then it will work.” ― Walter Isaacson, Steve Jobs
 
 
 
