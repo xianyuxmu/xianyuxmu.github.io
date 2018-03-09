@@ -163,4 +163,24 @@ tags:
 			- “If you want to live your life in a creative way, as an artist, you have to not look back too much. You have to be willing to take whatever you’ve done and whoever you were and throw them away. The more the outside world tries to reinforce an image of you, the harder it is to continue to be an artist, which is why a lot of times, artists have to say, “Bye. I have to go. I’m going crazy and I’m getting out of here.” And they go and hibernate somewhere. Maybe later they re-emerge a little differently. (Steve Jobs)”  ― Walter Isaacson, Steve Jobs
 			- “If you act like you can do something, then it will work.” ― Walter Isaacson, Steve Jobs
 			- “One way to remember who you are is to remember who your heroes are.” ― Walter Isaacson, Steve Jobs
+- [《创业就是要细分垄断》](https://book.douban.com/subject/27043167/)
+	- 我的观点：
+		- 本文的两个关键词是：**垄断、细分**。垄断是目标、细分是手段。把“波特的三个基本竞争战略”重新讲了一遍。核心逻辑：
+			- 细分：即聚焦，专业性更强、单位业务的投入更多，单位的ROI回报更大，进而在细分领域能够领先。
+		- 垄断是目标，而垄断的目的是获取更加可观的利润。
+		- 细分的好处：
+			- 大的垄断不适合从0到1的创业，因为你要直面市场中已有的竞争者；
+			- 大公司的业务范围太广，其优势在综合优势、某个面面，面面不能俱到、点的优势更不明显；
+			- 细分意味着聚焦，聚焦意味着专注，专注保证了专业性；
+		- 在大的行业里面做细分，因为大行业始终有利可图，会产生充分的竞争，也保证了其中细分领域的机会
+	- 摘要：
+		- 互联网抹平了交易壁垒
+			- 把小的分散市场联结成单一大市场
+			- 消除信息不对称，减少交易环节，用户到达，交易发现，增加交易的匹配和速度
+			- 标准化需求，减少多元化；
+			- 降低交易成本和准入门槛；
+		- 要寻找足够大的市场
+		- 垄断细分市场是为了立足更大的市场
+	- 相关文章：
+		- [《基本竞争战略》](http://wiki.mbalib.com/wiki/%E5%9F%BA%E6%9C%AC%E7%AB%9E%E4%BA%89%E6%88%98%E7%95%A5)
 
