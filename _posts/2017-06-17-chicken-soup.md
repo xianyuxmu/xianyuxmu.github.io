@@ -141,42 +141,20 @@ tags:
 - “Where the determination is, the way can be found.”  ― George S. Clason, The Richest Man in Babylon
 - “Man are disturbed not by things, but by the view which they take of them.” – Epictetus, Philosopher
 	- 「人們的困擾不是來自事情的本身，而是來自他們對事情的看法」– 愛比克泰德 (哲學家)
-- "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did." - Mark Twain
-	- “二十年后，你会对你没有做过的事情感到失望，而不是你做过的事情。”——马克吐温
-- Mark Twain
-	- ***The secret of getting ahead is getting started.***
-		- 领先的秘诀是——马上开始。
-	- It's better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt.
-	- Age is an issue of mind over matter. If you don't mind, it doesn't matter.
-	- Do the right thing. It will gratify some people and astonish the rest.
-	- “EXPLORE. DREAM. DISCOVER.” 
-	- “A BANKER IS A FELLOW WHO LENDS YOU HIS UMBRELLA WHEN THE SUN IS SHINING, BUT WANTS IS BACK THE MINUTE ITBEGINS TO RAINS.”
-	- “I DO NOT FEAR DEATH, I HAD BEEN DEAD FOR BILLIONS AND BILLIONS OF YEARS BEFORE I WAS BORN, AND HAD NOT SUFFERED THE SLIGHTEST INCONVENIENCE FROM IT.”
-	- **“GIVE EVERY DAY THE CHANCE TO BECOME THE MOST BEAUTIFUL OF YOUR LIFE.”**
-	- “NEVER PUT OFF TILL TOMORROW WHAT YOU CAN DO THE DAY AFTER TOMORROW.” 
-	- “CONTINUOUS IMPROVEMENT IS BETTER THAN DELAYED PERFECTION”.
-	- “NEVER TRY TO TEACH A PIG TO SING, YOU WASTE YOUR TIME, AND YOU ANNOY THE PIG”
-	- “TO SUCCEED IN LIFE,  YOU NEED TWO THINGS IGNORANCE AND CONFIDENCE.”
-	- “LIFE IS SHORT, BREAK THE RULES. FORGIVE QUICKLY, KISS SLOWLY. LOVE TRULY. LAUGH UNCONTROLLABLY AND NEVER REGRET ANYTHING THAT MAKES YOU SMILE.”
-	-  “I HAVE NEVER LET MY SCHOOLING INTERFERE WITH MY EDUCATION.” 
-	-  “TRAVEL IS FATAL TO PREJUDICE, BIGOTRY, AND NARROW-MINDEDNESS.”
-	- “NEVER ARGUE WITH A FOOL. ONLOOKER MAY NOT BE ABLE TO TELL THE DIFFERENCE.”
-	- “DO SOMETHING EVERY DAY THAT YOU DON’T WANT TO DO; THIS IS THE GOLDEN RULE FOR ACQUIRING THE HABIT OF DOING YOUR DUTY WITHOUT PAIN.” 
-	- “DON’T WAIT. THE TIME WILL NEVER BE JUST RIGHT.” 
-	- “WHEN YOU FIND YOURSELF ON THE SIDE OF THE MAJORITY, YOU SHOULD PAUSE AND REFLECT.”
-	- “IF YOU TELL THE TRUTH, YOU DON’T HAVE TO REMEMBER ANYTHING.”
-	- “NEVER ARGUE WITH STUPID PEOPLE, THEY WILL DRAG YOU DOWN TO THEIR LEVEL AND THEN BEAT YOU WITH EXPERIENCE.”
-	- “OF ALL THE THINGS I’VE LOST, I MISS MY MIND THE MOST.”
-	- “IT USUALLY TAKES ME MORE THAN THREE WEEKS TO PREPARE A GOOD IMPROMPTU SPEECH.”
-	- “IF YOU DON’T READ THE NEWSPAPER YOU ARE UNINFORMED, IF YOU DO READ THE NEWSPAPER YOU ARE MISINFORMED.”
-	- “I’VE HAD A LOT OF WORRIES IN MY LIFE, MOST OF WHICH NEVER HAPPENED.”
-	- “IT IS WISER TO FIND OUT THAN TO SUPPOSE.”
 - 常常，我们的行动不如我们的想法明智。
 - “Actions to address risks and opportunities”
 	- 行动用于衡量风险和机会。
 - Good artists copy, great artists steal. 巧匠摩形，大师窃意。——毕加索
 - “If you act like you can do something, then it will work.” ― Walter Isaacson, Steve Jobs
-
+- Nothing is more expensive than a missed opportunity. - H. Jackson Brown, Jr.
+- Stop worrying about missed opportunities and start looking for new ones. - I. M. Pei
+- I've learned .... That opportunities are never lost; someone will take the ones you miss. - Andy Rooney
+- I was seldom able to see an opportunity until it had ceased to be one. - Mark Twain
+- Youth is a period of missed opportunities. - Cyril Connolly
+- Why cry about missed opportunities when you have the ability to smile at opportunities lived? The past has created who you are NOW, where we learn and grow from the past, never resting upon previous achievements or allowing past failure to paralyze us in our current endeavor. All that was has created us to be the best we currently are for our greatest hour is about to arise! - Greg Plitt
+- History is nothing if not an epic tale of missed opportunities. - Graydon Carter
+- **Try to be a rainbow in someone's cloud.** - Maya Angelou
+- A man can be destroyed but not defeated. - Ernest Hemingway
 
 
 ----
@@ -209,11 +187,12 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - Control your own destiny or someone else will.
 - If you don't have a competitive advantage, don't compete.
 
-### Friedrich Wilhelm Nietzsche
+### Friedrich Wilhelm Nietzsche 尼采
 
 - “True liberty is to have power over oneself in all things.” - *Michel de Montaigne, Philosopher*
 	- 「真正的自由是在所有時候都能控制自己。」– 蒙田 (哲學家)
 - 一个人知道自己为什么而活，就可以忍受任何一种生活。
+	- He who has a why to live can bear almost any how.
 - That which does not kill us makes us stronger.
 	- 但凡不能杀死你的，最终都会使你更强大。
 - 不能听命于自己者，就要受命于他人。
@@ -221,12 +200,12 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - 千万不要忘记：我们飞翔得越高，我们在那些不能飞翔的人眼中的形象越是渺小。
 - 没有可怕的深度，就没有美丽的水面。
 - 信仰就是不想知道真相是什么。
-- 不妨大胆，因为我们终将失去。
+- **不妨大胆，因为我们终将失去。**
 - 聪明的人只要能掌握自己，便什么也不会失去。
 - 平淡的生活，往往是最危险的。
 - 没有事实，只有诠释。
 
-### Oscar Wilde
+### Oscar Wilde 奥斯卡•王尔德
 
 - “Be yourself. Everyone else is already taken.” - *Oscar Wilde, Writer*
 	- 「做你自己，其他人都已經有人做了。」– 奧斯卡‧王爾德 (作家)
@@ -263,6 +242,41 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- A + B + C = Success if, A = Hard Work, B = Hard Play, C = Keeping your mouthshut.
 	- **Success = hard work + the right way to + talk less empty talk.** -Albert Einstein
 
+### Mark Twain 马克•吐温
+
+- "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did." - Mark Twain
+	- “二十年后，你会对你没有做过的事情感到失望，而不是你做过的事情。”——马克吐温
+- ***The secret of getting ahead is getting started.***
+	- 领先的秘诀是——马上开始。
+- It's better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt.
+- Age is an issue of mind over matter. If you don't mind, it doesn't matter.
+- Do the right thing. It will gratify some people and astonish the rest.
+- “EXPLORE. DREAM. DISCOVER.” 
+- “A BANKER IS A FELLOW WHO LENDS YOU HIS UMBRELLA WHEN THE SUN IS SHINING, BUT WANTS IS BACK THE MINUTE ITBEGINS TO RAINS.”
+- “I DO NOT FEAR DEATH, I HAD BEEN DEAD FOR BILLIONS AND BILLIONS OF YEARS BEFORE I WAS BORN, AND HAD NOT SUFFERED THE SLIGHTEST INCONVENIENCE FROM IT.”
+- **“GIVE EVERY DAY THE CHANCE TO BECOME THE MOST BEAUTIFUL OF YOUR LIFE.”**
+- “NEVER PUT OFF TILL TOMORROW WHAT YOU CAN DO THE DAY AFTER TOMORROW.” 
+- “CONTINUOUS IMPROVEMENT IS BETTER THAN DELAYED PERFECTION”.
+- “NEVER TRY TO TEACH A PIG TO SING, YOU WASTE YOUR TIME, AND YOU ANNOY THE PIG”
+- “TO SUCCEED IN LIFE,  YOU NEED TWO THINGS IGNORANCE AND CONFIDENCE.”
+- “LIFE IS SHORT, BREAK THE RULES. FORGIVE QUICKLY, KISS SLOWLY. LOVE TRULY. LAUGH UNCONTROLLABLY AND NEVER REGRET ANYTHING THAT MAKES YOU SMILE.”
+-  “I HAVE NEVER LET MY SCHOOLING INTERFERE WITH MY EDUCATION.” 
+-  “TRAVEL IS FATAL TO PREJUDICE, BIGOTRY, AND NARROW-MINDEDNESS.”
+- “NEVER ARGUE WITH A FOOL. ONLOOKER MAY NOT BE ABLE TO TELL THE DIFFERENCE.”
+- “DO SOMETHING EVERY DAY THAT YOU DON’T WANT TO DO; THIS IS THE GOLDEN RULE FOR ACQUIRING THE HABIT OF DOING YOUR DUTY WITHOUT PAIN.” 
+- “DON’T WAIT. THE TIME WILL NEVER BE JUST RIGHT.” 
+- “WHEN YOU FIND YOURSELF ON THE SIDE OF THE MAJORITY, YOU SHOULD PAUSE AND REFLECT.”
+- “IF YOU TELL THE TRUTH, YOU DON’T HAVE TO REMEMBER ANYTHING.”
+- “NEVER ARGUE WITH STUPID PEOPLE, THEY WILL DRAG YOU DOWN TO THEIR LEVEL AND THEN BEAT YOU WITH EXPERIENCE.”
+- “OF ALL THE THINGS I’VE LOST, I MISS MY MIND THE MOST.”
+- “IT USUALLY TAKES ME MORE THAN THREE WEEKS TO PREPARE A GOOD IMPROMPTU SPEECH.”
+- “IF YOU DON’T READ THE NEWSPAPER YOU ARE UNINFORMED, IF YOU DO READ THE NEWSPAPER YOU ARE MISINFORMED.”
+- “I’VE HAD A LOT OF WORRIES IN MY LIFE, MOST OF WHICH NEVER HAPPENED.”
+- “IT IS WISER TO FIND OUT THAN TO SUPPOSE.”
+- “Never miss a good chance to shut up.”
+	- 千万不要错过一个好机会闭嘴。
+- - I was seldom able to see an opportunity until it had ceased to be one. - Mark Twain
+- “Give every day the chance to become the most beautiful day of your life.”
 
 ----
 
