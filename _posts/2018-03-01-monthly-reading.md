@@ -18,6 +18,8 @@ tags:
 
 ## Top
 
+- [风云20年，刘强东大逆袭，中关村大败局！](http://cj.sina.com.cn/article/detail/5617133798/410079)
+
 
 ## Life
 
@@ -47,6 +49,8 @@ tags:
 - [2017年最值得关注的消费升级100+新品牌，有哪些不应该错过？](https://www.zhihu.com/question/264360182)
 
 ## Tech
+
+- [产品经理业务流程图的绘制流程分享](http://www.woshipm.com/pmd/3864.html)
 
 
 ## Thinking
