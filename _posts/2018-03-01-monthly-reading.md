@@ -19,6 +19,25 @@ tags:
 ## Top
 
 - [风云20年，刘强东大逆袭，中关村大败局！](http://cj.sina.com.cn/article/detail/5617133798/410079)
+- [7 Habits of Highly Effective People [Book Summary]](https://blog.hubspot.com/sales/habits-of-highly-effective-people-summary)
+	- [The 7 Habits of Highly Effective People](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People)
+- [一万亿美元外汇储备之痛](http://www.ruanyifeng.com/blog/2006/09/a_difficult_dilemma_of_a_trillion_china_foreign_exchange_reserve.html)
+	- [中国经济，2005年不同于2000年](http://www.ruanyifeng.com/blog/2005/08/20052000.html)
+- [各种“效应”“定律”“法则”](https://www.douban.com/note/317998269/)
+	- 帕金森定律
+		- 英国著名历史学家诺斯古德·帕金森通过长期调查研究，写出一本名叫《帕金森定律》的书。他在书中阐述了机构人员膨胀的原因及后果：**一个不称职的官员，可能有三条出路，第一是申请退职，把位子让给能干的人；第二是让一位能干的人来协助自己工作；第三是任用两个水平比自己更低的人当助手。**这第一条路是万万走不得的，因为那样会丧失许多权利；第二条路也不能走，因为那个能干的人会成为自己的对手；看来只有第三条路最适宜。于是，两个平庸的助手分担了他的工作，他自己则高高在上发号施令，他们不会对自己的权利构成威胁。两个助手既然无能，他们就上行下效，再为自己找两个更加无能的助手。如此类推，就形成了一个机构臃肿，人浮于事，相互扯皮，效率低下的领导体系。
+		- 福克兰定律：没有必要做出决定时就有必要不做决定。
+		- 伊夫现象：最合适最喜欢的商品仅供陈列。
+		- 卡德宁定律：你得到最多的是你最不需要的东西。
+- [怎么区分和理解定理、定律、理论、概念、效应、规则、原理？](https://www.zhihu.com/question/20222198)
+	- 定理，law or rule，是经过受逻辑限制的证明为真的陈述。
+	- 定律，axiom，是由不变的事实规律所归纳出的结论，是对客观事实的一种表达形式，是通过大量具体的客观事实经验累积归纳而成的结论。
+	- 理论，theorem，是按照已有的实证知识、经验、事实、法则、认知以及经过验证的假说，经由一般化与演绎推理等等的方法，进行合乎逻辑的推论性总结。
+	- 概念，definition，是抽象的、普遍的想法、观念或充当指明实体、事件或关系的范畴或类的实体。
+	- 效应，effect，一定条件下的一种因果现象。
+- [你要的理论、法则、定律、效应都在这里了](https://www.jianshu.com/p/7f8461f6f6a0)
+	- MBA智库百科：[迟延满足效应](http://wiki.mbalib.com/wiki/%E8%BF%9F%E5%BB%B6%E6%BB%A1%E8%B6%B3%E6%95%88%E5%BA%94)
+
 
 
 ## Life
@@ -51,6 +70,11 @@ tags:
 ## Tech
 
 - [产品经理业务流程图的绘制流程分享](http://www.woshipm.com/pmd/3864.html)
+- [WebAssembly：面向Web的通用二进制和文本格式](http://www.infoq.com/cn/news/2015/06/webassembly-wasm)
+	- Mozilla、谷歌、微软和苹果已经决定开发一种面向Web的二进制格式。该格式名为WebAssembly，可以作为**任何编程语言的编译目标，使应用程序可以运行在浏览器或其它代理中**。
+	- WebAssembly得到了所有浏览器的支持
+	- 现在，我们看到人们将WebAssembly用到了各种类型的新项目之中。所以，这意味着，最终会**有一天我们将在Web上运行大多数的程序，其效果就像现在在本地PC上运行那样**。
+- [Let's Encrypt 宣布支持通配符证书，所有子域名可轻松开启 HTTPS](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247487566&idx=1&sn=3eea2bc71b123967fca82934ee1353e7)
 
 
 ## Thinking
