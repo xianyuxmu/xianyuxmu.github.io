@@ -155,6 +155,25 @@ tags:
 - History is nothing if not an epic tale of missed opportunities. - Graydon Carter
 - **Try to be a rainbow in someone's cloud.** - Maya Angelou
 - A man can be destroyed but not defeated. - Ernest Hemingway
+- “虽然你常常是步履蹒跚地到达目的地，但是，你必须先行动，才能有步履蹒跚。” - *3M*
+- “It’s kind of fun to do the impossible.” - Walt Disney, Producer
+	- 「做不可能的事蠻有趣的。」– 華特‧迪士尼 (製作人)
+- “Don’t be so humble – you are not that great.” - Golda Meir, Israel Prime Minister
+	- 别那么谦虚，你没那么伟大。
+- “当陪你的人要下车时，即使不舍，也该心存感激，然后挥手道别。” ——《千与千寻》，宫崎骏
+- Groucho Marx
+	- I refuse to join any club that would have me as a member. - Groucho Marx
+		- 我拒绝加入任何接受我成为会员的俱乐部。
+	- “人们既可成为我们的翼下之风，亦可成为船头之锚。 ——格罗克•马克斯（Groucho Marx）
+	- You are only as old as the woman you feel.
+- 没有需要，就根本谈不上积极性。- 乌兹纳泽定律
+- 福克兰定律：没有必要做出决定时就有必要不做决定。
+- 伊夫现象：最合适最喜欢的商品仅供陈列。
+- 卡德宁定律：你得到最多的是你最不需要的东西。
+- “We must accept finite disappointment, but we must never lose infinite hope.” - Martin Luther King, Civil Rights Leader
+	- 我们必须接受有限的失望，但绝不失去无尽的希望。 - 马丁•路德•金
+- “Build your own dreams, or someone else will hire you to build theirs.” - Farrah Gray, Motivational Speaker
+	- **建造你自己的梦想，或者其他人会雇佣你去建造他们的梦想。**
 
 
 ----
@@ -277,6 +296,8 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- 千万不要错过一个好机会闭嘴。
 - - I was seldom able to see an opportunity until it had ceased to be one. - Mark Twain
 - “Give every day the chance to become the most beautiful day of your life.”
+- 远离那些轻视你雄心的人。 - 马克吐温
+
 
 ----
 
