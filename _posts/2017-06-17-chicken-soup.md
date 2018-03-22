@@ -174,6 +174,17 @@ tags:
 	- 我们必须接受有限的失望，但绝不失去无尽的希望。 - 马丁•路德•金
 - “Build your own dreams, or someone else will hire you to build theirs.” - Farrah Gray, Motivational Speaker
 	- **建造你自己的梦想，或者其他人会雇佣你去建造他们的梦想。**
+- If you don't prioritize your life, someone else will.
+	- 如果不能自己安排生活的优先次序，别人会替你安排。
+-  人生中一半的麻烦源于答应得太快，拒绝得太慢。 - 乔希•比林斯
+-  避免碌碌无为。 - 苏格拉底
+	-  **Beware of a Busy Life.** - Socrates
+	-  Beware the barrenness of a busy life. - Socrates
+-  生之智慧，在于摒弃不必要之事。——林语堂
+-  To do is to be. - Socrates
+	-  行动决定结果。
+- “Employ your time in improving yourself by other men's writings so that you shall gain easily what others have labored hard for.” - Socrates
+	- 将你的时间用于阅读他人的作品，别人费力学到的东西，你就能轻松获得。
 
 
 ----
