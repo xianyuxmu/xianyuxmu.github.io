@@ -268,3 +268,8 @@ tags:
 		-  若要最大限度成就真正重要之事，切忌贪多求全，事事应允。
 - [**Start with Why** - Simon Sinek](https://book.douban.com/subject/4594514/)
 	- [How great leaders inspire action - Simon Sinek TEDxPuget Sound](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+- [《别让猴子跳回背上》](https://book.douban.com/subject/1022137/)
+	- 要点：
+		- 将“猴子”(事情)有效委托给下属，做好责任归属。
+		- 管理自己的时间，不让下属或其他人错误的侵占你的时间。
+

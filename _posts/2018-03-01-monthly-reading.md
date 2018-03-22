@@ -77,6 +77,11 @@ tags:
 	- WebAssembly得到了所有浏览器的支持
 	- 现在，我们看到人们将WebAssembly用到了各种类型的新项目之中。所以，这意味着，最终会**有一天我们将在Web上运行大多数的程序，其效果就像现在在本地PC上运行那样**。
 - [Let's Encrypt 宣布支持通配符证书，所有子域名可轻松开启 HTTPS](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247487566&idx=1&sn=3eea2bc71b123967fca82934ee1353e7)
+- [回归测试策略概览](http://www.infoq.com/cn/articles/regression-testing-strategies)
+- [Spring Boot 2.0正式发布，新特性解读](http://www.infoq.com/cn/articles/spring-boot-2.0-new-feature)
+- [Kubernetes效应](http://www.infoq.com/cn/articles/kubernetes-effect)
+- [现在你可以在电脑Chrome上使用PWA啦！](https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247485814&idx=1&sn=88821f1f5cf41949b4bcf868faf5a07e)
+- [webpack 4: mode and optimization](https://medium.com/webpack/webpack-4-mode-and-optimization-5423a6bc597a)
 
 
 ## Thinking
