@@ -254,4 +254,17 @@ tags:
 	- 我的观点：
 		- 本书定位在：叙事性中层管理实务。
 		- 主要讲管理者的***产出管理***，英文书名更加准确：**High Output Management**
-
+- [《精要主义Essentialism》 by Greg McKeown](https://read.douban.com/ebook/29222460/)
+	- 我的观点：
+		- 英文书名Essentialism的表述更加准确：本质主义、精粹主义
+	- 摘要：
+		- 精要主义的三个阶段：探索 -> 排除 -> 执行。
+		-  所谓战略就是做取舍。
+		-  人生中一半的麻烦源于答应得太快，拒绝得太慢。 - 乔希•比林斯
+		-  避免碌碌无为。 - 苏格拉底
+			-  **Beware of a Busy Life.**
+			-  Beware the barrenness of a busy life.
+		-  生之智慧，在于摒弃不必要之事。——林语堂
+		-  若要最大限度成就真正重要之事，切忌贪多求全，事事应允。
+- [**Start with Why** - Simon Sinek](https://book.douban.com/subject/4594514/)
+	- [How great leaders inspire action - Simon Sinek TEDxPuget Sound](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
