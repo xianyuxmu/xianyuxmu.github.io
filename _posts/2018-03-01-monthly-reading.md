@@ -42,6 +42,8 @@ tags:
 
 ## Life
 
+- [苏格拉底的七条人生智慧——转自译言网](https://www.douban.com/note/77658670/)
+	- 行动决定结果。
 
 ## Reading
 
