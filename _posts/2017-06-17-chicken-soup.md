@@ -185,6 +185,7 @@ tags:
 	-  行动决定结果。
 - “Employ your time in improving yourself by other men's writings so that you shall gain easily what others have labored hard for.” - Socrates
 	- 将你的时间用于阅读他人的作品，别人费力学到的东西，你就能轻松获得。
+- **“独创性只不过是明智的模仿。”** - 伏尔泰
 
 
 ----
