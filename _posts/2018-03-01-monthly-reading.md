@@ -44,6 +44,8 @@ tags:
 
 - [苏格拉底的七条人生智慧——转自译言网](https://www.douban.com/note/77658670/)
 	- 行动决定结果。
+- [写给女生的五个择偶建议](https://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&mid=210316002&idx=1&sn=3f557aa353d353753cdf9489d22f6841&scene=20#rd)
+- [Unicorn](https://en.wikipedia.org/wiki/Unicorn)
 
 ## Reading
 
