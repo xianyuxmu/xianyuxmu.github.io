@@ -190,6 +190,8 @@ tags:
 	- 潜能：潜能是我们所有人都有，但少数人能达到的东西。
 - Before you are a leader, success is all about growing yourself. When you become a leader, success is all about growing others. - *Jack Welch*
 	- 在你成为领导者之前，成功的全部就是自我成长； 当你成了领导者，成功的全部就变成帮助他人成长。 - 杰克•韦尔奇
+- **while the time you wait, chance gone！**
+	- 你再等待的一小会儿，机会走了！
 
 
 ----
