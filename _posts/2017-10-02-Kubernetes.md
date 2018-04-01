@@ -12,7 +12,7 @@ tags:
 
 In a Kubernetes cluster, application performance can be examined at many different levels: ***containers, pods, services, and whole clusters***.
 
-## Kubernetes Components
+## Kubernetes Basic
 
 detail: [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
 
@@ -23,6 +23,32 @@ detail: [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/com
 ### Clustering etcd
 
 On each node, copy the `etcd.yaml` file into `/etc/kubernetes/manifests/etcd.yaml`
+
+### NodePort
+
+- 编辑一个`service`： `kubectl -n kube-system edit service kubernetes-dashboard`
+
+### kubectl proxy
+
+- `kubectl proxy` creates proxy server between your machine and Kubernetes API server. By default it is only accessible locally (from the machine that started it).
+	- To access ***HTTPS*** endpoint of dashboard go to: `http://localhost:8001/api/v1/namespaces/kube-system/services/https:kubernetes-dashboard:/proxy/`
+	- To access ***HTTP*** endpoint of dashboard go to: `http://localhost:8001/api/v1/namespaces/kube-system/services/http:kubernetes-dashboard:/proxy/`
+
+
+## 相关教程
+
+### Kubernetes Dashboard
+
+- [Accessing Dashboard 1.7.X and above](https://github.com/kubernetes/dashboard/wiki/Accessing-Dashboard---1.7.X-and-above)
+
+### 自建 Docker Registry
+
+- [Deploy a registry server](https://docs.docker.com/registry/deploying/)
+ - [Sharing a local registry with minikube](https://blog.hasura.io/sharing-a-local-registry-for-minikube-37c7240d0615)
+
+
+
+----
 
 ## 相关资料
 
