@@ -88,6 +88,7 @@ tags:
 - [Nginx宣布正式支持gRPC，附示例代码](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247487585&idx=1&sn=1ebd5b0ce2bd7aca373ad7483641bdb2)
 	- gRPC 通过 HTTP/2 传输数据，可以传输明文文本数据和 TLS 加密过的数据。gRPC 调用是通过 HTTP POST 请求来实现的。
 	- 必须使用 HTTP/2，这是因为要充分利用 HTTP/2 连接的多路复用和流式特性。
+- [http://bubkoo.com/2015/05/08/introduction-to-fetch/](http://bubkoo.com/2015/05/08/introduction-to-fetch/)
 
 
 ## Thinking

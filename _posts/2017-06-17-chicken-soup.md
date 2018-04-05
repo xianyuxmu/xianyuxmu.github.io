@@ -191,7 +191,10 @@ tags:
 - Before you are a leader, success is all about growing yourself. When you become a leader, success is all about growing others. - *Jack Welch*
 	- 在你成为领导者之前，成功的全部就是自我成长； 当你成了领导者，成功的全部就变成帮助他人成长。 - 杰克•韦尔奇
 - **while the time you wait, chance gone！**
-	- 你再等待的一小会儿，机会走了！
+	- 你再等待的一小会儿，机会走了！- Robin Chen, Original
+- “任何你的敌人不可以知道的东西，都不要告诉你的朋友。” —— 阿拉伯谚语
+- “历史不会重演，但总会惊人地相似。” - 马克•吐温
+- 要靠别人的错误繁荣自己。 - 培根
 
 
 ----
@@ -315,6 +318,7 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - - I was seldom able to see an opportunity until it had ceased to be one. - Mark Twain
 - “Give every day the chance to become the most beautiful day of your life.”
 - 远离那些轻视你雄心的人。 - 马克吐温
+- “历史不会重演，但总会惊人地相似。” - 马克•吐温
 
 
 ----
