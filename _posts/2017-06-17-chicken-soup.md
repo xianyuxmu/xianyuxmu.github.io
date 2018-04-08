@@ -196,6 +196,12 @@ tags:
 - “历史不会重演，但总会惊人地相似。” - 马克•吐温
 - 要靠别人的错误繁荣自己。 - 培根
 - “片面描述往往胜过全面描述：它简化现实，让观点更好理解、更具说服力。” —— 尼采
+- “Either I will find a way, or I will make one.” – Philip Sidney, Poet
+	- 我将找到一条路，不然我会开一条路。
+- “Never throughout history has a man who lived a life of ease left a name worth remembering.” – Theodore Roosevelt, 26th U.S. President
+	- 历史上从来没有人过着安逸的生活而名留青史。 - 罗斯福
+- “To know what people really think, pay regard to what they do rather than what they say.” – Rene Descartes, Philosopher
+	- 「想知道別人真正的想法，注意他们做什么而不是说什么。」– 勒内·笛卡尔 (哲学家)
 
 
 ----
