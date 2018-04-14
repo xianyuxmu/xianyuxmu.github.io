@@ -202,6 +202,11 @@ tags:
 	- 历史上从来没有人过着安逸的生活而名留青史。 - 罗斯福
 - “To know what people really think, pay regard to what they do rather than what they say.” – Rene Descartes, Philosopher
 	- 「想知道別人真正的想法，注意他们做什么而不是说什么。」– 勒内·笛卡尔 (哲学家)
+- “The opinion of the strongest is always the best.” – Jean de La Fontaine, Fabulist
+	- 强者的意见，永远是最好的。 —— 尚·德·拉封丹 (寓言作家)
+- 言语用于衡量一个人的思想，行动用以衡量一个人的言语。—— 陈烨彬
+- 不拼实力的地方，拼年资。—— 陈烨彬
+- 你特立独行，你身价百倍。—— 张金龙(北京朋友)
 
 
 ----
