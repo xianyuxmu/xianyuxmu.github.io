@@ -207,6 +207,8 @@ tags:
 - 言语用于衡量一个人的思想，行动用以衡量一个人的言语。—— 陈烨彬
 - 不拼实力的地方，拼年资。—— 陈烨彬
 - 你特立独行，你身价百倍。—— 张金龙(北京朋友)
+- 一切发明只不过是巧妙的借鉴。 - 某位名人
+- I haven't failed, I've just found 10,000 ways that won't work! - Thomas Edison
 
 
 ----
