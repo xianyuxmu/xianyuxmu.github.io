@@ -209,6 +209,7 @@ tags:
 - 你特立独行，你身价百倍。—— 张金龙(北京朋友)
 - 一切发明只不过是巧妙的借鉴。 - 某位名人
 - I haven't failed, I've just found 10,000 ways that won't work! - Thomas Edison
+- 「别说你有十年经验，你只是一年经验用了十年而已。」- from [大卫谈学习4：为何你会一年经验用十年？](http://blog.51cto.com/davidzhang33/1313940)
 
 
 ----
