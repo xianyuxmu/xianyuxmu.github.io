@@ -210,6 +210,14 @@ tags:
 - 一切发明只不过是巧妙的借鉴。 - 某位名人
 - I haven't failed, I've just found 10,000 ways that won't work! - Thomas Edison
 - 「别说你有十年经验，你只是一年经验用了十年而已。」- from [大卫谈学习4：为何你会一年经验用十年？](http://blog.51cto.com/davidzhang33/1313940)
+- 哈德良皇帝手下有一名将军觉得自己应该被提升。“我应该晋升到更重要的岗位，因为我经验丰富，至少参加了十场重要战役。”可皇帝是位对他人才华有着高明判断力的君主，他并不这样认为。于是他随意指着绑在周围的战驴说：“亲爱的将军，好好看看这些驴子，它们至少参加过20次战役，可它们仍然是驴子。”
+- The greatest contribution of a leader is making others successful
+	- 评判领导的最重要是看他如何帮助他的下属和团队成功
+	- 有实力的人不会畏惧光芒耀眼的下属
+- **Man is The Measure of All Things.**
+	- 人是衡量万物的尺度。
+- “The only impossible journey is the one you never begin.” – Tony Robbins, Success Coach
+	- **唯一不可能的行程，是你从未启程的那个。**
 
 
 ----
