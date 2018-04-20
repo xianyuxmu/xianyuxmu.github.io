@@ -11,8 +11,7 @@ tags:
 ---
 
 <blockquote class="blockquote-center">
-<p>“没什么比高效地做一件根本不该做的事更加徒劳的了。”</p>
-<p>——彼得德鲁克</p>
+<p>You are very much ON TIME, and in your TIME ZONE.</p>
 </blockquote>
 
 > from [“活在自己的时区里”，这是我见过对人生最好的诠释！](http://www.nanoer.net/resource/sd/2017-05-31/779.html)
