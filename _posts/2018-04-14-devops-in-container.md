@@ -28,6 +28,12 @@ tags:
 	- [Iterative Development](https://github.com/GoogleCloudPlatform/skaffold#iterative-development)
 - [helm - The Kubernetes Package Manager](https://github.com/kubernetes/helm)
 
+### kubernetes常见问题
+
+- [Pull an Image from a Private Registry](https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/)
+- [Kubernetes从Private Registry中拉取容器镜像的方法](https://tonybai.com/2016/11/16/how-to-pull-images-from-private-registry-on-kubernetes-cluster/)
+	- 通过secret yaml文件创建pull image所用的secret
+
 ----
 
 # 相关资料
