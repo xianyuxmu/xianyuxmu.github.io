@@ -218,6 +218,7 @@ tags:
 	- 人是衡量万物的尺度。
 - “The only impossible journey is the one you never begin.” – Tony Robbins, Success Coach
 	- **唯一不可能的行程，是你从未启程的那个。**
+- 「不是那些最庞大的物种能存活，也不是最聪明的，而是那些最能适应变化的。」 ​​​​—— 达尔文
 
 
 ----
