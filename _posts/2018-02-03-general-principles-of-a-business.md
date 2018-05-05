@@ -49,7 +49,7 @@ tags:
 	- [基本竞争战略](http://wiki.mbalib.com/wiki/%E6%B3%A2%E7%89%B9%E4%B8%89%E5%A4%A7%E4%B8%80%E8%88%AC%E6%80%A7%E6%88%98%E7%95%A5)
 	- [波特价值链分析模型](http://wiki.mbalib.com/wiki/%E6%B3%A2%E7%89%B9%E4%BB%B7%E5%80%BC%E9%93%BE%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B)
 	- [波特钻石理论模型](http://wiki.mbalib.com/wiki/%E6%B3%A2%E7%89%B9%E9%92%BB%E7%9F%B3%E7%90%86%E8%AE%BA%E6%A8%A1%E5%9E%8B)
-- [蓝海战略](http://robinchen.me/reading/business/2016/08/27/book-Blue-Ocean-Strategy.html)
+- [蓝海战略](https://robinchen.me/reading/business/2016/08/27/book-Blue-Ocean-Strategy.html)
 - **4C营销理论(The Marketing Theory of 4C)**
 	- Customers顾客、Cost成本、Convenience方便、Communication沟通
 	- [营销组合](https://zh.wikipedia.org/wiki/营销组合)

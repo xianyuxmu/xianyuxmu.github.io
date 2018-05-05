@@ -28,11 +28,11 @@ permalink: /about/
 ### 主导/参与的软件项目
 
 - 大学期间，2012年 - 2016年
-	- [Space Phone Book – 使用C实现SQL](http://robinchen.me/tech/2016/01/22/work-Space-Phone-Book.html)
-	- [iCLock桌面时钟 – 使用C#实现](http://robinchen.me/tech/2016/01/22/work-iClock.html)
-	- [厦大讲座》Android App － 第一次完整的项目经历](http://robinchen.me/tech/2016/01/22/work-Xmu-Lecture-First-Android-App.html)
-	- [基于WordPress的两个网站 – 接触服务器与Web](http://robinchen.me/tech/2016/01/22/work-Wordpress-first-look.html)
-	- [MQ新闻客户端－第一个iOS项目](http://robinchen.me/tech/2016/01/22/work-iOS-first-look.html)
+	- [Space Phone Book – 使用C实现SQL](https://robinchen.me/tech/2016/01/22/work-Space-Phone-Book.html)
+	- [iCLock桌面时钟 – 使用C#实现](https://robinchen.me/tech/2016/01/22/work-iClock.html)
+	- [厦大讲座》Android App － 第一次完整的项目经历](https://robinchen.me/tech/2016/01/22/work-Xmu-Lecture-First-Android-App.html)
+	- [基于WordPress的两个网站 – 接触服务器与Web](https://robinchen.me/tech/2016/01/22/work-Wordpress-first-look.html)
+	- [MQ新闻客户端－第一个iOS项目](https://robinchen.me/tech/2016/01/22/work-iOS-first-look.html)
 - 毕业之后，2016年 - 至今
 	- 大型模块化SPA架构重构设计。支撑10+独立业务模块，25+万行代码
 	- 前端通用node层设计。代理转发、静态服务、路由规划等
