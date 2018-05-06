@@ -47,3 +47,9 @@ tags:
 	- [Docker学习路线图](https://yq.aliyun.com/articles/40494?spm=a2c4e.11153959.teamhomeleft.23.3f4218b1FHkfIc)
 	- [Use multi-stage builds](https://docs.docker.com/develop/develop-images/multistage-build/)
 	- [Alpine Based Docker Images Make a Difference in Real World Apps](https://blog.codeship.com/alpine-based-docker-images-make-difference-real-world-apps/)
+- DevOps
+	- 机器管理: 使用 [Ansible](https://www.ansible.com/)
+	- 集群管理: 使用kubernetes
+	- 微服务管理: [Istio.io](https://istio.io)
+	- 容器管理: [docker](https://www.docker.com/)
+	- 容器监控: [weave](https://www.weave.works/)
