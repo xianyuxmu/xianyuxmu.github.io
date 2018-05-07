@@ -12,13 +12,15 @@ tags:
 ---
 
 <blockquote class="blockquote-center">
-<p>“没什么比高效地做一件根本不该做的事更加徒劳的了。”</p>
-<p>——彼得德鲁克</p>
+<p>“水大了，鱼才会大。”</p>
+<p>——《水大鱼大》，吴晓波</p>
 </blockquote>
 
 ## Top
 
 - “如果不掌握核心技术，就是在别人的墙基上砌房子，在别人的院子里面种菜。我认为真正的大企业不是看市值有多大，而是担当有多大，格局有多大，不是看市场份额有多大，而是看是否掌握了核心和关键的技术！市场份额牛不叫牛，核心技术牛才是真正的牛！在社会发展人类进步的关键技术核心技术上突破，是大企业当仁不让的责任！” —— 马云，首届数字中国建设峰会，中国福州。 from [马云：不掌握核心技术就是在别人的院子里种菜](http://finance.huanqiu.com/chuangr/chuangtou/2018-04/11900169.html)
+- [Too Much Profit Can Doom Your Company](https://hbr.org/2015/06/too-much-profit-can-doom-your-company)
+	- ![MERRIFIELD_PROFITSVSGROWTH](https://hbr.org/resources/images/article_assets/2015/05/W150519_MERRIFIELD_PROFITSVSGROWTH.png)
 
 ## Life
 
