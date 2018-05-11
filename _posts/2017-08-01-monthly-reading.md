@@ -17,8 +17,8 @@ tags:
 
 ## TOP
 
-[*The Four-Letter Code to Selling Just About Anything*](https://www.theatlantic.com/magazine/archive/2017/01/what-makes-things-cool/508772/) - What makes things cool?
-
+- [*The Four-Letter Code to Selling Just About Anything*](https://www.theatlantic.com/magazine/archive/2017/01/what-makes-things-cool/508772/) - What makes things cool?
+	- Most Advanced Yet Acceptable. —— MAYA
 - *Loewy believed that consumers are torn between a curiosity about new things and a fear of anything too new.*
 - [Why Apple Always Wins By Copying aka MAYA.](https://hackernoon.com/why-apple-always-wins-by-copying-aka-maya-6c21de7a1f28)
 - [For today’s designers. And tomorrow’s designs.](https://www.adobe.com/products/experience-design.html#xd-ux-from-a-to-z-video)
