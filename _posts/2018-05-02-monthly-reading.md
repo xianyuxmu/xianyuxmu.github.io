@@ -32,12 +32,15 @@ tags:
 ## Business
 
 - [亚马逊赚钱势头依然无比凶猛](https://cn.engadget.com/2018/04/27/amazon-q1-2018/)
+- [政策利好、资本加持、赛事助推：海南旅游发展频现商机](http://www.travelweekly-china.com/66822)
 
 ## Marketing
 
 - “2017年年中的时候，京东非常明确的提出来，我们从一家电商购物平台转型成为零售基础设施服务提供商。以前的京东更多是偏封闭的，完成自己商品的采购，销售，购物组织，现在则希望把能力进行组件化、模块化来助力零售行业。” 京东集团CMO徐雷在此前的京腾3.0发布会上表示。
 
 ## Tech
+
+- [The 8 Biggest Announcements From Google I/O 2018](https://techcrunch.com/video-article/the-8-biggest-announcements-from-google-i-o-2018/)
 
 
 ## Thinking
