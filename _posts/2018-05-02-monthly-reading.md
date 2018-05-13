@@ -24,6 +24,9 @@ tags:
 
 ## Life
 
+- The secret of change is to focus all of your energy, not on fighting the old, but on building the new.
+	- 改变的秘诀是集中你的所有能力，不是摧毁旧的，而是建造新的。
+
 
 ## Reading
 
@@ -33,6 +36,7 @@ tags:
 
 - [亚马逊赚钱势头依然无比凶猛](https://cn.engadget.com/2018/04/27/amazon-q1-2018/)
 - [政策利好、资本加持、赛事助推：海南旅游发展频现商机](http://www.travelweekly-china.com/66822)
+- 传统意义上的城市综合体，对应的英文缩写是HOPSCA ，即：Hotel、Office、Park、Shopping Mall、Convention、Apartment，其是以建筑群为基础，融合商业零售、商务办公、酒店餐饮、公寓住宅、综合娱乐五大核心功能于一体的“城中之城”。
 
 ## Marketing
 
@@ -41,6 +45,7 @@ tags:
 ## Tech
 
 - [The 8 Biggest Announcements From Google I/O 2018](https://techcrunch.com/video-article/the-8-biggest-announcements-from-google-i-o-2018/)
+- [一个可供中小团队参考的微服务架构技术栈](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247487775&idx=1&sn=a4edf7c541ccbdfef1b8aef347efc4d0)
 
 
 ## Thinking
