@@ -183,8 +183,12 @@ tags:
 -  生之智慧，在于摒弃不必要之事。——林语堂
 -  To do is to be. - Socrates
 	-  行动决定结果。
+- The secret of change is to focus all of your energy, not on fighting the old, but on building the new. - Socrates
+	- **改变的秘诀是集中你的所有能力，不是摧毁旧的，而是建造新的。** —— 苏格拉底
+- The easiest and noblest way is not to be crushing others, but to be improving yourselves. - Socrates
+	- 最简单而高贵的方式不是压榨别人，而是提高你自己。 —— 苏格拉底
 - “Employ your time in improving yourself by other men's writings so that you shall gain easily what others have labored hard for.” - Socrates
-	- 将你的时间用于阅读他人的作品，别人费力学到的东西，你就能轻松获得。
+	- 将你的时间用于阅读他人的作品，别人费力学到的东西，你就能轻松获得。 —— 苏格拉底
 - **“独创性只不过是明智的模仿。”** - 伏尔泰
 - Potential - it's something all of us have but so few of us reach. 
 	- 潜能：潜能是我们所有人都有，但少数人能达到的东西。
@@ -219,6 +223,12 @@ tags:
 - “The only impossible journey is the one you never begin.” – Tony Robbins, Success Coach
 	- **唯一不可能的行程，是你从未启程的那个。**
 - 「不是那些最庞大的物种能存活，也不是最聪明的，而是那些最能适应变化的。」 ​​​​—— 达尔文
+- The quality of a leader is reflected in the standards they set for themselves. — Ray Kroc, Entrepreneur
+	- 一位领导的成色，反映在他为自己定的标准。
+- "I only work with the best." - Donald J. Trump
+- "In the end, you're measured not by how much you undertake, but by what you finally accomplish." - Donald J. Trump
+- **If you build an army of 100 lions and their leader is a dog, in any fight, the lions will die like a dog. But if you build an army of 100 dogs and their leader is a lion, all dogs will fight as a lion.** - Napoleon Bonaparte
+
 
 
 ----
@@ -318,26 +328,27 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - “EXPLORE. DREAM. DISCOVER.” 
 - “A BANKER IS A FELLOW WHO LENDS YOU HIS UMBRELLA WHEN THE SUN IS SHINING, BUT WANTS IS BACK THE MINUTE ITBEGINS TO RAINS.”
 - “I DO NOT FEAR DEATH, I HAD BEEN DEAD FOR BILLIONS AND BILLIONS OF YEARS BEFORE I WAS BORN, AND HAD NOT SUFFERED THE SLIGHTEST INCONVENIENCE FROM IT.”
-- **“GIVE EVERY DAY THE CHANCE TO BECOME THE MOST BEAUTIFUL OF YOUR LIFE.”**
+- **“Give every day the chance to become the most beautiful of your life.”**
 - “NEVER PUT OFF TILL TOMORROW WHAT YOU CAN DO THE DAY AFTER TOMORROW.” 
-- “CONTINUOUS IMPROVEMENT IS BETTER THAN DELAYED PERFECTION”.
-- “NEVER TRY TO TEACH A PIG TO SING, YOU WASTE YOUR TIME, AND YOU ANNOY THE PIG”
+- “Continuous improvement is better than delayed perfection”
+- “Never try to teach a pig to sing, you waste your time, and you annoy the pig”
 - “TO SUCCEED IN LIFE,  YOU NEED TWO THINGS IGNORANCE AND CONFIDENCE.”
-- “LIFE IS SHORT, BREAK THE RULES. FORGIVE QUICKLY, KISS SLOWLY. LOVE TRULY. LAUGH UNCONTROLLABLY AND NEVER REGRET ANYTHING THAT MAKES YOU SMILE.”
+- **“Life is short, break the rules. Forgive quickly, kiss slowly. Love truly. Laugh uncontrollably and never regret anything that makes you smile.”**
+- “Kindness is a language which the deaf can hear andthe blind can see.”
 -  “I HAVE NEVER LET MY SCHOOLING INTERFERE WITH MY EDUCATION.” 
 -  “TRAVEL IS FATAL TO PREJUDICE, BIGOTRY, AND NARROW-MINDEDNESS.”
-- “NEVER ARGUE WITH A FOOL. ONLOOKER MAY NOT BE ABLE TO TELL THE DIFFERENCE.”
+- “Never argue with a fool. Onlooker may not be able to tell the difference.” Mark Twain funny quotes.”
 - “DO SOMETHING EVERY DAY THAT YOU DON’T WANT TO DO; THIS IS THE GOLDEN RULE FOR ACQUIRING THE HABIT OF DOING YOUR DUTY WITHOUT PAIN.” 
-- “DON’T WAIT. THE TIME WILL NEVER BE JUST RIGHT.” 
-- “WHEN YOU FIND YOURSELF ON THE SIDE OF THE MAJORITY, YOU SHOULD PAUSE AND REFLECT.”
+- **“Don’t wait. The time will never be just right.”**
+- “When you find yourself on the side oft he majority, you should pause and reflect.”
 - “IF YOU TELL THE TRUTH, YOU DON’T HAVE TO REMEMBER ANYTHING.”
-- “NEVER ARGUE WITH STUPID PEOPLE, THEY WILL DRAG YOU DOWN TO THEIR LEVEL AND THEN BEAT YOU WITH EXPERIENCE.”
+- **“Never argue with stupid people, they will drag you down to their level and then beat you with experience.”**
 - “OF ALL THE THINGS I’VE LOST, I MISS MY MIND THE MOST.”
 - “IT USUALLY TAKES ME MORE THAN THREE WEEKS TO PREPARE A GOOD IMPROMPTU SPEECH.”
 - “IF YOU DON’T READ THE NEWSPAPER YOU ARE UNINFORMED, IF YOU DO READ THE NEWSPAPER YOU ARE MISINFORMED.”
 - “I’VE HAD A LOT OF WORRIES IN MY LIFE, MOST OF WHICH NEVER HAPPENED.”
-- “IT IS WISER TO FIND OUT THAN TO SUPPOSE.”
-- “Never miss a good chance to shut up.”
+- **“It is wiser to find out than to suppose.” **
+- **“Never miss a good chance to shut up.”**
 	- 千万不要错过一个好机会闭嘴。
 - - I was seldom able to see an opportunity until it had ceased to be one. - Mark Twain
 - “Give every day the chance to become the most beautiful day of your life.”
