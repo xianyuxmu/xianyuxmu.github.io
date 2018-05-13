@@ -354,6 +354,13 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - “Give every day the chance to become the most beautiful day of your life.”
 - 远离那些轻视你雄心的人。 - 马克吐温
 - “历史不会重演，但总会惊人地相似。” - 马克•吐温
+- Arthur Schopenhauer 叔本华
+	- The world is my idea.
+	- Change alone is eternal, perpetual, immortal.
+	- A man can do what he wants, but not want what he wants.
+	- Truth that is naked is the most beautiful, and the simpler its expression the deeper is the impression it makes.
+	- The person who writes for fools is always sure of a large audience.
+	- **Don’t tell your friend what your enemy should not know.**
 
 
 ----

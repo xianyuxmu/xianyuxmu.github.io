@@ -26,6 +26,7 @@ tags:
 
 - The secret of change is to focus all of your energy, not on fighting the old, but on building the new.
 	- 改变的秘诀是集中你的所有能力，不是摧毁旧的，而是建造新的。
+- [52 Arthur Schopenhauer Quotes on Love, Happiness, Freedom, Truth, Art, Death, Suffering, and More](https://theunboundedspirit.com/arthur-schopenhauer-quotes/)
 
 
 ## Reading
