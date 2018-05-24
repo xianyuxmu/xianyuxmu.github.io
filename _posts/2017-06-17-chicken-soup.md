@@ -228,6 +228,16 @@ tags:
 - "I only work with the best." - Donald J. Trump
 - "In the end, you're measured not by how much you undertake, but by what you finally accomplish." - Donald J. Trump
 - **If you build an army of 100 lions and their leader is a dog, in any fight, the lions will die like a dog. But if you build an army of 100 dogs and their leader is a lion, all dogs will fight as a lion.** - Napoleon Bonaparte
+- “Some men give up their designs when they have almost reached the goal; While others, on the contrary, obtain a victory by exerting, at the last moment, more vigorous efforts than ever before.”
+	- 有些人在几乎要达成目标时放弃他们的设计；而另一些人则相反，在最后一刻比以往更积极努力地去获取胜利。 —— 希罗多德(历史学家)
+- “Life is like a game of cards. The hand you are dealt is determinism; the way you play it is free will.” – Jawaharlal Nehru, Prime Minister of India
+	- 人生宛如一场牌局，拿到什么牌，那是命中注定，但是如何出牌，却操之在己。 —— 加瓦哈拉尔•尼赫鲁(印度总理)
+- 历史是由胜利者书写的。
+- "Attitude is a little thing that makes a big difference."
+	- 态度是小事，但能造成很大区别。 - 丘吉尔
+- **朋友也是从陌生人开始。**
+- 所谓的可能就是如果我们尽力就可以达到。
+- 要是我们不愿意高估自己，现在我们完成的事情里，有一半我们当初根本就不敢开始。- ***Being Wrong***
 
 
 

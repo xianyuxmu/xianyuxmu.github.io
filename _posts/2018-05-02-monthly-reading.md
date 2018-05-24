@@ -21,6 +21,7 @@ tags:
 - “如果不掌握核心技术，就是在别人的墙基上砌房子，在别人的院子里面种菜。我认为真正的大企业不是看市值有多大，而是担当有多大，格局有多大，不是看市场份额有多大，而是看是否掌握了核心和关键的技术！市场份额牛不叫牛，核心技术牛才是真正的牛！在社会发展人类进步的关键技术核心技术上突破，是大企业当仁不让的责任！” —— 马云，首届数字中国建设峰会，中国福州。 from [马云：不掌握核心技术就是在别人的院子里种菜](http://finance.huanqiu.com/chuangr/chuangtou/2018-04/11900169.html)
 - [Too Much Profit Can Doom Your Company](https://hbr.org/2015/06/too-much-profit-can-doom-your-company)
 	- ![MERRIFIELD_PROFITSVSGROWTH](https://hbr.org/resources/images/article_assets/2015/05/W150519_MERRIFIELD_PROFITSVSGROWTH.png)
+- [Kondratiev wave](https://en.wikipedia.org/wiki/Kondratiev_wave)
 
 ## Life
 
@@ -47,6 +48,10 @@ tags:
 
 - [The 8 Biggest Announcements From Google I/O 2018](https://techcrunch.com/video-article/the-8-biggest-announcements-from-google-i-o-2018/)
 - [一个可供中小团队参考的微服务架构技术栈](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247487775&idx=1&sn=a4edf7c541ccbdfef1b8aef347efc4d0)
+- [Docker企业版2.0更易于Kubernetes集成](http://www.infoq.com/cn/news/2018/05/docker-ee-2.0-kubernetes)
+	- 在DockerCon 2017欧洲大会上宣布对Kubernetes支持之后，Docker EE和Kubernetes的集成使得Swarm和Kubernetes两个容器编排框架可以混用，并且可以在一个控制台上管理部署的应用。
+- [Secure and HttpOnly cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+	- Starting with Chrome 52 and Firefox 52, insecure sites (http:) can't set cookies with the Secure directive.
 
 
 ## Thinking
