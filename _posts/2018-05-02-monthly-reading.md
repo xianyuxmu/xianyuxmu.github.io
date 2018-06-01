@@ -39,6 +39,9 @@ tags:
 - [亚马逊赚钱势头依然无比凶猛](https://cn.engadget.com/2018/04/27/amazon-q1-2018/)
 - [政策利好、资本加持、赛事助推：海南旅游发展频现商机](http://www.travelweekly-china.com/66822)
 - 传统意义上的城市综合体，对应的英文缩写是HOPSCA ，即：Hotel、Office、Park、Shopping Mall、Convention、Apartment，其是以建筑群为基础，融合商业零售、商务办公、酒店餐饮、公寓住宅、综合娱乐五大核心功能于一体的“城中之城”。
+- [携程发力纯国际机票 正建立全时区服务体系](http://www.travelweekly-china.com/67168)
+	- 5月23日，携程公布的财报显示：今年第一季度，不计入天巡的贡献，国际机票占携程总机票收入的比例达到了40%以上。同时，纯国际机票（境外到境外）在国际机票营收中的占比超过30%。
+- [直订网刘毅：摆脱OTA，让酒店真正站起来](http://www.travelweekly-china.com/67338)
 
 ## Marketing
 
