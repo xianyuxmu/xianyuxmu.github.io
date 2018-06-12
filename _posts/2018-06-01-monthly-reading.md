@@ -22,10 +22,14 @@ tags:
 - [中国互联网经济白皮书：解读中国互联网特色](http://www.aliresearch.com/blog/article/detail/id/21384.html)
 - [2018年互联网女皇报告中文完整版](http://tech.qq.com/a/20180531/003593.htm#p=1)
 	- [20 takeaways from Meeker’s 294-slide Internet Trends report](https://techcrunch.com/gallery/mary-meeker-internet-trends-2018/)
+- [比特币谷歌搜索量下滑75% 市场兴趣显著降温](http://m.cnbeta.com/view/733619.htm)
+	- 数字加密货币行情CoinDesk数据显示，今年比特币的价格已下滑约50%，本周一的交易价格不到7500美元。相比之下，比特币价格去年上涨了1300%，去年12月一度达到近2万美元。除了比特币，其它数字加密货币的搜索量也显著下降。例如，第二大加密货币以太坊搜索量下滑了70%，瑞波币下滑了87%，比特币现金下滑了82%。
+
 
 ## Life
 
-
+- [一个程序员的成长之路](https://github.com/fouber/blog/issues/41)
+- [盖茨将夏季书单中首推的《事实真相》免费赠送给美国大学毕业生](http://m.cnbeta.com/view/733759.htm)
 
 ## Reading
 
@@ -34,12 +38,17 @@ tags:
 ## Business
 
 - [生鲜电商借数字化撬动万亿市场](http://www.sheitc.gov.cn/jjyw/677244.htm)
+- [网购热情高涨 澳大利亚决定对跨境电商征收10%增值税](http://m.cnbeta.com/view/733697.htm)
+- [美团最早9月赴港IPO：目标估值600亿美元](http://m.cnbeta.com/view/733653.htm)
 
 ## Marketing
 
 
 ## Tech
 
+- [MySQL 8支持文档存储，并带来性能和安全方面的改进](http://www.infoq.com/cn/news/2018/06/mysql8)
+- [Node.js 2018 用户调查：最爱 Express，最想学 Rust](http://m.cnbeta.com/view/733733.htm)
+- [谷歌发布Kubernetes引擎1.10版，企业可用](http://www.infoq.com/cn/news/2018/06/google-kubernetes-engine-1.10-ga)
 
 ## Thinking
 
