@@ -9,6 +9,11 @@ tags:
 
 ---
 
+<blockquote class="blockquote-center">
+<p>“我往往是在机会离去时，才明白这是机会。”</p>
+<p>——马克•吐温</p>
+</blockquote>
+
 ## 摘要
 
 > NOTES FROM 基业长青(珍藏版) （美）柯林斯
