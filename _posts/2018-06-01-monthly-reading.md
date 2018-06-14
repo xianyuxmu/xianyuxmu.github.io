@@ -40,6 +40,7 @@ tags:
 - [生鲜电商借数字化撬动万亿市场](http://www.sheitc.gov.cn/jjyw/677244.htm)
 - [网购热情高涨 澳大利亚决定对跨境电商征收10%增值税](http://m.cnbeta.com/view/733697.htm)
 - [美团最早9月赴港IPO：目标估值600亿美元](http://m.cnbeta.com/view/733653.htm)
+- [2017年厦门春节假日旅游情况统计综述](http://www.xmtravel.gov.cn/ztbd/cjhjztj/201702/t20170203_1532003.htm)
 
 ## Marketing
 
