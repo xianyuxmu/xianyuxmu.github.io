@@ -241,6 +241,9 @@ tags:
 - 小不忍则乱大谋。
 - 一个人一生最大的失败，就是跟没用的东西纠缠太久。
 - 我常常会想起以前幸运的时光。若是可能的话，我真想从头到尾再过一遍。同样的生活。我只要求能像作家那样，在再版时，更正首版的错误之处。 - 本杰明•富兰克林
+- 一千个人眼中，有一千个哈姆雷特。 - 莎士比亚
+- “将你的过去安置于你的表象人格之中，它将映照出你的现在。” - David Bowie
+- 白天求生存，晚上谋发展。
 
 
 
@@ -375,6 +378,22 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- The person who writes for fools is always sure of a large audience.
 	- **Don’t tell your friend what your enemy should not know.**
 
+### 莎士比亚
+
+- What’s in a name? That which we call a rose by any other word would smell as sweet. (Romeo and Juliet 2.2) 玫瑰易名，芳香如故。——莎士比亚
+- Brevity is the soul of wit. 简洁是智慧的灵魂，冗长是肤浅的藻饰。
+- To be or not to be: that is a question.
+- What’s done cannot be undone. 做过的事情不能逆转。覆水难收。 
+- 黑暗无论怎样悠长，白昼总会到来。
+- Do not , for one repulse , give up the purpose that you resolved to effect. 不要只因一次失败，就放弃你原来决心想达到的目的。
+- Action is eloquence. 行动就是雄辩。
+- 报复不是勇敢，忍受才是勇敢。 
+- 衣服新的好，朋友旧的好。 
+- 人生苦短，若虚度年华，则短暂的人生就太长了。
+- 本来无望的事，大胆尝试，往往能成功。
+- 一个人思虑太多，就会失却做人的乐趣。 
+- 勤为无价宝，慎为护身术。
+- 没有人值得你流泪，值得让你这么做的人不会让你哭泣。 No man or woman is worth your tears, and the one who is, won’t make you cry.
 
 ----
 
