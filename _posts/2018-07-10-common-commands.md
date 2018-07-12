@@ -48,3 +48,39 @@ dd       删除一行
 /pattern：从光标开始处向文件尾搜索pattern 
 
 ```
+
+### 查看端口
+
+``` bash
+	netstat -vanp tcp | grep 3000
+
+# OSX El Capitan
+sudo lsof -i tcp:3000
+
+# Centos 7
+netstat -vanp --tcp | grep 3000
+```
+
+
+### mysql常用命令
+
+> 常用命令: [Handy MySQL Commands](http://g2pc1.bu.edu/~qzpeng/manual/MySQL%20Commands.htm)
+
+``` bash
+
+# 连接
+mysql -u USERNAME -p
+mysql --host=localhost --port=6603 --user=root --password=root
+
+# 查看
+show databases;
+show tables;
+use <DBNAME>;
+
+# 操作
+create database [databasename];
+
+
+```
+
+- [Creating and Using a Database](https://dev.mysql.com/doc/refman/5.5/en/database-use.html)
