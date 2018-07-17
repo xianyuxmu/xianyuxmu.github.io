@@ -44,6 +44,7 @@ tags:
 	- 更多相关：
 		- [Prevent a child element from overflowing its parent in flexbox [duplicate]](https://stackoverflow.com/questions/43809612/prevent-a-child-element-from-overflowing-its-parent-in-flexbox)
 		- [Why don't flex items shrink past content size?](https://stackoverflow.com/questions/36247140/why-dont-flex-items-shrink-past-content-size?noredirect=1&lq=1)
+- [编写Web框架](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/0014023080708565bc89d6ab886481fb25a16cdc3b773f0000)
 
 
 ## Thinking
