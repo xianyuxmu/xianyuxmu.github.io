@@ -80,7 +80,37 @@ use <DBNAME>;
 # 操作
 create database [databasename];
 
+# docker中运行mysql
+docker run -p 6603:3306 --name some-mysql -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql
+
+docker run --name some-app --link some-mysql:mysql -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql
+
+mysql --host=some-mysql --user=root --password=my-secret-pw
+
 
 ```
 
 - [Creating and Using a Database](https://dev.mysql.com/doc/refman/5.5/en/database-use.html)
+
+
+### Linux常用命令
+---
+
+``` bash
+# 查看环境变量
+printenv
+```
+
+### Docker常用命令
+
+``` bash
+# Remove all stopped containers
+docker rm $(docker ps -a -q)
+
+# Remove all untagged images
+docker rmi $(docker images | grep "^<none>" | awk "{print $3}")
+
+# tag命令
+docker tag SOURCE_IMAGE[:TAG] TARGET_IMAGE[:TAG]
+
+```

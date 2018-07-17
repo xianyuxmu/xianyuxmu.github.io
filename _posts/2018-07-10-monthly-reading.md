@@ -40,6 +40,10 @@ tags:
 	- [The Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
 	- [Asset Pipeline - 中文](https://ruby-china.github.io/rails-guides/v4.1/asset_pipeline.html)
 - [大公司是怎么发布静态资源的](https://segmentfault.com/a/1190000007122250)
+- [Flexbox and Truncated Text](https://css-tricks.com/flexbox-truncated-text/) - 使用flexbox布局中，flex items默认设置min-width:auto;，意味着item不能比其内容更小。元素制定text-overflow: ellipsis; 不能生效，因为“min-width:auto”让元素扩大。要覆盖这种行为，需要设置“min-width: 0”或者“overflow: hidden”。
+	- 更多相关：
+		- [Prevent a child element from overflowing its parent in flexbox [duplicate]](https://stackoverflow.com/questions/43809612/prevent-a-child-element-from-overflowing-its-parent-in-flexbox)
+		- [Why don't flex items shrink past content size?](https://stackoverflow.com/questions/36247140/why-dont-flex-items-shrink-past-content-size?noredirect=1&lq=1)
 
 
 ## Thinking
