@@ -49,6 +49,7 @@ tags:
 - [用户数据库是用mongodb好，还是用mysql好？](https://www.zhihu.com/question/26095333)
 	- 如果不确定用 MySQL 还是 MongoDB, 那就不要用 MongoDB。
 	- 别用mongodb，巨坑；mysql足够。
+- [编写Web框架](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/0014023080708565bc89d6ab886481fb25a16cdc3b773f0000)
 
 
 ## Thinking
