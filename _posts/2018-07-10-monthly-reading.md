@@ -18,6 +18,8 @@ tags:
 
 ## Top
 
+- [福布斯最具创新力企业百强 中国7家上榜美国占一半](https://www.cnbeta.com/articles/tech/731663.htm)
+
 
 
 ## Life
@@ -44,6 +46,9 @@ tags:
 	- 更多相关：
 		- [Prevent a child element from overflowing its parent in flexbox [duplicate]](https://stackoverflow.com/questions/43809612/prevent-a-child-element-from-overflowing-its-parent-in-flexbox)
 		- [Why don't flex items shrink past content size?](https://stackoverflow.com/questions/36247140/why-dont-flex-items-shrink-past-content-size?noredirect=1&lq=1)
+- [用户数据库是用mongodb好，还是用mysql好？](https://www.zhihu.com/question/26095333)
+	- 如果不确定用 MySQL 还是 MongoDB, 那就不要用 MongoDB。
+	- 别用mongodb，巨坑；mysql足够。
 
 
 ## Thinking

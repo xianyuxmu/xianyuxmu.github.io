@@ -52,7 +52,8 @@ dd       删除一行
 ### 查看端口
 
 ``` bash
-	netstat -vanp tcp | grep 3000
+
+netstat -vanp tcp | grep 3000
 
 # OSX El Capitan
 sudo lsof -i tcp:3000
