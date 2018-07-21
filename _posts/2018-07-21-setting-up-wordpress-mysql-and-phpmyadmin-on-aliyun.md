@@ -69,6 +69,11 @@ wordpress:
 - [容器间的互相发现](https://help.aliyun.com/document_detail/26031.html)
 
 
+## 本地Docker安装WordPress、MySQL和phpmyadmin
+
+- 在本地Docker安装WordPress，直接参考：[Setting up WordPress with Docker](https://cntnr.io/setting-up-wordpress-with-docker-262571249d50) 👍
+
+
 ## 相关资料
 
 - [Setting up WordPress with Docker](https://cntnr.io/setting-up-wordpress-with-docker-262571249d50) - 在本地Docker安装WordPress
