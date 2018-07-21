@@ -78,3 +78,8 @@ wordpress:
 
 - [Setting up WordPress with Docker](https://cntnr.io/setting-up-wordpress-with-docker-262571249d50) - 在本地Docker安装WordPress
 - [Docker 微服务教程——以WordPress为例](http://www.ruanyifeng.com/blog/2018/02/docker-wordpress-tutorial.html)
+- [使用 OSSFS 数据卷实现 WordPress 附件共享](https://help.aliyun.com/document_detail/47637.html)
+- 镜像相关文档
+	- [phpmyadmin/phpmyadmin](https://hub.docker.com/r/phpmyadmin/phpmyadmin/)
+	- [mysql/mysql-server](https://hub.docker.com/r/mysql/mysql-server/)
+	- [wordpress](https://docs.docker.com/samples/library/wordpress/)
