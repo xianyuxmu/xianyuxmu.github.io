@@ -4,7 +4,7 @@ layout: page
 ---
 
 <h1 class="main-color" style="font-size: 1em; font-weight: 400;">
-这是陈烨彬 Robin Chen 的个人主页！
+对，这是陈烨彬 Robin Chen 的个人主页！
 </h1>
 
 毕业于厦门大学🏫，软件工程和工商管理学士🥇，目前在上海📍。
