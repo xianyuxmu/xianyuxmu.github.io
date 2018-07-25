@@ -114,4 +114,15 @@ docker rmi $(docker images | grep "^<none>" | awk "{print $3}")
 # tag命令
 docker tag SOURCE_IMAGE[:TAG] TARGET_IMAGE[:TAG]
 
+# 清除无用的volume
+docker volume prune
+
+```
+
+### CentOS常用命令
+
+``` bash
+# 查看OS系统信息
+cat /etc/redhat-release
+cat /etc/os-release
 ```

@@ -19,6 +19,7 @@ tags:
 ## Top
 
 - [福布斯最具创新力企业百强 中国7家上榜美国占一半](https://www.cnbeta.com/articles/tech/731663.htm)
+- [长江商学院教授薛云奎：小米定价仍有被高估的嫌疑](https://m.cnbeta.com/view/749449.htm)
 
 
 
@@ -31,6 +32,8 @@ tags:
 
 ## Business
 
+- [阿里巴巴和腾讯预计将以25亿美元收购WPP中国业务](https://m.cnbeta.com/view/749365.htm)
+- [来自瑞士的可爱Microlino电动车将很快在欧洲市场销售](https://m.cnbeta.com/view/749267.htm)
 
 ## Marketing
 
