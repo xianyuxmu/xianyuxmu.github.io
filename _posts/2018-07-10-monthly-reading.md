@@ -25,6 +25,11 @@ tags:
 
 ## Life
 
+- *Jul 26 2018, quoted from 20th-Century Fashion:*
+	- Le temps passe si vite. 时光飞逝。
+	- La Belle Epoque. 美丽的年代。
+	- “Clothes make the man. Naked people have little or no influence on society.” - Mark Twain
+
 
 ## Reading
 
@@ -34,6 +39,7 @@ tags:
 
 - [阿里巴巴和腾讯预计将以25亿美元收购WPP中国业务](https://m.cnbeta.com/view/749365.htm)
 - [来自瑞士的可爱Microlino电动车将很快在欧洲市场销售](https://m.cnbeta.com/view/749267.htm)
+- [阿里巴巴150亿元战略入股分众传媒](http://tech.sina.com.cn/i/2018-07-18/doc-ihfnsvza2619778.shtml)
 
 ## Marketing
 
