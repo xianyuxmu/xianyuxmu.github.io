@@ -59,6 +59,21 @@ tags:
 	- 如果不确定用 MySQL 还是 MongoDB, 那就不要用 MongoDB。
 	- 别用mongodb，巨坑；mysql足够。
 - [编写Web框架](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/0014023080708565bc89d6ab886481fb25a16cdc3b773f0000)
+- 用户登录、鉴权设计
+	- [设计一个可扩展的用户登录系统](https://cloud.tencent.com/developer/article/1054718)
+	- [设计一个可扩展的用户登录系统 (1)](https://www.liaoxuefeng.com/article/001437480923144e567335658cc4015b38a595bb006aa51000)
+	- [设计一个可扩展的用户登录系统 (2)](https://www.liaoxuefeng.com/article/001461119866914f84275c4a5034ffeb47405caa205e335000)
+	- [设计一个可扩展的用户登录系统 (3)](https://www.liaoxuefeng.com/article/00146129217054923f7784c57134669986a8875c10e135e000)
+	- [单点登录（SSO）的设计与实现](https://ken.io/note/sso-design-implement)
+	- [java用户角色权限设计](https://blog.csdn.net/qq_35893120/article/details/79148694)
+	- [多平台统一用户系统设计](https://segmentfault.com/a/1190000010627161)
+	- [spring security 入门教程](http://www.sanjinbest.com/spring/spring-security-%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/)
+	- [Spring Security](https://spring.io/projects/spring-security#learn)
+- RESTFUL API设计
+	- [微服务指南走北（三）：Restful API 设计简述](https://segmentfault.com/a/1190000008697972)
+	- [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
+	- [REST API v3 - GitHub](https://developer.github.com/v3/)
+	- [跟着 Github 学习 Restful HTTP API 设计](http://cizixs.com/2016/12/12/restful-api-design-guide)
 
 
 ## Thinking
