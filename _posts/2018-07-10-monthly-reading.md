@@ -20,6 +20,7 @@ tags:
 
 - [福布斯最具创新力企业百强 中国7家上榜美国占一半](https://www.cnbeta.com/articles/tech/731663.htm)
 - [长江商学院教授薛云奎：小米定价仍有被高估的嫌疑](https://m.cnbeta.com/view/749449.htm)
+- [Coco Chanel 香奈儿女士的25句经典名言](http://fashion.qq.com/a/20141017/009115_all.htm)
 
 
 
