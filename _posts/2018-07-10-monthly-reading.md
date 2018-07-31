@@ -75,6 +75,7 @@ tags:
 	- [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
 	- [REST API v3 - GitHub](https://developer.github.com/v3/)
 	- [跟着 Github 学习 Restful HTTP API 设计](http://cizixs.com/2016/12/12/restful-api-design-guide)
+- [现代前端技术知识体系](https://github.com/ouvens/frontend-system-map)
 
 
 ## Thinking
