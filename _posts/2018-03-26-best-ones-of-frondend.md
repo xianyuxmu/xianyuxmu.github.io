@@ -62,3 +62,5 @@ tags:
 		- 页面结构：将样式表放在顶部，将脚本放在底部，尽早刷新文档的输出
 		- 代码校验：避免 CSS 表达式，避免重定向
 - [从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)
+- [10种常见的软件架构模式](https://www.cnblogs.com/IcanFixIt/p/7518146.html)
+	- [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)

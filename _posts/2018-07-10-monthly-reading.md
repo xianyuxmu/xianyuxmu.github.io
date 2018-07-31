@@ -76,7 +76,8 @@ tags:
 	- [REST API v3 - GitHub](https://developer.github.com/v3/)
 	- [跟着 Github 学习 Restful HTTP API 设计](http://cizixs.com/2016/12/12/restful-api-design-guide)
 - [现代前端技术知识体系](https://github.com/ouvens/frontend-system-map)
-
+- [10种常见的软件架构模式](https://www.cnblogs.com/IcanFixIt/p/7518146.html)
+	- [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 
 ## Thinking
 
