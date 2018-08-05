@@ -377,6 +377,7 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- Truth that is naked is the most beautiful, and the simpler its expression the deeper is the impression it makes.
 	- The person who writes for fools is always sure of a large audience.
 	- **Don’t tell your friend what your enemy should not know.**
+	- 要么庸俗，要么孤独。
 
 ### 莎士比亚
 
