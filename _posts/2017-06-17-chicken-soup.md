@@ -54,7 +54,6 @@ tags:
 	- Mode passes, style remains.
 	- La mode passe, le style reste.
 - 「所有的計畫都是先列出要做的事，再決定優先順序。」– 亞倫‧拉凱恩 (時間管理作家)
-- 通常人们失去朋友不是因为拒绝借钱嘛，而是因为借了钱。 - 叔本华
 - 喜欢争辩会把事情弄糟。 - 蒙田
 - Wait but why?  - [*Tim Urban*](https://waitbutwhy.com/2014/05/life-weeks.html)
 - A Rocket will never be able to leave the Earth's atmosphere. - *The New York Times, 1936*
@@ -244,6 +243,13 @@ tags:
 - 一千个人眼中，有一千个哈姆雷特。 - 莎士比亚
 - “将你的过去安置于你的表象人格之中，它将映照出你的现在。” - David Bowie
 - 白天求生存，晚上谋发展。
+- 以心转境，万象清明。—— 吴言生 
+- 存在即合理。—— 黑格尔
+	- What is reasonable is real; that which is real is reasonable.
+	- What is rational is actual and what is actual is rational.
+- 历史总是惊人的重演。—— 黑格尔
+- 愤怒以愚蠢开始，以后悔告终。—— 毕达哥拉斯
+	- Anger begins with folly, and ends in repentance.
 
 
 
@@ -378,6 +384,11 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- The person who writes for fools is always sure of a large audience.
 	- **Don’t tell your friend what your enemy should not know.**
 	- 要么庸俗，要么孤独。
+	- 通常人们失去朋友不是因为拒绝借钱嘛，而是因为借了钱。 - 叔本华
+	- 我们常常不去想自己拥有的东西，却对得不到的东西念念不忘。
+	- THE world is my idea.
+		- 世界是我的表象。—— 叔本华
+		- 世界是我的观念。
 
 ### 莎士比亚
 
