@@ -37,6 +37,9 @@ tags:
 
 ## Marketing
 
+- [家乐福被曝卖身腾讯 退出中国市场](http://finance.sina.com.cn/stock/usstock/c/2018-08-04/doc-ihhhczfa3410010.shtml)
+- [“腾讯不做零售”](http://www.nbd.com.cn/articles/2018-08-07/1242813.html)
+
 
 ## Tech
 
