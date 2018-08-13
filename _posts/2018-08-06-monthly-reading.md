@@ -1,6 +1,6 @@
 ---
 layout: post
-title: July 2018 月读
+title: August 2018 月读
 date: 2018-08-06 21:56:00 +0800
 categories:
 - Reading
@@ -44,6 +44,7 @@ tags:
 ## Tech
 
 - [剖析Vue实现原理 - 如何实现双向绑定mvvm](https://github.com/DMQ/mvvm)
+- [Rem布局的原理解析](https://yanhaijing.com/css/2017/09/29/principle-of-rem-layout/)
 
 
 ## Thinking
