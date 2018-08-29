@@ -23,10 +23,18 @@ tags:
 	- 世界是我的观念。
 - You shall not covet your neighbor's house. You shall not covet your neighbor's wife, or his male or female servant, his ox or donkey, or anything that belongs to your neighbor. -  Exodus 20:17
 	- 不可贪恋人的房屋；也不可贪恋人的妻子、僕婢、牛驴，并他一切所有的。 —— 出埃及记20:17
+- **城市化(经济、认知等结构改变的过程)**
+	- 定义：城市化（英语：Urbanization），又称城镇化、都市化，是指人口向城市聚集、城市规模扩大以及由此引起一系列经济社会变化的过程，其实质是经济结构、社会结构和空间结构的变迁。从经济结构变迁看，城市化过程是农业活动逐步向非农业活动转化和产业结构升级的过程；从社会结构变迁看，城市化是农村人口逐步转变为城镇人口以及城镇文化与生活方式和价值观念向农村扩散的过程；从空间结构变迁看，城市化是各种生产要素和产业活动向城镇地区聚集以及聚集后的再分散过程。在对城市化质量进行综合评价中，要考虑城市发展质量、城乡协调程度、城市化带来的文明成果以及为此付出社会、经济、环境等方面的代价。
+	- [Urbanization in the United States](https://en.wikipedia.org/wiki/Urbanization_in_the_United_States) - 美国各州及整体城市化过程
+	- [对标中国城市化进程——原来你是这样的美国！](http://www.sohu.com/a/218204078_679433)
 
 
 ## Life
 
+- 外表装圣徒，内心是魔鬼。—— 《V怪客》
+	- ...and seem a saint, when most I play the devil. - The movie, ***V for Vendetta***
+- 人们往往用至诚的外表和虔敬的行动，来掩饰一颗魔鬼般的心。—— 《V怪客》
+	- That with devotiors visage and pious action we do sugar over the devil himself. - The movie, ***V for Vendetta***
 
 ## Reading
 
@@ -50,6 +58,11 @@ tags:
 	- [红杉资本浦晓燕：从媒体到投资 拥抱挑战与不确定](https://www.chinaventure.com.cn/cmsmodel/news/detail/296051.shtml)
 - [真格基金董事总经理顾旻曼：女性别把自己活成两个人](https://www.jiemian.com/article/1821865.html)
 - [我们和50位男投资人聊了聊，谁是他们心中的女神？](https://new.qq.com/omn/20180308/20180308A0SWLJ.html)
+- 餐饮行业报告：
+	- [2017年中国餐饮业年度报告](https://www.sohu.com/a/190266489_466446)
+	- [中国连锁餐饮品牌 —市场数据分析报告](https://m.baidu.com/paw/c/www.360doc.cn/mip/678035476.html)
+	- [2018年中国新餐饮消费趋势研究报告](http://report.iresearch.cn/wx/report.aspx?id=3242)
+- [Sony’s adorable new Aibo comes to the US in Sept, priced at $2,899](https://techcrunch.com/2018/08/23/sonys-adorable-new-aibo-comes-to-the-us-in-sept-priced-at-2899/)
 
 
 ## Marketing
