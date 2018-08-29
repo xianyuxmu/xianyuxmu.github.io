@@ -26,6 +26,7 @@ markdown: kramdown
 # theme: voyage
 gems:
   - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
