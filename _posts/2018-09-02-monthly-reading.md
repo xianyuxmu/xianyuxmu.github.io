@@ -1,0 +1,42 @@
+---
+layout: post
+title: September 2018 月读
+date: 2018-09-02 13:47:00 +0800
+categories:
+- Reading
+- Life
+tags:
+- 月读
+- 2018年09月
+
+---
+
+<blockquote class="blockquote-center">
+<p>“你必须强迫自己接受应有的骄傲。”</p>
+<p>——贺拉斯</p>
+</blockquote>
+
+## Top
+
+
+
+## Life
+
+
+
+## Business
+
+
+
+## Marketing
+
+
+
+## Tech
+
+- [WebView性能、体验分析与优化](https://tech.meituan.com/WebViewPerf.html)
+	- [网页优化、高性能站点——雅虎14条](https://stevesouders.com/hpws/rules.php)
+	- [70%以上业务由H5开发，手机QQ Hybrid 的架构如何优化演进？](https://mp.weixin.qq.com/s/evzDnTsHrAr2b9jcevwBzA)
+
+## Thinking
+
