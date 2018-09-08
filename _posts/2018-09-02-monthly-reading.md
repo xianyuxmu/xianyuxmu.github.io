@@ -18,6 +18,8 @@ tags:
 
 ## Top
 
+- [KOL - Key Opinion Leader 关键意见领袖](https://zh.wikipedia.org/wiki/KOL)
+	- 
 
 
 ## Life
