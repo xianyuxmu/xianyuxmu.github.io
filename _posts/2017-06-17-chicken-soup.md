@@ -251,7 +251,9 @@ tags:
 - 愤怒以愚蠢开始，以后悔告终。—— 毕达哥拉斯
 	- Anger begins with folly, and ends in repentance.
 - You shall not covet your neighbor's house. You shall not covet your neighbor's wife, or his male or female servant, his ox or donkey, or anything that belongs to your neighbor. -  Exodus 20:17
-	- 不可贪恋人的房屋；也不可贪恋人的妻子、僕婢、牛驴，并他一切所有的。 —— 出埃及记20:17 
+	- 不可贪恋人的房屋；也不可贪恋人的妻子、僕婢、牛驴，并他一切所有的。 —— 出埃及记20:17
+- “There is nothing impossible to him who will try.” — Alexander The Great, King of Macedon
+	- 「对于肯试的人，没有事情是不可能的。」– 亚历山大大帝 (马其顿国王)
 
 
 
