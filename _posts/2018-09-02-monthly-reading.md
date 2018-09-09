@@ -19,11 +19,15 @@ tags:
 ## Top
 
 - [KOL - Key Opinion Leader 关键意见领袖](https://zh.wikipedia.org/wiki/KOL)
-	- 
+
 
 
 ## Life
 
+- [Lady Godiva](https://en.wikipedia.org/wiki/Lady_Godiva)
+	- [Godiva Chocolatier](https://en.wikipedia.org/wiki/Godiva_Chocolatier)
+	- [Lady Godiva](https://imgcop.com/img/Godiva-Meaning-18218266/)
+	- [Lady Godiva & Peeping Tom of Coventry](https://www.youtube.com/watch?v=uJ15ohDAss4)
 
 
 ## Business
