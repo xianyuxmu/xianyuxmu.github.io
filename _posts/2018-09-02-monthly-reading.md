@@ -44,6 +44,7 @@ tags:
 - [WebView性能、体验分析与优化](https://tech.meituan.com/WebViewPerf.html)
 	- [网页优化、高性能站点——雅虎14条](https://stevesouders.com/hpws/rules.php)
 	- [70%以上业务由H5开发，手机QQ Hybrid 的架构如何优化演进？](https://mp.weixin.qq.com/s/evzDnTsHrAr2b9jcevwBzA)
+- [改造React DOM！FB将推React Fire计划](http://www.infoq.com/cn/news/2018/09/fb-reform-reactdom-react-fire)
 
 ## Thinking
 

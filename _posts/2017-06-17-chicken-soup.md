@@ -410,6 +410,9 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - 一个人思虑太多，就会失却做人的乐趣。 
 - 勤为无价宝，慎为护身术。
 - 没有人值得你流泪，值得让你这么做的人不会让你哭泣。 No man or woman is worth your tears, and the one who is, won’t make you cry.
+- 凡是过往，皆为序章。——《暴风雨》
+	- What’s past is prologue. - ***The Tempest***
+- 
 
 ----
 
