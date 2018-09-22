@@ -369,7 +369,6 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - “When you find yourself on the side oft he majority, you should pause and reflect.”
 - “IF YOU TELL THE TRUTH, YOU DON’T HAVE TO REMEMBER ANYTHING.”
 - **“Never argue with stupid people, they will drag you down to their level and then beat you with experience.”**
-- “OF ALL THE THINGS I’VE LOST, I MISS MY MIND THE MOST.”
 - “IT USUALLY TAKES ME MORE THAN THREE WEEKS TO PREPARE A GOOD IMPROMPTU SPEECH.”
 - “IF YOU DON’T READ THE NEWSPAPER YOU ARE UNINFORMED, IF YOU DO READ THE NEWSPAPER YOU ARE MISINFORMED.”
 - “I’VE HAD A LOT OF WORRIES IN MY LIFE, MOST OF WHICH NEVER HAPPENED.”
@@ -380,19 +379,32 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - “Give every day the chance to become the most beautiful day of your life.”
 - 远离那些轻视你雄心的人。 - 马克吐温
 - “历史不会重演，但总会惊人地相似。” - 马克•吐温
-- Arthur Schopenhauer 叔本华
-	- The world is my idea.
-	- Change alone is eternal, perpetual, immortal.
-	- A man can do what he wants, but not want what he wants.
-	- Truth that is naked is the most beautiful, and the simpler its expression the deeper is the impression it makes.
-	- The person who writes for fools is always sure of a large audience.
-	- **Don’t tell your friend what your enemy should not know.**
-	- 要么庸俗，要么孤独。
-	- 通常人们失去朋友不是因为拒绝借钱嘛，而是因为借了钱。 - 叔本华
-	- 我们常常不去想自己拥有的东西，却对得不到的东西念念不忘。
-	- THE world is my idea.
-		- 世界是我的表象。—— 叔本华
-		- 世界是我的观念。
+- 不要把事实告诉不值得的人。 --马克·吐温
+	- Never tell the truth to people who are not worthy of it.
+- 强者，藐视困难，弱者，仰视困难。 --马克吐温
+- 一句好的赞美足以陪伴我两个月。 --马克·吐温
+- 每个人都和月亮一样，有着不被外人所看见的阴暗面。 --马克吐温
+	- Everyone is a moon, and has a dark side which he never shows to anybody.
+- 一个人最危险的敌人是他自己的口舌。 --马克·吐温 
+	- The deadly enemy of a man, his own tongue.
+- “Out of all the things I have lost, I miss my mind the most.” ― Mark Twain
+	- 在我失去的一切当中，我最怀念我的心灵。
+	- “OF ALL THE THINGS I’VE LOST, I MISS MY MIND THE MOST.”
+
+### Arthur Schopenhauer 叔本华
+
+- The world is my idea.
+- Change alone is eternal, perpetual, immortal.
+- A man can do what he wants, but not want what he wants.
+- Truth that is naked is the most beautiful, and the simpler its expression the deeper is the impression it makes.
+- The person who writes for fools is always sure of a large audience.
+- **Don’t tell your friend what your enemy should not know.**
+- 要么庸俗，要么孤独。
+- 通常人们失去朋友不是因为拒绝借钱嘛，而是因为借了钱。 - 叔本华
+- 我们常常不去想自己拥有的东西，却对得不到的东西念念不忘。
+- THE world is my idea.
+	- 世界是我的表象。—— 叔本华
+	- 世界是我的观念。
 
 ### 莎士比亚
 
@@ -412,7 +424,20 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - 没有人值得你流泪，值得让你这么做的人不会让你哭泣。 No man or woman is worth your tears, and the one who is, won’t make you cry.
 - 凡是过往，皆为序章。——《暴风雨》
 	- What’s past is prologue. - ***The Tempest***
-- 
+
+### 笛卡尔 René Descartes
+
+- 良知，是人间分配得最均匀的东西。
+- 杰出的人才固然能够做出最大的好事，也同样可以做出最大的坏事。It is not enough to have a good mind; the main thing is to use it well.
+- 教育不是万能的，天分你必须得承认。
+- 藤萝是决不会比自己依附的树爬得更高的。
+- 我思故我在。Cogito ergo sum. (I think; therefore I am.)
+- The reading of all good books is like a conversation with the finest minds of past centuries.
+- Except our own thoughts, there is nothing absolutely in our power.
+- 虚无生虚无
+- 征服你自己，而不要征服全世界。Conquer yourself rather than the world. 
+- Doubt is the origin of wisdom. 怀疑是智慧的源泉。
+- 读杰出的书籍，有如和过去最杰出的人物促膝交谈。The reading of all good books is like a conversation with the finest minds of past centuries.
 
 ----
 
