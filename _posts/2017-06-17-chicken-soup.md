@@ -390,6 +390,8 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - “Out of all the things I have lost, I miss my mind the most.” ― Mark Twain
 	- 在我失去的一切当中，我最怀念我的心灵。
 	- “OF ALL THE THINGS I’VE LOST, I MISS MY MIND THE MOST.”
+- 孩子和傻瓜总是实话实说。
+- 实话是我们最宝贵的东西，节省着使用它吧。
 
 ### Arthur Schopenhauer 叔本华
 
