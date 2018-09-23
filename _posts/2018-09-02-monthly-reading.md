@@ -30,6 +30,8 @@ tags:
 	- [Lady Godiva](https://imgcop.com/img/Godiva-Meaning-18218266/)
 	- [Lady Godiva & Peeping Tom of Coventry](https://www.youtube.com/watch?v=uJ15ohDAss4)
 - [受用一生的维生素](http://lwqs1789.blog.163.com/blog/static/126731385201331685025539/)
+- [如何解释「好男不养猫，好女不养狗 」？](https://www.zhihu.com/question/20583660)
+	- “男不养猫，女不养狗” 这是有道理的：**猫咬鸡鸡，狗操逼。**
 
 
 ## Business
