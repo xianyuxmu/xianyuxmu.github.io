@@ -254,6 +254,8 @@ tags:
 	- 不可贪恋人的房屋；也不可贪恋人的妻子、僕婢、牛驴，并他一切所有的。 —— 出埃及记20:17
 - “There is nothing impossible to him who will try.” — Alexander The Great, King of Macedon
 	- 「对于肯试的人，没有事情是不可能的。」– 亚历山大大帝 (马其顿国王)
+- “What goes up must come down.” ― Isaac Newton
+	- 上去的一定会掉下来。
 
 
 

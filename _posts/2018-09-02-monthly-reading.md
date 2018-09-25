@@ -20,6 +20,8 @@ tags:
 
 - [KOL - Key Opinion Leader 关键意见领袖](https://zh.wikipedia.org/wiki/KOL)
 - [东北人最最最常用的50个单词，你都说过吗](http://www.sohu.com/a/55864594_351212)
+- [Elizabeth Taylor](https://en.wikipedia.org/wiki/Elizabeth_Taylor)
+- [【剧情】埃及艳后 1963 百变艳后片段](https://www.bilibili.com/video/av10412578/)
 
 
 
