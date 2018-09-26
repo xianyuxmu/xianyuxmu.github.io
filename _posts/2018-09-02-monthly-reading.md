@@ -22,6 +22,11 @@ tags:
 - [东北人最最最常用的50个单词，你都说过吗](http://www.sohu.com/a/55864594_351212)
 - [Elizabeth Taylor](https://en.wikipedia.org/wiki/Elizabeth_Taylor)
 - [【剧情】埃及艳后 1963 百变艳后片段](https://www.bilibili.com/video/av10412578/)
+- [【蜡翼·笔记】步步得势 —— 《厚黑学》](https://book.douban.com/review/5673465/)
+- [什么是OKR](https://wiki.mbalib.com/wiki/OKR)
+	- OKR(Objectives and Key Results)全称为“目标和关键成果”，是企业进行目标管理的一个简单有效的系统，能够将目标管理自上而下贯穿到基层。这套系统由英特尔公司制定，在谷歌成立不到一年的时间，被投资者约翰·都尔(John-Doerr)引入谷歌，并一直沿用至今。
+- [31 Greatest Napoleon Bonaparte Quotes To Make You Great](https://motivationgrid.com/rihanna-quotes/)
+	- 拿破仑波拿巴名言
 
 
 

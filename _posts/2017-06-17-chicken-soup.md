@@ -443,6 +443,31 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - Doubt is the origin of wisdom. 怀疑是智慧的源泉。
 - 读杰出的书籍，有如和过去最杰出的人物促膝交谈。The reading of all good books is like a conversation with the finest minds of past centuries.
 
+### 拿破仑
+
+- 我成功，是因为我想要成功。
+- "Never interrupt your enemy when he is making a mistake.” – Napoleon Bonaparte
+- “Friends must always be treated as if one day they might be enemies.” – Napoleon Bonaparte
+- “I would kiss a man’s ass if I needed him.” – Napoleon Bonaparte
+- “Once you have made up your mind, stick to it; there no longer any ‘if’ or ‘but’.” – Napoleon Bonaparte
+- “Until you spread your wings, you’ll have no idea how far you can fly.” – Napoleon Bonaparte
+- **“Impossible is a word found only in the dictionary of fools.” – Napoleon Bonaparte**
+- “Riches do not consist in the possession of treasures, but in the use made of them.” – Napoleon Bonaparte
+	- 财富的意义不在于拥有,而在如何使用它们。
+- “You must not fight too often with one enemy, or you will teach him all your art of war.” – Napoleon Bonaparte
+- “The stupid speak of the past, the wise of the present, and fools of the future.” – Napoleon Bonaparte
+- “One must change one’s tactics every ten years if one wishes to maintain one’s superiority.” – Napoleon
+- “There are only two forces that unite men – fear and interest.” – Napoleon Bonaparte
+- “A leader is a dealer in hope.” – Napoleon Bonaparte
+- “We walk faster when we walk alone.” – Napoleon Bonaparte
+- “A true man hates no one.” – Napoleon Bonaparte
+- “Take time to deliberate, but when the time for action has arrived, stop thinking and go.” – Napoleon Bonaparte
+- “If you wish to be success in the world, promise everything, deliver nothing.” – Napoleon Bonaparte
+- “A woman laughing is a woman conquered.” – Napoleon Bonaparte
+	- 一个笑的女人
+- “If you want a thing done well, do it yourself. – Napoleon Bonaparte
+- “Imagination rules the world.” – Napoleon Bonaparte
+
 ----
 
 ## Medium
