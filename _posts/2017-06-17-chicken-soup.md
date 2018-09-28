@@ -256,6 +256,11 @@ tags:
 	- 「对于肯试的人，没有事情是不可能的。」– 亚历山大大帝 (马其顿国王)
 - “What goes up must come down.” ― Isaac Newton
 	- 上去的一定会掉下来。
+- Give a girl the right shoes, and she can conquer the world. - Marilyn Monroe
+	- 给一个女孩合适的鞋子，她就能征服世界。——玛丽莲·梦露
+- 只有想不到，没有做不到。
+- 世界上有两种人，一种人，虚度年华；另一种人，过着有意义的生活。在第一种人的眼里，生活就是一场睡眠，如果这场睡眠在他看来，是睡在既柔和又温暖的床铺上，那他便十分心满意足了；在第二种人眼里，可以说，生活就是建立功绩……人就在完成这个功绩中享到自己的幸福。——［俄国］别林斯基
+- ***月盈则亏。水满则溢。物极必反。盛极而衰。否极泰来。***
 
 
 
@@ -446,6 +451,9 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 ### 拿破仑
 
 - 我成功，是因为我想要成功。
+	- “Whatever the mind can conceive and believe, the mind can achieve.”
+	- I am successful because I am determined to succeed and I have not tasted it.
+	- 我成功，因为我志在要成功，未尝踌躇。
 - "Never interrupt your enemy when he is making a mistake.” – Napoleon Bonaparte
 - “Friends must always be treated as if one day they might be enemies.” – Napoleon Bonaparte
 - “I would kiss a man’s ass if I needed him.” – Napoleon Bonaparte
@@ -467,6 +475,16 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- 一个笑的女人
 - “If you want a thing done well, do it yourself. – Napoleon Bonaparte
 - “Imagination rules the world.” – Napoleon Bonaparte
+- 我曾统领雄师百万，现在却空无一人；我曾横扫三大洲，如今却无立足之地。耶稣远胜于我，他没有一兵一卒，未占领过只寸之地，他的国却建立在万人心中。世间有两种武器：精神和剑。从长远来看，精神必将打败利剑！
+- 没有机会！这真是弱者的最好供词。
+- 我只有一个忠告给你——做你自己的主人。
+- 我是自己最大的敌人。‘
+- 人多不足以依赖，要生存只有靠自己。
+- “给自己一个高的离谱的目标，这样，即使失败了，也在别人的成功之上。”
+- I have made all the calculations; fate will do the rest. 我谋事，天成事。
+- 一个人的思想走多远，他就有可能走多远。
+- 没有机会，能力将毫无用处。
+	- Ability is nothing without opportunity. *- Napoleon Bonaparte*
 
 ----
 
