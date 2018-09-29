@@ -485,6 +485,11 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - 一个人的思想走多远，他就有可能走多远。
 - 没有机会，能力将毫无用处。
 	- Ability is nothing without opportunity. *- Napoleon Bonaparte*
+- The man who has made up his mind to win will never say "impossible ". 凡是决心取得胜利的人是从来不说“不可能的”。
+- 天下最悲哀的一句话就是：我当时真应该那么做却没有那么做。
+- 真正的英雄无需加冕！
+- 我们不是统治别人，就是被别人所统治。
+- 露脸和现眼只差一步。
 
 ----
 
