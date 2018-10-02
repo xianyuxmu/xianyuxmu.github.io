@@ -472,7 +472,7 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - “Take time to deliberate, but when the time for action has arrived, stop thinking and go.” – Napoleon Bonaparte
 - “If you wish to be success in the world, promise everything, deliver nothing.” – Napoleon Bonaparte
 - “A woman laughing is a woman conquered.” – Napoleon Bonaparte
-	- 一个笑的女人
+	- 一个笑的女人，是一个被征服的女人。
 - “If you want a thing done well, do it yourself. – Napoleon Bonaparte
 - “Imagination rules the world.” – Napoleon Bonaparte
 - 我曾统领雄师百万，现在却空无一人；我曾横扫三大洲，如今却无立足之地。耶稣远胜于我，他没有一兵一卒，未占领过只寸之地，他的国却建立在万人心中。世间有两种武器：精神和剑。从长远来看，精神必将打败利剑！
@@ -486,10 +486,11 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - 没有机会，能力将毫无用处。
 	- Ability is nothing without opportunity. *- Napoleon Bonaparte*
 - The man who has made up his mind to win will never say "impossible ". 凡是决心取得胜利的人是从来不说“不可能的”。
-- 天下最悲哀的一句话就是：我当时真应该那么做却没有那么做。
+- **天下最悲哀的一句话就是：我当时真应该那么做却没有那么做。**
 - 真正的英雄无需加冕！
 - 我们不是统治别人，就是被别人所统治。
 - 露脸和现眼只差一步。
+- 我们应当努力奋斗，有所作为。这样，我们就可以说，我们没有虚度年华，并有可能在沙滩上留下我们的足迹。
 
 ----
 
