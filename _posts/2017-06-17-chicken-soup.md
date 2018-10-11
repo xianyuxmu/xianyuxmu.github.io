@@ -261,6 +261,9 @@ tags:
 - 只有想不到，没有做不到。
 - 世界上有两种人，一种人，虚度年华；另一种人，过着有意义的生活。在第一种人的眼里，生活就是一场睡眠，如果这场睡眠在他看来，是睡在既柔和又温暖的床铺上，那他便十分心满意足了；在第二种人眼里，可以说，生活就是建立功绩……人就在完成这个功绩中享到自己的幸福。——［俄国］别林斯基
 - ***月盈则亏。水满则溢。物极必反。盛极而衰。否极泰来。***
+- If at first you don't succeed destroy all evidence that you tried. ― Steven Wright
+	- 假如一开始你没有成功，毁灭所有你尝试过的痕迹。—— 史蒂芬•莱特
+- If at first you don't succeed, Try, try, try again. - *William Edward Hickson*
 
 
 
@@ -448,7 +451,9 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - Doubt is the origin of wisdom. 怀疑是智慧的源泉。
 - 读杰出的书籍，有如和过去最杰出的人物促膝交谈。The reading of all good books is like a conversation with the finest minds of past centuries.
 
-### 拿破仑
+### 拿破仑 Napoleon Bonaparte 
+
+[Napoleon I of France](https://en.wikiquote.org/wiki/Napoleon_I_of_France)
 
 - 我成功，是因为我想要成功。
 	- “Whatever the mind can conceive and believe, the mind can achieve.”
@@ -464,6 +469,8 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- 财富的意义不在于拥有,而在如何使用它们。
 - “You must not fight too often with one enemy, or you will teach him all your art of war.” – Napoleon Bonaparte
 - “The stupid speak of the past, the wise of the present, and fools of the future.” – Napoleon Bonaparte
+	- Simpletons talk of the past, wise men of the present, and fools of the future.
+	- 笨蛋谈过去，聪明人谈现在，傻瓜谈未来。
 - “One must change one’s tactics every ten years if one wishes to maintain one’s superiority.” – Napoleon
 - “There are only two forces that unite men – fear and interest.” – Napoleon Bonaparte
 - “A leader is a dealer in hope.” – Napoleon Bonaparte
@@ -475,6 +482,8 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- 一个笑的女人，是一个被征服的女人。
 - “If you want a thing done well, do it yourself. – Napoleon Bonaparte
 - “Imagination rules the world.” – Napoleon Bonaparte
+	- Imagination governs the world.
+	- 想象统治世界。
 - 我曾统领雄师百万，现在却空无一人；我曾横扫三大洲，如今却无立足之地。耶稣远胜于我，他没有一兵一卒，未占领过只寸之地，他的国却建立在万人心中。世间有两种武器：精神和剑。从长远来看，精神必将打败利剑！
 - 没有机会！这真是弱者的最好供词。
 - 我只有一个忠告给你——做你自己的主人。
@@ -489,8 +498,97 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - **天下最悲哀的一句话就是：我当时真应该那么做却没有那么做。**
 - 真正的英雄无需加冕！
 - 我们不是统治别人，就是被别人所统治。
-- 露脸和现眼只差一步。
 - 我们应当努力奋斗，有所作为。这样，我们就可以说，我们没有虚度年华，并有可能在沙滩上留下我们的足迹。
+- **The superior man is never in anyone's way.**
+- Success is the most convincing talker in the world.
+- Impatience is a great obstacle to success; he who treats everything with brusqueness gathers nothing, or only immature fruit which will never ripen.
+	- 急躁是成功的一大障碍;粗鲁对待一切的人不会收获任何东西，也不会收获永远不会成熟的果实。
+- One must indeed be ignorant of the methods of genius to suppose that it allows itself to be cramped by forms. 
+	- 我要自以为聪明，以避免其形式所狭隘。
+- Never depend on the multitude, full of instability and whims; always take precautions against it.
+	- 永远不要依赖人群，充满不稳定和任性;一定要做好预防措施。
+- From triumph to downfall is but a step.
+	- 露脸和现眼只差一步。
+- Necessity dominates inclination, will, and right.
+	- 需要支配倾向、意志和权利。
+- To do all that one is able to do, is to be a man; to do all that one would like to do, would be to be a god.
+	- 做一个人有能力做的事，叫做人；做一个人想做的事，可以叫做神。
+- Man achieves in life only by commanding the capabilities nature has given him, or by creating them within himself by education and by knowing how to profit by the difficulties encountered.
+	- 人只有通过掌握自然赋予他的能力，或者通过教育和知道如何从遇到的困难中获利，才能在生活中获得成就。
+- It is a mistake, too, to say that the face is the mirror of the soul. The truth is, men are very hard to know, and yet, not to be deceived, we must judge them by their present actions, but for the present only.
+	- 这是一个错误，也就是说，脸是灵魂的镜子。事实是，人们很难了解，然而，我们不能被欺骗，我们必须以他们目前的行为来判断他们，但只能断定目前。
+- One is more certain to influence men, to produce more effect on them, by absurdities than by sensible ideas.
+- It is not true that men never change; they change for the worse, as well as for the better. It is not true they are ungrateful; more often the benefactor rates his favors higher than their worth; and often too he does not allow for circumstances. If few men have the moral force to resist impulses, most men do carry within themselves the germs of virtues as well as of vices, of heroism as well as of cowardice. **Such is human nature — education and circumstances do the rest.**
+- True character stands the test of emergencies. Do not be mistaken, it is weakness from which the awakening is rude.
+	- 真正的品格经得起紧急情况的考验。不要误会，这是来自粗鲁觉醒时的软弱表现。
+- One must learn to forgive and not to hold a hostile, bitter attitude of mind, which offends those about us and prevents us from enjoying ourselves; one must recognize human shortcomings and adjust himself to them rather than to be constantly finding fault with them.
+	- 一个人必须学会宽容，不要怀有一种敌对的、痛苦的心态，这种心态会冒犯我们周围的人，阻碍我们享受生活;一个人必须认识到人的缺点，并使自己适应它们，而不是不断地挑剔它们。
+- It is not necessary to prohibit or encourage oddities of conduct which are not harmful.
+	- 没有必要禁止或鼓励没有害的古怪行为。
+- The best way to keep one's word is not to give it.
+	- 遵守诺言的最好方法是——不要将其说出口。
+- In politics nothing is immutable. Events carry within them an invincible power. The unwise destroy themselves in resistance. The skillful accept events, take strong hold of them and direct them.
+	- 在政治上，没有什么是一成不变的。事件在他们心中具有不可战胜的力量。不明智的人在抵抗中自我毁灭。有技巧的人接受事件，掌握它们并引导它们。
+- Posterity alone rightly judges kings. Posterity alone has the right to accord or withhold honors
+	- 只有子孙后代才正确地审判国王。只有后代才有权授予或拒绝荣誉。
+- One can lead a nation only by helping it see a bright outlook. A leader is a dealer in hope.
+	- 只有通过帮助一个国家看到光明的前景，才能领导一个国家。领导者是希望的商人。
+- Parties weaken themselves by their fear of capable men.
+	- 政党因害怕有能力的人而削弱自己。
+- Democracy may become frenzied, but it has feelings and can be moved. As for aristocracy, it is always cold and never forgives.
+	- 只有谨慎、睿智和灵巧，才能实现伟大的目标，克服一切障碍。否则什么都不会完成。
+- To listen to the interests of all, marks an ordinary government; to foresee them, marks a great government.
+	- 倾听所有人的利益，标志着一个普通政府；预见他们，标志着一个伟大的政府。
+- It must be recognized that the real truths of history are hard to discover. Happily, for the most part, they are rather matters of curiosity than of real importance.
+	- 必须认识到历史真实的真相是很难发现的。令人高兴的是，在大多数情况下，它们都是好奇心而非真正重要的东西。
+- Laws which are consistent in theory often prove chaotic in practice.
+	- 理论上一致的定律在实践中常常是混乱的。
+- **In practical administration, experience is everything.**
+	- 在实际管理中，经验就是一切。
+- Fanaticism must be put to sleep before it can be eradicated.
+	- 狂热在消灭前，必须让其沉睡。
+- I do not see in religion the mystery of the incarnation so much as the mystery of the social order. It introduces into the thought of heaven an idea of equalization, which saves the rich from being massacred by the poor. ***Often paraphrased as “Religion keeps the poor from killing the rich.”***
+	- 在宗教中，我看不到化身的奥秘，更不知道社会秩序的奥秘。它将天堂的思想引入均等化的思想中，使富人免于被穷人屠杀。经常被解释为“宗教使穷人不致于杀害富人”。
+- A commander in chief ought to say to himself several times a day: If the enemy should appear on my front, on my right, on my left, what would I do? And if the question finds him uncertain, he is not well placed, he is not as he should be, and he should remedy it.
+	- 总司令每天应该对自己说几次：如果敌人出现在我面前，出现在我右边，出现在我左边，我该怎么办？如果问题发现他是不确定的，他就不好，他不是他应该的，他应该补救它。
+- The moment of greatest peril is the moment of victory.
+	- 最危险的时刻是胜利的时刻。
+- At the beginning of a campaign it is important to consider whether or not to move forward; but when one has taken the offensive it is necessary to maintain it to the last extremity. However skilfully effected a retreat may be, it always lessens the morale of an army, since in losing the chances of success, they are remitted to the enemy. A retreat, moreover, costs much more in men and materials than the bloodiest engagements, with this difference, also, that in a battle the enemy loses practically as much as you do; while in a retreat you lose and he does not.
+	- 在战役开始时，考虑是否向前推进很重要，但是当进攻进行到最后时，必须把它保持在最后一个极端。不管撤退多么巧妙，它总是会降低军队的士气，因为一旦失去成功的机会，就会被交还给敌人。此外，撤退比最血腥的战斗花费更多的人力和物力，还有一个差别，在战斗中敌人实际上损失和你一样多，而在撤退中你损失而不是他。
+- There is a joy in danger.
+	- 危险中充满喜悦。
+- The praises of enemies are always to be suspected.
+	- 敌人的赞扬总是值得怀疑的。
+- Courage cannot be counterfeited. It is one virtue that escapes hypocrisy.
+	- 勇气不能伪造。逃避虚伪是一种美德。
+- In war, groping tactics, half-way measures, lose everything.
+	- 在战争，集体摸索战术、中途措施，失去一切。
+- In order not to be astonished at obtaining victories, one ought not to think only of defeats.
+	- 为了不为取得胜利而感到惊讶，人们不应该只想到失败。
+- In war, luck is half in everything.
+	- 在战争中，运气是一切的一半。
+- In France, only the impossible is admired.
+	- 在法国，只有不可能的事值得钦佩。
+- Turks can be killed, but they can never be conquered.
+	- 土耳其人可以被杀死，但他们永远也无法被征服。
+- Morality has nothing to do with such a man as I am.
+	- 道德与我这样的人无关。
+- Surely in a matter of this kind we should endeavor to do something, that we may say that we have not lived in vain, that we may leave some impress of ourselves on the sands of time.
+	- 我们应当努力奋斗，有所作为。这样，我们就可以说，我们没有虚度年华，并有可能在时间的沙滩上留下我们的足迹。
+- A good sketch is better than a long speech.
+	- 好的画胜过长篇的演讲。一幅画胜过千言万语。
+- The hand that gives is above the hand that takes. 
+	- 给予之手在接纳之手的上方。
+- If I had succeeded, I would have been the greatest man known to history.
+	- 如果我成功了，我就会成为历史上最伟大的人。
+- The future destiny of the child is always the work of his mother. Let France have good mothers, and she will have good sons.
+	- 孩子的未来命运永远是他母亲的工作。让法国有好母亲，她会有好儿子。
+- Christ alone has succeeded in so raising the mind of man toward the unseen, that it becomes insensible to the barriers of time and space.
+	- 唯有基督，才成功地使人的心灵向着看不见的事物升起，以致于它对时间和空间的障碍变得麻木不仁。
+- An army of sheep, led by a lion, is better than an army of lions, led by a sheep.
+	- 一群狮子为首的羊群，胜过一群以羊为首的狮子。
+- Never ascribe to malice that which is adequately explained by stupidity.
+	- 永远不要把愚蠢足以解释的事情归咎于恶意。
 
 ----
 
