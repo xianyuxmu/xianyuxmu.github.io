@@ -8,6 +8,13 @@
 
 立身技术，关注商业：旅游、新零售。
 
+<!-- 
+
+* 安装依赖：bundle install
+* 本地运行：bundle exec jekyll serve
+
+ -->
+
 
 
 

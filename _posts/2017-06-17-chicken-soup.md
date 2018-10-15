@@ -264,7 +264,9 @@ tags:
 - If at first you don't succeed destroy all evidence that you tried. ― Steven Wright
 	- 假如一开始你没有成功，毁灭所有你尝试过的痕迹。—— 史蒂芬•莱特
 - If at first you don't succeed, Try, try, try again. - *William Edward Hickson*
-
+- 你不会有第二次机会，给人留下第一印象。—— 海飞丝广告，宝洁
+	- You Never Get a Second Chance to Make a First Impression. 
+	- 可能来自“英国谚语”。
 
 
 ----
@@ -379,6 +381,7 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - “When you find yourself on the side oft he majority, you should pause and reflect.”
 - “IF YOU TELL THE TRUTH, YOU DON’T HAVE TO REMEMBER ANYTHING.”
 - **“Never argue with stupid people, they will drag you down to their level and then beat you with experience.”**
+	- 你永远不能战胜一个纯愚蠢的人,因为他会把你的智商拉到跟他个水平,然后用丰富的经验打败你。
 - “IT USUALLY TAKES ME MORE THAN THREE WEEKS TO PREPARE A GOOD IMPROMPTU SPEECH.”
 - “IF YOU DON’T READ THE NEWSPAPER YOU ARE UNINFORMED, IF YOU DO READ THE NEWSPAPER YOU ARE MISINFORMED.”
 - “I’VE HAD A LOT OF WORRIES IN MY LIFE, MOST OF WHICH NEVER HAPPENED.”
@@ -402,6 +405,8 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- “OF ALL THE THINGS I’VE LOST, I MISS MY MIND THE MOST.”
 - 孩子和傻瓜总是实话实说。
 - 实话是我们最宝贵的东西，节省着使用它吧。
+- The worst loneliness is to not be comfortable with yourself.
+	- 最糟糕的孤独感是对自己感觉不舒服。
 
 ### Arthur Schopenhauer 叔本华
 
