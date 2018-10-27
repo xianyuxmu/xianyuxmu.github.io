@@ -102,6 +102,13 @@ link: http://www.binarytides.com/linux-find-command-examples/
 
 ----
 
+### 查看文件大小
+
+> The Linux **“du” (Disk Usage)** is a standard Unix/Linux command, used to check the information of disk usage of files and directories on a machine. 
+
+- `du -sh directory_name`  // Gives you the summarized(-s) size of the directory in human readable(-h) format. Including -h option in any of the above commands (for Ex: ls -lh * or du -sh) will give you size in human readable format (`kb, mb,gb`, ...)
+- `du -bsh *` // 插卡当前目录下所有文件大小, `s`代表size，`h`代表human readable(-h) format，`b`代表apparent
+
 ### 串行执行
 
 A pipeline is a sequence of one or more commands separated by the control operator `'|'`.

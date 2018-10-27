@@ -267,6 +267,9 @@ tags:
 - 你不会有第二次机会，给人留下第一印象。—— 海飞丝广告，宝洁
 	- You Never Get a Second Chance to Make a First Impression. 
 	- 可能来自“英国谚语”。
+- Words may shew a man’s Wit，but Actions his Meaning.
+	- 言语展示智慧，行动揭示意图。
+	- 行动反应真实意图。
 
 
 ----
