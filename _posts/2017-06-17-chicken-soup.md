@@ -270,6 +270,67 @@ tags:
 - Words may shew a man’s Wit，but Actions his Meaning.
 	- 言语展示智慧，行动揭示意图。
 	- 行动反应真实意图。
+- “I never dreamed for success, I worked for it.” – Estée Lauder, Entrepreneur
+	- 我从不梦想成功，我努力达到成功。 - 雅诗•兰黛
+- Discussion is an exchange of knowledge; an argument an exchange of ignorance. – Robert Quillen, Journalist
+	- 讨论是知识的交流，争论是无知的交流。
+- “Whatever is worth doing is worth doing well.” – Philip Stanhope, Statesman
+	- 「任何值得做的事，都值得把它做好。」– 菲利普‧斯坦霍普 (政治家)
+- “When you’re good to others, you are best to yourself” — Benjamin Franklin, Statesman
+	- 对别人好，就是对自己好。- 本杰明•富兰克林
+- “The more one judges, the less one loves.” -  Honoré de Balzac, Novelist
+	- 一个人评判得越多，爱的就越少。
+- “All things are difficult before they are easy.” – Thomas Fuller, Clergyman
+	- 所有事情在变简单前都是困难的。
+- “People’s hearts are like wild animals. They attach their selves to those that love and train them.” – Ali ibn Abi Talib, Caliph
+	- 人的心仿佛野生动物，会亲近爱护和训练他们的人。—— 阿里·本·阿比·塔利卜 (穆斯林统治者) 
+- “Inspiration usually comes during work, rather than before it.” – Madeleine L’Engle, Writer
+	- 我们通常是在工作的时候得到灵感，而不是工作之前。
+- “The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.” – Margaret Chase Smith, Politician
+	- 「对的方式不一定总是受人欢迎或容易执行，即便不受欢迎还站在对的一边，那是真正的道德考验。」– 玛格丽特·蔡斯·史密斯 (政治人物)
+- “It is a thing of no great difficulty to raise objections against another man’s oration — nay, it is a very easy matter — but to produce a better in its place is a work extremely troublesome.”
+	- 「反对别人说的话没什麽太大的困难，但找出更好的替代方桉却是一件极为麻烦的事。」– 普鲁塔克 (希腊历史学家)
+- “Occurrences which according to received theories ought not to happen, are the facts which serve as clues to new discoveries.” – John Herschel , Polymath
+	- 「根据已知理论不应该发生的事件，是通往新发现的线索。」– 约翰·赫歇尔 (博学家)
+- “There are many things that seem impossible only so long as one does not attempt them.” – André Gide, Writer
+	- 「因为没有人企图尝试，所以很多事看似不可能。」– 安德烈·纪德 (作家)
+- “Prejudices are what fools use for reason.” — Francois-Marie Arouet de Voltaire, Philosopher
+	- 「愚人以偏见取代逻辑。」– 伏尔泰 (思想家)
+- “To be good and lead a good life means to give to others more than one takes from them.” — Leo Tolstoy, Novelist 
+	- 「做好人及过好的人生，意谓为别人付出的，比从别人那得到的还要多。」– 列夫‧托尔斯泰 (小说家)
+- “What the heart knows today, the head will understand tomorrow.” – James Stephens, Writer
+	- 「今天内心知道的事，大脑日后会知道为什麽。」– 詹姆斯·斯蒂芬斯 (作家)
+- “Great people do things before they’re ready.” – Amy Poehler, Actress
+	- 「杰出的人在还没准备好就採取行动。」– 艾米·波勒 (女演员)
+- “It is the people who can do nothing who find nothing to do, and the secret to happiness in this world is not only to be useful, but to be forever elevating one’s uses.” – Sarah Orne Jewett, Writer
+	- 「什麽都不会的人才会没事做，而世上快乐的祕密不只是成为有用的人，还要不断提升自己的用处。」– 萨拉·奥恩·朱厄特 (作家)
+- “Tactics is what you do when there is something to do; strategy is what you do when there is nothing to do.” – Savielly Tartakower, Chess Grandmaster
+	- 「有目标时你有的是战术，没目标时你有的是策略。」– 萨维利·塔塔科维 (西洋棋特级大师)
+- “It’s not so much how busy you are, but why you are busy.” – Flannery O’Connor, Novelist
+	- 「重要的不是你有多忙，而是你为何而忙。」– 弗兰纳里·奥康纳 (小说家)
+- “The world is a book, and those who do not travel read only a page.” — Augustine of Hippo, Christian Philosopher
+	- 「这世界像是一本书，而不旅行的人只读了一页。」– 希波的奥古斯丁 (基督教哲学家)
+- “There is more to us than we know. If we can be made to see it, perhaps for the rest of our lives we will be unwilling to settle for less.” – Kurt Hahn, Educator
+	- 「我们的能力超出自己的想像，我们若能看见这个，可能往后的日子都不会和不理想妥协。」– 库尔特·汉 (教育家)
+- “I want to stay as close to the edge as I can without going over. Out on the edge you see all kinds of things you can’t see from the center.” – Kurt Vonnegut, Novelist
+	- 我想在不超过的情况下，尽量靠近边缘，在边缘你可以看见各种你在中间看不见的事。」– 寇特·冯内果 (小说家)
+- “Courage isn’t having the strength to go on – it’s going on when you don’t have strength.” – Napoleon Bonaparte, Military Commander
+- 「勇气不是有勇气坚持下去 – 而是没有力气时还坚持下去。」– 拿破崙 (军事家)
+- “The crisis of today is the joke of tomorrow.” – H. G. Wells, Science Fiction Writer
+- 「今天的危机会是明天的趣事。」– 赫伯特‧乔治‧威尔斯 (科幻小说家)
+- “Always bear in mind that your own resolution to succeed is more important than any other one thing.” – Abraham Lincoln, 16th President of the United States
+- 「永远记住，你自己要成功的决心比其它任何一件事都重要。」– 亚伯拉罕‧林肯 (美国第 16 任总统)
+- “To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.” – Khalil Gibran, Poet
+- 「想了解一个人的内心世界，不要看他过去的成就，看他嚮往做什麽。」– 哈里利‧纪伯伦 (诗人)
+- “The task of leadership is not to put greatness into humanity, but to elicit it, for the greatness is already there.” – John Buchan, Political Leader
+- 「领导者的工作不是把卓越注入人类，而是把它引发出来，因为卓越原本就在。」– 约翰·布肯 (政治家)
+- “Act the way you’d like to be and soon you’ll be the way you act.” – Leonard Cohen, Singer
+- 「以你想要的方式行动，很快的你就会成为那个样子。」– 李欧纳·柯恩 (歌手)
+- “Always do your best. What you plant now, you will harvest later.” – Og Mandino, Author
+- 「永远全力以赴，今日播下的种子，终会得到丰收。」– 奥格‧曼迪诺 (作家)
+
+
+
 
 
 ----
