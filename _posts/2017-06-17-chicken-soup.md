@@ -328,6 +328,7 @@ tags:
 - 「以你想要的方式行动，很快的你就会成为那个样子。」– 李欧纳·柯恩 (歌手)
 - “Always do your best. What you plant now, you will harvest later.” – Og Mandino, Author
 - 「永远全力以赴，今日播下的种子，终会得到丰收。」– 奥格‧曼迪诺 (作家)
+- 事前强调目标，事后强调结果。
 
 
 

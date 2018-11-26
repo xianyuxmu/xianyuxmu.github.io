@@ -71,6 +71,7 @@ tags:
 - [该如何选择皮衣？](https://www.zhihu.com/question/21507062)
 - [時尚共和國](https://www.zhihu.com/people/fashionmei/activities)
 	- [《了不起的麦瑟尔女士》女主穿搭风格？](https://www.zhihu.com/question/264207588/answer/291773600)
+- 事前强调目标，事后强调结果。
 
 
 
