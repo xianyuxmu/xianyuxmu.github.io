@@ -16,7 +16,7 @@ tags:
 <p>——拿破仑•波拿巴/Napoleon Bonaparte</p>
 </blockquote>
 
-## Top
+## The Top
 
 - 王兴的“三高三低”：
 	- 对消费者，是低价格、高品质
@@ -27,9 +27,10 @@ tags:
 - livewithoutfear 👁 去做想做而又害怕的是，若干年之后，你会佩服你今天的勇气。成功了让你格外的惊喜，更加相信自己的直觉；失败了，你亦不会后悔，至少自己曾努力过。 — Robin Chen
 - 批判性思维能存在的原因是世界上什么东西都不是绝对的，没有绝对的真理、能合理的解释即是合理的。—— 《学会提问》读后感
 - “人民币汇率，外汇储备，中国持有美国国债”三个数值，是中国经济体的健康程度的衡量指标。
+- [Are You Ready for the Nanoinfluencers?](https://www.nytimes.com/2018/11/11/business/media/nanoinfluencers-instagram-influencers.html?module=inline)
 
 
-## Life
+## Life/Reading
 
 - 逝水如年。
 - [王小波｜好看的皮囊千篇一律，有趣的灵魂万里挑一](http://www.sohu.com/a/133449314_393966)
@@ -40,9 +41,7 @@ tags:
 	- 有趣的人有清醒的头脑，能独立思考，有自己独特的见解，警惕的是那个理所当然的世界。
 
 
-
-
-## Business
+## Business/Marketing
 
 - [美团张川：餐饮业有三个趋势 将推预点餐功能](https://shouyin.meituan.com/information/3090)
 	- 目前电影票的线上比例80%，高铁票为90%，而餐饮还小于10%。他预测2020年餐饮行业将达到2.4亿单/天，而线上占比将高达60%
@@ -52,15 +51,15 @@ tags:
 	- 仅向部分用户开放，但通过搜索同样能够进入的Luxury Pavilion目前拥有近10万年消费额超过百万的高端会员，其中90后占一半。
 	- 刘秀云想强调的是天猫如何“为品牌提供水电煤等基础设施”，进行技术赋能。
 	- 新零售为奢侈品牌带来了五个方面的赋能：帮助奢侈品积累和沉淀年轻用户，实现针对消费者的专属定制，推动品牌渠道下沉到难以覆盖的低线城市消费者，以技术手段提升服务体验等。
-
-## Marketing
-
 - [张勇致股东信：阿里巴巴的最终目标是从世界卖向世界](https://wallstreetcn.com/articles/3429651)
 
+## Reading
 
-## Tech
+- [**中国规则——中国是如何成为一个超级大国的**](https://www.nytimes.com/zh-hans/interactive/2018/11/19/world/asia/world-built-by-china.html)
 
 
+## Tech/Internet
 
-## Thinking
+- [如何在国内构建一个硅谷级的高效技术团队？](https://www.infoq.cn/article/5ym448gjS*pmmve6q8FC)
+
 
