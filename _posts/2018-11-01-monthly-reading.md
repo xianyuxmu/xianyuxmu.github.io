@@ -56,6 +56,23 @@ tags:
 ## Reading
 
 - [**中国规则——中国是如何成为一个超级大国的**](https://www.nytimes.com/zh-hans/interactive/2018/11/19/world/asia/world-built-by-china.html)
+- [In Startups And Life, You Need Plan A, B, And Z](https://techcrunch.com/2012/02/14/in-startups-and-life-you-need-plan-a-b-and-z/)
+	- ![abz](http://thestartupofyou.com/wp-content/uploads/2011/11/v.3_ABZ-181x230.jpg)
+	- Plan A - This is what you’re doing right now.
+	- Plan B - Plan B is what you switch to when you get out of Plan A.
+	- Plan Z - This is your fallback option (Reid Hoffman calls it your lifeboat).
+- 凯利公式：
+	- [【量化课堂】凯利公式，你用对了吗？](https://www.joinquant.com/post/1311?f=study&m=math)
+	- [聊聊赌场和金融圈最著名的一个数学公式](https://mp.weixin.qq.com/s?__biz=MzA5MDE5OTkyMQ==&mid=2649377759&idx=3&sn=df1e7d2c356b1e3806983166a96e935e)
+- [“早知道这些我的公司就不会死”系列（一）：CAC、LTV、PBP](https://36kr.com/p/5046704.html)
+	- CAC 是 Customer Acquisition Cost 的缩写，意思是“用户获取成本”。
+	- LTV 是 Life Time Value 的缩写，意思是“用户的终身价值”。
+	- PBP 是 Payback Period 的缩写，意思是“回收期”。
+- 有启发的博客：[http://litaotao.github.io/](http://litaotao.github.io/)
+	- [『 读书笔记 』9月，10月读书总结｜博文推荐](http://litaotao.github.io/books-recommend-and-summarize-on-sep-2016)
+- [如何快速在一个陌生领域达到优秀水平](https://mp.weixin.qq.com/s?__biz=MzA4ODM1MTMzMQ==&mid=2651791131&idx=2&sn=7512d96b25ba78f4fcb0786f9a2838d4&scene=1)
+	- 优秀和顶尖的区别，可以用80/20法则来解释：优秀是投入20%精力得到80分，顶尖是投入80%的精力去打磨那超越众人的20分。
+	- 高手相争，看似只在毫厘之间。
 
 
 ## Tech/Internet
