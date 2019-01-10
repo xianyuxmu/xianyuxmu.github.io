@@ -453,6 +453,9 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 	- 你永远不能战胜一个纯愚蠢的人,因为他会把你的智商拉到跟他个水平,然后用丰富的经验打败你。
 - “IT USUALLY TAKES ME MORE THAN THREE WEEKS TO PREPARE A GOOD IMPROMPTU SPEECH.”
 - “IF YOU DON’T READ THE NEWSPAPER YOU ARE UNINFORMED, IF YOU DO READ THE NEWSPAPER YOU ARE MISINFORMED.”
+	- 如果你不看新闻，你是无知的；如果真看了新闻，你是被误导的。
+- A lie can make it half way around the world before the truth has time to put its boots on.
+	- 谎言在真相出发前，环游了半个世界。
 - “I’VE HAD A LOT OF WORRIES IN MY LIFE, MOST OF WHICH NEVER HAPPENED.”
 - **“It is wiser to find out than to suppose.” **
 - **“Never miss a good chance to shut up.”**
