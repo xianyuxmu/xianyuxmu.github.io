@@ -435,7 +435,7 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - “EXPLORE. DREAM. DISCOVER.” 
 - “A BANKER IS A FELLOW WHO LENDS YOU HIS UMBRELLA WHEN THE SUN IS SHINING, BUT WANTS IS BACK THE MINUTE ITBEGINS TO RAINS.”
 - “I DO NOT FEAR DEATH, I HAD BEEN DEAD FOR BILLIONS AND BILLIONS OF YEARS BEFORE I WAS BORN, AND HAD NOT SUFFERED THE SLIGHTEST INCONVENIENCE FROM IT.”
-- **“Give every day the chance to become the most beautiful of your life.”**
+- **“Give every day the chance to become the most beautiful day of your life.”**
 - “NEVER PUT OFF TILL TOMORROW WHAT YOU CAN DO THE DAY AFTER TOMORROW.” 
 - “Continuous improvement is better than delayed perfection”
 - “Never try to teach a pig to sing, you waste your time, and you annoy the pig”
@@ -457,7 +457,7 @@ Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 - A lie can make it half way around the world before the truth has time to put its boots on.
 	- 谎言在真相出发前，环游了半个世界。
 - “I’VE HAD A LOT OF WORRIES IN MY LIFE, MOST OF WHICH NEVER HAPPENED.”
-- **“It is wiser to find out than to suppose.” **
+- **“It is wiser to find out than to suppose.”**
 - **“Never miss a good chance to shut up.”**
 	- 千万不要错过一个好机会闭嘴。
 - - I was seldom able to see an opportunity until it had ceased to be one. - Mark Twain
