@@ -47,7 +47,7 @@ React 官方提供的性能优化建议已经写得很好了，请查看：[Opti
 `Updating` 阶段一共调用了 `componentWillReceiveProps()`、`shouldComponentUpdate()`、`componentWillUpdate()`、`render()` 和 `componentDidUpdate()` 五个方法。
 
 - `componentWillReceiveProps(nextProps)`——在这个阶段可以通过 `this.setState()` 方法提前把 `nextProps` 需要的值更新到组件的 `state` 中。调用 `this.setState()` 一般不会触发 `componentWillReceiveProps()`
-- `shouldComponentUpdate(nextProps, nextState)`——这个方法通过返回值高速组件该不该重绘。
+- `shouldComponentUpdate(nextProps, nextState)`——这个方法通过返回值告诉组件该不该重绘。
 -  `componentWillUpdate(nextProps, nextState)`——重绘前最后一次操作的机会。当 `shouldComponentUpdate()` 返回 `false` 时，该方法不会被调用。
 - `render()`——重绘。
 - `componentDidUpdate(prevProps, prevState)`——重绘完成后操作 DOM 的机会，比如 `prop` 更改后进行网络请求。当 `shouldComponentUpdate()` 返回 `false` 时，该方法不会被调用。

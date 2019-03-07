@@ -84,7 +84,7 @@ HTML 树结构
 
 获取：`document.getElementById('some-id').getAttribute('id');`。
 
-设置：`document.getElementById('some-id').vlue = 'someValue';` 或者 `document.getElementById('some-id').setAttribute('id', 'newId')`。
+设置：`document.getElementById('some-id').value = 'someValue';` 或者 `document.getElementById('some-id').setAttribute('id', 'newId')`。
 
 可以自己实现一个统一的元素属性访问函数进行相应的操作。
 
