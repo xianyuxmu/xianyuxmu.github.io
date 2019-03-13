@@ -18,31 +18,25 @@ tags:
 
 ## The Top
 
+- [数字资本主义正当时，Google如何依靠广告杠杆撬动媒体生态](https://36kr.com/p/5149660.html)
+- [Netflix企业文化PPT：硅谷最重要的文件 ](http://www.sohu.com/a/16676163_114965)
+- [卡戴珊家族最逆袭老幺：20岁生娃，身价数亿](http://news.ifeng.com/a/20180220/56146453_0.shtml)
+- [网友晒16年前手机报价单 雷军两个字评价](https://www.cnbeta.com/articles/tech/826893.htm)
 
 ## Life/Reading
 
+- [《颠覆式创新：企业实现突破的15种方式》](https://book.douban.com/subject/26997783/)
+	- [启发创新的正确提问姿势](https://book.douban.com/review/8445192/)
+	- [《颠覆式创新----企业实现突破的15种方式》读书笔记（上）](https://zhuanlan.zhihu.com/p/28345870)
+- [微软，Facebook上班是不是工资高还一天特闲？](https://www.zhihu.com/question/48220335/answer/527308770)
+- [阿里巴巴内部揭秘，看别人家的薪资、奖金与期权是怎么样的](https://www.weibo.com/ttarticle/p/show?id=2309403963137308099009)
 
 
 ## Business/Marketing
 
-
-## Reading
+- [不要做一个小程序，做一门生意](https://36kr.com/p/5141385.html)
+- [“亚马逊大衣”在美国火了：背后的中国公司一个月收入超2017全年](https://www.cnbeta.com/articles/tech/821475.htm)
 
 
 ## Tech/Internet
-
-- JWT
-	- [JWT在身份认证方面的应用](https://www.jianshu.com/p/fcc1a6482143)
-	- [什么是 JWT -- JSON WEB TOKEN](https://www.jianshu.com/p/576dbf44b2ae)
-	- [讲真，别再使用JWT了！](https://juejin.im/entry/5993a030f265da24941202c2)
-	- [dwyl/learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens)
-	- [Java JWT: JSON Web Token for Java and Android](https://github.com/jwtk/jjwt)
-	- [REST Security with JWT using Java and Spring Security](https://www.toptal.com/java/rest-security-with-jwt-spring-security-and-java)
-		- [JWT Spring Security Demo](https://github.com/szerhusenBC/jwt-spring-security-demo)
-	- [Spring Boot token authentication using JWT](https://aboullaite.me/spring-boot-token-authentication-using-jwt/)
-		- [aboullaite/spring-boot-jwt](https://github.com/aboullaite/spring-boot-jwt)
-	- [SpringBoot集成JWT实现token验证](https://www.jianshu.com/p/e88d3f8151db)
-
-
-
 
