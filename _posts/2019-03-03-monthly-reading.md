@@ -18,6 +18,8 @@ tags:
 
 ## The Top
 
+- 少评论，多实干，发展中去解决问题。
+
 
 ## Life/Reading
 
@@ -31,18 +33,4 @@ tags:
 
 ## Tech/Internet
 
-- JWT
-	- [JWT在身份认证方面的应用](https://www.jianshu.com/p/fcc1a6482143)
-	- [什么是 JWT -- JSON WEB TOKEN](https://www.jianshu.com/p/576dbf44b2ae)
-	- [讲真，别再使用JWT了！](https://juejin.im/entry/5993a030f265da24941202c2)
-	- [dwyl/learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens)
-	- [Java JWT: JSON Web Token for Java and Android](https://github.com/jwtk/jjwt)
-	- [REST Security with JWT using Java and Spring Security](https://www.toptal.com/java/rest-security-with-jwt-spring-security-and-java)
-		- [JWT Spring Security Demo](https://github.com/szerhusenBC/jwt-spring-security-demo)
-	- [Spring Boot token authentication using JWT](https://aboullaite.me/spring-boot-token-authentication-using-jwt/)
-		- [aboullaite/spring-boot-jwt](https://github.com/aboullaite/spring-boot-jwt)
-	- [SpringBoot集成JWT实现token验证](https://www.jianshu.com/p/e88d3f8151db)
-
-
-
-
+- [Vue 3.0 对 Web 开发意味着什么？](https://www.infoq.cn/article/N4fvcuaqjoim-akRhhiJ)
