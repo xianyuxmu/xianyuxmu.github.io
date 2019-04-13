@@ -21,6 +21,8 @@ tags:
 	- 「人生是用来享受的，不是忍受的。」– 戈登‧兴格莱 (神职人员)
 - “In a relationship you want to treat people the way you want to be treated.” – Bradley Cooper, Actor
 	- 「在关係裡，你想怎麽被对待，就这样待人。」– 布莱德利·库柏 (演员)
+- “Telling someone they’re wrong is not the same as leading and inspiring them to do what’s right.” – Andy Stanley, Pastor
+	- 「指出一個人的錯，有別於引導並激發他去做對的事。」– 安迪．史坦利 (牧師)
 
 
 
