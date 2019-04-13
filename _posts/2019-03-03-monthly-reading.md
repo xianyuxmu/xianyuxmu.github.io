@@ -41,7 +41,4 @@ tags:
 
 ## Tech/Internet
 
-<<<<<<< HEAD
 - [Vue 3.0 对 Web 开发意味着什么？](https://www.infoq.cn/article/N4fvcuaqjoim-akRhhiJ)
-=======
->>>>>>> bf54feaa2d1b5c8f77a83e353631bee229c105ef
