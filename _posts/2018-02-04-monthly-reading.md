@@ -12,7 +12,7 @@ tags:
 ---
 
 <blockquote class="blockquote-center">
-<p>"More better you wear, more worse you can behave"</p>
+<p>"The Better You Dress, The Worse You Can Behave..."</p>
 </blockquote>
 
 ## Top

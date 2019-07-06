@@ -14,7 +14,7 @@ tags:
 <p>You are very much ON TIME, and in your TIME ZONE.</p>
 </blockquote>
 
-> from [“活在自己的时区里”，这是我见过对人生最好的诠释！](http://www.nanoer.net/resource/sd/2017-05-31/779.html)
+> from [“活在自己的时区里”，这是我见过对人生最好的诠释！](http://www.nanoer.net/showinfo-32-3875.html)
 
 你觉得人生没有方向吗？
 
