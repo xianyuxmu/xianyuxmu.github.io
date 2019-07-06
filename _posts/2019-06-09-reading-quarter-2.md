@@ -10,7 +10,30 @@ tags:
 
 ---
 
+> And the winner is : la vie, and the winner is : l'amour 
+得奖者是：生活，得奖者是：爱情
+
 ### Life
+
+- 如今最好，没有来日方长。
+- 中国人三套面具：
+	- 说一套
+	- 做一套
+	- 想一套
+- 周孝正：在既不能证实的、也不能证伪的时候，存疑。
+	- 怀疑一切。——苏格拉底
+	- 对任何事物都不加以断言。
+- [你认为爱是感性的还是理性的？理由是什么？](https://www.zhihu.com/question/19908586)
+	- 网上流传这么断话“荷尔蒙决定一见钟情，多巴胺决定天长地久，肾上腺决定出不出手，自尊心决定谁先开口。”前期都是感性的，一旦荷尔蒙降下来靠的就是理性。
+- **“你为什么爱他？”**。这是一个伪问题。因为“为什么”是理性的、是科学的，而“爱”是感性的。不能通过理性的话来回答感性问题。例如：“他长得帅，所以我爱他”，这个答案就是不对的，因为每个人的审美是不一致的。
+- **different is not your weakness, is your strength!**
+- 真实比虚构更陌生—— 马克•吐温
+
+
+
+### Business
+
+- [全网首发 | 2019年互联网女皇趋势报告（中文完整版）](http://tech.qq.com/a/20190612/000306.htm)
 
 
 ### Tech
@@ -21,3 +44,4 @@ tags:
 - [Analytics Book中文版](http://cn.analyticsbook.org/)
 - [Piwik by matomo - 开源数据分析，类似Google Analytics](https://matomo.org/)
   - [Piwik Demo](https://demo.matomo.org)
+
