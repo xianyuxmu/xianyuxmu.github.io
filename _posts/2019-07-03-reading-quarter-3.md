@@ -58,6 +58,8 @@ tags:
 	- "They should – and must – question everything generally thought to be obvious. They must have an intuition for people’s changing attitudes. For the reality in which they live, for their dreams, their desires, their worries, their needs, their living habits. They must also be able to assess realistically the opportunities and bounds of technology."
 - 张小龙
 	- 在微信用户不能自然增长时，不去做推广。
+- Mirror, mirror, on the wall, Who is the fairest of us all? from [Mirror, Mirror, on the Wall](http://www.debunkingmandelaeffects.com/mirror-mirror-on-the-wall/), *Snow White*
+- 空姐是性价比最高的可用钱搞定的。比老百姓漂亮，比明星干净，比小姐有文化。
 
 
 
