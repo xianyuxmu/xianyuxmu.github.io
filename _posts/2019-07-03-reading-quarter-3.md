@@ -10,6 +10,13 @@ tags:
 
 ---
 
+<blockquote class="blockquote-center">
+<p>“世界是舞台；男人和女人都是演戏的人；他们都有各自的出场及下场。”</p>
+<p>——莎士比亚</p>
+</blockquote>
+
+
+
 ### Life
 
 - 人们只看到他们想看到的东西。——爱默生
@@ -41,6 +48,17 @@ tags:
 - 肥沃的土壤也是脏的。
 - 在哪里都做最出色的自己。
 - 有的人缺乏决心，有的缺乏能力。
+- 关于[迪特·拉姆斯](https://zh.wikipedia.org/zh/%E8%BF%AA%E7%89%B9%C2%B7%E6%8B%89%E5%A7%86%E6%96%AF)
+	- [什么是好的设计？浅析迪特·拉姆斯（Dieter Rams）“好设计的10个原则”](https://zhuanlan.zhihu.com/p/33158758)
+	- “My heart belongs to the details. I actually always found them to be more important than the big picture. Nothing works without details. They are everything, the baseline of quality” – Dieter Rams
+		- 我心向细节。很多时候我觉得细节比全局更重要。毫不夸张的说，细节决定一切，细节是品质的基石。-迪特·拉姆斯（Dieter Rams）
+	- Less, but better（少，但是更好）
+	- [Vitsœ的拉姆斯](https://www.vitsoe.com/gb/about/dieter-rams)
+	- [伦敦设计博物馆-拉姆斯](https://designmuseum.org/designers/dieter-rams)
+	- "They should – and must – question everything generally thought to be obvious. They must have an intuition for people’s changing attitudes. For the reality in which they live, for their dreams, their desires, their worries, their needs, their living habits. They must also be able to assess realistically the opportunities and bounds of technology."
+- 张小龙
+	- 在微信用户不能自然增长时，不去做推广。
+
 
 
 ### Tech
