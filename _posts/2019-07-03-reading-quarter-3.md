@@ -61,6 +61,15 @@ tags:
 	- 在微信用户不能自然增长时，不去做推广。
 - Mirror, mirror, on the wall, Who is the fairest of us all? from [Mirror, Mirror, on the Wall](http://www.debunkingmandelaeffects.com/mirror-mirror-on-the-wall/), *Snow White*
 - 空姐是性价比最高的可用钱搞定的。比老百姓漂亮，比明星干净，比小姐有文化。
+- 《阿甘正传》的「You never know what you're gonna get.」
+
+### Learning
+
+- [Hindy Design](https://zhuanlan.zhihu.com/uicircle)
+	- [写给大家看的中文排版指南](https://zhuanlan.zhihu.com/p/20506092)
+	- [UI 设计进阶 1-2：从创意到上线，互联网产品是如何开发出来的](https://zhuanlan.zhihu.com/p/34249920)
+	- [设计师推荐计划：8 安东尼 · 高迪](https://zhuanlan.zhihu.com/p/32829349)
+
 
 
 
