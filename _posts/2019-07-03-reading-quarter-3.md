@@ -56,6 +56,7 @@ tags:
 	- [Vitsœ的拉姆斯](https://www.vitsoe.com/gb/about/dieter-rams)
 	- [伦敦设计博物馆-拉姆斯](https://designmuseum.org/designers/dieter-rams)
 	- "They should – and must – question everything generally thought to be obvious. They must have an intuition for people’s changing attitudes. For the reality in which they live, for their dreams, their desires, their worries, their needs, their living habits. They must also be able to assess realistically the opportunities and bounds of technology."
+	  - 他们应该——也必须——质疑所有被普遍认为显而易见的事情。他们必须对人们不断变化的态度有一种直觉。为了他们生活的现实，为了他们的梦想，他们的欲望，他们的担心，他们的需要，他们的生活习惯。他们还必须能够现实地评估技术的机会和范围。
 - 张小龙
 	- 在微信用户不能自然增长时，不去做推广。
 - Mirror, mirror, on the wall, Who is the fairest of us all? from [Mirror, Mirror, on the Wall](http://www.debunkingmandelaeffects.com/mirror-mirror-on-the-wall/), *Snow White*
