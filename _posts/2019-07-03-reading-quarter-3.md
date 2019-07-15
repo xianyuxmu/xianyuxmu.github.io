@@ -62,6 +62,17 @@ tags:
 - Mirror, mirror, on the wall, Who is the fairest of us all? from [Mirror, Mirror, on the Wall](http://www.debunkingmandelaeffects.com/mirror-mirror-on-the-wall/), *Snow White*
 - 空姐是性价比最高的可用钱搞定的。比老百姓漂亮，比明星干净，比小姐有文化。
 - 《阿甘正传》的「You never know what you're gonna get.」
+- “Be curious, not judgmental.” — Walt Whitman, Poet
+	- 「对他人感到好奇，而不是评估判断。」– 华特‧惠特曼 (诗人)
+- “Simplicity is the ultimate sophistication.” — Leonardo da Vinci, Artist
+	- 「简化是最终的精密。」– 李奥纳多‧达文西 (艺术家)
+- “All change in history, all advance, comes from the nonconformists. If there had been no trouble-makers, no Dissenters, we should still be living in caves.” – A.J.P. Taylor, Historian
+	- 「历史上所有的改变、所有的进步，都来自不顺从者。如果没有麻烦製造者、没有提异议的人，我们应该还住在山洞裡。」– 艾伦·约翰·珀西瓦尔·泰勒 (历史学家)
+- “Just trust yourself, then you will know how to live.” – Johann Wolfgang von Goethe, Writer
+	- 「相信自己就对了，你将知道如何过日子。」– 歌德 (作家)
+- [Deepfake 再升级！一张照片 + 音频“复活”爱因斯坦](https://www.infoq.cn/article/CM72xuNm35pNdrw7p_yT)
+- [美团点评联名推荐上线两月表现亮眼 助攻KFC原味花筒33天破15万单](http://finance.eastmoney.com/a/201907041169479086.html)
+	- 某种意义上，联名推荐=数据分析师+流量池+爆品运营者+门店获客利器
 
 ### Learning
 
