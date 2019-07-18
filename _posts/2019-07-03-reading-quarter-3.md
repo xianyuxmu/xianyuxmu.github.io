@@ -70,9 +70,39 @@ tags:
 	- 「历史上所有的改变、所有的进步，都来自不顺从者。如果没有麻烦製造者、没有提异议的人，我们应该还住在山洞裡。」– 艾伦·约翰·珀西瓦尔·泰勒 (历史学家)
 - “Just trust yourself, then you will know how to live.” – Johann Wolfgang von Goethe, Writer
 	- 「相信自己就对了，你将知道如何过日子。」– 歌德 (作家)
-- [Deepfake 再升级！一张照片 + 音频“复活”爱因斯坦](https://www.infoq.cn/article/CM72xuNm35pNdrw7p_yT)
 - [美团点评联名推荐上线两月表现亮眼 助攻KFC原味花筒33天破15万单](http://finance.eastmoney.com/a/201907041169479086.html)
 	- 某种意义上，联名推荐=数据分析师+流量池+爆品运营者+门店获客利器
+- 如果一个以色列男人想要与某个女人约会，他会在当晚就叫她出来；如果一个以色列商人有一个生意上的点子，那他在一周之内就会将它付诸实践。——《创业的国度：以色列经济奇迹的启示》
+- 《创业的国度：以色列经济奇迹的启示》摘要:
+	- 如果不能包容相当数量的失败，真正的创新也就不可能实现。
+	- 我们不会鼓励你过分追求优异的表现，也不会因为一次糟糕的失败就不再看好你。——以色列空军教员
+	- 对于领导来说，最关键的就是士兵对他的信心。
+	- 假如飞行员能将错误转化成一次改善个人和团队表现的机会，那么这样的犯错是被允许的。
+	- 风险资本是点燃火焰的火源。——艾瑞·马格利特
+	- 对于孕育创新来说，文化基础才是更肥沃的土壤。
+	- 改变政策要比改变文化容易得多。
+	- **最谨慎的方式就是放胆一试。——西蒙·佩雷斯**
+- 『Think Straight, Talk Straight』——亚瑟·安德森(arthur andersen)	
+- [巅峰时期的安达信是怎样的存在？](https://www.zhihu.com/question/37344892)
+	- 关键词：Initiative/主动；Aggressive/好斗、志在必得的。
+	- Aggressive, harsh but unforgettable
+- 应新于时。——埃森哲咨询
+	- NEW APPLIED NOW. - Accenture
+- About Accenture/关于埃森哲
+	- What we believe
+		- Putting people first through corporate citizenship.
+		- Equality drives innovation.
+		- Driving innovation and impact in global development.
+	- Our core values
+		- Best People
+		- ...
+	- 企业公民
+		- Improving the way the world works and lives
+		- Impacting society at scale
+		- Bringing our commitments to life
+		- Creating a responsible culture
+		- Innovation in action
+
 
 ### Learning
 
@@ -88,4 +118,7 @@ tags:
 
 - [Analytics Book 中文版](http://cn.analyticsbook.org/)
 	- [指标和维度的定义](http://cn.analyticsbook.org/definitions-of-metrics-and-dimensions/)
+- [“10 倍工程师”，以一当十的程序员真的存在吗？](https://www.infoq.cn/article/Qg64MyvgDW-k4pElXuBy)
+- [Deepfake 再升级！一张照片 + 音频“复活”爱因斯坦](https://www.infoq.cn/article/CM72xuNm35pNdrw7p_yT)
+- [全球 JavaScript 开发者薪酬统计出炉！美国平均年薪超 10 万美金](https://www.infoq.cn/article/zNQ8Wx3p2-M9EKt68FuB)
 
