@@ -19,6 +19,8 @@ tags:
 
 ### Life
 
+- "High tea" is actually the main meal of the day, served between 6:00 and 7:00 p.m.
+- "Low tea," or “afternoon tea” is served earlier in the afternoon, usually between 4:00 and 5:00.
 - 人们只看到他们想看到的东西。——爱默生
   - 你看到的只是你想看到的。—— 查尔斯·麦基《可怕的错觉》
 - 你看到的，只是别人想让你看到的。——东野圭吾《恶意》
@@ -138,4 +140,9 @@ tags:
 - [Deepfake 再升级！一张照片 + 音频“复活”爱因斯坦](https://www.infoq.cn/article/CM72xuNm35pNdrw7p_yT)
 - [全球 JavaScript 开发者薪酬统计出炉！美国平均年薪超 10 万美金](https://www.infoq.cn/article/zNQ8Wx3p2-M9EKt68FuB)
 - 代码图片上生成器：[https://carbon.now.sh](https://carbon.now.sh)
-
+- [SLA服务可用性4个9是什么意思？怎么达到？](https://cloud.tencent.com/developer/article/1080683)
+	- SLA：服务等级协议（简称：SLA，全称：service level agreement）
+	- 1年 = 365天 = 8760小时
+	- 99.9 = 8760 * 0.1% = 8760 * 0.001 = 8.76小时
+	- 99.99 = 8760 * 0.0001 = 0.876小时 = 0.876 * 60 = 52.6分钟
+	- 99.999 = 8760 * 0.00001 = 0.0876小时 = 0.0876 * 60 = 5.26分钟
