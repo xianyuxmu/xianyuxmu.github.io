@@ -102,6 +102,7 @@ tags:
 		- Bringing our commitments to life
 		- Creating a responsible culture
 		- Innovation in action
+- 
 
 
 ### Learning
@@ -111,7 +112,22 @@ tags:
 	- [UI 设计进阶 1-2：从创意到上线，互联网产品是如何开发出来的](https://zhuanlan.zhihu.com/p/34249920)
 	- [设计师推荐计划：8 安东尼 · 高迪](https://zhuanlan.zhihu.com/p/32829349)
 
+### 逍遥子
 
+- 《在阿里巴巴要人事合一》精选
+	- 因人成事。有时候看到机会，但是没做成是因人。
+	- 机会需要的是人的嗅觉。
+	- 非凡人用平凡心做非凡事。
+	- 在一片肥沃的土壤上随便插一个都能很好地发芽，关键在土壤肥沃。
+	- B2B
+		- 外贸：中小企业出口最大的痛点是——流程繁琐，例如：报关、退税等。
+		- 内贸：很多商家从1688批发到淘宝。
+		- B2B交易的界定：大量重复的交易；金额比较大，大于支付宝的限额。
+	- 为现在工作，为明天投资，为未来孵化东西。
+	- 你不变化，就被别人变化，与其被动变化，不如主动变化。
+	- 宏观判断来自远见，能走多远要看团队。
+	- Redefine
+	- 与其等待变化，不如主动改变。
 
 
 ### Tech
@@ -121,4 +137,5 @@ tags:
 - [“10 倍工程师”，以一当十的程序员真的存在吗？](https://www.infoq.cn/article/Qg64MyvgDW-k4pElXuBy)
 - [Deepfake 再升级！一张照片 + 音频“复活”爱因斯坦](https://www.infoq.cn/article/CM72xuNm35pNdrw7p_yT)
 - [全球 JavaScript 开发者薪酬统计出炉！美国平均年薪超 10 万美金](https://www.infoq.cn/article/zNQ8Wx3p2-M9EKt68FuB)
+- 代码图片上生成器：[https://carbon.now.sh](https://carbon.now.sh)
 
