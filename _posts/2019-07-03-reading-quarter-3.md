@@ -15,7 +15,11 @@ tags:
 <p>——莎士比亚</p>
 </blockquote>
 
+### 鸡汤
 
+- You can never make the same mistake twice because the second time you make it, it's not a mistake, it's a choice. - ***Anonymous***
+	- 同一个错误不要犯两次，因为第二次不是你犯错，而是你选择了犯错。
+	- If they do it often, it isn't a mistake; it's just their behavior. - Steve Maraboli
 
 ### Life
 
