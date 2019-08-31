@@ -60,3 +60,6 @@ tags:
   - [专访饿了么张雪峰：未长夜痛哭者，不足以语人生](https://www.infoq.cn/article/2016/05/zhangxuefeng-interview)
 - [IBM技术专题](https://www.ibm.com/developerworks/cn/topics/)
 - [通过 Kubernetes 和容器实现 DevOps](https://www.ibm.com/developerworks/cn/cloud/library/cl-lo-devops-via-kubernetes-and-containers/index.html)
+- 前端静态资源预热方案
+  - js/css全部打进html中
+  - 图片全部打入AAP离线包
