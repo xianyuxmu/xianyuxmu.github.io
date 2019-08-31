@@ -39,6 +39,14 @@ tags:
 - 不增长就是死亡。没有比对手更快的增长，也会导致落后。
 - 人是用value来管的。
 - 企业培训很重要。
+- 一切都是一时的感觉。一切都会过去的，今日的荣耀等等。
+- [美国零售史150年：动态创新和实时转型的启示](http://www.sohu.com/a/215620782_650513)
+- Leader have followers, managers have subordinates. 领导者有追随者，管理者有下属。
+- 招聘一个人要考虑：这个人置身一个体系中，是他造就了这个体系，还是体系造就了这个人。
+- 360主要广泛应用于组织和个人上。
+- 领导力360的本质上，对组织是一次整体的能力体检、对个人是一次个体的照镜子。
+- 领导力360基于已经发生的事实进行总结思考，并采取一定的措施进行优化。
+- Perception is Reality, 印象即事实。
 
 
 
@@ -50,3 +58,5 @@ tags:
 
 - 2014 年底饿了么研发团队大约 35 人，2015 年春节后翻番到了 70 人左右，2016 年春节后上海、北京两个研发中心达到近 900 人，预估 2016 年中接近 1000 人。 from [专题演讲 : 创业团队极速发展过程中的分分合合——张雪峰](http://sz2016.archsummit.com/speakers/202069/)
   - [专访饿了么张雪峰：未长夜痛哭者，不足以语人生](https://www.infoq.cn/article/2016/05/zhangxuefeng-interview)
+- [IBM技术专题](https://www.ibm.com/developerworks/cn/topics/)
+- [通过 Kubernetes 和容器实现 DevOps](https://www.ibm.com/developerworks/cn/cloud/library/cl-lo-devops-via-kubernetes-and-containers/index.html)
