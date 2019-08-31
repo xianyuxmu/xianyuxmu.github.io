@@ -18,6 +18,18 @@ tags:
 
 ## The Top
 
+***GE Leaders... Always with Unyielding Integrity:***
+
+- Have a Passion for Excellence and Hate Bureaucracy
+- Are Open to Ideas from Anywhere... and Committed to Work-Out
+- Live Quality... and Drive Cost and Speed for Competitive Advantage
+- Have the Self-Confidence to Involve Everyone and Behave in a Boundaryless Fashion
+- Create a Clear, Simple, Reality-Based Vision... and Communicate It to All Constituencies
+- Have Enormous Energy and the Ability to Energize Others
+- Stretch... Set Aggressive Goals... Reward Progress... Yet Understand Accountability and - Commitment
+- See Change as Opportunity... Not Threat
+- Have Global Brains... and Build Diverse and Global Teams
+
 ## Life
 
 - [CHRIS COYIER's Timeline](https://chriscoyier.net/timeline/) - 经历十分牛，不断尝试新的项目，每个项目都坚持下去并都有一定的成果。
