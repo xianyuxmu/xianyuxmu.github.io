@@ -20,8 +20,9 @@ tags:
 
 - when your time comes and it will you'll never be ready.
 - you should be a builder, to build your dream, your vision and anything you wish to see.
-- 数量不等于力量。不凝聚的话，数量不能提供力量
-- 做难事必有所得.
+- 数量不等于力量。不凝聚的话，数量不能提供力量。
+- 做难事必有所得。
+- 只懂不练，永远写不出好文案。
 
 
 ## Life
