@@ -12,10 +12,14 @@ tags:
 
 ## 无服务器 & AWS Lambda
 
-Amazon CTO Werner Vogels曾经在AWS re:Invent大会上提到: 如果把云计算理解成一个执行环境，那么，在这个环境里，函数（即业务逻辑的载体）+数据（即跟业务相关的输入与输出）就是应用的核心，有了Functions、Data、Event这三者，其它任何代码和框架，无非是整个应用的胶水和UI罢了。那么，最理想的情况就是用最少的时间写胶水，将更多的时间投入到核心应用的开发中，甚至，彻底实现整个软件栈的微服务化。  - *引用自：[带您玩转Lambda，轻松构建Serverless后台！ | 亚马逊AWS官方博客](https://aws.amazon.com/cn/blogs/china/lambda-serverless/)*
+Amazon CTO Werner Vogels曾经在AWS re:Invent大会上提到: 如果把云计算理解成一个执行环境，那么，在这个环境里，函数（即业务逻辑的载体）+数据（即跟业务相关的输入与输出）就是应用的核心，有了Functions、Data、Event这三者，其它任何代码和框架，无非是整个应用的胶水和UI罢了。那么，最理想的情况就是用最少的时间写胶水，将更多的时间投入到核心应用的开发中，甚至，彻底实现整个软件栈的微服务化。  
+
+*引用自：[带您玩转Lambda，轻松构建Serverless后台！—— 亚马逊AWS官方博客](https://aws.amazon.com/cn/blogs/china/lambda-serverless/)*
 
 
-AWS Lambda 是一项计算服务，可使您无需预配置或管理服务器即可运行代码。AWS Lambda 只在需要时执行您的代码并自动缩放，从每天几个请求到每秒数千个请求。您只需按消耗的计算时间付费 – 代码未运行时不产生费用。借助 AWS Lambda，您几乎可以为任何类型的应用程序或后端服务运行代码，并且不必进行任何管理。AWS Lambda 在可用性高的计算基础设施上运行您的代码，执行计算资源的所有管理工作，其中包括服务器和操作系统维护、容量预置和自动扩展、代码监控和记录。 - *引用自：[什么是 AWS Lambda？ - AWS Lambda](https://docs.aws.amazon.com/zh_cn/lambda/latest/dg/welcome.html)*
+AWS Lambda 是一项计算服务，可使您无需预配置或管理服务器即可运行代码。AWS Lambda 只在需要时执行您的代码并自动缩放，从每天几个请求到每秒数千个请求。您只需按消耗的计算时间付费 – 代码未运行时不产生费用。借助 AWS Lambda，您几乎可以为任何类型的应用程序或后端服务运行代码，并且不必进行任何管理。AWS Lambda 在可用性高的计算基础设施上运行您的代码，执行计算资源的所有管理工作，其中包括服务器和操作系统维护、容量预置和自动扩展、代码监控和记录。
+
+*引用自：[什么是 AWS Lambda？ - AWS Lambda](https://docs.aws.amazon.com/zh_cn/lambda/latest/dg/welcome.html)*
 
 简单讲，***AWS Lambda***是Serverless的一种实现。
 
