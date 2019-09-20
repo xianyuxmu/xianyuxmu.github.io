@@ -36,7 +36,7 @@ tags:
 	- 目的是原因、目标是结果。一般来讲，先有目的，后定目标。
 - 渤澥桑田
 	- 意思是指大海变成桑田，桑田变成大海。
-- [4 个月新增 300 万用户，实习僧如何用数据驱动小程序增长 | 人人都是产品经理](http://www.woshipm.com/operate/1759726.html)
+- [4 个月新增 300 万用户，实习僧如何用数据驱动小程序增长](http://www.woshipm.com/operate/1759726.html)
 - 波士顿矩阵
 	- [波士顿矩阵 - MBA智库百科](https://wiki.mbalib.com/wiki/%E6%B3%A2%E5%A3%AB%E9%A1%BF%E7%9F%A9%E9%98%B5)
 	- [从波士顿矩阵看LED需求困境-中国LED在线](https://www.ledinside.cn/outlook/20181009-44262.html)
