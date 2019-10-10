@@ -55,3 +55,4 @@ tags:
 - [领英资深SRE工程师：混沌工程应成为标配-InfoQ](https://www.infoq.cn/article/icLCttjyyraafDWAcDIo)
 - [一名全栈产品经理玩转数据分析的 9 把刀 - 掘金](https://juejin.im/post/5858939f128fe1006dc8e576)
 - [数据埋点太难！知乎的做法有何可借鉴之处？-InfoQ](https://www.infoq.cn/article/event-tracking-in-zhihu)
+- [UML中几种类间关系：继承、实现、依赖、关联、聚合、组合的联系与区别 - 老唐 的专栏 - CSDN博客](https://blog.csdn.net/sfdev/article/details/3906243)
