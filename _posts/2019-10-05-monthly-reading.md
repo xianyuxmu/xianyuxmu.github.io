@@ -24,6 +24,8 @@ tags:
 
 ## Life
 
+- [卓叔增重 丨 想尽快显壮，只练胸和手臂行不行？](https://zhuanlan.zhihu.com/p/26355169)
+- [练肌肉是一天练一个部位好还是几个部位？](https://www.zhihu.com/question/42893090)
 
 ## Reading
 
