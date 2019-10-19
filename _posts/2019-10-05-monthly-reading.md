@@ -28,6 +28,7 @@ tags:
 ## Reading
 
 - [Shawn Yue and Sarah Wang's Melbourne Wedding - Hong Kong Wedding Blog](https://brideandbreakfast.hk/2017/12/06/5-reasons-why-shawn-yue-and-sarah-wangs-surprise-wedding-stole-our-hearts/) - 余文乐结婚
+- 人是有欲望的，而欲望往往是保藏不住，容易溢于言表。诚然，这就是人性的弱点。那么我们要“利用”这种人性的缺点，为我所用。欲察人需言寡。你言多，对方就话少。通过对他人对外的言语，我们可以推测关于这个人的为人，进而可以有针对性的说话。 from [谋圣鬼谷（鬼谷子）书评](https://book.douban.com/review/7110743/)
 
 
 ### Quotes
