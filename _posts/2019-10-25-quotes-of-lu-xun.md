@@ -9,6 +9,12 @@ tags:
 
 ---
 
+<blockquote class="blockquote-center">
+<p>“Our life is frittered away by detail… simplify, simplify.”</p>
+<p>从来如此，便对吗？</p>
+<p>—— 鲁迅</p>
+</blockquote>
+
 - 哪里有天才，我是把别人喝咖啡的工夫都用在了工作上了。 —— 鲁迅
 - 教育植根于爱。 —— 鲁迅
 - 时间，就象海棉里的水，只要愿挤，总还是有的。 —— 鲁迅
