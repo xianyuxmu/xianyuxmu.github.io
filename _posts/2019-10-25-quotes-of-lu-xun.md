@@ -10,7 +10,6 @@ tags:
 ---
 
 <blockquote class="blockquote-center">
-<p>“Our life is frittered away by detail… simplify, simplify.”</p>
 <p>从来如此，便对吗？</p>
 <p>—— 鲁迅</p>
 </blockquote>
