@@ -17,6 +17,10 @@ NOTES FROM
 穷理查年鉴：一生必知的智慧箴言
 （美）富兰克林
 
+豆瓣链接: [穷理查年鉴 (豆瓣)](https://book.douban.com/subject/20563083/)
+
+## 摘要
+
 ### 第七章 智慧之门 January 12, 2017
 
 The wise one listens to half the word. 智者听话信一半。
