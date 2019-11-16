@@ -20,6 +20,9 @@ tags:
 ## The Top
 
 - [LOUIS VUITTON CITY GUIDES | LOUIS VUITTON ®](https://us.louisvuitton.com/eng-us/stories/louis-vuitton-city-guides#new-york/details) - 路易•威登出品的城市指南🧭 一些图片还不错，都是LV独家的照片。
+- 潮牌
+	- [世界上最火的9大潮牌，背后是下一个万亿级市场_36氪](https://36kr.com/p/5101773)
+	- [好看的潮牌有哪些？ - 知乎](https://www.zhihu.com/question/24648982)
 
 
 ## Life
