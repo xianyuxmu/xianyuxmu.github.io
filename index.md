@@ -16,3 +16,4 @@ layout: page
 <p style="font-style: italic;"><strong> —— Socrates</strong></p>
 </blockquote>
 
+<img src="https://alicdn.celier-china.com/robin-contact.png" width="100"/>
