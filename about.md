@@ -5,6 +5,8 @@ permalink: /about/
 
 ---
 
+<img src="https://alicdn.celier-china.com/robin-contact.png" width="100"/>
+
 ## 关于我
 
 毕业于厦门大学，在北京呆了一年半，现居住于上海长宁。联系方式：[邮件、GitHub](https://github.com/xianyuxmu)。
@@ -43,6 +45,8 @@ permalink: /about/
 > updated 25 July 2018
 
 ----
+
+<img src="https://alicdn.celier-china.com/robin-contact.png" width="100"/>
 
 ## 关于博客
 
