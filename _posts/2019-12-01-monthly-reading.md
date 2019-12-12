@@ -63,5 +63,10 @@ tags:
 
 ## Tech/Internet
 
+- [美团点评金融平台Web前端技术体系 - 知乎](https://zhuanlan.zhihu.com/p/34606000)
+- [Figma: the collaborative interface design tool.](https://www.figma.com/) - 在线版本的Sketch
+- [https://bundlephobia.com](https://bundlephobia.com/) - npm依赖包大小分析
+- [Cloudcraft – Draw AWS diagrams](https://cloudcraft.co/) - 画AWS架构图，可以直接算出费用
+
 
 
