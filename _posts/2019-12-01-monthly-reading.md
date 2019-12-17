@@ -60,6 +60,7 @@ tags:
 
 ## Business/Marketing
 
+- [陆奇如何解构一家企业？_36氪](https://36kr.com/p/5274064)
 
 ## Tech/Internet
 
@@ -67,6 +68,8 @@ tags:
 - [Figma: the collaborative interface design tool.](https://www.figma.com/) - 在线版本的Sketch
 - [https://bundlephobia.com](https://bundlephobia.com/) - npm依赖包大小分析
 - [Cloudcraft – Draw AWS diagrams](https://cloudcraft.co/) - 画AWS架构图，可以直接算出费用
+- [普通人的网页配色方案 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2019/03/coloring-scheme.html)
+- [网页设计中色彩搭配原则及方法 - 知乎](https://zhuanlan.zhihu.com/p/28832355)
 
 
 
