@@ -32,7 +32,7 @@ Moore拥有斯坦福大学的美国文学学士学位和华盛顿大学的英语
 
 ## 读书摘要
 
-NOTES FROM《跨越鸿沟-颠覆性产品营销圣经》[美] 杰弗里·摩尔(Geoffrey A. Moore)
+> NOTES FROM《跨越鸿沟-颠覆性产品营销圣经》[美] 杰弗里·摩尔(Geoffrey A. Moore)
 
 
 ### 作者手记 December 26, 2019
