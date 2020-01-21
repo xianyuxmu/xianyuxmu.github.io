@@ -55,5 +55,6 @@ tags:
 
 ## Tech/Internet
 
+- 业务形态决定技术架构。
 
 
