@@ -42,6 +42,20 @@ tags:
 - [所谓“成功”](http://www.yinwang.org/blog-cn/2019/12/26/success)
 	- 有位哲人说的好：“智慧永远都不能战胜愚昧，你只有等愚昧的人慢慢死去。”
 - [《好好赚钱》读书笔记 - 知乎](https://zhuanlan.zhihu.com/p/65823521)
+- [业务流程模型和标记法(BPMN, Business Process Model and Notation)](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
+	- [bpmn-io/bpmn-js: A BPMN 2.0 rendering toolkit and web modeler.](https://github.com/bpmn-io/bpmn-js)
+- ***“一个人是否成熟，就看这个人的脑子里能不能共存两个完全相反的结论”***
+
+### 黄峥研究
+
+- [谷歌双雄：黄峥和蒋凡辗转多年 成为彼此最大的对手|黄峥|谷歌|蒋凡_新浪科技_新浪网](http://tech.sina.com.cn/i/2018-08-13/doc-ihhqtawx9563132.shtml)
+	- “Googler”是一个自带光环的群体，峰瑞资本董事张炬曾经为谷歌工作过五年，他刚加入谷歌的时候，老板对他说：有些人身上的光环是自己有本事，有些人身上的光环完全是公司的，一定要分清楚。
+	- 黄峥在接受《中国企业家》采访时表示，很少有公司把阿里的文化、执行和腾讯对人、社交的理解相融合，拼多多的这个团队非常难得。
+	- 马云曾经说，微信红包是针对支付宝的“珍珠港奇袭”。微信在背后默默准备了很久，然后一鸣惊人，黄峥也“借鉴”了张小龙的做法。
+- [黄峥（拼多多创始人、董事长兼首席执行官）_百度百科](https://baike.baidu.com/item/%E9%BB%84%E5%B3%A5/20142265)
+	- 2002年去美国留学，2004年加入Google，2006年黄峥与李开复一起，被派到了中国拓展业务，建立Google中国办公室。
+- [兼任淘宝、天猫总裁，为什么是蒋凡？_36氪](https://36kr.com/p/5183148)
+	- 张勇也曾说：一切商业竞争，到最后都会变成组织的竞争。反过来说，组织迎来变革，一定也意味着商业上的变更。
 
 
 
@@ -55,5 +69,6 @@ tags:
 
 ## Tech/Internet
 
+- 业务形态决定技术架构。
 
 
