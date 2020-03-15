@@ -21,6 +21,8 @@ tags:
 
 - ***悟以往之不谏，知来者之可追。***
 - [中国大学里最神秘又最无聊的组织是什么？_腾讯新闻](https://new.qq.com/rain/a/20181018A10OQ3)
+- "Fashion is what you're offered four times a year by designers. And style is what you choose." —Lauren Hutton
+	- “**设计师每到换季所推崇的叫时尚，而你最终选择的才叫风格。**”——劳伦·赫顿
 
 
 ## Life
@@ -28,7 +30,7 @@ tags:
 
 ## Reading
 
-- [后来才发现拼命读书才是大多人的捷径-Fun言](https://funyan.cn/p/128.html)
+- [后来才发现拼命读书才是大多人的goooggoogl捷径-Fun言](https://funyan.cn/p/128.html)
 - [比尔盖茨 1 年前预言病毒爆发，中国超算发力病毒突变预测！ - 链闻 ChainNews](https://www.chainnews.com/articles/033188617395.htm)
 
 
