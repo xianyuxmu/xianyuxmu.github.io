@@ -154,7 +154,7 @@ var maxDepth = function(root) {
 ```
 
 
-[剑指 Offer 55 - II. 平衡二叉树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)
+#### [剑指 Offer 55 - II. 平衡二叉树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)
 
 输入一棵二叉树的根节点，判断该树是不是平衡二叉树。如果某二叉树中任意节点的左右子树的深度相差不超过1，那么它就是一棵平衡二叉树。
 
@@ -190,13 +190,13 @@ var isBalanced = function(root) {
 };
 ```
 
-[剑指 Offer 68 - I. 二叉搜索树的最近公共祖先 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/)
+#### [剑指 Offer 68 - I. 二叉搜索树的最近公共祖先 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/)
 
 给定一个二叉搜索树, 找到该树中两个指定节点的最近公共祖先。
 
 百度百科中最近公共祖先的定义为：“对于有根树 T 的两个结点 p、q，最近公共祖先表示为一个结点 x，满足 x 是 p、q 的祖先且 x 的深度尽可能大（一个节点也可以是它自己的祖先）。”
 
-例如，给定如下二叉搜索树:  root = [6,2,8,0,4,7,9,null,null,3,5]
+例如，给定如下二叉搜索树:  root = [6,2,8,0,4,7,9,null,null,3,5]
 
 
 ```
@@ -236,8 +236,39 @@ class Solution {
 }
 ```
 
-[剑指 Offer 68 - II. 二叉树的最近公共祖先 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/)
+#### [剑指 Offer 68 - II. 二叉树的最近公共祖先 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/)
 
+给定一个二叉树, 找到该树中两个指定节点的最近公共祖先。
+
+百度百科中最近公共祖先的定义为：“对于有根树 T 的两个结点 p、q，最近公共祖先表示为一个结点 x，满足 x 是 p、q 的祖先且 x 的深度尽可能大（一个节点也可以是它自己的祖先）。”
+
+例如，给定如下二叉树:  root = [3,5,1,6,2,0,8,null,null,7,4]
+
+
+
+ 
+
+示例 1:
+
+输入: root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 1
+输出: 3
+解释: 节点 5 和节点 1 的最近公共祖先是节点 3。
+示例 2:
+
+输入: root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 4
+输出: 5
+解释: 节点 5 和节点 4 的最近公共祖先是节点 5。因为根据定义最近公共祖先节点可以为节点本身。
+ 
+
+说明:
+
+所有节点的值都是唯一的。
+p、q 为不同节点且均存在于给定的二叉树中。
+注意：本题与主站 236 题相同：https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 
 ```
 /**
@@ -271,24 +302,24 @@ class Solution {
 ```
 
 
-[剑指 Offer 28. 对称的二叉树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)
+#### [剑指 Offer 28. 对称的二叉树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)
 
 请实现一个函数，用来判断一棵二叉树是不是对称的。如果一棵二叉树和它的镜像一样，那么它是对称的。
 
-例如，二叉树 [1,2,2,3,4,4,3] 是对称的。
+例如，二叉树 [1,2,2,3,4,4,3] 是对称的。
 
-    1
-   / \
-  2   2
- / \ / \
-3  4 4  3
-但是下面这个 [1,2,2,null,3,null,3] 则不是镜像对称的:
+    1
+   / \
+  2   2
+ / \ / \
+3  4 4  3
+但是下面这个 [1,2,2,null,3,null,3] 则不是镜像对称的:
 
-    1
-   / \
-  2   2
-   \   \
-   3    3
+    1
+   / \
+  2   2
+   \   \
+   3    3
 
 
 ```
@@ -327,15 +358,15 @@ var isSymmetric = function(root) {
 
 ### 中等难度
 
-[剑指 Offer 07. 重建二叉树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)
+#### [剑指 Offer 07. 重建二叉树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)
 
 输入某二叉树的前序遍历和中序遍历的结果，请重建该二叉树。假设输入的前序遍历和中序遍历的结果中都不含重复的数字。
 
- 
+ 
 
 例如，给出
 
-前序遍历 preorder = [3,9,20,15,7]
+前序遍历 preorder = [3,9,20,15,7]
 中序遍历 inorder = [9,3,15,20,7]
 返回如下的二叉树：
 
@@ -381,7 +412,7 @@ var buildTree = function(preorder, inorder) {
 };
 ```
 
-[剑指 Offer 26. 树的子结构 - 力扣（LeetCode）](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)
+#### [剑指 Offer 26. 树的子结构 - 力扣（LeetCode）](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)
 
 输入两棵二叉树A和B，判断B是不是A的子结构。(约定空树不是任意一个树的子结构)
 
@@ -390,16 +421,16 @@ B是A的子结构， 即 A中有出现和B相同的结构和节点值。
 例如:
 给定的树 A:
 
-     3
-    / \
-   4   5
-  / \
- 1   2
+     3
+    / \
+   4   5
+  / \
+ 1   2
 给定的树 B：
 
-   4 
-  /
- 1
+   4 
+  /
+ 1
 返回 true，因为 B 与 A 的一个子树拥有相同的结构和节点值。
 
 示例 1：
@@ -446,14 +477,14 @@ var isSubStructure = function(A, B) {
 ```
 
 
-[剑指 Offer 32 - I. 从上到下打印二叉树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)
+#### [剑指 Offer 32 - I. 从上到下打印二叉树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)
 
 从上到下打印出二叉树的每个节点，同一层的节点按照从左到右的顺序打印。
 
- 
+ 
 
 例如:
-给定二叉树: [3,9,20,null,null,15,7],
+给定二叉树: [3,9,20,null,null,15,7],
 
     3
    / \
@@ -506,14 +537,14 @@ var levelOrder = function(root) {
 
 
 
-[剑指 Offer 32 - III. 从上到下打印二叉树 III - 力扣（LeetCode）](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)
+#### [剑指 Offer 32 - III. 从上到下打印二叉树 III - 力扣（LeetCode）](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)
 
 请实现一个函数按照之字形顺序打印二叉树，即第一行按照从左到右的顺序打印，第二层按照从右到左的顺序打印，第三行再按照从左到右的顺序打印，其他行以此类推。
 
- 
+ 
 
 例如:
-给定二叉树: [3,9,20,null,null,15,7],
+给定二叉树: [3,9,20,null,null,15,7],
 
     3
    / \
@@ -570,14 +601,14 @@ var levelOrder = function(root) {
 };
 ```
 
-[剑指 Offer 34. 二叉树中和为某一值的路径 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/)
+#### [剑指 Offer 34. 二叉树中和为某一值的路径 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/)
 
 输入一棵二叉树和一个整数，打印出二叉树中节点值的和为输入整数的所有路径。从树的根节点开始往下一直到叶节点所经过的节点形成一条路径。
 
- 
+ 
 
 示例:
-给定如下二叉树，以及目标和 sum = 22，
+给定如下二叉树，以及目标和 sum = 22，
 
               5
              / \
@@ -636,11 +667,11 @@ var pathSum = function(root, sum) {
 
 ### 难度困难
 
-[剑指 Offer 37. 序列化二叉树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/)
+#### [剑指 Offer 37. 序列化二叉树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/)
 
 请实现两个函数，分别用来序列化和反序列化二叉树。
 
-示例: 
+示例: 
 
 你可以将以下二叉树：
 
@@ -733,7 +764,7 @@ var deserialize = function(data) {
 
 ### 简单
 
-[剑指 Offer 55 - I. 二叉树的深度 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/)
+#### [剑指 Offer 55 - I. 二叉树的深度 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/)
 
 输入一棵二叉树的根节点，求该树的深度。从根节点到叶节点依次经过的节点（含根、叶节点）形成树的一条路径，最长路径的长度为树的深度。
 
@@ -746,7 +777,7 @@ var deserialize = function(data) {
   9  20
     /  \
    15   7
-返回它的最大深度 3 。
+返回它的最大深度 3 。
 
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof
@@ -777,11 +808,11 @@ var maxDepth = function(root) {
 };
 ```
 
-[剑指 Offer 55 - II. 平衡二叉树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)
+#### [剑指 Offer 55 - II. 平衡二叉树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)
 
 输入一棵二叉树的根节点，判断该树是不是平衡二叉树。如果某二叉树中任意节点的左右子树的深度相差不超过1，那么它就是一棵平衡二叉树。
 
- 
+ 
 
 示例 1:
 
@@ -805,7 +836,7 @@ var maxDepth = function(root) {
    3   3
   / \
  4   4
-返回 false 。
+返回 false 。
 
 
 
@@ -847,14 +878,14 @@ var isBalanced = function(root) {
 
 ### 中等难度
 
-[剑指 Offer 34. 二叉树中和为某一值的路径 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/)
+#### [剑指 Offer 34. 二叉树中和为某一值的路径 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/)
 
 输入一棵二叉树和一个整数，打印出二叉树中节点值的和为输入整数的所有路径。从树的根节点开始往下一直到叶节点所经过的节点形成一条路径。
 
- 
+ 
 
 示例:
-给定如下二叉树，以及目标和 sum = 22，
+给定如下二叉树，以及目标和 sum = 22，
 
               5
              / \
@@ -911,7 +942,7 @@ var pathSum = function(root, sum) {
 };
 ```
 
-[剑指 Offer 12. 矩阵中的路径 - 力扣（LeetCode）](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)
+#### [剑指 Offer 12. 矩阵中的路径 - 力扣（LeetCode）](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)
 
 请设计一个函数，用来判断在一个矩阵中是否存在一条包含某字符串所有字符的路径。路径可以从矩阵中的任意一格开始，每一步可以在矩阵中向左、右、上、下移动一格。如果一条路径经过了矩阵的某一格，那么该路径不能再次进入该格子。例如，在下面的3×4的矩阵中包含一条字符串“bfce”的路径（路径中的字母用加粗标出）。
 
@@ -921,7 +952,7 @@ var pathSum = function(root, sum) {
 
 但矩阵中不包含字符串“abfb”的路径，因为字符串的第一个字符b占据了矩阵中的第一行第二个格子之后，路径不能再次进入这个格子。
 
- 
+ 
 
 示例 1：
 
@@ -990,11 +1021,11 @@ var exist = function(board, word) {
 
 ### 简单难度
 
-[剑指 Offer 09. 用两个栈实现队列 - 力扣（LeetCode）](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)
+#### [剑指 Offer 09. 用两个栈实现队列 - 力扣（LeetCode）](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)
 
-用两个栈实现一个队列。队列的声明如下，请实现它的两个函数 appendTail 和 deleteHead ，分别完成在队列尾部插入整数和在队列头部删除整数的功能。(若队列中没有元素，deleteHead 操作返回 -1 )
+用两个栈实现一个队列。队列的声明如下，请实现它的两个函数 appendTail 和 deleteHead ，分别完成在队列尾部插入整数和在队列头部删除整数的功能。(若队列中没有元素，deleteHead 操作返回 -1 )
 
- 
+ 
 
 示例 1：
 
@@ -1011,7 +1042,7 @@ var exist = function(board, word) {
 提示：
 
 1 <= values <= 10000
-最多会对 appendTail、deleteHead 进行 10000 次调用
+最多会对 appendTail、deleteHead 进行 10000 次调用
 
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof
@@ -1060,11 +1091,11 @@ CQueue.prototype.deleteHead = function() {
  */
 ```
 
-[剑指 Offer 30. 包含min函数的栈 - 力扣（LeetCode）](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)
+#### [剑指 Offer 30. 包含min函数的栈 - 力扣（LeetCode）](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)
 
 定义栈的数据结构，请在该类型中实现一个能够得到栈的最小元素的 min 函数在该栈中，调用 min、push 及 pop 的时间复杂度都是 O(1)。
 
- 
+ 
 
 示例:
 
@@ -1076,7 +1107,7 @@ minStack.min();   --> 返回 -3.
 minStack.pop();
 minStack.top();      --> 返回 0.
 minStack.min();   --> 返回 -2.
- 
+ 
 
 提示：
 
@@ -1155,18 +1186,18 @@ MinStack.prototype.min = function() {
  */
 ```
 
-- [剑指 Offer 37. 序列化二叉树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/)
+- #### [剑指 Offer 37. 序列化二叉树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/)
 	- 这题参考上文
 
 
 
-[剑指 Offer 41. 数据流中的中位数 - 力扣（LeetCode）](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)
+#### [剑指 Offer 41. 数据流中的中位数 - 力扣（LeetCode）](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)
 
 如何得到一个数据流中的中位数？如果从数据流中读出奇数个数值，那么中位数就是所有数值排序之后位于中间的数值。如果从数据流中读出偶数个数值，那么中位数就是所有数值排序之后中间两个数的平均值。
 
 例如，
 
-[2,3,4] 的中位数是 3
+[2,3,4] 的中位数是 3
 
 [2,3] 的中位数是 (2 + 3) / 2 = 2.5
 
@@ -1186,11 +1217,11 @@ double findMedian() - 返回目前所有元素的中位数。
 ["MedianFinder","addNum","findMedian","addNum","findMedian"]
 [[],[2],[],[3],[]]
 输出：[null,null,2.00000,null,2.50000]
- 
+ 
 
 限制：
 
-最多会对 addNum、findMedia进行 50000 次调用。
+最多会对 addNum、findMedia进行 50000 次调用。
 
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof
@@ -1245,17 +1276,17 @@ MedianFinder.prototype.findMedian = function() {
 
 ### 简单难度
 
-[剑指 Offer 10- I. 斐波那契数列 - 力扣（LeetCode）](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
+#### [剑指 Offer 10- I. 斐波那契数列 - 力扣（LeetCode）](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
 
 写一个函数，输入 n ，求斐波那契（Fibonacci）数列的第 n 项。斐波那契数列的定义如下：
 
-F(0) = 0,   F(1) = 1
+F(0) = 0,   F(1) = 1
 F(N) = F(N - 1) + F(N - 2), 其中 N > 1.
 斐波那契数列由 0 和 1 开始，之后的斐波那契数就是由之前的两数相加而得出。
 
 答案需要取模 1e9+7（1000000007），如计算初始结果为：1000000008，请返回 1。
 
- 
+ 
 
 示例 1：
 
@@ -1265,7 +1296,7 @@ F(N) = F(N - 1) + F(N - 2), 其中 N > 1.
 
 输入：n = 5
 输出：5
- 
+ 
 
 提示：
 
@@ -1293,9 +1324,9 @@ var fib = function(n) {
 };
 ```
 
-[剑指 Offer 10- II. 青蛙跳台阶问题 - 力扣（LeetCode）](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
+#### [剑指 Offer 10- II. 青蛙跳台阶问题 - 力扣（LeetCode）](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
 
-一只青蛙一次可以跳上1级台阶，也可以跳上2级台阶。求该青蛙跳上一个 n 级的台阶总共有多少种跳法。
+一只青蛙一次可以跳上1级台阶，也可以跳上2级台阶。求该青蛙跳上一个 n 级的台阶总共有多少种跳法。
 
 答案需要取模 1e9+7（1000000007），如计算初始结果为：1000000008，请返回 1。
 
@@ -1342,35 +1373,35 @@ var numWays = function(n) {
 
 ### 中等难度
 
-- [剑指 Offer 07. 重建二叉树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)
+- #### [剑指 Offer 07. 重建二叉树 - 力扣（LeetCode）](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)
 	- 参考前文
 
 
-[剑指 Offer 16. 数值的整数次方 - 力扣（LeetCode）](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)
+#### [剑指 Offer 16. 数值的整数次方 - 力扣（LeetCode）](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)
 
 实现函数double Power(double base, int exponent)，求base的exponent次方。不得使用库函数，同时不需要考虑大数问题。
 
- 
+ 
 
 示例 1:
 
 输入: 2.00000, 10
 输出: 1024.00000
-示例 2:
+示例 2:
 
 输入: 2.10000, 3
 输出: 9.26100
-示例 3:
+示例 3:
 
 输入: 2.00000, -2
 输出: 0.25000
 解释: 2-2 = 1/22 = 1/4 = 0.25
- 
+ 
 
 说明:
 
--100.0 < x < 100.0
-n 是 32 位有符号整数，其数值范围是 [−231, 231 − 1] 。
+-100.0 < x < 100.0
+n 是 32 位有符号整数，其数值范围是 [−231, 231 − 1] 。
 
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof
@@ -1415,7 +1446,7 @@ var myPow = function(x, n) {
 
 ## 队列
 
-[剑指 Offer 59 - I. 滑动窗口的最大值 - 力扣（LeetCode）](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)
+#### [剑指 Offer 59 - I. 滑动窗口的最大值 - 力扣（LeetCode）](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)
 
 给定一个数组 nums 和滑动窗口的大小 k，请找出所有滑动窗口里的最大值。
 
@@ -1433,11 +1464,11 @@ var myPow = function(x, n) {
  1  3  -1 [-3  5  3] 6  7       5
  1  3  -1  -3 [5  3  6] 7       6
  1  3  -1  -3  5 [3  6  7]      7
- 
+ 
 
 提示：
 
-你可以假设 k 总是有效的，在输入数组不为空的情况下，1 ≤ k ≤ 输入数组的大小。
+你可以假设 k 总是有效的，在输入数组不为空的情况下，1 ≤ k ≤ 输入数组的大小。
 
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof
@@ -1487,7 +1518,7 @@ var maxSlidingWindow = function(nums, k) {
 ### 简单难度
 
 
-[剑指 Offer 03. 数组中重复的数字 - 力扣（LeetCode）](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
+#### [剑指 Offer 03. 数组中重复的数字 - 力扣（LeetCode）](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
 
 找出数组中重复的数字。
 
@@ -1499,7 +1530,7 @@ var maxSlidingWindow = function(nums, k) {
 输入：
 [2, 3, 1, 0, 2, 5, 3]
 输出：2 或 3 
- 
+ 
 
 限制：
 
@@ -1527,11 +1558,11 @@ var findRepeatNumber = function(nums) {
 };
 ```
 
-[剑指 Offer 04. 二维数组中的查找 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)
+#### [剑指 Offer 04. 二维数组中的查找 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)
 
 在一个 n * m 的二维数组中，每一行都按照从左到右递增的顺序排序，每一列都按照从上到下递增的顺序排序。请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。
 
- 
+ 
 
 示例:
 
@@ -1544,11 +1575,11 @@ var findRepeatNumber = function(nums) {
   [10, 13, 14, 17, 24],
   [18, 21, 23, 26, 30]
 ]
-给定 target = 5，返回 true。
+给定 target = 5，返回 true。
 
-给定 target = 20，返回 false。
+给定 target = 20，返回 false。
 
- 
+ 
 
 限制：
 
@@ -1593,11 +1624,11 @@ var findNumberIn2DArray = function(matrix, target) {
 };
 ```
 
-[剑指 Offer 29. 顺时针打印矩阵 - 力扣（LeetCode）](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
+#### [剑指 Offer 29. 顺时针打印矩阵 - 力扣（LeetCode）](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
 
 输入一个矩阵，按照从外向里以顺时针的顺序依次打印出每一个数字。
 
- 
+ 
 
 示例 1：
 
@@ -1605,14 +1636,14 @@ var findNumberIn2DArray = function(matrix, target) {
 输出：[1,2,3,6,9,8,7,4,5]
 示例 2：
 
-输入：matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+输入：matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
 输出：[1,2,3,4,8,12,11,10,9,5,6,7]
- 
+ 
 
 限制：
 
 0 <= matrix.length <= 100
-0 <= matrix[i].length <= 100
+0 <= matrix[i].length <= 100
 
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof
@@ -1667,21 +1698,21 @@ var spiralOrder = function(matrix) {
 };
 ```
 
-[剑指 Offer 53 - I. 在排序数组中查找数字 I - 力扣（LeetCode）](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)
+#### [剑指 Offer 53 - I. 在排序数组中查找数字 I - 力扣（LeetCode）](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)
 
 统计一个数字在排序数组中出现的次数。
 
- 
+ 
 
 示例 1:
 
 输入: nums = [5,7,7,8,8,10], target = 8
 输出: 2
-示例 2:
+示例 2:
 
 输入: nums = [5,7,7,8,8,10], target = 6
 输出: 0
- 
+ 
 
 限制：
 
@@ -1719,21 +1750,21 @@ var search = function(nums, target) {
 };
 ```
 
-[剑指 Offer 53 - II. 0～n-1中缺失的数字 - 力扣（LeetCode）](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)
+#### [剑指 Offer 53 - II. 0～n-1中缺失的数字 - 力扣（LeetCode）](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)
 
 一个长度为n-1的递增排序数组中的所有数字都是唯一的，并且每个数字都在范围0～n-1之内。在范围0～n-1内的n个数字中有且只有一个数字不在该数组中，请找出这个数字。
 
- 
+ 
 
 示例 1:
 
 输入: [0,1,3]
 输出: 2
-示例 2:
+示例 2:
 
 输入: [0,1,2,3,4,5,6,7,9]
 输出: 8
- 
+ 
 
 限制：
 
@@ -1771,7 +1802,7 @@ var missingNumber = function(nums) {
 
 ## 哈希表
 
-[剑指 Offer 03. 数组中重复的数字 - 力扣（LeetCode）](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
+#### [剑指 Offer 03. 数组中重复的数字 - 力扣（LeetCode）](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
 
 找出数组中重复的数字。
 
@@ -1783,7 +1814,7 @@ var missingNumber = function(nums) {
 输入：
 [2, 3, 1, 0, 2, 5, 3]
 输出：2 或 3 
- 
+ 
 
 限制：
 
@@ -1810,13 +1841,13 @@ var findRepeatNumber = function(nums) {
 };
 ```
 
-[剑指 Offer 48. 最长不含重复字符的子字符串 - 力扣（LeetCode）](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)
+#### [剑指 Offer 48. 最长不含重复字符的子字符串 - 力扣（LeetCode）](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)
 
 请从字符串中找出一个最长的不包含重复字符的子字符串，计算该最长子字符串的长度。
 
- 
+ 
 
-示例 1:
+示例 1:
 
 输入: "abcabcbb"
 输出: 3 
@@ -1830,9 +1861,9 @@ var findRepeatNumber = function(nums) {
 
 输入: "pwwkew"
 输出: 3
-解释: 因为无重复字符的最长子串是 "wke"，所以其长度为 3。
-     请注意，你的答案必须是 子串 的长度，"pwke" 是一个子序列，不是子串。
- 
+解释: 因为无重复字符的最长子串是 "wke"，所以其长度为 3。
+     请注意，你的答案必须是 子串 的长度，"pwke" 是一个子序列，不是子串。
+ 
 
 提示：
 
@@ -1867,7 +1898,7 @@ var lengthOfLongestSubstring = function(s) {
 ```
 
 
-[剑指 Offer 50. 第一个只出现一次的字符 - 力扣（LeetCode）](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)
+#### [剑指 Offer 50. 第一个只出现一次的字符 - 力扣（LeetCode）](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)
 
 在字符串 s 中找出第一个只出现一次的字符。如果没有，返回一个单空格。 s 只包含小写字母。
 
@@ -1878,7 +1909,7 @@ s = "abaccdeff"
 
 s = "" 
 返回 " "
- 
+ 
 
 限制：
 
@@ -1926,17 +1957,17 @@ var firstUniqChar = function(s) {
 
 ## 链表
 
-[剑指 Offer 06. 从尾到头打印链表 - 力扣（LeetCode）](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
+#### [剑指 Offer 06. 从尾到头打印链表 - 力扣（LeetCode）](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
 
 输入一个链表的头节点，从尾到头反过来返回每个节点的值（用数组返回）。
 
- 
+ 
 
 示例 1：
 
 输入：head = [1,3,2]
 输出：[2,3,1]
- 
+ 
 
 限制：
 
@@ -1975,7 +2006,7 @@ var reversePrint = function(head) {
 };
 ```
 
-[剑指 Offer 18. 删除链表的节点 - 力扣（LeetCode）](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)
+#### [剑指 Offer 18. 删除链表的节点 - 力扣（LeetCode）](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)
 
 给定单向链表的头指针和一个要删除的节点的值，定义一个函数删除该节点。
 
@@ -1987,13 +2018,13 @@ var reversePrint = function(head) {
 
 输入: head = [4,5,1,9], val = 5
 输出: [4,1,9]
-解释: 给定你链表中值为 5 的第二个节点，那么在调用了你的函数之后，该链表应变为 4 -> 1 -> 9.
+解释: 给定你链表中值为 5 的第二个节点，那么在调用了你的函数之后，该链表应变为 4 -> 1 -> 9.
 示例 2:
 
 输入: head = [4,5,1,9], val = 1
 输出: [4,5,9]
-解释: 给定你链表中值为 1 的第三个节点，那么在调用了你的函数之后，该链表应变为 4 -> 5 -> 9.
- 
+解释: 给定你链表中值为 1 的第三个节点，那么在调用了你的函数之后，该链表应变为 4 -> 5 -> 9.
+ 
 
 说明：
 
@@ -2037,11 +2068,11 @@ var deleteNode = function(head, val) {
 };
 ```
 
-[剑指 Offer 22. 链表中倒数第k个节点 - 力扣（LeetCode）](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
+#### [剑指 Offer 22. 链表中倒数第k个节点 - 力扣（LeetCode）](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
 
 输入一个链表，输出该链表中倒数第k个节点。为了符合大多数人的习惯，本题从1开始计数，即链表的尾节点是倒数第1个节点。例如，一个链表有6个节点，从头节点开始，它们的值依次是1、2、3、4、5、6。这个链表的倒数第3个节点是值为4的节点。
 
- 
+ 
 
 示例：
 
@@ -2084,17 +2115,17 @@ var getKthFromEnd = function(head, k) {
 };
 ```
 
-[剑指 Offer 24. 反转链表 - 力扣（LeetCode）](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)
+#### [剑指 Offer 24. 反转链表 - 力扣（LeetCode）](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)
 
 定义一个函数，输入一个链表的头节点，反转该链表并输出反转后链表的头节点。
 
- 
+ 
 
 示例:
 
 输入: 1->2->3->4->5->NULL
 输出: 5->4->3->2->1->NULL
- 
+ 
 
 限制：
 
@@ -2134,7 +2165,7 @@ var reverseList = function(head) {
 };
 ```
 
-[剑指 Offer 52. 两个链表的第一个公共节点 - 力扣（LeetCode）](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)
+#### [剑指 Offer 52. 两个链表的第一个公共节点 - 力扣（LeetCode）](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)
 
 输入两个链表，找出它们的第一个公共节点。
 
@@ -2144,7 +2175,7 @@ var reverseList = function(head) {
 
 在节点 c1 开始相交。
 
- 
+ 
 
 示例 1：
 
@@ -2153,18 +2184,18 @@ var reverseList = function(head) {
 输入：intersectVal = 8, listA = [4,1,8,4,5], listB = [5,0,1,8,4,5], skipA = 2, skipB = 3
 输出：Reference of the node with value = 8
 输入解释：相交节点的值为 8 （注意，如果两个列表相交则不能为 0）。从各自的表头开始算起，链表 A 为 [4,1,8,4,5]，链表 B 为 [5,0,1,8,4,5]。在 A 中，相交节点前有 2 个节点；在 B 中，相交节点前有 3 个节点。
- 
+ 
 
-示例 2：
+示例 2：
 
 
 
-输入：intersectVal = 2, listA = [0,9,1,2,4], listB = [3,2,4], skipA = 3, skipB = 1
+输入：intersectVal = 2, listA = [0,9,1,2,4], listB = [3,2,4], skipA = 3, skipB = 1
 输出：Reference of the node with value = 2
 输入解释：相交节点的值为 2 （注意，如果两个列表相交则不能为 0）。从各自的表头开始算起，链表 A 为 [0,9,1,2,4]，链表 B 为 [3,2,4]。在 A 中，相交节点前有 3 个节点；在 B 中，相交节点前有 1 个节点。
- 
+ 
 
-示例 3：
+示例 3：
 
 
 
@@ -2172,7 +2203,7 @@ var reverseList = function(head) {
 输出：null
 输入解释：从各自的表头开始算起，链表 A 为 [2,6,4]，链表 B 为 [1,5]。由于这两个链表不相交，所以 intersectVal 必须为 0，而 skipA 和 skipB 可以是任意值。
 解释：这两个链表不相交，因此返回 null。
- 
+ 
 
 注意：
 
@@ -2217,7 +2248,7 @@ var getIntersectionNode = function(headA, headB) {
 
 ## 数学-基本为中等
 
-[剑指 Offer 14- I. 剪绳子 - 力扣（LeetCode）](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)
+#### [剑指 Offer 14- I. 剪绳子 - 力扣（LeetCode）](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)
 
 给你一根长度为 n 的绳子，请把绳子剪成整数长度的 m 段（m、n都是整数，n>1并且m>1），每段绳子的长度记为 k[0],k[1]...k[m-1] 。请问 k[0]*k[1]*...*k[m-1] 可能的最大乘积是多少？例如，当绳子的长度是8时，我们把它剪成长度分别为2、3、3的三段，此时得到的最大乘积是18。
 
@@ -2226,11 +2257,11 @@ var getIntersectionNode = function(headA, headB) {
 输入: 2
 输出: 1
 解释: 2 = 1 + 1, 1 × 1 = 1
-示例 2:
+示例 2:
 
 输入: 10
 输出: 36
-解释: 10 = 3 + 3 + 4, 3 × 3 × 4 = 36
+解释: 10 = 3 + 3 + 4, 3 × 3 × 4 = 36
 提示：
 
 2 <= n <= 58
@@ -2264,25 +2295,25 @@ var cuttingRope = function(n) {
 };
 ```
 
-[剑指 Offer 14- II. 剪绳子 II - 力扣（LeetCode）](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)
+#### [剑指 Offer 14- II. 剪绳子 II - 力扣（LeetCode）](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)
 
-给你一根长度为 n 的绳子，请把绳子剪成整数长度的 m 段（m、n都是整数，n>1并且m>1），每段绳子的长度记为 k[0],k[1]...k[m - 1] 。请问 k[0]*k[1]*...*k[m - 1] 可能的最大乘积是多少？例如，当绳子的长度是8时，我们把它剪成长度分别为2、3、3的三段，此时得到的最大乘积是18。
+给你一根长度为 n 的绳子，请把绳子剪成整数长度的 m 段（m、n都是整数，n>1并且m>1），每段绳子的长度记为 k[0],k[1]...k[m - 1] 。请问 k[0]*k[1]*...*k[m - 1] 可能的最大乘积是多少？例如，当绳子的长度是8时，我们把它剪成长度分别为2、3、3的三段，此时得到的最大乘积是18。
 
 答案需要取模 1e9+7（1000000007），如计算初始结果为：1000000008，请返回 1。
 
- 
+ 
 
 示例 1：
 
 输入: 2
 输出: 1
 解释: 2 = 1 + 1, 1 × 1 = 1
-示例 2:
+示例 2:
 
 输入: 10
 输出: 36
-解释: 10 = 3 + 3 + 4, 3 × 3 × 4 = 36
- 
+解释: 10 = 3 + 3 + 4, 3 × 3 × 4 = 36
+ 
 
 提示：
 
@@ -2330,7 +2361,7 @@ var cuttingRope = function(n) {
 };
 ```
 
-[剑指 Offer 17. 打印从1到最大的n位数 - 力扣（LeetCode）](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)
+#### [剑指 Offer 17. 打印从1到最大的n位数 - 力扣（LeetCode）](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)
 
 输入数字 n，按顺序打印出从 1 到最大的 n 位十进制数。比如输入 3，则打印出 1、2、3 一直到最大的 3 位数 999。
 
@@ -2338,7 +2369,7 @@ var cuttingRope = function(n) {
 
 输入: n = 1
 输出: [1,2,3,4,5,6,7,8,9]
- 
+ 
 
 说明：
 
@@ -2372,13 +2403,13 @@ var printNumbers = function(n) {
 ```
 
 
-[剑指 Offer 43. 1～n整数中1出现的次数 - 力扣（LeetCode）](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/)
+#### [剑指 Offer 43. 1～n整数中1出现的次数 - 力扣（LeetCode）](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/)
 
 输入一个整数 n ，求1～n这n个整数的十进制表示中1出现的次数。
 
 例如，输入12，1～12这些整数中包含1 的数字有1、10、11和12，1一共出现了5次。
 
- 
+ 
 
 示例 1：
 
@@ -2388,11 +2419,11 @@ var printNumbers = function(n) {
 
 输入：n = 13
 输出：6
- 
+ 
 
 限制：
 
-1 <= n < 2^31
+1 <= n < 2^31
 注意：本题与主站 233 题相同：https://leetcode-cn.com/problems/number-of-digit-one/
 
 来源：力扣（LeetCode）
@@ -2434,11 +2465,11 @@ var countDigitOne = function(n) {
 };
 ```
 
-[剑指 Offer 67. 把字符串转换成整数 - 力扣（LeetCode）](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)
+#### [剑指 Offer 67. 把字符串转换成整数 - 力扣（LeetCode）](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)
 
 写一个函数 StrToInt，实现把字符串转换成整数这个功能。不能使用 atoi 或者其他类似的库函数。
 
- 
+ 
 
 首先，该函数会根据需要丢弃无用的开头空格字符，直到寻找到第一个非空格的字符为止。
 
@@ -2452,36 +2483,36 @@ var countDigitOne = function(n) {
 
 说明：
 
-假设我们的环境只能存储 32 位大小的有符号整数，那么其数值范围为 [−231,  231 − 1]。如果数值超过这个范围，请返回  INT_MAX (231 − 1) 或 INT_MIN (−231) 。
+假设我们的环境只能存储 32 位大小的有符号整数，那么其数值范围为 [−231,  231 − 1]。如果数值超过这个范围，请返回  INT_MAX (231 − 1) 或 INT_MIN (−231) 。
 
-示例 1:
+示例 1:
 
 输入: "42"
 输出: 42
-示例 2:
+示例 2:
 
 输入: "   -42"
 输出: -42
 解释: 第一个非空白字符为 '-', 它是一个负号。
-     我们尽可能将负号与后面所有连续出现的数字组合起来，最后得到 -42 。
-示例 3:
+     我们尽可能将负号与后面所有连续出现的数字组合起来，最后得到 -42 。
+示例 3:
 
 输入: "4193 with words"
 输出: 4193
 解释: 转换截止于数字 '3' ，因为它的下一个字符不为数字。
-示例 4:
+示例 4:
 
 输入: "words and 987"
 输出: 0
 解释: 第一个非空字符是 'w', 但它不是数字或正、负号。
      因此无法执行有效的转换。
-示例 5:
+示例 5:
 
 输入: "-91283472332"
 输出: -2147483648
 解释: 数字 "-91283472332" 超过 32 位有符号整数范围。 
-     因此返回 INT_MIN (−231) 。
- 
+     因此返回 INT_MIN (−231) 。
+ 
 
 注意：本题与主站 8 题相同：https://leetcode-cn.com/problems/string-to-integer-atoi/
 
@@ -2529,11 +2560,11 @@ var strToInt = function(str) {
 
 ## 双指针
 
-[剑指 Offer 04. 二维数组中的查找 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)
+#### [剑指 Offer 04. 二维数组中的查找 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)
 
 在一个 n * m 的二维数组中，每一行都按照从左到右递增的顺序排序，每一列都按照从上到下递增的顺序排序。请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。
 
- 
+ 
 
 示例:
 
@@ -2546,11 +2577,11 @@ var strToInt = function(str) {
   [10, 13, 14, 17, 24],
   [18, 21, 23, 26, 30]
 ]
-给定 target = 5，返回 true。
+给定 target = 5，返回 true。
 
-给定 target = 20，返回 false。
+给定 target = 20，返回 false。
 
- 
+ 
 
 限制：
 
@@ -2558,7 +2589,7 @@ var strToInt = function(str) {
 
 0 <= m <= 1000
 
- 
+ 
 
 注意：本题与主站 240 题相同：https://leetcode-cn.com/problems/search-a-2d-matrix-ii/
 
@@ -2598,11 +2629,11 @@ var findNumberIn2DArray = function(matrix, target) {
 };
 ```
 
-[剑指 Offer 22. 链表中倒数第k个节点 - 力扣（LeetCode）](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
+#### [剑指 Offer 22. 链表中倒数第k个节点 - 力扣（LeetCode）](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
 
 输入一个链表，输出该链表中倒数第k个节点。为了符合大多数人的习惯，本题从1开始计数，即链表的尾节点是倒数第1个节点。例如，一个链表有6个节点，从头节点开始，它们的值依次是1、2、3、4、5、6。这个链表的倒数第3个节点是值为4的节点。
 
- 
+ 
 
 示例：
 
@@ -2647,7 +2678,7 @@ var getKthFromEnd = function(head, k) {
 ```
 
 
-- [剑指 Offer 48. 最长不含重复字符的子字符串 - 力扣（LeetCode）](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)
+- #### [剑指 Offer 48. 最长不含重复字符的子字符串 - 力扣（LeetCode）](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)
 	- 参考上文
 
 
@@ -2655,27 +2686,27 @@ var getKthFromEnd = function(head, k) {
 
 ## 字符串
 
-[剑指 Offer 58 - I. 翻转单词顺序 - 力扣（LeetCode）](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)
+#### [剑指 Offer 58 - I. 翻转单词顺序 - 力扣（LeetCode）](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)
 
 输入一个英文句子，翻转句子中单词的顺序，但单词内字符的顺序不变。为简单起见，标点符号和普通字母一样处理。例如输入字符串"I am a student. "，则输出"student. a am I"。
 
- 
+ 
 
 示例 1：
 
 输入: "the sky is blue"
-输出: "blue is sky the"
+输出: "blue is sky the"
 示例 2：
 
-输入: "  hello world!  "
-输出: "world! hello"
+输入: "  hello world!  "
+输出: "world! hello"
 解释: 输入字符串可以在前面或者后面包含多余的空格，但是反转后的字符不能包括。
 示例 3：
 
-输入: "a good   example"
-输出: "example good a"
+输入: "a good   example"
+输出: "example good a"
 解释: 如果两个单词间有多余的空格，将反转后单词间的空格减少到只含一个。
- 
+ 
 
 说明：
 
@@ -2716,21 +2747,21 @@ var reverseWords = function(s) {
 };
 ```
 
-[剑指 Offer 58 - II. 左旋转字符串 - 力扣（LeetCode）](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
+#### [剑指 Offer 58 - II. 左旋转字符串 - 力扣（LeetCode）](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
 
 字符串的左旋转操作是把字符串前面的若干个字符转移到字符串的尾部。请定义一个函数实现字符串左旋转操作的功能。比如，输入字符串"abcdefg"和数字2，该函数将返回左旋转两位得到的结果"cdefgab"。
 
- 
+ 
 
 示例 1：
 
 输入: s = "abcdefg", k = 2
-输出: "cdefgab"
+输出: "cdefgab"
 示例 2：
 
 输入: s = "lrloseumgh", k = 6
-输出: "umghlrlose"
- 
+输出: "umghlrlose"
+ 
 
 限制：
 
@@ -2751,11 +2782,11 @@ var reverseLeftWords = function(s, n) {
 };
 ```
 
-[剑指 Offer 67. 把字符串转换成整数 - 力扣（LeetCode）](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)
+#### [剑指 Offer 67. 把字符串转换成整数 - 力扣（LeetCode）](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)
 
 写一个函数 StrToInt，实现把字符串转换成整数这个功能。不能使用 atoi 或者其他类似的库函数。
 
- 
+ 
 
 首先，该函数会根据需要丢弃无用的开头空格字符，直到寻找到第一个非空格的字符为止。
 
@@ -2769,36 +2800,36 @@ var reverseLeftWords = function(s, n) {
 
 说明：
 
-假设我们的环境只能存储 32 位大小的有符号整数，那么其数值范围为 [−231,  231 − 1]。如果数值超过这个范围，请返回  INT_MAX (231 − 1) 或 INT_MIN (−231) 。
+假设我们的环境只能存储 32 位大小的有符号整数，那么其数值范围为 [−231,  231 − 1]。如果数值超过这个范围，请返回  INT_MAX (231 − 1) 或 INT_MIN (−231) 。
 
-示例 1:
+示例 1:
 
 输入: "42"
 输出: 42
-示例 2:
+示例 2:
 
 输入: "   -42"
 输出: -42
 解释: 第一个非空白字符为 '-', 它是一个负号。
-     我们尽可能将负号与后面所有连续出现的数字组合起来，最后得到 -42 。
-示例 3:
+     我们尽可能将负号与后面所有连续出现的数字组合起来，最后得到 -42 。
+示例 3:
 
 输入: "4193 with words"
 输出: 4193
 解释: 转换截止于数字 '3' ，因为它的下一个字符不为数字。
-示例 4:
+示例 4:
 
 输入: "words and 987"
 输出: 0
 解释: 第一个非空字符是 'w', 但它不是数字或正、负号。
      因此无法执行有效的转换。
-示例 5:
+示例 5:
 
 输入: "-91283472332"
 输出: -2147483648
 解释: 数字 "-91283472332" 超过 32 位有符号整数范围。 
-     因此返回 INT_MIN (−231) 。
- 
+     因此返回 INT_MIN (−231) 。
+ 
 
 注意：本题与主站 8 题相同：https://leetcode-cn.com/problems/string-to-integer-atoi/
 
@@ -2845,9 +2876,9 @@ var strToInt = function(str) {
 
 ## 二分查找
 
-[剑指 Offer 11. 旋转数组的最小数字 - 力扣（LeetCode）](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)
+#### [剑指 Offer 11. 旋转数组的最小数字 - 力扣（LeetCode）](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)
 
-把一个数组最开始的若干个元素搬到数组的末尾，我们称之为数组的旋转。输入一个递增排序的数组的一个旋转，输出旋转数组的最小元素。例如，数组 [3,4,5,1,2] 为 [1,2,3,4,5] 的一个旋转，该数组的最小值为1。  
+把一个数组最开始的若干个元素搬到数组的末尾，我们称之为数组的旋转。输入一个递增排序的数组的一个旋转，输出旋转数组的最小元素。例如，数组 [3,4,5,1,2] 为 [1,2,3,4,5] 的一个旋转，该数组的最小值为1。  
 
 示例 1：
 
@@ -2889,27 +2920,27 @@ var minArray = function(numbers) {
 };
 ```
 
-[剑指 Offer 53 - I. 在排序数组中查找数字 I - 力扣（LeetCode）](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)
+#### [剑指 Offer 53 - I. 在排序数组中查找数字 I - 力扣（LeetCode）](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)
 
 统计一个数字在排序数组中出现的次数。
 
- 
+ 
 
 示例 1:
 
 输入: nums = [5,7,7,8,8,10], target = 8
 输出: 2
-示例 2:
+示例 2:
 
 输入: nums = [5,7,7,8,8,10], target = 6
 输出: 0
- 
+ 
 
 限制：
 
 0 <= 数组长度 <= 50000
 
- 
+ 
 
 注意：本题与主站 34 题相同（仅返回值不同）：https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
@@ -2944,20 +2975,20 @@ var search = function(nums, target) {
 };
 ```
 
-[剑指 Offer 53 - II. 0～n-1中缺失的数字 - 力扣（LeetCode）](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)
+#### [剑指 Offer 53 - II. 0～n-1中缺失的数字 - 力扣（LeetCode）](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)
 一个长度为n-1的递增排序数组中的所有数字都是唯一的，并且每个数字都在范围0～n-1之内。在范围0～n-1内的n个数字中有且只有一个数字不在该数组中，请找出这个数字。
 
- 
+ 
 
 示例 1:
 
 输入: [0,1,3]
 输出: 2
-示例 2:
+示例 2:
 
 输入: [0,1,2,3,4,5,6,7,9]
 输出: 8
- 
+ 
 
 限制：
 
@@ -2994,7 +3025,7 @@ var missingNumber = function(nums) {
 
 ## 分治算法
 
-[剑指 Offer 25. 合并两个排序的链表 - 力扣（LeetCode）](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
+#### [剑指 Offer 25. 合并两个排序的链表 - 力扣（LeetCode）](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
 
 输入两个递增排序的链表，合并这两个链表并使新链表中的节点仍然是递增排序的。
 
@@ -3062,33 +3093,33 @@ var mergeTwoLists = function(l1, l2) {
 };
 ```
 
-[剑指 Offer 36. 二叉搜索树与双向链表 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)
+#### [剑指 Offer 36. 二叉搜索树与双向链表 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)
 
 输入一棵二叉搜索树，将该二叉搜索树转换成一个排序的循环双向链表。要求不能创建任何新的节点，只能调整树中节点指针的指向。
 
- 
+ 
 
 为了让您更好地理解问题，以下面的二叉搜索树为例：
 
- 
+ 
 
 
 
- 
+ 
 
 我们希望将这个二叉搜索树转化为双向循环链表。链表中的每个节点都有一个前驱和后继指针。对于双向循环链表，第一个节点的前驱是最后一个节点，最后一个节点的后继是第一个节点。
 
 下图展示了上面的二叉搜索树转化成的链表。“head” 表示指向链表中有最小元素的节点。
 
- 
+ 
 
 
 
- 
+ 
 
 特别地，我们希望可以就地完成转换操作。当转化完成以后，树中节点的左指针需要指向前驱，树中节点的右指针需要指向后继。还需要返回链表中的第一个节点的指针。
 
- 
+ 
 
 注意：本题与主站 426 题相同：https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/
 
@@ -3137,27 +3168,27 @@ var treeToDoublyList = function(root) {
 };
 ```
 
-[剑指 Offer 39. 数组中出现次数超过一半的数字 - 力扣（LeetCode）](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)
+#### [剑指 Offer 39. 数组中出现次数超过一半的数字 - 力扣（LeetCode）](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)
 
 数组中有一个数字出现的次数超过数组长度的一半，请找出这个数字。
 
- 
+ 
 
 你可以假设数组是非空的，并且给定的数组总是存在多数元素。
 
- 
+ 
 
-示例 1:
+示例 1:
 
 输入: [1, 2, 3, 2, 2, 2, 5, 4, 2]
 输出: 2
- 
+ 
 
 限制：
 
 1 <= 数组长度 <= 50000
 
- 
+ 
 
 注意：本题与主站 169 题相同：https://leetcode-cn.com/problems/majority-element/
 
@@ -3185,11 +3216,11 @@ var majorityElement = function(nums) {
 };
 ```
 
-[剑指 Offer 40. 最小的k个数 - 力扣（LeetCode）](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
+#### [剑指 Offer 40. 最小的k个数 - 力扣（LeetCode）](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
 
 输入整数数组 arr ，找出其中最小的 k 个数。例如，输入4、5、1、6、2、7、3、8这8个数字，则最小的4个数字是1、2、3、4。
 
- 
+ 
 
 示例 1：
 
@@ -3199,12 +3230,12 @@ var majorityElement = function(nums) {
 
 输入：arr = [0,1,2,1], k = 1
 输出：[0]
- 
+ 
 
 限制：
 
 0 <= k <= arr.length <= 10000
-0 <= arr[i] <= 10000
+0 <= arr[i] <= 10000
 
 
 来源：力扣（LeetCode）
@@ -3222,24 +3253,24 @@ var getLeastNumbers = function(arr, k) {
 };
 ```
 
-[剑指 Offer 42. 连续子数组的最大和 - 力扣（LeetCode）](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)
+#### [剑指 Offer 42. 连续子数组的最大和 - 力扣（LeetCode）](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)
 
 输入一个整型数组，数组中的一个或连续多个整数组成一个子数组。求所有子数组的和的最大值。
 
 要求时间复杂度为O(n)。
 
- 
+ 
 
 示例1:
 
 输入: nums = [-2,1,-3,4,-1,2,1,-5,4]
 输出: 6
-解释: 连续子数组 [4,-1,2,1] 的和最大，为 6。
- 
+解释: 连续子数组 [4,-1,2,1] 的和最大，为 6。
+ 
 
 提示：
 
-1 <= arr.length <= 10^5
+1 <= arr.length <= 10^5
 -100 <= arr[i] <= 100
 注意：本题与主站 53 题相同：https://leetcode-cn.com/problems/maximum-subarray/
 
@@ -3269,28 +3300,28 @@ var maxSubArray = function(nums) {
 
 ## 动态规划
 
-- [剑指 Offer 14- I. 剪绳子 - 力扣（LeetCode）](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)
-- [剑指 Offer 14- II. 剪绳子 II - 力扣（LeetCode）](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)
+- #### [剑指 Offer 14- I. 剪绳子 - 力扣（LeetCode）](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)
+- #### [剑指 Offer 14- II. 剪绳子 II - 力扣（LeetCode）](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)
 	- 上面两题参考上文
 
-[剑指 Offer 42. 连续子数组的最大和 - 力扣（LeetCode）](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)
+#### [剑指 Offer 42. 连续子数组的最大和 - 力扣（LeetCode）](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)
 
 输入一个整型数组，数组中的一个或连续多个整数组成一个子数组。求所有子数组的和的最大值。
 
 要求时间复杂度为O(n)。
 
- 
+ 
 
 示例1:
 
 输入: nums = [-2,1,-3,4,-1,2,1,-5,4]
 输出: 6
-解释: 连续子数组 [4,-1,2,1] 的和最大，为 6。
- 
+解释: 连续子数组 [4,-1,2,1] 的和最大，为 6。
+ 
 
 提示：
 
-1 <= arr.length <= 10^5
+1 <= arr.length <= 10^5
 -100 <= arr[i] <= 100
 注意：本题与主站 53 题相同：https://leetcode-cn.com/problems/maximum-subarray/
 
@@ -3316,23 +3347,23 @@ var maxSubArray = function(nums) {
 };
 ```
 
-[剑指 Offer 47. 礼物的最大价值 - 力扣（LeetCode）](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)
+#### [剑指 Offer 47. 礼物的最大价值 - 力扣（LeetCode）](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)
 
 在一个 m*n 的棋盘的每一格都放有一个礼物，每个礼物都有一定的价值（价值大于 0）。你可以从棋盘的左上角开始拿格子里的礼物，并每次向右或者向下移动一格、直到到达棋盘的右下角。给定一个棋盘及其上面的礼物的价值，请计算你最多能拿到多少价值的礼物？
 
- 
+ 
 
 示例 1:
 
 输入: 
 [
-  [1,3,1],
-  [1,5,1],
-  [4,2,1]
+  [1,3,1],
+  [1,5,1],
+  [4,2,1]
 ]
 输出: 12
 解释: 路径 1→3→5→2→1 可以拿到最多价值的礼物
- 
+ 
 
 提示：
 
@@ -3371,11 +3402,11 @@ var maxValue = function(grid) {
 };
 ```
 
-[剑指 Offer 63. 股票的最大利润 - 力扣（LeetCode）](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)
+#### [剑指 Offer 63. 股票的最大利润 - 力扣（LeetCode）](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)
 
 假设把某股票的价格按照时间先后顺序存储在数组中，请问买卖该股票一次可能获得的最大利润是多少？
 
- 
+ 
 
 示例 1:
 
@@ -3388,13 +3419,13 @@ var maxValue = function(grid) {
 输入: [7,6,4,3,1]
 输出: 0
 解释: 在这种情况下, 没有交易完成, 所以最大利润为 0。
- 
+ 
 
 限制：
 
 0 <= 数组长度 <= 10^5
 
- 
+ 
 
 注意：本题与主站 121 题相同：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/
 
@@ -3424,19 +3455,19 @@ var maxProfit = function(prices) {
 
 ## 回溯算法
 
-- [剑指 Offer 38. 字符串的排列 - 力扣（LeetCode）](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
+- #### [剑指 Offer 38. 字符串的排列 - 力扣（LeetCode）](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
 
 ----
 
 ## 滑动窗口
 
-[剑指 Offer 48. 最长不含重复字符的子字符串 - 力扣（LeetCode）](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)
+#### [剑指 Offer 48. 最长不含重复字符的子字符串 - 力扣（LeetCode）](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)
 
 请从字符串中找出一个最长的不包含重复字符的子字符串，计算该最长子字符串的长度。
 
- 
+ 
 
-示例 1:
+示例 1:
 
 输入: "abcabcbb"
 输出: 3 
@@ -3450,9 +3481,9 @@ var maxProfit = function(prices) {
 
 输入: "pwwkew"
 输出: 3
-解释: 因为无重复字符的最长子串是 "wke"，所以其长度为 3。
-     请注意，你的答案必须是 子串 的长度，"pwke" 是一个子序列，不是子串。
- 
+解释: 因为无重复字符的最长子串是 "wke"，所以其长度为 3。
+     请注意，你的答案必须是 子串 的长度，"pwke" 是一个子序列，不是子串。
+ 
 
 提示：
 
@@ -3486,33 +3517,33 @@ var lengthOfLongestSubstring = function(s) {
 };
 ```
 
-- [剑指 Offer 59 - I. 滑动窗口的最大值 - 力扣（LeetCode）](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)
+- #### [剑指 Offer 59 - I. 滑动窗口的最大值 - 力扣（LeetCode）](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)
 	- 参考上文
 
 
-[剑指 Offer 59 - II. 队列的最大值 - 力扣（LeetCode）](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)
+#### [剑指 Offer 59 - II. 队列的最大值 - 力扣（LeetCode）](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)
 
 请定义一个队列并实现函数 max_value 得到队列里的最大值，要求函数max_value、push_back 和 pop_front 的均摊时间复杂度都是O(1)。
 
-若队列为空，pop_front 和 max_value 需要返回 -1
+若队列为空，pop_front 和 max_value 需要返回 -1
 
 示例 1：
 
 输入: 
 ["MaxQueue","push_back","push_back","max_value","pop_front","max_value"]
 [[],[1],[2],[],[],[]]
-输出: [null,null,null,2,1,2]
+输出: [null,null,null,2,1,2]
 示例 2：
 
 输入: 
 ["MaxQueue","pop_front","max_value"]
 [[],[],[]]
-输出: [null,-1,-1]
- 
+输出: [null,-1,-1]
+ 
 
 限制：
 
-1 <= push_back,pop_front,max_value的总操作数 <= 10000
+1 <= push_back,pop_front,max_value的总操作数 <= 10000
 1 <= value <= 10^5
 
 来源：力扣（LeetCode）
@@ -3572,13 +3603,13 @@ MaxQueue.prototype.pop_front = function() {
 
 ## 其他未分类的题目
 
-[剑指 Offer 57 - II. 和为s的连续正数序列 - 力扣（LeetCode）](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)
+#### [剑指 Offer 57 - II. 和为s的连续正数序列 - 力扣（LeetCode）](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)
 
 输入一个正整数 target ，输出所有和为 target 的连续正整数序列（至少含有两个数）。
 
 序列内的数字由小到大排列，不同序列按照首个数字从小到大排列。
 
- 
+ 
 
 示例 1：
 
@@ -3588,7 +3619,7 @@ MaxQueue.prototype.pop_front = function() {
 
 输入：target = 15
 输出：[[1,2,3,4,5],[4,5,6],[7,8]]
- 
+ 
 
 限制：
 
@@ -3635,11 +3666,11 @@ var findContinuousSequence = function(target) {
 ```
 
 
-[剑指 Offer 13. 机器人的运动范围 - 力扣（LeetCode）](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)
+#### [剑指 Offer 13. 机器人的运动范围 - 力扣（LeetCode）](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)
 
 地上有一个m行n列的方格，从坐标 [0,0] 到坐标 [m-1,n-1] 。一个机器人从坐标 [0, 0] 的格子开始移动，它每次可以向左、右、上、下移动一格（不能移动到方格外），也不能进入行坐标和列坐标的数位之和大于k的格子。例如，当k为18时，机器人能够进入方格 [35, 37] ，因为3+5+3+7=18。但它不能进入方格 [35, 38]，因为3+5+3+8=19。请问该机器人能够到达多少个格子？
 
- 
+ 
 
 示例 1：
 
@@ -3652,7 +3683,7 @@ var findContinuousSequence = function(target) {
 提示：
 
 1 <= n,m <= 100
-0 <= k <= 20
+0 <= k <= 20
 
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof
@@ -3705,17 +3736,17 @@ var movingCount = function(m, n, k) {
 };
 ```
 
-[剑指 Offer 05. 替换空格 - 力扣（LeetCode）](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
+#### [剑指 Offer 05. 替换空格 - 力扣（LeetCode）](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 
 请实现一个函数，把字符串 s 中的每个空格替换成"%20"。
 
- 
+ 
 
 示例 1：
 
 输入：s = "We are happy."
 输出："We%20are%20happy."
- 
+ 
 
 限制：
 
@@ -3745,25 +3776,25 @@ var replaceSpace = function(s) {
 };
 ```
 
-[剑指 Offer 64. 求1+2+…+n - 力扣（LeetCode）](https://leetcode-cn.com/problems/qiu-12n-lcof/)
+#### [剑指 Offer 64. 求1+2+…+n - 力扣（LeetCode）](https://leetcode-cn.com/problems/qiu-12n-lcof/)
 
 求 1+2+...+n ，要求不能使用乘除法、for、while、if、else、switch、case等关键字及条件判断语句（A?B:C）。
 
- 
+ 
 
 示例 1：
 
 输入: n = 3
-输出: 6
+输出: 6
 示例 2：
 
 输入: n = 9
-输出: 45
- 
+输出: 45
+ 
 
 限制：
 
-1 <= n <= 10000
+1 <= n <= 10000
 
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/qiu-12n-lcof
@@ -3779,26 +3810,26 @@ var sumNums = function(n) {
 };
 ```
 
-[剑指 Offer 15. 二进制中1的个数 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)
+#### [剑指 Offer 15. 二进制中1的个数 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)
 
-请实现一个函数，输入一个整数，输出该数二进制表示中 1 的个数。例如，把 9 表示成二进制是 1001，有 2 位是 1。因此，如果输入 9，则该函数输出 2。
+请实现一个函数，输入一个整数，输出该数二进制表示中 1 的个数。例如，把 9 表示成二进制是 1001，有 2 位是 1。因此，如果输入 9，则该函数输出 2。
 
 示例 1：
 
 输入：00000000000000000000000000001011
 输出：3
-解释：输入的二进制串 00000000000000000000000000001011 中，共有三位为 '1'。
+解释：输入的二进制串 00000000000000000000000000001011 中，共有三位为 '1'。
 示例 2：
 
 输入：00000000000000000000000010000000
 输出：1
-解释：输入的二进制串 00000000000000000000000010000000 中，共有一位为 '1'。
+解释：输入的二进制串 00000000000000000000000010000000 中，共有一位为 '1'。
 示例 3：
 
 输入：11111111111111111111111111111101
 输出：31
 解释：输入的二进制串 11111111111111111111111111111101 中，共有 31 位为 '1'。
- 
+ 
 
 注意：本题与主站 191 题相同：https://leetcode-cn.com/problems/number-of-1-bits/
 
@@ -3823,27 +3854,27 @@ var hammingWeight = function(n) {
 };
 ```
 
-[剑指 Offer 62. 圆圈中最后剩下的数字 - 力扣（LeetCode）](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
+#### [剑指 Offer 62. 圆圈中最后剩下的数字 - 力扣（LeetCode）](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 
 0,1,,n-1这n个数字排成一个圆圈，从数字0开始，每次从这个圆圈里删除第m个数字。求出这个圆圈里剩下的最后一个数字。
 
 例如，0、1、2、3、4这5个数字组成一个圆圈，从数字0开始每次删除第3个数字，则删除的前4个数字依次是2、0、4、1，因此最后剩下的数字是3。
 
- 
+ 
 
 示例 1：
 
 输入: n = 5, m = 3
-输出: 3
+输出: 3
 示例 2：
 
 输入: n = 10, m = 17
-输出: 2
- 
+输出: 2
+ 
 
 限制：
 
-1 <= n <= 10^5
+1 <= n <= 10^5
 1 <= m <= 10^6
 
 来源：力扣（LeetCode）
@@ -3878,27 +3909,27 @@ var lastRemaining = function(n, m) {
 };
 ```
 
-[剑指 Offer 61. 扑克牌中的顺子 - 力扣（LeetCode）](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)
+#### [剑指 Offer 61. 扑克牌中的顺子 - 力扣（LeetCode）](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)
 
 从扑克牌中随机抽5张牌，判断是不是一个顺子，即这5张牌是不是连续的。2～10为数字本身，A为1，J为11，Q为12，K为13，而大、小王为 0 ，可以看成任意数字。A 不能视为 14。
 
- 
+ 
 
-示例 1:
+示例 1:
 
 输入: [1,2,3,4,5]
 输出: True
- 
+ 
 
-示例 2:
+示例 2:
 
 输入: [0,0,1,2,5]
 输出: True
- 
+ 
 
 限制：
 
-数组长度为 5 
+数组长度为 5 
 
 数组的数取值为 [0, 13] .
 
@@ -3929,11 +3960,11 @@ var isStraight = function(nums) {
 };
 ```
 
-[剑指 Offer 33. 二叉搜索树的后序遍历序列 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)
+#### [剑指 Offer 33. 二叉搜索树的后序遍历序列 - 力扣（LeetCode）](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)
 
-输入一个整数数组，判断该数组是不是某二叉搜索树的后序遍历结果。如果是则返回 true，否则返回 false。假设输入的数组的任意两个数字都互不相同。
+输入一个整数数组，判断该数组是不是某二叉搜索树的后序遍历结果。如果是则返回 true，否则返回 false。假设输入的数组的任意两个数字都互不相同。
 
- 
+ 
 
 参考以下这颗二叉搜索树：
 
@@ -3950,7 +3981,7 @@ var isStraight = function(nums) {
 
 输入: [1,3,2,6,5]
 输出: true
- 
+ 
 
 提示：
 
