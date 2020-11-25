@@ -5,7 +5,6 @@ permalink: /about/
 
 ---
 
-<img src="https://alicdn.celier-china.com/robin-contact.png" width="100"/>
 
 ## 关于我
 
@@ -47,7 +46,6 @@ permalink: /about/
 
 ----
 
-<img src="https://alicdn.celier-china.com/robin-contact.png" width="100"/>
 
 ## 关于博客
 
