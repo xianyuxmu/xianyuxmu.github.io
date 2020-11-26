@@ -6,7 +6,8 @@ permalink: /tech/
 
 <ul class="listing">
 {% for post in site.posts %}
-  {% if not post.categories contains 'Tech' %}
+  {% if post.categories contains 'Tech' %}
+  {% else %}
     {% continue %}
   {% endif %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
