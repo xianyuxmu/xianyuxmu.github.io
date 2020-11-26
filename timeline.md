@@ -9,6 +9,7 @@ permalink: /timeline/
   {% if post.categories contains "Tech" %}
   {% next %}
   {% endif %}
+  {{post.categories}}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
   {% if year != y %}
