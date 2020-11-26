@@ -6,7 +6,7 @@ permalink: /timeline/
 
 <ul class="listing">
 {% for post in site.posts %}
-  {% if post.categories contains "tech" %}
+  {% if post.categories contains "Tech" %}
   {% next %}
   {% endif %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
