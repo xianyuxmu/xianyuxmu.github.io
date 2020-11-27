@@ -7,7 +7,7 @@ layout: page
 对，这是陈烨彬 Robin Chen 的个人主页！
 </h1>
 
-2016年，毕业于厦门大学，现居上海。本博客用于记录我的学习与思考。
+本博客用于记录和分享我见过的人、读过的书及个人的思考。
 
 <blockquote class="blockquote-center">
 <p style="font-size: 1.3em; font-weight: 600;">Be as you wish to seem.</p>
