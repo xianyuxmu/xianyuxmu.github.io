@@ -1,11 +1,15 @@
 ---
-title: TIMELINE
+title: 技术相关
 layout: page
-permalink: /timeline/
+permalink: /reading/
 ---
 
 <ul class="listing">
 {% for post in site.posts %}
+  {% if post.categories contains 'Reading' %}
+  {% else %}
+    {% continue %}
+  {% endif %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
   {% if year != y %}
