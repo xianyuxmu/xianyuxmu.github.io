@@ -233,6 +233,8 @@ header nav span a:hover {
 }
 
 .listing .listing-seperator {
+	margin: 25px 0 10px 0;
+    font-size: 18px;
 	list-style-type: none;
 	font-style: italic;
 }
@@ -291,6 +293,7 @@ article {
 	margin-right: 1em;
 	color: #9a3900;
     font-weight: 600;
+    line-height: 3;
 }
 
 img, p img {
