@@ -4,7 +4,6 @@ title: 《优秀的绵羊》— 反思美国的精英教育
 date: 2018-05-30 20:07:00 +0800
 categories:
 - Reading
-- Life
 tags:
 - 月读
 - 2018年05月

@@ -4,7 +4,6 @@ title: 《文案圣经》 克劳德·霍普金斯
 date: 2019-09-02 20:45:00 +0800
 categories:
 - Reading
-- Life
 tags:
 - 2019年09月
 

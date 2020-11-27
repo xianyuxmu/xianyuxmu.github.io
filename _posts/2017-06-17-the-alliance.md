@@ -4,7 +4,6 @@ title: 《联盟》
 date: 2017-06-17 15:58:00 +0800
 categories:
 - Reading
-- Life
 tags:
 - 工作
 

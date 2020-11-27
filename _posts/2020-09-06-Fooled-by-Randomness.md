@@ -4,7 +4,6 @@ title: 《随机漫步的傻瓜》 [美] 纳西姆·尼古拉斯·塔勒布
 date: 2020-09-06 17:18:00 +0800
 categories:
 - Reading
-- Life
 tags:
 - 2020年09月
 

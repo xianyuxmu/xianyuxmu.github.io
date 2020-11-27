@@ -4,7 +4,6 @@ title: 《刷新》萨提亚·纳德拉
 date: 2019-04-07 10:30:00 +0800
 categories:
 - Reading
-- Life
 tags:
 - 2019年04月
 
