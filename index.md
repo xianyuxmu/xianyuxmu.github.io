@@ -7,7 +7,7 @@ layout: page
 对，这是陈烨彬 Robin Chen 的个人主页！
 </h1>
 
-软件工程学士，毕业于厦门大学，目前在上海📍。立身技术，关注商业。
+2016年，毕业于厦门大学，现居上海。本博客用于记录我的学习与思考。
 
 <blockquote class="blockquote-center">
 <p style="font-size: 1.3em; font-weight: 600;">Be as you wish to seem.</p>
