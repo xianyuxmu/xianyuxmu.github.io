@@ -1,5 +1,5 @@
 ---
-title: 技术相关
+title: 读书笔记
 layout: page
 permalink: /reading/
 ---

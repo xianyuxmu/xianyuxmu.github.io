@@ -1,5 +1,5 @@
 ---
-title: 技术相关
+title: 商业与管理
 layout: page
 permalink: /business/
 ---

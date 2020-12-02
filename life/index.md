@@ -1,5 +1,5 @@
 ---
-title: 技术相关
+title: 生活与思考
 layout: page
 permalink: /life/
 ---
