@@ -13,3 +13,5 @@ layout: page
 <p style="font-size: 1.3em; font-weight: 600;">Be as you wish to seem.</p>
 <p style="font-style: italic;"><strong> —— Socrates</strong></p>
 </blockquote>
+
+<img src="https://alicdn.celier-china.com/robin-contact.png" width="100"/>
