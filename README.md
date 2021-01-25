@@ -10,8 +10,14 @@
 
 <!-- 
 
+## 项目使用说明
+
+### 本地运行
+
 * 安装依赖：bundle install
 * 本地运行：bundle exec jekyll serve
+* 地址：http://127.0.0.1:4000/
+* 如有疑问，请查看：https://jekyllrb.com/docs/
 
  -->
 
