@@ -6,7 +6,7 @@ permalink: /business/
 
 <ul class="listing">
 {% for post in site.posts %}
-  {% if post.categories contains ('Business' || 'Work')%}
+  {% if (post.categories contains 'Business' || post.categories contains 'Work') %}
   {% else %}
     {% continue %}
   {% endif %}
