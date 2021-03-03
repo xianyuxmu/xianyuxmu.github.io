@@ -6,7 +6,7 @@ permalink: /life/
 
 <ul class="listing">
 {% for post in site.posts %}
-  {% if post.categories contains 'Life' || post.categories contains 'Thinking' %}
+  {% if post.categories contains 'Life' or post.categories contains 'Thinking' %}
   {% else %}
     {% continue %}
   {% endif %}
