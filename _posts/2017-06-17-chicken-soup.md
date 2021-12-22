@@ -9,6 +9,11 @@ tags:
 
 ---
 
+<blockquote class="blockquote-center">
+<p>“如果一个以色列男人想要与某个女人约会，那么他当晚就会叫她出来；如果一个以色列企业家在生意上有个想法，那么他一周内就会付诸实施。”</p>
+  <p>——《创业的国度：以色列经济奇迹的启示》</p>
+</blockquote>
+
 ## General
 
 - My dad encouraged us to fail. Growing up, he would ask us what we failed at that week. If we didn't have something, he would disappointed. It changed my mindset st an early age that failure is not the outcome, failure is not trying. Don't be afraid to fail. - *Sara Blakely*
