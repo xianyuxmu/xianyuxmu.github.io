@@ -13,3 +13,5 @@ layout: page
 <p style="font-size: 1.3em; font-weight: 600;">Be as you wish to seem.</p>
 <p style="font-style: italic;"><strong> —— Socrates</strong></p>
 </blockquote>
+
+<p style="text-align: center;"><a title="timeline" class="" href="{{ site.url }}/timeline/">GO!查看所有文章</a></p>
