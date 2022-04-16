@@ -17,6 +17,10 @@ tags:
 - [Manny Khoshbin](https://www.entrepreneur.com/author/manny-khoshbin)，Real Estate Mogul, Serial Entrepreneur, and Author
   - NEVER TAKE A BACKSEAT ON YOUR DREAMS. 
   - 健身特别厉害“ https://www.instagram.com/p/CbsYs2DJslb/
+- [在矽谷，朝九晚五属于失败者- 纽约时报中文网](https://cn.nytimes.com/opinion/20170901/silicon-valley-work-life-balance-/zh-hant/dual/)
+  - 很多科技行业员工压力过大的湾区临床社工阿尼姆·阿韦(Anim Aweh)说。「一个女人告诉我：『对员工的期望不是聪明地工作，而是努力地工作。就是工作、工作、工作，直到再也动不了。』」
+  - 一本谴责工作狂的书《重来》(Rework)
+
 
 
 
@@ -27,6 +31,21 @@ tags:
 
 - [Psychology behind how Trader Joe's became a favorite grocery store](https://www.cnbc.com/2020/03/09/psychology-behind-how-trader-joes-became-a-favorite-grocery-store.html)
   - Trader Joe’s类似国内的「元初食品」，奥乐齐也是这个模式，整合供应链、自有品牌。
+- [ENTJ - MBA智库百科](https://wiki.mbalib.com/wiki/ENTJ#.E4.BC.98.E5.8A.BF)
+  - 之前忘记，跟人家说我是INTJ，哭笑不得。
+  - 「商业界通常都是比较受ENTJ型人欢迎的领域。他们喜欢担任那种有权威的，有控制力且能管理领导别人的职位。作为商业主管，他们能运用其长远思维来开发临时应变之措施，同时，他们能计划实现他们目标的最佳奋斗行动方向。ENTJ型的人运用一种直接管理方式，能做出强硬但公平的决定以及为雇员制定政策方针。他们喜欢自己周围的人独立，且注重结果，而又不需要太多的监督与干涉。ENTJ型的人通常能通过自己影响别人的能力以及他们能轻松自如地与人交往从而晋升到公司地顶尖阶层。」
+
+- [《追求卓越》 - MBA智库百科](https://wiki.mbalib.com/wiki/%E3%80%8A%E8%BF%BD%E6%B1%82%E5%8D%93%E8%B6%8A%E2%80%94%E2%80%94%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A%E6%88%90%E5%8A%9F%E7%9A%84%E7%A7%98%E8%AF%80%E3%80%8B)
+  - 崇尚行动，而不是沉思。
+
+- [元初食品：到家业务周复购率50%，自有品牌销售占比56% - 知乎](https://zhuanlan.zhihu.com/p/57629591)
+  - 元初食品和美国的Trader's Joe一样，采取取自有品牌和「可控的供应链」。
+  - 元初食品做自有品牌商品的关键抓手是“自控供应链”。**“我们不是自建，是自控。”**作为零售企业，没有办法在全产业上，（让所有）商品都是自己的。只能输出我们的标准。
+  - 元初门店面积主要以300-500平方米为主，单店SKU3000个左右，重点聚焦自己擅长、专注的“高品质食品、食材”领域。
+  - [关于元初 - 元初食品](http://www.sungivenfoods.com/content/view/1)
+
+- [亚马逊9大高需品类有哪些_Amazon亚马逊](https://gs.amazon.cn/news/news-brand-211108)
+- [蚕食抖快，「小红书们」踩上视频化油门-36氪](https://www.36kr.com/p/1576859066551040)
 
 
 
