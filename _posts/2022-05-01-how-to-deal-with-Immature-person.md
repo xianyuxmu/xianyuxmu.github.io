@@ -3,7 +3,7 @@ layout: post
 title: 如何对待不成熟的人
 date: 2022-05-01 13:50:00 +0800
 categories:
-- Reading
+- Thinking
 tags:
 - 2022年05月
 
