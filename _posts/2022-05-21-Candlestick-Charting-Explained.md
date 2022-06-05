@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《蜡烛图精解：股票和期货交易的永恒技术》【美】格里高里·莫里斯
-date: 2022-06-05 18:17:00 +0800
+date: 2022-05-21 18:17:00 +0800
 categories:
 - Reading
 tags:

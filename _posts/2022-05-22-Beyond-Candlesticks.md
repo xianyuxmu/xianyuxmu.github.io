@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《日本蜡烛图技术新解》【美】史蒂夫·尼森（Steve Nison）
-date: 2022-06-05 18:23:00 +0800
+date: 2022-05-22 18:23:00 +0800
 categories:
 - Reading
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《走进我的交易室》【美】亚历山大·埃尔德（Alexander Elder）
-date: 2022-06-05 18:32:00 +0800
+date: 2022-05-24 18:32:00 +0800
 categories:
 - Reading
 tags:
