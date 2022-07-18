@@ -12,6 +12,11 @@ tags:
 
 ---
 
+<blockquote class="blockquote-center">
+<p>“「因为没有人企图尝试，所以很多事看似不可能。」”</p>
+<p>——安德烈-纪德（作家)</p>
+</blockquote>
+
 ## Life
 
 - 颜色视觉效果简述：
@@ -24,6 +29,15 @@ tags:
   7. 自然中的颜色，在阳光下偏黄、在阴影下偏蓝。
 - “旅程无非两种，一种只是为了抵达终点，那么生命便只剩下生与死的两点。另一种则是把视线与心灵投入沿途的风景与遭遇，那么他的生命将会丰富无比。” ——米兰昆德拉
 - 可以作为银行抵押品的有两种——房产和黄金。
+- [曾仕强教授：我们到底要不要算命？又能不能改命？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Mp4y1W7bc/?spm_id_from=pageDriver&vd_source=7dd4ef0a19b1c3d069b23c6c1bff1d5f)
+  - 如果命是固定的，没必要算；如果命是不固定的，也没必要算。
+  - 人来到这是世界上，就是要改变命运。
+  - 一个人的命，取决于他自身是否愿意去改变。
+
+- "There are many things that seem impossible only so long as one does not attempt them." -
+  André Gide, Writer
+  - 「因为没有人企图尝试，所以很多事看似不可能。」一安德烈-纪德（作家)
+
 
 
 
