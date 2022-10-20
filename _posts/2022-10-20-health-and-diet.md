@@ -28,3 +28,16 @@ tags:
 - [偏头痛 - 症状与病因 - 妙佑医疗国际](https://www.mayoclinic.org/zh-hans/diseases-conditions/migraine-headache/symptoms-causes/syc-20360201)
 
 
+
+
+
+### 中风
+
+
+
+- [中風 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E4%B8%AD%E9%A2%A8)
+  - 中风通常发展迅速（数秒到数分钟），但亦可以是进程缓慢的一种症状。
+  - 高血压占中风风险的35-50%
+  - 心房颤动是臨床上最常見的心律不整，患者每年有5%的风险诱发中风
+  - 饮食，特别是地中海饮食，可以使面临中风风险的人口减少一半以上。
+
