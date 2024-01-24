@@ -11,6 +11,16 @@ tags:
 
 ![image](/uploads/thought/thought-why-writing.png)
 
+
+
+<blockquote class="blockquote-center">
+<p>
+留住你所达到的文明高度，就像攀登者就下自己的脚印。
+</p>
+</blockquote>
+
+
+
 今天 Q2 Review，我们谈到了写 wiki 这个话题，并做了点延伸讨论。总结为一个：*写作*。
 
 想过这个话题，一些观点感谢就整理与大家分享，...
