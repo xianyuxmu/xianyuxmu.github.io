@@ -128,3 +128,20 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
   - 频道数最多的“头部”MCN，用小几百个人的团队支撑上万个频道，意味着每个人要cover上百个频道。结果是，大多数内容主的邮件和电话都没有人及时回复，更没有额外的资源支持。内容主只感觉收入被砍了一刀，却没有得到对应的服务，对MCN的价值不认可也没有粘性，一旦做大就想单飞。
   - 更危险的是，随着旗下内容逐步长大，对MCN的议价能力也越来越强。
   - **大量内容的解约导致MCN现金流恶化，商业模式硬伤凸显导致融资困难，最终导致整个MCN行业走向衰败。**
+
+
+
+### 七七八八的东西
+
+- [Portraiture安装后在Lightroom/Lr中未显示-帮助中心（FAQ）-麦软](https://i.mairuan.com/support/faq/id/761)
+- 生成rsa版本的https——[Let’s Encrypt and back to RSA keys - Just 4 Fun](https://just-4.fun/blog/howto/letsencrypt-rsa-keys/)
+  - [GitHub - justjavac/certbot-dns-aliyun: 阿里云 DNS 的 certbot 插件，用来解决阿里云 DNS 不能自动为通配符证书续期的问题](https://github.com/justjavac/certbot-dns-aliyun)
+  - [GitHub - acmesh-official/acme.sh: A pure Unix shell script implementing ACME client protocol](https://github.com/acmesh-official/acme.sh)
+    - 生成rsa要使用``` keylength 4096```，详情：https://github.com/acmesh-official/acme.sh#10-issue-ecc-certificates
+    - acme.sh --issue -w /home/wwwroot/example.com -d example.com -d www.example.com --keylength ec-256
+- [相处时，女孩有这5个表现，就别再努力了，她对你没有半点意思](https://www.163.com/dy/article/GR018VJQ05288O2I.html)
+- [一个红娘说：有这样几个特征的“捞女”，大多“不正经”，要提防](https://k.sina.cn/article_6791454779_194cd603b00100vtjq.html)
+  - 做不到完全地抛弃尊严，虚荣，有底线，既要金钱又要爱情的“捞女”其实是不够格的。
+  - 做哪些“不正经”的捞女，渴慕着通过依靠女性的天然的价值，就钓到高富帅，我想，你是把高富帅想简单了。
+  - 做一个成功的捞女和做一个成功的女人其实都要一样地努力，而且还要付出尊严和爱情，所以，聪明的姑娘都会明白，既然如此，还不如务实一点，找到一个和自己差不多阶层的男人，一起努力奋斗，这才是真正属于自己的更靠谱的幸福。
+  - “捞女”，其实就是骑驴找马，想通过优中选优，来找到一个更有钱的男人来养她而已。
