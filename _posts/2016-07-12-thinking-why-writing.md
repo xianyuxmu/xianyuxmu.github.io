@@ -15,7 +15,7 @@ tags:
 
 <blockquote class="blockquote-center">
 <p>
-留住你所达到的文明高度，就像攀登者就下自己的脚印。
+留住你所达到的文明高度，就像攀登者自己的脚印。
 </p>
 </blockquote>
 
