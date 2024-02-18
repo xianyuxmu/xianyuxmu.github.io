@@ -60,6 +60,16 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
   - 红枣、枸杞、桑葚、黄芪、百合、干桂圆、玫瑰花、菊花、维生素B、维生素E、[黑芝麻](javascript:void(0);)丸、辅酶Q10……
   - “熬最深的夜，掉最多的发”已经成为了90后的生活常态。
 
+- [行业深度！2022年中国睡眠保健品行业发展现状解析及发展趋势预测_财富号_东方财富网](https://caifuhao.eastmoney.com/news/20230425154019727460460)
+  - 随着中国国民经济的提高，居民对健康睡眠的重视程度也逐渐提高，与睡眠相关的行业市场需求不断扩大。***预计2023年中国改善睡眠市场规模有望从2015年的2114亿元增长至4399亿元。***
+  - ![](https://empic.dfcfw.com/1169344059400257537/w591h366/art)
+
+- [艾媒报告 2019中国保健品行业发展困境及前景预判分析报告(附下载)-艾媒网](https://www.iimedia.cn/c400/64461.html)
+  - iiMedia Research(艾媒咨询)数据显示，营养补充类保健品最受中国网民欢迎，占比高达67.9%，其次为传统滋补类保健品，为37.7%。
+  - ![](http://img.iimedia.cn/100012a7bf700cbce3f78833411dabc4b3466de6b2d2dfde92413984ba9c7edc18118)
+  - 　iiMedia Research(艾媒咨询)数据显示，**功效是中国网民购买营养保健品的最大动因，其次为品牌影响力和价格，而促销、口碑和产品包装对消费者购买的动力影响较小。**
+  - 　iiMedia Research(艾媒咨询)数据显示，2019年中国网民对汤臣倍健的品牌认知度最高，为56.5%，其后分别为脑白金(45.6%)、黄金搭档(33.9%)、纽崔莱(30.7%)、东阿阿胶(20.1%)和安利(13.8%)，而无极限、碧生源、太太等营养保健品牌的品牌认知度则较低。
+
 
 
 
@@ -110,6 +120,28 @@ I love visions! Visions empower our imaginations, empower our momentum, enlarge 
 
 ----
 
-## 思考
+## 抖音研究
 
-- 
+- [MCN在中国能走通吗？先看看美国MCN产业现状-虎嗅网](https://www.huxiu.com/article/294407.html)
+  - **对于MCN而言，抽成薄、运营成本重，就成了商业模式的致命伤。**
+  - 在初期，MCN基本不盈利，全部都to VC讲故事，疯狂签约大量频道，做大总播放量，用数据换融资。
+  - 频道数最多的“头部”MCN，用小几百个人的团队支撑上万个频道，意味着每个人要cover上百个频道。结果是，大多数内容主的邮件和电话都没有人及时回复，更没有额外的资源支持。内容主只感觉收入被砍了一刀，却没有得到对应的服务，对MCN的价值不认可也没有粘性，一旦做大就想单飞。
+  - 更危险的是，随着旗下内容逐步长大，对MCN的议价能力也越来越强。
+  - **大量内容的解约导致MCN现金流恶化，商业模式硬伤凸显导致融资困难，最终导致整个MCN行业走向衰败。**
+
+
+
+### 七七八八的东西
+
+- [Portraiture安装后在Lightroom/Lr中未显示-帮助中心（FAQ）-麦软](https://i.mairuan.com/support/faq/id/761)
+- 生成rsa版本的https——[Let’s Encrypt and back to RSA keys - Just 4 Fun](https://just-4.fun/blog/howto/letsencrypt-rsa-keys/)
+  - [GitHub - justjavac/certbot-dns-aliyun: 阿里云 DNS 的 certbot 插件，用来解决阿里云 DNS 不能自动为通配符证书续期的问题](https://github.com/justjavac/certbot-dns-aliyun)
+  - [GitHub - acmesh-official/acme.sh: A pure Unix shell script implementing ACME client protocol](https://github.com/acmesh-official/acme.sh)
+    - 生成rsa要使用``` keylength 4096```，详情：https://github.com/acmesh-official/acme.sh#10-issue-ecc-certificates
+    - acme.sh --issue -w /home/wwwroot/example.com -d example.com -d www.example.com --keylength ec-256
+- [相处时，女孩有这5个表现，就别再努力了，她对你没有半点意思](https://www.163.com/dy/article/GR018VJQ05288O2I.html)
+- [一个红娘说：有这样几个特征的“捞女”，大多“不正经”，要提防](https://k.sina.cn/article_6791454779_194cd603b00100vtjq.html)
+  - 做不到完全地抛弃尊严，虚荣，有底线，既要金钱又要爱情的“捞女”其实是不够格的。
+  - 做哪些“不正经”的捞女，渴慕着通过依靠女性的天然的价值，就钓到高富帅，我想，你是把高富帅想简单了。
+  - 做一个成功的捞女和做一个成功的女人其实都要一样地努力，而且还要付出尊严和爱情，所以，聪明的姑娘都会明白，既然如此，还不如务实一点，找到一个和自己差不多阶层的男人，一起努力奋斗，这才是真正属于自己的更靠谱的幸福。
+  - “捞女”，其实就是骑驴找马，想通过优中选优，来找到一个更有钱的男人来养她而已。
