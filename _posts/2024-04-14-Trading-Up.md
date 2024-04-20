@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《Trading Up - Why consumers Want New Luxury Goods… and How Companies Create Them》 by  Michael J. Silverstein
+title: Trading Up - Why consumers Want New Luxury Goods… and How Companies Create Them by  Michael J. Silverstein
 date: 2024-04-14 17:33:00 +0800
 categories:
 - Reading
