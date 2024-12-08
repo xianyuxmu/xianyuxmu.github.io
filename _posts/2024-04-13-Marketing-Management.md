@@ -486,7 +486,7 @@ from [翁丰腾的想法 - 知乎](https://www.zhihu.com/pin/1171218782730629120
 - 管理层已经开始关注控制系统物流成本，因为物流成本往往占据产品总成本的30%至40%。在美国食品行业中，废弃或者损耗的生鲜货品达到8%至10%，每年要损失20,000,000,000美金。
 - P 517空格最优订货量的决定
 - 要执行接近年库存的策略，就要按照订单主持生产，而不是为了储存产品。索尼将这种模式称为somo， 就是卖一个做一个意思。
-- 在喝粥，保洁使用一种三级物流体系，从而保证最有效的方式运输快运或者慢运、大洲或小周等各层产品。
+- 在欧洲，保洁使用一种三级物流体系，从而保证最有效的方式运输快运或者慢运、大洲或小周等各层产品。
 - Zara开电子开在全世界各地交通密集的繁华地段，这些商店橱窗里展示的风格多变，以此作为主要的宣传手段。其他零售商 通常需要花费3%至4%的营业总收入进行品牌打造，zara只需要花0.3%。
 
 
@@ -633,7 +633,7 @@ from [翁丰腾的想法 - 知乎](https://www.zhihu.com/pin/1171218782730629120
 - [Loblaw Companies Ltd.](https://www.loblaw.ca/en/who-we-are/)——加拿大零售商&药店连锁
 - [Kohl's Shop Clothing, Shoes, Home, Kitchen, Bedding, Toys & More](https://www.kohls.com/)
 - [美髮界的星巴克！只做「吹頭髮」，吹出一億美元的商機！ 創新拿鐵](https://startuplatte.com/2017/03/27/drybar-the-business-of-hair-salon/)
-- [Benetton - Official Website | Shop Online](https://us.benetton.com/)
+- [Benetton - Official Website  Shop Online](https://us.benetton.com/)
 - [George At Asda (@georgeatasda) • Instagram photos and videos](https://www.instagram.com/georgeatasda)
   - 沃尔玛在英国的衣服品牌，对表Zara
 - [**DiGiorno** - 维基百科](https://en.wikipedia.org/wiki/DiGiorno)

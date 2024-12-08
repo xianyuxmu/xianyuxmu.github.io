@@ -1262,279 +1262,279 @@ Trading-up spending accounted for about 21 percent of the $3.5 trillion American
 
 2006年，美国人在3.5万亿美元的消费中，以旧换新支出约占21%，约为7300亿美元，高于前一年的6700亿美元，这些消费主要类别包括住宅和家居装修、交通、食品和饮料、旅游和娱乐、个人用品、外出就餐、家居用品、服装和其他时尚用品
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 Segal built his business on five principles:西格尔的业务建立在五个原则之上：
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 From 1985 to 2000, the ratio of average lot size to average house size fell from 10-to-1 to 5.8-to-1. It’s a reversal of the traditional idea of a modest home surrounded by lots of lawn and open space; today’s houses crowd the lot but open up space on the inside.
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 从1985年到2000年，平均地块面积与平均房屋面积的比率从10比1下降到5.8比1。这是对传统观念的颠覆，即一个被大量草坪和开放空间包围的朴素住宅;如今的房屋挤满了地块，但内部却开辟了空间。
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 苏珊娜是一位全职妈妈，有两个孩子（两岁和四岁），家庭收入约为 75,000 美元
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 利率下降和低利率使住房价格更实惠，将新买家带入市场并吸引现有业主进行交易
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 股票价值的上升产生了财富效应，使消费者能够增加支出和投资。如今，普通房主的房屋未实现收益为 50,000 美元;收入超过 75,000 美元的家庭有超过 100,000 美元的此类收益。对于普通的乔来说，这就像一个杠杆收购机会。那些在1995年为房屋投入10%首付的人，到2001年获得了超过200%的股本回报率;那些更保守并放下更传统的20%的人获得了超过100%的股本回报率。通过房屋净值贷款获得的资产中，近70%已再投资于房屋
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 在2001年的低迷市场中，新房销售和住房价值保持在接近创纪录的水平。修正可能尚未到来;市场可能过热和过度扩张。低端市场（大多数首次购房者）极易受到经济变化的影响。然而，任何即将到来的周期性调整都不应与长期趋势相混淆。在可预见的未来，房地产市场的基本面将保持强劲，因为它们既是经济的，也是情感的。在房子上花钱有双重好处，今天给人情感上的愉悦，明天就能获得回报
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 美国人与家乡的情感联系是强大、深刻和复杂的，触及了所有的情感空间。家是一个人个人品牌的重要声明——她的风格、品味、精致度、优先事项和价值观。房主倾向于将房子拟人化，谈论它的心脏、灵魂、智慧、风格、优雅和美丽，就好像它是她自己的延伸一样
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 在我们对消费者消费行为的研究中，家庭拥有最强大的高情感强度和广泛的消费者基础。超过55%的受访者表示，他们强烈倾向于在与家庭相关的支出上进行交易。9月11日的事件促成了多年来一直形成的趋势。越来越多的人转向内心寻求情感上的满足，寻求城堡内的舒适、温暖、联系和安全感
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 在过去的五年中，厨房改造一直是家庭装修的首位，2000年超过65%的项目涉及厨房装修
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 对于许多人来说，厨房也已成为与朋友娱乐和社交互动的纽带
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 我的时间、我的空间、我的个人避难所——一个逃避、更新、幸福和幸福的避难所。它从根本上诉诸于减轻压力和独处片刻的强烈需求，尤其是对于职业女性而言
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 家庭影院组件和系统的工厂销售额从1996年的82亿美元增长到2001年的125亿美元，年增长率为11%。据估计，2001年家庭影院的家庭普及率为25%，超过67%的美国家庭都拥有个人电脑。
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 一种新的娱乐技术的价格通常会在上市的头一两年内下降30%到70%。1997 年，DVD 播放器的平均价格约为 400 美元;今天，您可以以低于 100 美元的价格购买一个
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 美国新家的以旧换新现象创造了三组赢家。像家得宝（Home Depot）和劳氏（Lowe's）这样的“推动者”帮助创建和维持了家居装修活动
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 家得宝在 1990 年代的增长简直令人叹为观止。在本世纪初，这家零售商的销售额为 38 亿美元。到 2000 年，销售额超过 500 亿美元，市值超过 1200 亿美元。价格低廉，商品种类繁多，是家居装修者既可以节省又可以挥霍的地方
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 另一个重要的销售和商店运营举措是我们的“Up the Continuum”战略。今天，我们的房主客户比以往任何时候都更多地花在他们最有价值的资产上。他们的家。在大多数情况下，他们认为自己的支出是投资，既能提供当前的享受，又能提供财务回报
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 在2001年至2002年的低迷市场中，可比商店的销售额（零售实力的关键晴雨表）健康地增长了6%，而总销售额增长了20%，收益增长了43%。与家得宝相比，Lowe's的每平方英尺销售额相似，但每平方英尺的毛利率更高（更好地衡量零售商的生产力）和更高的营业利润率
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 建造或翻新房屋只是交易的起点;一个家还需要温暖、个性、优雅、个性和时尚感。它必须反映其所有者的价值观、生活方式和审美品味
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 戈登·西格尔（Gordon Segal）是定义新豪华住宅的先驱。他于 1962 年开设了第一家 Crate and Barrel 商店，到 1990 年，他的公司已发展到 1.35 亿美元。2002年，销售额超过8.5亿美元，在1990年代的大部分时间里，年增长率一直保持在18%或更高。该公司专注于以可达到的价格和巨大的价值提供高品质的欧式家居用品和家居用品，这是大众细分市场的甜蜜
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 适用于许多不同的场合。这些商店在视觉上很吸引人，而且很吸引人。该公司的使命清晰明了：“激发人们以新的方式思考他们的家
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 他不仅体验了不同的生活方式，还看到了一个不同的产品世界：由当地工匠和工匠制作的精美玻璃器皿和高脚杯、桌面和其他家居用品，并以合理的价格出售。他对妻子卡罗尔说：“这就是我想要的生活。Segal 的愿景是将他在欧洲体验到的质量、风格和品味带到美国中间市场
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 他称之为“风格和品味的民主化”。他认为 Crate and Barrel 的风格与 Old Luxury 截然不同，他认为 Old Luxury “几乎是浪费。我们销售的是生活方式，一种生活方式。这就像一瓶好酒。不是三百美元一瓶的那种。更像是二三十美元的那种。美妙的味道和质量，但很多人都买得起
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 Principle 1: Break the wholesaler-importer-retailer value chain. Segal saw the opportunity to work directly with artisans and smaller factories, eliminating the markups of the importers and wholesalers that were standard at the time.
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 原则1：打破批发商-进口商-零售商的价值链。西格尔看到了直接与工匠和小型工厂合作的机会，消除了当时标准的进口商和批发商的加价
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 这使得 Segal 能够以比百货公司低 50% 的价格销售商品，并以低廉的价格提供最优质的商品
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 Principle 2: Maximize the advantage in global sourcing and design. From the beginning, global sourcing was a core competitive advantage for Crate and Barrel.
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 原则 2：最大限度地发挥全球采购和设计的优势。从一开始，全球采购就是 Crate and Barrel 的核心竞争优势
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 国际旅行的费用只是过去的一小部分。传真和互联网使开展国际业务变得更加容易。现在，我们的商家和设计团队每隔几个月就会去欧洲，并与我们的合作伙伴保持联系。我们想参观更多独特的地点，并找到更多有趣的物品。欧洲仍然是中心，但我们现在遍布全球。我们与美国和欧洲的设计师团队密切合作，以确保产品符合我们的高设计和质量标准。一旦我们得到我们真正喜欢的东西，我们就会大量购买。我们敢于承担风险
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 Principle 3: Maintain an unrelenting, maniacal focus on quality and style. Gordon Segal is a perfectionist with purpose
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 原则 3：保持对质量和风格的不懈、疯狂的关注。戈登·西格尔（Gordon Segal）是一个有目标的完美主义者。从一开始，他就通过提供卓越的品质和独特的设计来建立自己的品牌，并具有“巨大的价值”
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 你必须与供应商密切合作。你必须了解产品，它的制造方式，玻璃的吹制方式，质量水平。它必须真正更好。我们对制造商的要求非常高，但我们也是很好的合作伙伴
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 Principle 4: Create a magical, captivating retail experience
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 原则 4：创造神奇、迷人的零售体验。在主要零售商中，Crate and Barrel 是提供差异化、令人兴奋、情感上引人入胜的商店体验的最佳零售商之一
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 玻璃器皿和桌面物品在展示前会仔细擦拭，然后在为客户打包之前在收银台再次擦拭。店员不断除尘并刷新陈列品。商店经理接受了广泛的培训
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 Principle 5: Build loyalty, build the brand. Some would argue that the pace of Crate and Barrel’s store expansion leaves much of its market potential untapped
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 原则5：建立忠诚度，建立品牌。一些人会争辩说，Crate and Barrel 的门店扩张速度使其大部分市场潜力尚未开发。几个大型市场仍然没有板条箱和桶商店，一些竞争对手的扩张速度要快得多。但对 Gordon Segal 来说，增长过快可能会破坏维持 Crate and Barrel 标准所需的品牌一致性和控制水平
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 西格尔清楚地看到了交易模式。“人们旅行得更多，看世界更多，以许多不同的方式接触文化和品味。中产阶级和中上层阶级对质量的意识、品味的成熟和日益成熟。他们读得更多，扩大了他们的曝光面。无论是加州葡萄酒、更好的餐厅、去伦敦还是巴黎旅行——口味都变得越来越精致
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 你尤其在年轻人身上看到它。年轻的厨师周游世界。他们与最好的人一起训练。他们把品味和精致带回家。我记得 1970 年代的波士顿。我曾经感叹，如果你想体验一家真正的世界级餐厅，你必须坐上去纽约的班车。现在，波士顿有六八家真正世界领先的餐厅
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 西格尔认为，最大的赢家是美国消费者：“消费者的生活要好得多。精致和品味是中产阶级所能企及的
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 威廉姆斯在整个 1960 年代只经营一家商店，不断完善和改进他的业务。1972 年，他推出了 Williams-Sonoma 目录并成立了自己的公司。此后不久，他在比佛利山庄的罗迪欧大道开设了第二家商店，一年后又在帕洛阿尔托和科斯塔梅萨开设了商店。然后，在 1978 年，一位名叫霍华德·莱斯特 （Howard Lester） 的企业家参观了比佛利山庄的威廉姆斯-索诺玛商店，并看到了将业务发展到更大规模的机会。他说服查克·威廉姆斯（Chuck Williams）将公司卖给他，并继续担任“有远见的商人”和风格领袖。事实证明，两人是一支强大的球队
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 Sub-Zero以商业为导向，为该类别带来了许多技术创新，包括双压缩机（冰箱和冰柜各一台）、精确的温度控制、更紧密的真空密封、最高的能源效率和悬臂式防滴漏架
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 Sub-Zeros看起来像是橱柜家具甚至墙壁本身的一部分。在 3,500 美元及以上，他们有力地展示了品味和精致。最终（尽管速度非常缓慢），大众市场制造商抓住了并开始为新兴的高端和超高端细分市场开发更好的产品
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 他们都说，'我们不能这样做。'“ 1986 年，他找到了一家将建造 20 台的合同制造商。到 1989 年，他已经建立了自己的工厂，并正在创造一个新的家电市场。从 1990 年到 2000 年，该公司从几乎一无所有增长到超过 2 亿美元的公司销售额，或大约 4 亿美元的零售额
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 Sub-Zero和Viking帮助创造并推动了家居用品的“厨房即剧院”趋势，但传统制造商对它的理解和看到自己家居用品类别的潜力的速度很慢——最后，除了惠而浦。2001 年，Duet 洗衣机和烘干机非常成功，洗衣机和 799 美元，是其他惠而浦洗衣机和烘干机平均价格的四倍多。消费者很快发现 Duet 洗衣机和烘干机是市场上最好的。零售商很快售罄了Duets，从那以后，惠而浦一直在努力满足需求
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 在 1990 年代后期，惠而浦创建了一个全球技术组织，旨在识别、利用和商业化跨市场的技术
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 惠而浦在欧洲的一个团队中投入了相对较少的工程资本，其任务是制造专为美国市场设计的优质前置式 HA 机器——主要是为了对冲其赌注，以防 Calypso 不成功。惠而浦在2001年推出了这个名为Duet的新平台，它席卷了市场，迅速超过了Calypso和Neptune。尽管所有的预测和研究表明 HA 机器的份额永远不会超过 6%，但 Duet 在 2002 年帮助将 HA 份额提高到 10%。“它比最初预测的要大得多，”福斯特说，“而且还在继续增长。
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 在情感上，尽管很难相信，但 Duet 所有者对他们的机器有情感上的投入。我们与许多 Duet 用户进行了交谈，发现这种情感联系比我们在任何其他类别中看到的都要强
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 当人们要求参观我们的家时，因为它是全新的，我告诉他们你必须看到我的骄傲和喜悦。他们问我，“你喜欢他们吗？我说，“我爱他们
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 其结果是，我们在新奢侈品产品取得成功的每个产品类别中都看到了市场两极分化——市场极端的增长和中间市场的下降。从 1997 年到 2001 年，市场两极分化，因为洗衣机的中等价位部分（400 美元到 600 美元）从售出的单位的 49% 增加到 35%，而超过 600 美元的高端部分从 10% 增长到 19%，400 美元以下的经济型部分从 41% 增长到 45%。
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 The Winning Practices of New Luxury Home Players
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 1. Never underestimate the customer. Targeting the “average customer” and testing against the “general population” are common pitfalls of traditional market research.
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 1.永远不要低估客户。针对“普通客户”和针对“普通人群”进行测试是传统市场研究的常见陷阱
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 研究人员用这种不明智的技术扼杀了许多新想法，因为没有一种新奢侈品产品是针对“普通”消费者或“一般”任何东西的——它们是为具有强烈需求和兴趣的明确核心消费者群体准备的
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 即即使是预算紧张的消费者也会在力所能及的范围内换购质量更好、美学更吸引人的产品
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 2. Shatter the price-volume demand curve
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 2.打破价格-数量需求曲线。惠而浦二重奏（Whirlpool Duet）驳斥了传统观点，即高价家用耐用品的数量有限
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 3. Create a ladder of genuine benefits. In comparison to conventional washers, Duet has genuine technical differences that translate into functional benefits that lead to unprecedented emotional engagement for consumers
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 3. 创造一个真正利益的阶梯。与传统洗衣机相比，Duet具有真正的技术差异，可转化为功能优势，为消费者带来前所未有的情感投入
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 4. Escalate innovation, elevate quality, deliver a flawless experience. Crate and Barrel and Williams-Sonoma are masters at delivering an emotionally engaging brand experience
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 4. 升级创新，提升质量，提供完美体验。Crate and Barrel 和 Williams-Sonoma 是提供情感上引人入胜的品牌体验的大师。他们通过在世界各地寻找新的和有趣的产品来提供独特的高品质产品
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 5. Extend the price range and positioning of the brand.
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 5、拓展品牌的价格范围和定位。在过去的三十年里，Williams-Sonoma已经将其定位从一个专注于高端厨具的品牌扩展到烹饪爱好者（Williams-Sonoma），成为一个具有大众市场吸引力的包罗万象的生活方式品牌（Pottery Barn，Pottery Barn Kids，Pottery Barn Bed & Bath
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 6. Customize your value chain to deliver on the benefit ladder. Crate and Barrel’s Gordon Segal had a vision to bring high-quality European style housewares to American consumers at a reasonable price. To do so, he recognized the need to bypass the established wholesaler-importer-retailer value chain. Working directly with smaller suppliers abroad enabled him to realize all aspects of his vision. He was able to identify distinctive products at the quality level he demanded rather than select from the same limited offering of existing wholesalers
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 6. 定制您的价值链以实现福利阶梯。Crate and Barrel 的 Gordon Segal 的愿景是以合理的价格为美国消费者带来高品质的欧式家居用品。为此，他认识到需要绕过已建立的批发商-进口商-零售商价值链。直接与国外较小的供应商合作使他能够实现其愿景的各个方面。他能够根据自己的质量水平识别出独特的产品，而不是从现有批发商的有限产品中进行选择
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 7. Use influence marketing—seed your success through brand apostles
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 7. 使用影响力营销——通过品牌使徒播下你的成功种子。策略和机缘巧合的结合使查克·威廉姆斯（Chuck Williams）能够利用朱莉娅·柴尔德（Julia Child）和其他著名美食家在1960年代初期的受欢迎程度，为他的新店的成功埋下种子
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 8. Continually attack the category like an outsider. Lowe’s has carved out its success in the shadow of fellow big-box discounter Home Depot
 
-Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者, ### April 13, 2024
+### Four - Inside the New American Home: Retailers, Appliance Innovators 四 - 走进新美国家居：零售商、家电创新者,  April 13, 2024
 
 8. 像局外人一样不断攻击类别。Lowe's在同为大型折扣店的家得宝（Home Depot）的阴影下取得了成功
 
