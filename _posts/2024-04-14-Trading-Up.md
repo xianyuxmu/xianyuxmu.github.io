@@ -2421,99 +2421,99 @@ Belvedere——我们今天所知道的品牌——是由 Millennium Import LLC 
 新奢侈品瓶装的旧世界：Belvedere、波士顿啤酒
 吉姆·科赫（Jim Koch）是新奢侈品的典型竞争对手。他以局外人的身份进入这个行业，担任行业顾问;他无视所有的比赛规则。他去上课，而不是弥撒。他恪守业内未见的质量和细节标准。他无所畏惧地与世界上最强悍的竞争对手之一安海斯-布希（Anheuser-Busch）对抗，并在其雷达屏幕之外运作，直到他的品牌和产品追随者足够强大，足够大，足以承受猛烈的攻击。他的产品定价比细分市场的领导者高出50%，在公司成立的头十年没有做广告，并且有选择地选择他的分销点，只向那些能给他带来高知名度和晋升的客户销售
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 伊利·卡拉威 （Ely Callaway） 是一个有四份职业的人;最后两个涉及两家标志性的新奢侈品公司的创立和领导：卡拉威葡萄园和酒庄和卡拉威高尔夫。他是新奢侈品企业家的典范——一个不屈不挠的创新者，一个不惧怕攻击停滞不前的市场的局外人，一个与消费者情感需求密切相关的企业家
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 卡拉威出生于1919年，就读于埃默里大学（Emory University），接受文科教育，同时也避开了家族企业，一家名为卡拉威工厂（Callaway Mills）的纺织企业。1941年毕业后，他加入了陆军军需官团。当陆军得知他的家庭背景时，他被分配到所有纺织品和服装的集中采购设施。日本偷袭珍珠港后，他的工作呈现出惊人的规模。“突然之间，我们购买了数亿件服装和所有面料，”他告诉埃默里杂志。战争结束时，卡拉威当时是陆军军需官团有史以来最年轻的少校，“有两万五千人在那里工作，管理美国各地的合同。仅在我的管辖范围内，我每年的支出大约是7亿美元，每份合同上都有我的名字。所以你学得很快
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 出院后，卡拉威收到了几份工作机会，其中许多来自他采购棉花和羊毛的公司。他加入了 Deering Milliken 公司，开始了近 30 年的纺织行业职业生涯
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 他在五十四岁时退休，回到了他几年前买下的加利福尼亚州特曼库拉的葡萄园。他将注意力转向卡拉威葡萄园和酒庄（职业生涯第三），并开始生产质量远远超过竞争对手、评论家和消费者期望的葡萄酒。1981 年，他以 1400 万美元的价格将自己的公司卖给了烈酒巨头 Hiram Walker，实现了近 900 万美元的利润。第二年，卡拉威开始打高尔夫球，他尝试了一种他不熟悉的球杆——一种基于传统设计的推杆，其特点是用山核桃木包裹的钢制杆身。在两周内，他买下了制造它的公司的一半股份，即美国山核桃棒公司;在接下来的二十年里，他将其打造成世界上最大、最成功的高尔夫设备供应商
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 Callaway Golf 从 1982 年收入为 364,000 美元的世界上最小的高尔夫公司之一发展成为全球高尔夫设备领域的头号球员，在短短十年内，市场份额高达 40%。最引人注目的是，该公司在短短三年内取得了巨大的飞跃
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 卡拉威的营销主管告诉我们。“我们每年都致力于为市场带来真正的创新
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 高尔夫主要是男人的运动——75%的高尔夫球手是男性——而且从历史上看，这是富人和名人的运动。二十世纪的每一位总统，除了富兰克林·德拉诺·罗斯福，都打过高尔夫球
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 在世界各地，高尔夫球手每年花费50亿美元用于追求自己的激情，与立陶宛的国民生产总值一样多
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 起初，卡拉威专注于推广现有的山核桃轴推杆和楔子系列，只不过是将他新收购的公司更名为卡拉威山核桃棒美国公司
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 对于大多数高尔夫球手来说，球杆太重且无情。
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 卡拉威还需要钱来资助他的创新。1982 年，他自掏腰包投资 400,000 美元购买了 Hickory Stick，并说服了两家小型投资公司承诺投入约 500,000 美元用于设备和营运资金。1988年，他说服通用电气养老基金投资1000万美元。他和 Helmstetter 用这笔钱开发了一种新的铁杆和金属木系列，称为 S2H2，用于短、直、空心 Hosel。（杆颈是杆身安装的球杆头上的插座或颈部。S2H2表现良好，在接下来的两年里，该公司的销售额翻了一番
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 仅头部的制造成本就约为 20 美元，是 S2H2 头部的两倍多
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 Callaway Big Bertha 一号木杆于 1991 年推出，并立即取得了成功。在首次亮相的那一年，卡拉威售出了约150,000辆Big Berthas，公司销售额翻了一番多，从1990年的2200万美元攀升至5470万美元。事实上，需求如此之大，以至于卡拉威被迫分配其有限的产量，很快，高尔夫球手们就向任何能让他们买到奇迹球杆的经销商支付了溢价——高于标价中已经很大的溢价
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 然而，这位职业高尔夫球手对新车手的反应较慢。然而，在1992年，卡拉威签下了约翰尼·米勒作为发言人。当时，米勒是一名半退役的老将，他在 1973 年的一次大型高尔夫锦标赛中打出了最低的最后一轮成绩，即 63 杆。他已经多年没有赢得过冠军了。到 1992 年高尔夫赛季结束时，Big Bertha 发球杆是高级 PGA、LPGA 和 Nike（当时的 Hogan）巡回赛球员使用的头号球杆。年终销售额再次翻了一番多，达到 1.32 亿美元
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 当一套类似的球杆可以以不到 300 美元的价格购买时，是什么促使休闲高尔夫球手支付 4,000 美元购买卡拉威“装备”，因为一整套球杆被称为全套球杆
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 在芝加哥的一个公共高尔夫球场，我们见到了杰克，并与杰克交谈，他是高尔夫爱好者，也是我们在书前面描述过的卡拉威使徒。他不符合典型高尔夫球手的形象——富有的行政达夫。他是一名 34 岁的建筑工人，每小时收入 18 美元，下班时以现金支付——每年不到 50,000 美元。在为期八个月的高尔夫赛季中，杰克上早班，从早上 6 点开始，这样他就可以在下午 2 点之前到达高尔夫球场。他周一到周五打18洞，周六和周日打36洞（两轮）。他是一名三指数高尔夫球手，这意味着他预计只会打出高于标准杆的三个洞。杰克是单身，独自住在他租的一居室公寓里，每月租金为600美元
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 他和很多女人约会过，但从来没有找到一个能容忍他对高尔夫“上瘾”的人
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 在 Costco，您可以以 199 美元的价格购买一整套球杆和一个以杰克“金熊”尼克劳斯名义的包。但是，如果你和他们一起出现在高尔夫球场上，其他高尔夫球手会看起来很冷漠，你的朋友会从第一个发球台开始嘲笑你
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 这就是为什么高尔夫设备的销售额在过去十年中以9%的实际速度增长，而高尔夫球手总数保持不变
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 1.永远不要低估客户。“你不能愚弄公众，”卡拉威说。“如果他们要购买你的产品，它必须更好，它必须是正确的。它必须真正比现有产品更令人满意。卡拉威对消费者表现出了不懈的兴趣，痴迷于为他们创造更好的游戏
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 2.打破价格-数量需求曲线。1991 年推出 Big Bertha 发球杆时，它的价格比当时市场上的所有其他发球杆都高出很多
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 卡拉威发现，就像他的新奢侈品同行一样，高价产品的数量可能比传统智慧所暗示的要多得多
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 4. 升级创新，提升质量，提供完美体验。从一开始，卡拉威就明白投资技术的重要性。卡拉威知道他的客户——其中许多人认为自己是“俱乐部瘾君子”——想要源源不断的新产品，而他提供了这些产品
 
-Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April ### 13, 2024
+### Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优越和令人愉悦的不同：卡拉威, April  13, 2024
 
 7.运用影响力营销;通过品牌使徒播下您的成功种子。伊利·卡拉威（Ely Callaway）在高度可见的情况下将他的产品送到有影响力的消费者手中方面特别有效。1976年，在他的葡萄酒生涯中，他的1974年卡拉威白雷司令被选为7月9日在纽约华尔道夫-阿斯托里亚酒店举行的两百周年午餐会上供应的唯一葡萄酒，主宾是英国女王伊丽莎白二世。卡拉威参加了这次活动，并在事后被告知，女王非常喜欢这种酒，她实际上要求再喝一杯。“有十个媒体人站在旁边听，”卡拉威告诉埃默里，“所以我们第二天就把美国的每一份报纸都做了。葡萄酒行业充斥着谣言，称卡拉威为他的葡萄酒选择了午餐会，但他否认了这一点。“我对任何人都没有影响，”他说。“这款葡萄酒之所以受到关注并被选中，是因为它是一种与世界上任何其他葡萄酒完全[…]
 
@@ -2657,83 +2657,83 @@ Nine - Demonstrably Superior and Pleasingly Different: Callaway 九 - 明显优�
 只有最适合家庭成员：美国女孩、宠物食品
 Petco 90% 的食品销售是优质产品和品牌。失去的渠道是超市，它们继续以中间市场的价格主要销售传统产品
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 在二战后的三十年里，凯迪拉克是美国汽车市场上旧奢华的缩影——时尚、镀铬和优雅。最重要的是，它由最迷人的名人——詹姆斯·卡格尼、加里·库珀、琼·克劳福德、宾·克罗斯比、加里·格兰特、埃尔维斯·普雷斯利和杰基·肯尼迪——推动，在情感上很强大
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 从 1970 年代中期开始，随着从日本和欧洲进口的增加
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 通用汽车发现自己受到丰田和本田的围攻，它们的汽车以更低的价格提供更高的质量，该公司开始失去雪佛兰、庞蒂亚克、别克和奥兹莫比尔部门的市场份额
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 二战前，凯迪拉克只是在美国高端汽车市场竞争的几个品牌之一，但战后，美国人正在寻找一种新的生活方式，庆祝美国的胜利，并将战争的匮乏和丑陋抛在脑后——这就是凯迪拉克成为美国领先的豪华车的时候
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 凯迪拉克有很多机会，也有很多新的财富，凯迪拉克将其品牌与当时重要的情感主题保持一致：地位和成就。它被称为“看到一个人处于最佳状态”的汽车。它的设计是“纯粹的生活乐趣”。对于凯迪拉克来说，“声望是实用的”。凯迪拉克是“品味、品质、至高无上、丰富生活、成功的象征”的汽车。通过购买凯迪拉克，你向你的朋友和全世界证明你已经成功了。
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 从 1948 年到 1977 年，凯迪拉克是世界上最畅销的豪华车，也是拥有和被看到的汽车
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 在1980年代初期，当梅赛德斯-奔驰和宝马成为美国高档汽车市场的重要参与者时，凯迪拉克可能已经能够应对他们的挑战
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 梅赛德斯-奔驰挑战凯迪拉克作为另一种旧豪华车——更安全、更保守的风格、更高的制造质量和工程进步，但仍然旨在传达地位和成功。但正是宝马和雷克萨斯为消费者提供了思考高档汽车应该是什么样子的新方式
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 宝马发动机立即被证明更可靠、更强大、反应更灵敏——飞行员发现它们可以飞得更高，俯冲得更快。宝马发动机被称为航空业最可靠的发动机，这一传统在宝马的战略和文化中仍然很明显
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 宝马的成功不是作为旧豪华车的更新版本，而是作为一个典型的新豪华品牌。宝马董事会成员迈克尔·加纳尔（Michael Ganal）博士告诉我们：“宝马生产的是高档汽车，而不是豪华汽车。它们是由热爱汽车的人设计的。其他汽车公司则专注于“可见”功能。我们制造最好的车辆。我们是司机的拥护者。我们发明了防抱死制动器和牵引力控制
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 2001年，宝马推出了MINI Cooper，进一步扩大了其业务范围。MINI是一款小型经典的英国汽车，通过设计更新和功能重新焕发活力，包括（在MINI Cooper S上）六速163马力发动机，六扬声器CD立体声，空调和六个安全气囊 - 售价为19,425美元，比基本3系低约29%。它由宝马的一个独立部门管理，拥有自己的分销系统和营销业务。MINI经理经常说：“请不要叫我们BMW MINI。我们只是MINI
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 尽管宝马主要关注其汽车的技术和功能优势，但公司经理认为情感投入同样重要，他们对核心消费者有透彻的了解。“大多数汽车公司都低估了这种心理，”Ganal博士说
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 宝马在美国市场的影响力稳步上升——尽管多年来价格大幅上涨，但自 1995 年以来，宝马每年增长 15%——通过提供令人兴奋的驾驶汽车，提供车主所说的“运动与豪华的融合”，并忠于品牌精神
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 丰田旗下的高端汽车品牌雷克萨斯对凯迪拉克和其他美国豪华品牌提出了不同的挑战。雷克萨斯以梅赛德斯-奔驰为蓝本，仿制了这家德国汽车制造商的旗舰轿车，将日本的制造质量和可靠性与对欧洲风格的诠释相结合
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 丰田最初是一家织造机械制造商。丰田自动织机制造株式会社成立于1926年，1932年开始生产汽车
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 丰田的工厂在第二次世界大战期间被改建为军事生产工厂，但该公司于 1947 年重返汽车制造。随着日本经济的崩溃，丰田花了数年时间才加快生产。1955 年，丰田每月只能生产 700 辆汽车。但在 1960 年代，它大幅增加了产量以及对美国的出口。1960 年，丰田向美国运送了 6,500 辆汽车。1967年，出口量增长到150,000台。到 1969 年，丰田已成为世界第五大汽车生产商，仅次于通用汽车、福特、大众和克莱斯勒
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 丰田品牌的精神过去是，现在也是，质量
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 雷克萨斯LS400（豪华轿车）于1989年初推出。它的价格为35,000美元，比宝马和梅赛德斯 - 奔驰的竞争车型低40%，但价格与凯迪拉克相同
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 雷克萨斯是美国汽车工业的局外人，打破了规则。它给凯迪拉克带来了近乎致命的打击，也为德国制造商提供了激烈的竞争。为了对抗雷克萨斯，梅赛德斯-奔驰和宝马不仅改进了他们的产品线，还重新配置了他们的定价和细分市场战略
 
-Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April ### 13, 2024
+### Eleven - A Cautionary Tale of an Old Luxury Brand: Cadillac 十一 - 一个老牌豪华品牌的警示故事：凯迪拉克, April  13, 2024
 
 在过去十年中，高档汽车类别一直是主要制造商最稳定的利润避难所。宝马已成为世界上最赚钱的大型汽车公司。丰田的雷克萨斯部门估计占公司利润的35%。梅赛德斯-奔驰用其高端车型的利润为收购克莱斯勒提供了资金
 

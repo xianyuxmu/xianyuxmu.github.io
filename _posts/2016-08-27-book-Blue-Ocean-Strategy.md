@@ -16,7 +16,6 @@ tags:
 夫唯不争,故天下莫能与之争。
 <p> —— <strong>老子</strong></p>
 </blockquote>
-
 <!-- more -->
 
 
@@ -188,7 +187,7 @@ NetJets 的战略布局图
 
 曲线美健身俱乐部的战略布局图
 
-同样，拉夫•劳伦公司([Ralph Lauren](http://www.ralphlauren.com))抓住了顾客对高级时装的所看重的地方，同时它更新改良了传统造型及价位又锁定在出啊痛款式服装商家如布鲁克斯兄弟公司([Brooks Brothers](http://www.brooksbrothers.com/))和巴宝莉公司([Burberry](https://hk.burberry.com/))的优势点，开创了“无时尚时装”的蓝海。
+同样，拉夫•劳伦公司([Ralph Lauren](http://www.ralphlauren.com))抓住了顾客对高级时装的所看重的地方，同时它更新改良了传统造型及价位又锁定在出了同款式服装商家如布鲁克斯兄弟公司([Brooks Brothers](http://www.brooksbrothers.com/))和巴宝莉公司([Burberry](https://hk.burberry.com/))的优势点，开创了“无时尚时装”的蓝海。
 
 > 所以，可以问自己：你所在的产业中都有哪些战略集团？顾客为何往上选择高端集团，或往下屈就低端集团呢？
 

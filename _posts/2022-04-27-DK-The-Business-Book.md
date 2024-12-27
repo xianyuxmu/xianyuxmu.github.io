@@ -53,7 +53,7 @@ tags:
 - 公司文化就是一切。
   - 文化要根据公司战略而定或调整。
 - 现金为王
-  - 经济增长的时候，信贷空松，现金易获得；经济萧条的时候，信贷是危险的。
+  - 经济增长的时候，信贷宽松，现金易获得；经济萧条的时候，信贷是危险的。
 - Working with a vision.
 - 危机，将每个困难危险看作机会。
   - I have not failed. I‘ve just found 10,000 ways that won't work.  - Edison
