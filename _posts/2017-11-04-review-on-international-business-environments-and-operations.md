@@ -42,7 +42,7 @@ tags:
 
 仅当能有效降低经营成本时，离岸经营才会管用。节约成本带来增长，增长可以创造更多的岗位。
 
-销量增加是企业扩张进入国际市场的主要动机，许国国际大型企业的一半的销售来自于母国之外。
+销量增加是企业扩张进入国际市场的主要动机，许多国际大型企业的一半的销售来自于母国之外。
 
 在美国，97%的出口商为中小企业，其直接出口值占美国的1/3。许多小公司销售整体产品的模块或零部件。
 
@@ -201,7 +201,7 @@ A market is not held for the sake of one person. *—African (Fulani) proverb*
 
 高端市场可以使用高端物流。
 
-厄瓜多尔的美国通过UPS、FedEx运到美国。
+厄瓜多尔的芒果通过UPS、FedEx运到美国。
 
 ### 政府干预：
 
@@ -412,7 +412,7 @@ In the United States, the 500 biggest firms accounted for nearly 60 percent of t
 
 Most companies, particularly SMEs, focus on domestic rather than foreign markets. In the United States, for instance, SMEs comprise 97 percent of all exporters, yet less than 1 percent of all SMEs export.
 
-**2010年，美国60%的中小企业金队一个国外市场出口。**
+**2010年，美国60%的中小企业对一个国外市场出口。**
 
 In 2010, 60 percent of U.S. SME exporters sold to customers in only one foreign market, whereas more than half of big exporters recorded sales to five or more foreign markets.
 
