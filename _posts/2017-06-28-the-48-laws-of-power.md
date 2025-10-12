@@ -93,37 +93,27 @@ If you need to turn to an ally for help, do not bother to remind him of your pas
 
 
 
-### Law 14
-
-Pose as a Friend, Work as a Spy'
+### Law 14 Pose as a Friend, Work as a Spy'
 
 Knowing about your rival is critical. Use spies to gather valuable information that will keep you a step ahead. Better still: Play the spy yourself. In polite social encounters, learn to probe. Ask indirect questions to get people to reveal their weaknesses and intentions. There is no occasion that is not an opportunity for artful spying.
 
 
 
-### Law 15
-
-Crush your Enemy Totally'
+### Law 15 Crush your Enemy Totally'
 
 All great leaders since Moses have known that a feared enemy must be crushed completely. (Sometimes they have learned this the hard way.) If one ember is left alight, no matter how dimly it smolders, a fire will eventually break out. More is lost through stopping halfway than through total annihilation: The enemy will recover, and will seek revenge. Crush him, not only in body but in spirit. 
 
-### Law 16
-
-Use Absence to Increase Respect and Honor'
+### Law 16 Use Absence to Increase Respect and Honor'
 
 Too much circulation makes the price go down: The more you are seen and heard from, the more common you appear. If you are already established in a group, temporary withdrawal from it will make you more talked about, even more admired. You must learn when to leave. Create value through scarcity.
 
 
 
-### Law 17
-
-Keep Others in Suspended Terror: Cultivate an Air of Unpredictability'
+### Law 17 Keep Others in Suspended Terror: Cultivate an Air of Unpredictability'
 
 Humans are creatures of habit with an insatiable need to see familiarity in other people’s actions. Your predictability gives them a sense of control. Turn the tables: Be deliberately unpredictable. Behavior that seems to have no consistency or purpose will keep them off-balance, and they will wear themselves out trying to explain your moves. Taken to an extreme, this strategy can intimidate and terrorize. 
 
-### Law 18
-
-Do Not Build Fortresses to Protect Yourself – Isolation is Dangerous'
+### Law 18 Do Not Build Fortresses to Protect Yourself – Isolation is Dangerous'
 
 The world is dangerous and enemies are everywhere – everyone has to protect themselves. A fortress seems the safest. But isolation exposes you to more dangers than it protects you from – it cuts you off from valuable information, it makes you conspicuous and an easy target. Better to circulate among people find allies, mingle. You are shielded from your enemies by the crowd.
 
@@ -135,65 +125,51 @@ The world is dangerous and enemies are everywhere – everyone has to protect th
 
 Do Not Commit to Anyone It is the fool who always rushes to take sides. Do not commit to any side or cause but yourself. By maintaining your independence, you become the master of others – playing people against one another, making them pursue you. 
 
-### Law 21
-
-Play a Sucker to Catch a Sucker – Seem Dumber than your Mark
+### Law 21 Play a Sucker to Catch a Sucker – Seem Dumber than your Mark
 
 No one likes feeling stupider than the next persons. The trick, is to make your victims feel smart – and not just smart, but smarter than you are. Once convinced of this, they will never suspect that you may have ulterior motives.
 
 
 
-### Law 22
-
-Use the Surrender Tactic: Transform Weakness into Power
+### Law 22 Use the Surrender Tactic: Transform Weakness into Power
 
 When you are weaker, never fight for honor’s sake; choose surrender instead. Surrender gives you time to recover, time to torment and irritate your conqueror, time to wait for his power to wane. Do not give him the satisfaction of fighting and defeating you – surrender first. By turning the other check you infuriate and unsettle him. Make surrender a tool of power. 
 
-### Law 23
-
-Concentrate Your Forces
+### Law 23 Concentrate Your Forces
 
 Conserve your forces and energies by keeping them concentrated at their strongest point. You gain more by finding a rich mine and mining it deeper, than by flitting from one shallow mine to another – intensity defeats extensity every time. When looking for sources of power to elevate you, find the one key patron, the fat cow who will give you milk for a long time to come.
 
 
 
-### Law 24
-
-Play the Perfect Courtier
+### Law 24 Play the Perfect Courtier
 
 The perfect courtier thrives in a world where everything revolves around power and political dexterity. He has mastered the art of indirection; he flatters, yields to superiors, and asserts power over others in the mot oblique and graceful manner. Learn and apply the Laws of courtiership and there will be no limit to how far you can rise in the court.
 
 
 
-### Law 25
-
-Re-Create Yourself
+### Law 25 Re-Create Yourself
 
 Do not accept the roles that society foists on you. Re-create yourself by forging a new identity, one that commands attention and never bores the audience. Be the master of your own image rather than letting others define if for you. Incorporate dramatic devices into your public gestures and actions – your power will be enhanced and your character will seem larger than life.
 
 
 
-### Law 26
+### Law 26 Keep Your Hands Clean
 
-Keep Your Hands Clean You must seem a paragon of civility and efficiency: Your hands are never soiled by mistakes and nasty deeds. Maintain such a spotless appearance by using others as scapegoats and cat’s-paws to disguise your involvement.
+You must seem a paragon of civility and efficiency: Your hands are never soiled by mistakes and nasty deeds. Maintain such a spotless appearance by using others as scapegoats and cat’s-paws to disguise your involvement.
 
 
 
-### Law 27
-
-Play on People’s Need to Believe to Create a Cultlike Following
+### Law 27 Play on People’s Need to Believe to Create a Cultlike Following
 
 People have an overwhelming desire to believe in something. Become the focal point of such desire by offering them a cause, a new faith to follow. Keep your words vague but full of promise; emphasize enthusiasm over rationality and clear thinking. Give your new disciples rituals to perform, ask them to make sacrifices on your behalf. In the absence of organized religion and grand causes, your new belief system will bring you untold power. 
 
-### Law 28
+### Law 28 Enter Action with Boldness
 
-Enter Action with Boldness If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution. Timidity is dangerous: Better to enter with boldness. Any mistakes you commit through audacity are easily corrected with more audacity. Everyone admires the bold; no one honors the timid.
+If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution. Timidity is dangerous: Better to enter with boldness. Any mistakes you commit through audacity are easily corrected with more audacity. Everyone admires the bold; no one honors the timid.
 
 
 
-### Law 29
-
-Plan All the Way to the End
+### Law 29 Plan All the Way to the End
 
 The ending is everything. Plan all the way to it, taking into account all the possible consequences, obstacles, and twists of fortune that might reverse your hard work and give the glory to others. By planning to the end you will not be overwhelmed by circumstances and you will know when to stop. Gently guide fortune and help determine the future by thinking far ahead. 
 
@@ -203,17 +179,15 @@ Make your Accomplishments Seem Effortless Your actions must seem natural and exe
 
 
 
-### Law 31
-
-Control the Options: Get Others to Play with the Cards you Deal
+### Law 31 Control the Options: Get Others to Play with the Cards you Deal
 
 The best deceptions are the ones that seem to give the other person a choice: Your victims feel they are in control, but are actually your puppets. Give people options that come out in your favor whichever one they choose. Force them to make choices between the lesser of two evils, both of which serve your purpose. Put them on the horns of a dilemma: They are gored wherever they turn.
 
 
 
-### Law 32
+### Law 32 Play to People’s Fantasies 
 
-Play to People’s Fantasies The truth is often avoided because it is ugly and unpleasant. Never appeal to truth and reality unless you are prepared for the anger that comes for disenchantment. Life is so harsh and distressing that people who can manufacture romance or conjure up fantasy are like oases in the desert: Everyone flocks to them. There is great power in tapping into the fantasies of the masses.
+The truth is often avoided because it is ugly and unpleasant. Never appeal to truth and reality unless you are prepared for the anger that comes for disenchantment. Life is so harsh and distressing that people who can manufacture romance or conjure up fantasy are like oases in the desert: Everyone flocks to them. There is great power in tapping into the fantasies of the masses.
 
 
 
@@ -221,31 +195,23 @@ Play to People’s Fantasies The truth is often avoided because it is ugly and u
 
 Discover Each Man’s Thumbscrew Everyone has a weakness, a gap in the castle wall. That weakness is usual y an insecurity, an uncontrollable emotion or need; it can also be a small secret pleasure. Either way, once found, it is a thumbscrew you can turn to your advantage. 
 
-### Law 34
-
-Be Royal in your Own Fashion: Act like a King to be treated like one
+### Law 34 Be Royal in your Own Fashion: Act like a King to be treated like one
 
 The way you carry yourself will often determine how you are treated; In the long run, appearing vulgar or common will make people disrespect you. For a king respects himself and inspires the same sentiment in others. By acting regally and confident of your powers, you make yourself seem destined to wear a crown. 
 
-### Law 35
-
-Master the Art of Timing
+### Law 35 Master the Art of Timing
 
 Never seem to be in a hurry – hurrying betrays a lack of control over yourself, and over time. Always seem patient, as if you know that everything will come to you eventually. Become a detective of the right moment; sniff out the spirit of the times, the trends that will carry you to power. Learn to stand back when the time is not yet ripe, and to strike fiercely when it has reached fruition.
 
 
 
-### Law 36
-
-Disdain Things you cannot have: Ignoring them is the best Revenge
+### Law 36 Disdain Things you cannot have: Ignoring them is the best Revenge
 
 By acknowledging a petty problem you give it existence and credibility. The more attention you pay an enemy, the stronger you make him; and a small mistake is often made worse and more visible when you try to fix it. It is sometimes best to leave things alone. If there is something you want but cannot have, show contempt for it. The less interest you reveal, the more superior you seem.
 
 
 
-### Law 37
-
-Create Compelling Spectacles
+### Law 37 Create Compelling Spectacles
 
 Striking imagery and grand symbolic gestures create the aura of power – everyone responds to them. Stage spectacles for those around you, then full of arresting visuals and radiant symbols that heighten your presence. Dazzled by appearances, no one will notice what you are really doing.
 
@@ -261,23 +227,19 @@ Stir up Waters to Catch Fish Anger and emotion are strategically counterproducti
 
 
 
-### Law 40
-
-Despise the Free Lunch
+### Law 40 Despise the Free Lunch
 
 What is offered for free is dangerous – it usually involves either a trick or a hidden obligation. What has worth is worth paying for. By paying your own way you stay clear of gratitude, guilt, and deceit. It is also often wise to pay the full price – there is no cutting corners with excellence. Be lavish with your money and keep it circulating, for generosity is a sign and a magnet for power.
 
 
 
-### Law 41
-
-Avoid Stepping into a Great Man’s Shoes
+### Law 41 Avoid Stepping into a Great Man’s Shoes
 
 What happens first always appears better and more original than what comes after. If you succeed a great man or have a famous parent, you will have to accomplish double their achievements to outshine them. Do not get lost in their shadow, or stuck in a past not of your own making: Establish your own name and identity by changing course. Slay the overbearing father, disparage his legacy, and gain power by shining in your own way. 
 
-### Law 42
+### Law 42 Strike the Shepherd and the Sheep will Scatter
 
-Strike the Shepherd and the Sheep will Scatter Trouble can often be traced to a single strong individual – the stirrer, the arrogant underling, the poisoned of goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the troubles they cause to multiply, do not try to negotiate with them – they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
+Trouble can often be traced to a single strong individual – the stirrer, the arrogant underling, the poisoned of goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the troubles they cause to multiply, do not try to negotiate with them – they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
 
 
 
@@ -285,9 +247,7 @@ Strike the Shepherd and the Sheep will Scatter Trouble can often be traced to a 
 
 Work on the Hearts and Minds of Others Coercion creates a reaction that will eventually work against you. You must seduce others into wanting to move in your direction. A person you have seduced becomes your loyal pawn. And the way to seduce others is to operate on their individual psychologies and weaknesses. Soften up the resistant by working on their emotions, playing on what they hold dear and what they fear. Ignore the hearts and minds of others and they will grow to hate you. 
 
-### Law 44
-
-Disarm and Infuriate with the Mirror Effect
+### Law 44 Disarm and Infuriate with the Mirror Effect
 
 The mirror reflects reality, but it is also the perfect tool for deception: When you mirror your enemies, doing exactly as they do, they cannot figure out your strategy. The Mirror Effect mocks and humiliates them, making them overreact. By holding up a mirror to their psyches, you seduce them with the illusion that you share their values; by holding up a mirror to their actions, you teach them a lesson. Few can resist the power of Mirror Effect.
 
