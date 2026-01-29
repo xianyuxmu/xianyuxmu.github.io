@@ -171,8 +171,16 @@ function binarySearch(ip) {
 
 function FindProxyForURL(url, host) {
 
-    if(isPlainHostName(host))
+	// 强制本地地址直接连接，不走代理
+    if (shExpMatch(host, "127.0.0.1") || 
+        shExpMatch(host, "localhost") || 
+        shExpMatch(host, "::1")) {
         return "DIRECT";
+    }
+
+    if(isPlainHostName(host)){
+        return "DIRECT";
+    }
 
     var pos = 0;
     var domain = host;
