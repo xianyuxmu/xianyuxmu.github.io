@@ -1,0 +1,686 @@
+---
+layout: post
+title: Chicken Soup
+date: 2017-06-17 17:32:00 +0800
+categories:
+- Life
+tags:
+- 鸡汤
+
+---
+
+<blockquote class="blockquote-center">
+<p>“如果一个以色列男人想要与某个女人约会，那么他当晚就会叫她出来；如果一个以色列企业家在生意上有个想法，那么他一周内就会付诸实施。”</p>
+  <p>——《创业的国度：以色列经济奇迹的启示》</p>
+</blockquote>
+
+## General
+
+- My dad encouraged us to fail. Growing up, he would ask us what we failed at that week. If we didn't have something, he would disappointed. It changed my mindset st an early age that failure is not the outcome, failure is not trying. Don't be afraid to fail. - *Sara Blakely*
+- As soon as I stopped trying to think about a business idea and started focusing on what I'm passionate about, that's when it came to me. - *Nick woodman, Founder of GoPro*
+- 人最终会成为他每天都想为为的那个人。 - *Ray Kroc*
+- [❀要输就输给追求，要嫁就嫁给幸福❀](https://www.douban.com/group/topic/30664484/)
+	- “如果发出声音是危险的，那就保持沉默；如果自觉无力发光，那就别去照亮别人。但是，不要习惯了黑暗就为黑暗辩护；不要为自己的苟且而得意洋洋； 不要嘲讽那些比自己更勇敢、更有热量的人们。可以卑微如尘土，不可扭曲如蛆虫。”—— 曼德拉
+	- 姑娘，去做不擅长的事情，去做你害怕的事情，这样你才会有所突破。你总是想着安逸地呆在自己的安全区内，你当然永远也走不出去。 - 豆瓣网友
+- ***Most Want to Change. Few Do.*** Real Change Requires Purpose.
+- Action is the proper fruit of knowledge. ― *Thomas Fuller*
+- Knowledge is a treasure but practice is the key to it.  — *Thomas Fuller, Clergyman*
+	- 「学识是宝藏，但实践才是打开它的钥匙。」– 汤玛斯‧富勒
+- 人生有些快乐的时光，一定要写下来并且牢牢记住它们。年轻时我们要敢于冒险，要去追去那最疯狂的梦想。 - Robin's review on 《从零到百亿》
+- “Coming up with an idea is the least important part of creating something great. It has to be the right idea and have good taste, but the execution and delivery are what’s key.” – *Sergey Brin, Google Co-Founder*
+- “Champions have the courage to keep turning the pages because they know a better chapter lies ahead.” - *Paula White, Pastor*
+	- 「冠军有不断翻页的勇气，因为他们知道下一个章节会更好。」– 宝拉·怀特 (牧师)
+- “There are no limitations to what you can do, have, or be except the limitations you place on yourself by your own thinking.” - *Brian Tracy, Motivational Coach*
+- "When one must, one can." – *Charlotte Whitton, Feminist*
+	- 「当一个人必须做某件事，他就可以达成。」– 夏洛特·惠顿 (女权主义者)
+- “Only someone who is well-prepared has the opportunity to improvise.” – *Ingmar Bergman, Director*
+	- 「只有準備充份的人能夠即席表演。」– 英格瑪·柏格曼 (導演)
+- “I will prepare, and someday my chance will come.” - *Abraham Lincoln, 16th President of the United States*
+	- 「我将准备，而有一天我的机会将会来临。」– 亚伯拉罕‧林肯 (美国第 16 任总统)
+- 美丽背后，必有某种努力。 
+- 「成功的婚姻需要和同一個人多次墮入愛河。」– 米格恩·麥克勞琳 (作家)
+- ***“Growth and comfort do not coexist”*** — Ginni Rometty
+- 承诺恐怕只有听的人会记得。 - 来自 2017年07月07日某个同事的头像。
+- Mama always said: Life Is Like A Box Of Chocolates. You never know what you're gonna get. - *Forrest Gump*
+- Take your models to reality. - *Law of Attraction Coaching*
+- “As long as you’re going to be thinking anyway, think big.” — *Donald Trump, Real Estate Magnate*
+	- 「既然你无论如何都要想，想大的。」– 唐纳‧川普
+- “Most people have to get to a point where they don’t have a choice before they’ll change something.” – *Serena Mackesy, Writer*
+	- 「大部份的人必須等到沒有其它選擇才會做出改變。」– 瑟琳娜‧麥卡鍚 (作家)
+	- 预知变化，提早行动。
+	- Change before you have to. - *Jack Welch*
+- “Circumstances may cause interruptions and delays, but never lose sight of your goal.” – *Mario Andretti, Race Car Driver*
+	- 「環境因素或許會帶來干擾或耽擱，但別讓你的目標從視線離開。」– 馬里奧‧安德烈蒂 (賽車手)
+- 此刻的你、此刻的热情
+	- **激情有一天会消失，永远不要浪费此刻的热情。**
+	- 知其过去，方知未来。
+- **“FASHION FADES, ONLY STYLE REMAINS THE SAME.”** - *Coco Chanel*
+	- 流行易逝，风格永存。
+	- Mode passes, style remains.
+	- La mode passe, le style reste.
+- 「所有的計畫都是先列出要做的事，再決定優先順序。」– 亞倫‧拉凱恩 (時間管理作家)
+- 喜欢争辩会把事情弄糟。 - 蒙田
+- Wait but why?  - [*Tim Urban*](https://waitbutwhy.com/2014/05/life-weeks.html)
+- A Rocket will never be able to leave the Earth's atmosphere. - *The New York Times, 1936*
+- Never betray your intention. - *Prison Break Season 5*
+- Don't interrupt your enemies when they're making a mistake. - *Napoleon*
+- “The most painful moment in my life also became the moment I showed the most strength and courage.” — *Cecelia Ahern, Novelist*
+	- 「我人生最痛苦的時刻，也是我展現最多力量與勇氣的時刻。」– 西西莉雅·艾亨 (小說家)
+- “If you don’t know where you’re going, you might not get there.” - *– Yogi Berra, Baseball Manager*
+	- 「如果你不知道你要去哪，你可能將到不了。」- 尤吉‧貝拉
+- 常常，我们会因为胆小的事而感到遗憾，又对疯狂勇敢的事而觉得滑稽可笑。
+- “Too many of us are not living our dreams because we are living our fears.” *— Les Brown, Motivational Speaker*
+	- 太多人没有活在自己的梦想里，因为他们活在恐惧中。
+- “Tears will get you sympathy. Sweat will get you results.” *- Anonymous*
+	- 「泪水会为你带来同情，汗水会为你带来结果。」– 无名氏
+- “Happiness is the consequence of personal effort.” *– Elizabeth Gilbert, Writer*
+	- 「快樂是努力換來的。」– 伊莉莎白·吉兒伯特 (作家)
+- **Few things are impossible in themselves; and it is often for want of will, rather than of means, that man fails to succeed.** - *La Rocheforcauld, French writer*
+	- 事情很少有根本做不成的；其所以做不成，与其说是条件不够，不如说是由于决心不够。 - 法国作家 罗切福考尔德•L.
+- “Purpose is that sense that we are part of something bigger than ourselves, that we are needed, that we have something better ahead to work for. Purpose is what creates true happiness.” *– Mark Zuckerberg, Facebook Co-Founder*
+	- 「生活的目的，是感覺自己屬於一個比自己更大的目標、感覺我們被需要、感覺我們為更好的未來努力。目的能創造真正的快樂。」– 馬克．祖克柏 (臉書創辦人)
+- “In the end, we are our choices. Build yourself a great story.” *– Jeff Bezos, Entrepreneur*
+	- 到最后，我们将成为我们所有的选择。把自己打造成一个故事。
+- 成为自己的英雄，而不是受害者。
+- What comes out of your mouth is determined by what goes into your mind. *- Zig Ziglar*
+- “When you’re surrounded by people who share a passionate commitment around a common purpose, anything is possible.” *- Howard Schultz*
+- “The only thing you really have in your life is time. And if you invest that time in yourself, to have great experiences that are going to enrich you, then you can’t possibly lose.” *– Steve Jobs, Entrepreneur*
+	- 「你真正擁有的其實只有時間，如果你把時間用在投資自己，得到很棒且能豐富你人生的經驗，你不可能會失去什麼。」– 史蒂夫‧賈伯斯 (企業家)
+- “Go for it now. The future is promised to no one.” *– Wayne Dyer, Self-help Author*
+	- 「現在就行動，沒有人可以保證未來。」– 韋恩‧戴爾 (勵志作家)
+- “Life is a series of commas, not periods.” *— Matthew McConaughey, Actor*
+	- 「人生是一系列的逗号，不是句号。」– 马修‧麦康纳 (演员) 
+- “The only thing we have to fear is fear itself.” *— Franklin D. Roosevelt, 32nd U.S. president*
+	- 「 我们唯一需要害怕的事是害怕本身。」– 富兰克林‧罗斯福 (美国第 32 任总统)
+- “When performance is measured, performance improves. When performance is measured and reported, the rate of improvement accelerates.” *— Thomas S. Monson*
+- “Everything has beauty, but not everyone sees it.” *- Confucius*
+- Ability is nothing without opportunity. *- Napoleon Bonaparte*
+- There are only two forces that unite men — fear and interest. All great revolutions originate in fear, for the play of interests does not lead to accomplishment. *- Napoleon Bonaparte*]
+- “A year from now you will wish you had started today.” *– Karen Lamb, Author*
+	- 一年之后，你会希望今天有所行动。
+- “Don’t argue with the people of strong determination, because they may change the fact.” *– William Shakespeare, Writer*
+	- 别和意志坚决的人争论，因为他们可能将改变现实。 - 威廉•莎士比亚
+- 马丁•路德金
+	- 一个没有立场的人总是相信任何事。
+	- 最终，我们记得的不是我们敌人的话语，而是我们朋友的沉默。
+	- 我有一个梦，我梦想有朝一日，在乔治亚的红山上，昔日奴隶的儿子和昔日奴隶主的儿子能够同坐一处，共叙兄弟情谊。
+- 孟德斯鸠
+	- 好习惯有四：准时，正确，恒心，迅速。缺少第一项，光阴会虚度；不具备第二项，错误百出；没有第三项，事情永远办不好；丢失第四项，遇上良机，都会白白错失。
+	- 富人不奢侈，穷人将饿死。
+	- 平平庸庸最安全。
+	- 啊！夸奖的话，出于自己口中，那是多么乏味！
+- 某些事情是可以做到的。最好的证明就是这样一个事实——其他人已经做到了。 —— 伯特兰•罗素
+- **有人已经获得了巨大的成功，这是你也能够成功的证明。**——亚伯拉罕•林肯
+- 博观而约取，厚积而薄发。 - 苏轼
+- The better you dress, the worse you can behave.
+- There is no result in nature without a cause; understand the cause and you will have no need of the experiment. — *Leonardo da Vinci*
+	- 大自然永远有无限的理由。 - 达芬奇
+	- 优胜略汰、适者生存。Natural selection and survival of the fittest. 
+- “You can’t predict, you can prepare.” — *Howard Marks* from [Be Prepared To Lose Your Job In The Future… If You Don’t Learn This One Skill Now](https://medium.com/the-mission/be-prepared-to-lose-your-job-in-the-future-if-you-dont-learn-this-one-skill-now-8a87ade2a268)
+- Knowing is not enough; we must apply. Willing is not enough; we must do. - *Johann Wolfgang von Goethe*
+- “Predicting rain doesn’t count. Building arks does.” — Warren Buffett
+- ***See the world not as it is, but as it should be.*** - Glee
+- 人生在勤，不索何获？ - 张衡
+- 每个人心里都有一团火，路过的人只看到烟。 - 《至爱梵高·星空之谜》
+- 有些事，你现在不做. 一辈子都不会做了. 只要你想做成一件事. 全世界都会来帮你. - 《搭车去柏林》
+- **潮流更迭，其宗不变。** - Robin Chen
+- “**像别人看我们一样看我们自己可能会证实我们对别人最坏的猜忌。** —— 富兰克林·P.琼斯（cited in Peter， 1977）”
+	- Excerpt From: 斯科特·普劳斯 (Scott Plous). “决策与判断.” iBooks.  
+- “Those who think they have no time for bodily exercise will sooner or later have to find time for illness.” – Edward Stanley, Statesman
+	- 「那些覺得自己沒有時間運動的人，遲早要騰出時間來生病。」– 愛德華·斯坦利 (英國政治家)
+- “If we worked on the assumption that what is accepted as true really is true, then there would be little hope for advance.” – Orville Wright, Inventor
+	- 「如果我們假設，被接受的事實真是事實的話，那進步就沒什麼希望了。」– 奧維爾·萊特 (發明家)
+- “Good judgment comes from experience, and a lot of that comes from bad judgment.” — Will Rogers, Humorist
+	- 「明智的判斷來自經驗， 而經驗往往源自錯誤的判斷。」– 威爾‧羅傑斯 (幽默演員)
+- “The power of imagination makes us infinite.” – John Muir, Environmentalist
+	- 「想像讓我們的能力無限大。」– 約翰·繆爾 (環保運動領袖)
+- “I want to live my life, not record it.” – Jackie Kennedy, First Lady of the U.S.
+	- 「我想要生活，不是紀錄生活。」– 賈桂琳·甘迺迪 (美國第一夫人)
+- “God gives the nuts, but he does not crack them. ” — Franz Kafka, Writer
+	- 「上帝給我們堅果，但不會為我們敲開外殼。」– 法蘭茲‧卡夫卡 (作家)
+- “My life didn’t please me, so I created my life.” – Coco Chanel, Fashion Designer
+	- 「我的生活不能取悦我，所以我創造了自己的生活。」– 可可‧香奈兒 (時裝設計師)
+- “When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.” – Henry Ford, Industrialist
+	- 「當你覺得諸事不順時，記住飛機是逆著風而飛起，不是順著風。」– 亨利‧福特 (工業家)
+- “Where the determination is, the way can be found.”  ― George S. Clason, The Richest Man in Babylon
+- “Man are disturbed not by things, but by the view which they take of them.” – Epictetus, Philosopher
+	- 「人們的困擾不是來自事情的本身，而是來自他們對事情的看法」– 愛比克泰德 (哲學家)
+- 常常，我们的行动不如我们的想法明智。
+- “Actions to address risks and opportunities”
+	- 行动用于衡量风险和机会。
+- Good artists copy, great artists steal. 巧匠摩形，大师窃意。——毕加索
+- “If you act like you can do something, then it will work.” ― Walter Isaacson, Steve Jobs
+- Nothing is more expensive than a missed opportunity. - H. Jackson Brown, Jr.
+- Stop worrying about missed opportunities and start looking for new ones. - I. M. Pei
+- I've learned .... That opportunities are never lost; someone will take the ones you miss. - Andy Rooney
+- I was seldom able to see an opportunity until it had ceased to be one. - Mark Twain
+- Youth is a period of missed opportunities. - Cyril Connolly
+- Why cry about missed opportunities when you have the ability to smile at opportunities lived? The past has created who you are NOW, where we learn and grow from the past, never resting upon previous achievements or allowing past failure to paralyze us in our current endeavor. All that was has created us to be the best we currently are for our greatest hour is about to arise! - Greg Plitt
+- History is nothing if not an epic tale of missed opportunities. - Graydon Carter
+- **Try to be a rainbow in someone's cloud.** - Maya Angelou
+- A man can be destroyed but not defeated. - Ernest Hemingway
+- “虽然你常常是步履蹒跚地到达目的地，但是，你必须先行动，才能有步履蹒跚。” - *3M*
+- “It’s kind of fun to do the impossible.” - Walt Disney, Producer
+	- 「做不可能的事蠻有趣的。」– 華特‧迪士尼 (製作人)
+- “Don’t be so humble – you are not that great.” - Golda Meir, Israel Prime Minister
+	- 别那么谦虚，你没那么伟大。
+- “当陪你的人要下车时，即使不舍，也该心存感激，然后挥手道别。” ——《千与千寻》，宫崎骏
+- Groucho Marx
+	- I refuse to join any club that would have me as a member. - Groucho Marx
+		- 我拒绝加入任何接受我成为会员的俱乐部。
+	- “人们既可成为我们的翼下之风，亦可成为船头之锚。 ——格罗克•马克斯（Groucho Marx）
+	- You are only as old as the woman you feel.
+- 没有需要，就根本谈不上积极性。- 乌兹纳泽定律
+- 福克兰定律：没有必要做出决定时就有必要不做决定。
+- 伊夫现象：最合适最喜欢的商品仅供陈列。
+- 卡德宁定律：你得到最多的是你最不需要的东西。
+- “We must accept finite disappointment, but we must never lose infinite hope.” - Martin Luther King, Civil Rights Leader
+	- 我们必须接受有限的失望，但绝不失去无尽的希望。 - 马丁•路德•金
+- “Build your own dreams, or someone else will hire you to build theirs.” - Farrah Gray, Motivational Speaker
+	- **建造你自己的梦想，或者其他人会雇佣你去建造他们的梦想。**
+- If you don't prioritize your life, someone else will.
+	- 如果不能自己安排生活的优先次序，别人会替你安排。
+-  人生中一半的麻烦源于答应得太快，拒绝得太慢。 - 乔希•比林斯
+-  避免碌碌无为。 - 苏格拉底
+	-  **Beware of a Busy Life.** - Socrates
+	-  Beware the barrenness of a busy life. - Socrates
+-  生之智慧，在于摒弃不必要之事。——林语堂
+-  To do is to be. - Socrates
+	-  行动决定结果。
+- The secret of change is to focus all of your energy, not on fighting the old, but on building the new. - Socrates
+	- **改变的秘诀是集中你的所有能力，不是摧毁旧的，而是建造新的。** —— 苏格拉底
+- The easiest and noblest way is not to be crushing others, but to be improving yourselves. - Socrates
+	- 最简单而高贵的方式不是压榨别人，而是提高你自己。 —— 苏格拉底
+- “Employ your time in improving yourself by other men's writings so that you shall gain easily what others have labored hard for.” - Socrates
+	- 将你的时间用于阅读他人的作品，别人费力学到的东西，你就能轻松获得。 —— 苏格拉底
+- **“独创性只不过是明智的模仿。”** - 伏尔泰
+- Potential - it's something all of us have but so few of us reach. 
+	- 潜能：潜能是我们所有人都有，但少数人能达到的东西。
+- Before you are a leader, success is all about growing yourself. When you become a leader, success is all about growing others. - *Jack Welch*
+	- 在你成为领导者之前，成功的全部就是自我成长； 当你成了领导者，成功的全部就变成帮助他人成长。 - 杰克•韦尔奇
+- **while the time you wait, chance gone！**
+	- 你再等待的一小会儿，机会走了！- Robin Chen, Original
+- “任何你的敌人不可以知道的东西，都不要告诉你的朋友。” —— 阿拉伯谚语
+- “历史不会重演，但总会惊人地相似。” - 马克•吐温
+- 要靠别人的错误繁荣自己。 - 培根
+- “片面描述往往胜过全面描述：它简化现实，让观点更好理解、更具说服力。” —— 尼采
+- “Either I will find a way, or I will make one.” – Philip Sidney, Poet
+	- 我将找到一条路，不然我会开一条路。
+- “Never throughout history has a man who lived a life of ease left a name worth remembering.” – Theodore Roosevelt, 26th U.S. President
+	- 历史上从来没有人过着安逸的生活而名留青史。 - 罗斯福
+- “To know what people really think, pay regard to what they do rather than what they say.” – Rene Descartes, Philosopher
+	- 「想知道別人真正的想法，注意他们做什么而不是说什么。」– 勒内·笛卡尔 (哲学家)
+- “The opinion of the strongest is always the best.” – Jean de La Fontaine, Fabulist
+	- 强者的意见，永远是最好的。 —— 尚·德·拉封丹 (寓言作家)
+- 言语用于衡量一个人的思想，行动用以衡量一个人的言语。
+- 不拼实力的地方，拼年资
+- 你特立独行，你身价百倍。—— 张金龙(北京朋友)
+- 一切发明只不过是巧妙的借鉴。 - 某位名人
+- I haven't failed, I've just found 10,000 ways that won't work! - Thomas Edison
+- 「别说你有十年经验，你只是一年经验用了十年而已。」- from [大卫谈学习4：为何你会一年经验用十年？](http://blog.51cto.com/davidzhang33/1313940)
+- 哈德良皇帝手下有一名将军觉得自己应该被提升。“我应该晋升到更重要的岗位，因为我经验丰富，至少参加了十场重要战役。”可皇帝是位对他人才华有着高明判断力的君主，他并不这样认为。于是他随意指着绑在周围的战驴说：“亲爱的将军，好好看看这些驴子，它们至少参加过20次战役，可它们仍然是驴子。”
+- The greatest contribution of a leader is making others successful
+	- 评判领导的最重要是看他如何帮助他的下属和团队成功
+	- 有实力的人不会畏惧光芒耀眼的下属
+- **Man is The Measure of All Things.**
+	- 人是衡量万物的尺度。
+- “The only impossible journey is the one you never begin.” – Tony Robbins, Success Coach
+	- **唯一不可能的行程，是你从未启程的那个。**
+- 「不是那些最庞大的物种能存活，也不是最聪明的，而是那些最能适应变化的。」 ​​​​—— 达尔文
+- The quality of a leader is reflected in the standards they set for themselves. — Ray Kroc, Entrepreneur
+	- 一位领导的成色，反映在他为自己定的标准。
+- "I only work with the best." - Donald J. Trump
+- "In the end, you're measured not by how much you undertake, but by what you finally accomplish." - Donald J. Trump
+- **If you build an army of 100 lions and their leader is a dog, in any fight, the lions will die like a dog. But if you build an army of 100 dogs and their leader is a lion, all dogs will fight as a lion.** - Napoleon Bonaparte
+- “Some men give up their designs when they have almost reached the goal; While others, on the contrary, obtain a victory by exerting, at the last moment, more vigorous efforts than ever before.”
+	- 有些人在几乎要达成目标时放弃他们的设计；而另一些人则相反，在最后一刻比以往更积极努力地去获取胜利。 —— 希罗多德(历史学家)
+- “Life is like a game of cards. The hand you are dealt is determinism; the way you play it is free will.” – Jawaharlal Nehru, Prime Minister of India
+	- 人生宛如一场牌局，拿到什么牌，那是命中注定，但是如何出牌，却操之在己。 —— 加瓦哈拉尔•尼赫鲁(印度总理)
+- 历史是由胜利者书写的。
+- "Attitude is a little thing that makes a big difference."
+	- 态度是小事，但能造成很大区别。 - 丘吉尔
+- **朋友也是从陌生人开始。**
+- 所谓的可能就是如果我们尽力就可以达到。
+- 要是我们不愿意高估自己，现在我们完成的事情里，有一半我们当初根本就不敢开始。- ***Being Wrong***
+- 小不忍则乱大谋。
+- 一个人一生最大的失败，就是跟没用的东西纠缠太久。
+- 我常常会想起以前幸运的时光。若是可能的话，我真想从头到尾再过一遍。同样的生活。我只要求能像作家那样，在再版时，更正首版的错误之处。 - 本杰明•富兰克林
+- 一千个人眼中，有一千个哈姆雷特。 - 莎士比亚
+- “将你的过去安置于你的表象人格之中，它将映照出你的现在。” - David Bowie
+- 白天求生存，晚上谋发展。
+- 以心转境，万象清明。—— 吴言生 
+- 存在即合理。—— 黑格尔
+	- What is reasonable is real; that which is real is reasonable.
+	- What is rational is actual and what is actual is rational.
+- 历史总是惊人的重演。—— 黑格尔
+- 愤怒以愚蠢开始，以后悔告终。—— 毕达哥拉斯
+	- Anger begins with folly, and ends in repentance.
+- You shall not covet your neighbor's house. You shall not covet your neighbor's wife, or his male or female servant, his ox or donkey, or anything that belongs to your neighbor. -  Exodus 20:17
+	- 不可贪恋人的房屋；也不可贪恋人的妻子、僕婢、牛驴，并他一切所有的。 —— 出埃及记20:17
+- “There is nothing impossible to him who will try.” — Alexander The Great, King of Macedon
+	- 「对于肯试的人，没有事情是不可能的。」– 亚历山大大帝 (马其顿国王)
+- “What goes up must come down.” ― Isaac Newton
+	- 上去的一定会掉下来。
+- Give a girl the right shoes, and she can conquer the world. - Marilyn Monroe
+	- 给一个女孩合适的鞋子，她就能征服世界。——玛丽莲·梦露
+- 只有想不到，没有做不到。
+- 世界上有两种人，一种人，虚度年华；另一种人，过着有意义的生活。在第一种人的眼里，生活就是一场睡眠，如果这场睡眠在他看来，是睡在既柔和又温暖的床铺上，那他便十分心满意足了；在第二种人眼里，可以说，生活就是建立功绩……人就在完成这个功绩中享到自己的幸福。——［俄国］别林斯基
+- ***月盈则亏。水满则溢。物极必反。盛极而衰。否极泰来。***
+- If at first you don't succeed destroy all evidence that you tried. ― Steven Wright
+	- 假如一开始你没有成功，毁灭所有你尝试过的痕迹。—— 史蒂芬•莱特
+- If at first you don't succeed, Try, try, try again. - *William Edward Hickson*
+- 你不会有第二次机会，给人留下第一印象。—— 海飞丝广告，宝洁
+	- You Never Get a Second Chance to Make a First Impression. 
+	- 可能来自“英国谚语”。
+- Words may shew a man’s Wit，but Actions his Meaning.
+	- 言语展示智慧，行动揭示意图。
+	- 行动反应真实意图。
+- “I never dreamed for success, I worked for it.” – Estée Lauder, Entrepreneur
+	- 我从不梦想成功，我努力达到成功。 - 雅诗•兰黛
+- Discussion is an exchange of knowledge; an argument an exchange of ignorance. – Robert Quillen, Journalist
+	- 讨论是知识的交流，争论是无知的交流。
+- “Whatever is worth doing is worth doing well.” – Philip Stanhope, Statesman
+	- 「任何值得做的事，都值得把它做好。」– 菲利普‧斯坦霍普 (政治家)
+- “When you’re good to others, you are best to yourself” — Benjamin Franklin, Statesman
+	- 对别人好，就是对自己好。- 本杰明•富兰克林
+- “The more one judges, the less one loves.” -  Honoré de Balzac, Novelist
+	- 一个人评判得越多，爱的就越少。
+- “All things are difficult before they are easy.” – Thomas Fuller, Clergyman
+	- 所有事情在变简单前都是困难的。
+- “People’s hearts are like wild animals. They attach their selves to those that love and train them.” – Ali ibn Abi Talib, Caliph
+	- 人的心仿佛野生动物，会亲近爱护和训练他们的人。—— 阿里·本·阿比·塔利卜 (穆斯林统治者) 
+- “Inspiration usually comes during work, rather than before it.” – Madeleine L’Engle, Writer
+	- 我们通常是在工作的时候得到灵感，而不是工作之前。
+- “The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.” – Margaret Chase Smith, Politician
+	- 「对的方式不一定总是受人欢迎或容易执行，即便不受欢迎还站在对的一边，那是真正的道德考验。」– 玛格丽特·蔡斯·史密斯 (政治人物)
+- “It is a thing of no great difficulty to raise objections against another man’s oration — nay, it is a very easy matter — but to produce a better in its place is a work extremely troublesome.”
+	- 「反对别人说的话没什麽太大的困难，但找出更好的替代方桉却是一件极为麻烦的事。」– 普鲁塔克 (希腊历史学家)
+- “Occurrences which according to received theories ought not to happen, are the facts which serve as clues to new discoveries.” – John Herschel , Polymath
+	- 「根据已知理论不应该发生的事件，是通往新发现的线索。」– 约翰·赫歇尔 (博学家)
+- “There are many things that seem impossible only so long as one does not attempt them.” – André Gide, Writer
+	- 「因为没有人企图尝试，所以很多事看似不可能。」– 安德烈·纪德 (作家)
+- “Prejudices are what fools use for reason.” — Francois-Marie Arouet de Voltaire, Philosopher
+	- 「愚人以偏见取代逻辑。」– 伏尔泰 (思想家)
+- “To be good and lead a good life means to give to others more than one takes from them.” — Leo Tolstoy, Novelist 
+	- 「做好人及过好的人生，意谓为别人付出的，比从别人那得到的还要多。」– 列夫‧托尔斯泰 (小说家)
+- “What the heart knows today, the head will understand tomorrow.” – James Stephens, Writer
+	- 「今天内心知道的事，大脑日后会知道为什麽。」– 詹姆斯·斯蒂芬斯 (作家)
+- “Great people do things before they’re ready.” – Amy Poehler, Actress
+	- 「杰出的人在还没准备好就採取行动。」– 艾米·波勒 (女演员)
+- “It is the people who can do nothing who find nothing to do, and the secret to happiness in this world is not only to be useful, but to be forever elevating one’s uses.” – Sarah Orne Jewett, Writer
+	- 「什麽都不会的人才会没事做，而世上快乐的祕密不只是成为有用的人，还要不断提升自己的用处。」– 萨拉·奥恩·朱厄特 (作家)
+- “Tactics is what you do when there is something to do; strategy is what you do when there is nothing to do.” – Savielly Tartakower, Chess Grandmaster
+	- 「有目标时你有的是战术，没目标时你有的是策略。」– 萨维利·塔塔科维 (西洋棋特级大师)
+- “It’s not so much how busy you are, but why you are busy.” – Flannery O’Connor, Novelist
+	- 「重要的不是你有多忙，而是你为何而忙。」– 弗兰纳里·奥康纳 (小说家)
+- “The world is a book, and those who do not travel read only a page.” — Augustine of Hippo, Christian Philosopher
+	- 「这世界像是一本书，而不旅行的人只读了一页。」– 希波的奥古斯丁 (基督教哲学家)
+- “There is more to us than we know. If we can be made to see it, perhaps for the rest of our lives we will be unwilling to settle for less.” – Kurt Hahn, Educator
+	- 「我们的能力超出自己的想像，我们若能看见这个，可能往后的日子都不会和不理想妥协。」– 库尔特·汉 (教育家)
+- “I want to stay as close to the edge as I can without going over. Out on the edge you see all kinds of things you can’t see from the center.” – Kurt Vonnegut, Novelist
+	- 我想在不超过的情况下，尽量靠近边缘，在边缘你可以看见各种你在中间看不见的事。」– 寇特·冯内果 (小说家)
+- “Courage isn’t having the strength to go on – it’s going on when you don’t have strength.” – Napoleon Bonaparte, Military Commander
+- 「勇气不是有勇气坚持下去 – 而是没有力气时还坚持下去。」– 拿破崙 (军事家)
+- “The crisis of today is the joke of tomorrow.” – H. G. Wells, Science Fiction Writer
+- 「今天的危机会是明天的趣事。」– 赫伯特‧乔治‧威尔斯 (科幻小说家)
+- “Always bear in mind that your own resolution to succeed is more important than any other one thing.” – Abraham Lincoln, 16th President of the United States
+- 「永远记住，你自己要成功的决心比其它任何一件事都重要。」– 亚伯拉罕‧林肯 (美国第 16 任总统)
+- “To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.” – Khalil Gibran, Poet
+- 「想了解一个人的内心世界，不要看他过去的成就，看他嚮往做什麽。」– 哈里利‧纪伯伦 (诗人)
+- “The task of leadership is not to put greatness into humanity, but to elicit it, for the greatness is already there.” – John Buchan, Political Leader
+- 「领导者的工作不是把卓越注入人类，而是把它引发出来，因为卓越原本就在。」– 约翰·布肯 (政治家)
+- “Act the way you’d like to be and soon you’ll be the way you act.” – Leonard Cohen, Singer
+- 「以你想要的方式行动，很快的你就会成为那个样子。」– 李欧纳·柯恩 (歌手)
+- “Always do your best. What you plant now, you will harvest later.” – Og Mandino, Author
+- 「永远全力以赴，今日播下的种子，终会得到丰收。」– 奥格‧曼迪诺 (作家)
+- 事前强调目标，事后强调结果。
+- 沉默是表示轻蔑的最完美方式。—— 萧伯纳
+	- 惟沉默是最高的轻蔑。—— 鲁迅
+	- 沉默是高贵的轻蔑。—— Robin Chen
+- 排除所有不可能的可能性，剩下的就是可能的。—— 福尔摩斯
+- “你无法从一条毛毛虫身上判断出它是否会成为蝴蝶。” —— 美国著名建筑师、作家和发明人巴克明斯特·富勒（Buckminster Fuller）
+- livewithoutfear 👁 去做想做而又害怕的是，若干年之后，你会佩服你今天的勇气。成功了让你格外的惊喜，更加相信自己的直觉；失败了，你亦不会后悔，至少自己曾努力过。 — Robin Chen
+- 我们永远不可能真正的成熟，我们只是学会在众人面前表现。
+
+
+----
+
+## 名人归类
+
+### Michelangelo
+
+Wikipedia：[Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+
+- I was never the kind of painter or sculptor who kept a shop.
+	- 你的人生是要每天坐在办公室里么？
+- If people knew how hard I had to work to gain my mastery, it would not seem so wonderful at all.
+	- 成功很简单，两个字：努力。
+- Every block of stone has a statue inside it and it is the task of the sculptor to discover it.
+	- 你的伯乐在哪呢？
+- Lord, grant that I may always desire more than I can accomplish.
+	- you want, you get.
+- The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low, and achieving our mark.
+	- 我们多数人的危机不在于把目标设置得太高而没能达成，而是把目标设得太低而达成了。
+- Trifles make perfection, and perfection is no trifle.
+	- 细节成就完美，完美不是细节。
+- What do you despise? By this you are truly known.
+	- 你会鄙视已知的，对未知的充满期待。
+
+### Jack Welch
+
+- Change before you have to.
+- Face reality as it is, not as it was or as you wish it to be.
+- Control your own destiny or someone else will.
+- If you don't have a competitive advantage, don't compete.
+
+### Friedrich Wilhelm Nietzsche 尼采
+
+- “True liberty is to have power over oneself in all things.” - *Michel de Montaigne, Philosopher*
+	- 「真正的自由是在所有時候都能控制自己。」– 蒙田 (哲學家)
+- 一个人知道自己为什么而活，就可以忍受任何一种生活。
+	- He who has a why to live can bear almost any how.
+- That which does not kill us makes us stronger.
+	- 但凡不能杀死你的，最终都会使你更强大。
+- 不能听命于自己者，就要受命于他人。
+- 谦逊基于力量，傲慢基于无能。
+- 千万不要忘记：我们飞翔得越高，我们在那些不能飞翔的人眼中的形象越是渺小。
+- 没有可怕的深度，就没有美丽的水面。
+- 信仰就是不想知道真相是什么。
+- **不妨大胆，因为我们终将失去。**
+- 聪明的人只要能掌握自己，便什么也不会失去。
+- 平淡的生活，往往是最危险的。
+- 没有事实，只有诠释。
+
+### Oscar Wilde 奥斯卡•王尔德
+
+- “Be yourself. Everyone else is already taken.” - *Oscar Wilde, Writer*
+	- 「做你自己，其他人都已經有人做了。」– 奧斯卡‧王爾德 (作家)
+- I like men who have a future and women who have a past. - *Oscar Wilde, Writer*
+	- 我喜欢有未来的男人和有过去的女人。 
+- Between men and women there is no friendship possible. There is passion, enmity, worship, love, but no friendship. 
+	- 男女之间不可能存在友谊，有的只是爱恨情仇。
+- Don't give a woman advice; one should never give a woman anything she can't wear in the evening. 
+	- 不要给女人忠告；决不要给女人任何她晚上不能穿戴的东西。 
+- Don't wish it happens, make it happens. 
+- ***The best way to predict the future is to create/invent it.*** ― Walter Isaacson, Steve Jobs
+- Some people want it to happen, some wish it would happen, others make it happen. - *Michael Jordan*
+- ***“If you act like you can do something, then it will work.”*** ― Walter Isaacson, Steve Jobs
+- “So many books, so little time.” ― Frank Zappa
+
+### 爱因斯坦
+
+- 一个从未犯错的人是因为他不曾尝试新鲜事物。
+	- Anyone who has never made a mistake has never tried anything new.
+- 宇宙中最强大的力，就是复利。
+	- The most powerful force in the universe is compound interest.
+- 如一个想法在最初并不荒谬，那它就没希望。
+	- If at first the idea is not absurd, then there is no hope for it.
+- 一个人最高的本领就是**适应客观世界的能力**。
+- 并不是我聪明，只是我和问题相处较久。
+- 想像力远比知识更重要。因知识有限，想像则无限,它包含一切,推动着进步,为人类进化的源泉。
+	- Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.
+- 态度上的软弱会变成性格上的软弱。
+	- Weakness of attitude becomes weakness of character.
+- 从来没有犯过错误的人也从没有尝试过新事物。
+	- Anyone who has never made a mistake has never tried anything new.
+- 成功＝艰苦劳动＋正确的方法＋少说空话。
+	- “Genius is 1% talent and 99% percent hard work...”
+	- A + B + C = Success if, A = Hard Work, B = Hard Play, C = Keeping your mouthshut.
+	- **Success = hard work + the right way to + talk less empty talk.** -Albert Einstein
+
+### Mark Twain 马克•吐温
+
+- "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did." - Mark Twain
+	- “二十年后，你会对你没有做过的事情感到失望，而不是你做过的事情。”——马克吐温
+- ***The secret of getting ahead is getting started.***
+	- 领先的秘诀是——马上开始。
+- It's better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt.
+- Age is an issue of mind over matter. If you don't mind, it doesn't matter.
+- Do the right thing. It will gratify some people and astonish the rest.
+- “EXPLORE. DREAM. DISCOVER.” 
+- “A BANKER IS A FELLOW WHO LENDS YOU HIS UMBRELLA WHEN THE SUN IS SHINING, BUT WANTS IS BACK THE MINUTE ITBEGINS TO RAINS.”
+- “I DO NOT FEAR DEATH, I HAD BEEN DEAD FOR BILLIONS AND BILLIONS OF YEARS BEFORE I WAS BORN, AND HAD NOT SUFFERED THE SLIGHTEST INCONVENIENCE FROM IT.”
+- **“Give every day the chance to become the most beautiful day of your life.”**
+- “NEVER PUT OFF TILL TOMORROW WHAT YOU CAN DO THE DAY AFTER TOMORROW.” 
+- “Continuous improvement is better than delayed perfection”
+- “Never try to teach a pig to sing, you waste your time, and you annoy the pig”
+- “TO SUCCEED IN LIFE,  YOU NEED TWO THINGS IGNORANCE AND CONFIDENCE.”
+- **“Life is short, break the rules. Forgive quickly, kiss slowly. Love truly. Laugh uncontrollably and never regret anything that makes you smile.”**
+- “Kindness is a language which the deaf can hear andthe blind can see.”
+-  “I HAVE NEVER LET MY SCHOOLING INTERFERE WITH MY EDUCATION.” 
+-  “TRAVEL IS FATAL TO PREJUDICE, BIGOTRY, AND NARROW-MINDEDNESS.”
+- “Never argue with a fool. Onlooker may not be able to tell the difference.” Mark Twain funny quotes.”
+- “DO SOMETHING EVERY DAY THAT YOU DON’T WANT TO DO; THIS IS THE GOLDEN RULE FOR ACQUIRING THE HABIT OF DOING YOUR DUTY WITHOUT PAIN.” 
+- **“Don’t wait. The time will never be just right.”**
+- “When you find yourself on the side oft he majority, you should pause and reflect.”
+- “IF YOU TELL THE TRUTH, YOU DON’T HAVE TO REMEMBER ANYTHING.”
+- **“Never argue with stupid people, they will drag you down to their level and then beat you with experience.”**
+	- 你永远不能战胜一个纯愚蠢的人,因为他会把你的智商拉到跟他个水平,然后用丰富的经验打败你。
+- “IT USUALLY TAKES ME MORE THAN THREE WEEKS TO PREPARE A GOOD IMPROMPTU SPEECH.”
+- “IF YOU DON’T READ THE NEWSPAPER YOU ARE UNINFORMED, IF YOU DO READ THE NEWSPAPER YOU ARE MISINFORMED.”
+	- 如果你不看新闻，你是无知的；如果真看了新闻，你是被误导的。
+- A lie can make it half way around the world before the truth has time to put its boots on.
+	- 谎言在真相出发前，环游了半个世界。
+- “I’VE HAD A LOT OF WORRIES IN MY LIFE, MOST OF WHICH NEVER HAPPENED.”
+- **“It is wiser to find out than to suppose.”**
+- **“Never miss a good chance to shut up.”**
+	- 千万不要错过一个好机会闭嘴。
+- - I was seldom able to see an opportunity until it had ceased to be one. - Mark Twain
+- “Give every day the chance to become the most beautiful day of your life.”
+- 远离那些轻视你雄心的人。 - 马克吐温
+- “历史不会重演，但总会惊人地相似。” - 马克•吐温
+- 不要把事实告诉不值得的人。 --马克·吐温
+	- Never tell the truth to people who are not worthy of it.
+- 强者，藐视困难，弱者，仰视困难。 --马克吐温
+- 一句好的赞美足以陪伴我两个月。 --马克·吐温
+- 每个人都和月亮一样，有着不被外人所看见的阴暗面。 --马克吐温
+	- Everyone is a moon, and has a dark side which he never shows to anybody.
+- 一个人最危险的敌人是他自己的口舌。 --马克·吐温 
+	- The deadly enemy of a man, his own tongue.
+- “Out of all the things I have lost, I miss my mind the most.” ― Mark Twain
+	- 在我失去的一切当中，我最怀念我的心灵。
+	- “OF ALL THE THINGS I’VE LOST, I MISS MY MIND THE MOST.”
+- 孩子和傻瓜总是实话实说。
+- 实话是我们最宝贵的东西，节省着使用它吧。
+- The worst loneliness is to not be comfortable with yourself.
+	- 最糟糕的孤独感是对自己感觉不舒服。
+
+### Arthur Schopenhauer 叔本华
+
+- The world is my idea.
+- Change alone is eternal, perpetual, immortal.
+- A man can do what he wants, but not want what he wants.
+- Truth that is naked is the most beautiful, and the simpler its expression the deeper is the impression it makes.
+- The person who writes for fools is always sure of a large audience.
+- **Don’t tell your friend what your enemy should not know.**
+- 要么庸俗，要么孤独。
+- 通常人们失去朋友不是因为拒绝借钱嘛，而是因为借了钱。 - 叔本华
+- 我们常常不去想自己拥有的东西，却对得不到的东西念念不忘。
+- THE world is my idea.
+	- 世界是我的表象。—— 叔本华
+	- 世界是我的观念。
+
+### 莎士比亚
+
+- What’s in a name? That which we call a rose by any other word would smell as sweet. (Romeo and Juliet 2.2) 玫瑰易名，芳香如故。——莎士比亚
+- Brevity is the soul of wit. 简洁是智慧的灵魂，冗长是肤浅的藻饰。
+- To be or not to be: that is a question.
+- What’s done cannot be undone. 做过的事情不能逆转。覆水难收。 
+- 黑暗无论怎样悠长，白昼总会到来。
+- Do not , for one repulse , give up the purpose that you resolved to effect. 不要只因一次失败，就放弃你原来决心想达到的目的。
+- Action is eloquence. 行动就是雄辩。
+- 报复不是勇敢，忍受才是勇敢。 
+- 衣服新的好，朋友旧的好。 
+- 人生苦短，若虚度年华，则短暂的人生就太长了。
+- 本来无望的事，大胆尝试，往往能成功。
+- 一个人思虑太多，就会失却做人的乐趣。 
+- 勤为无价宝，慎为护身术。
+- 没有人值得你流泪，值得让你这么做的人不会让你哭泣。 No man or woman is worth your tears, and the one who is, won’t make you cry.
+- 凡是过往，皆为序章。——《暴风雨》
+	- What’s past is prologue. - ***The Tempest***
+
+### 笛卡尔 René Descartes
+
+- 良知，是人间分配得最均匀的东西。
+- 杰出的人才固然能够做出最大的好事，也同样可以做出最大的坏事。It is not enough to have a good mind; the main thing is to use it well.
+- 教育不是万能的，天分你必须得承认。
+- 藤萝是决不会比自己依附的树爬得更高的。
+- 我思故我在。Cogito ergo sum. (I think; therefore I am.)
+- The reading of all good books is like a conversation with the finest minds of past centuries.
+- Except our own thoughts, there is nothing absolutely in our power.
+- 虚无生虚无
+- 征服你自己，而不要征服全世界。Conquer yourself rather than the world. 
+- Doubt is the origin of wisdom. 怀疑是智慧的源泉。
+- 读杰出的书籍，有如和过去最杰出的人物促膝交谈。The reading of all good books is like a conversation with the finest minds of past centuries.
+
+### 拿破仑 Napoleon Bonaparte 
+
+[Napoleon I of France](https://en.wikiquote.org/wiki/Napoleon_I_of_France)
+
+- 我成功，是因为我想要成功。
+	- “Whatever the mind can conceive and believe, the mind can achieve.”
+	- I am successful because I am determined to succeed and I have not tasted it.
+	- 我成功，因为我志在要成功，未尝踌躇。
+- "Never interrupt your enemy when he is making a mistake.” – Napoleon Bonaparte
+- “Friends must always be treated as if one day they might be enemies.” – Napoleon Bonaparte
+- “I would kiss a man’s ass if I needed him.” – Napoleon Bonaparte
+- “Once you have made up your mind, stick to it; there no longer any ‘if’ or ‘but’.” – Napoleon Bonaparte
+- “Until you spread your wings, you’ll have no idea how far you can fly.” – Napoleon Bonaparte
+- **“Impossible is a word found only in the dictionary of fools.” – Napoleon Bonaparte**
+- “Riches do not consist in the possession of treasures, but in the use made of them.” – Napoleon Bonaparte
+	- 财富的意义不在于拥有,而在如何使用它们。
+- “You must not fight too often with one enemy, or you will teach him all your art of war.” – Napoleon Bonaparte
+- “The stupid speak of the past, the wise of the present, and fools of the future.” – Napoleon Bonaparte
+	- Simpletons talk of the past, wise men of the present, and fools of the future.
+	- 笨蛋谈过去，聪明人谈现在，傻瓜谈未来。
+- “One must change one’s tactics every ten years if one wishes to maintain one’s superiority.” – Napoleon
+- “There are only two forces that unite men – fear and interest.” – Napoleon Bonaparte
+- “A leader is a dealer in hope.” – Napoleon Bonaparte
+- “We walk faster when we walk alone.” – Napoleon Bonaparte
+- “A true man hates no one.” – Napoleon Bonaparte
+- “Take time to deliberate, but when the time for action has arrived, stop thinking and go.” – Napoleon Bonaparte
+- “If you wish to be success in the world, promise everything, deliver nothing.” – Napoleon Bonaparte
+- “A woman laughing is a woman conquered.” – Napoleon Bonaparte
+	- 一个笑的女人，是一个被征服的女人。
+- “If you want a thing done well, do it yourself. – Napoleon Bonaparte
+- “Imagination rules the world.” – Napoleon Bonaparte
+	- Imagination governs the world.
+	- 想象统治世界。
+- 我曾统领雄师百万，现在却空无一人；我曾横扫三大洲，如今却无立足之地。耶稣远胜于我，他没有一兵一卒，未占领过只寸之地，他的国却建立在万人心中。世间有两种武器：精神和剑。从长远来看，精神必将打败利剑！
+- 没有机会！这真是弱者的最好供词。
+- 我只有一个忠告给你——做你自己的主人。
+- 我是自己最大的敌人。‘
+- 人多不足以依赖，要生存只有靠自己。
+- “给自己一个高的离谱的目标，这样，即使失败了，也在别人的成功之上。”
+- I have made all the calculations; fate will do the rest. 我谋事，天成事。
+- 一个人的思想走多远，他就有可能走多远。
+- 没有机会，能力将毫无用处。
+	- Ability is nothing without opportunity. *- Napoleon Bonaparte*
+- The man who has made up his mind to win will never say "impossible ". 凡是决心取得胜利的人是从来不说“不可能的”。
+- **天下最悲哀的一句话就是：我当时真应该那么做却没有那么做。**
+- 真正的英雄无需加冕！
+- 我们不是统治别人，就是被别人所统治。
+- 我们应当努力奋斗，有所作为。这样，我们就可以说，我们没有虚度年华，并有可能在沙滩上留下我们的足迹。
+- **The superior man is never in anyone's way.**
+- Success is the most convincing talker in the world.
+- Impatience is a great obstacle to success; he who treats everything with brusqueness gathers nothing, or only immature fruit which will never ripen.
+	- 急躁是成功的一大障碍;粗鲁对待一切的人不会收获任何东西，也不会收获永远不会成熟的果实。
+- One must indeed be ignorant of the methods of genius to suppose that it allows itself to be cramped by forms. 
+	- 我要自以为聪明，以避免其形式所狭隘。
+- Never depend on the multitude, full of instability and whims; always take precautions against it.
+	- 永远不要依赖人群，充满不稳定和任性;一定要做好预防措施。
+- From triumph to downfall is but a step.
+	- 露脸和现眼只差一步。
+- Necessity dominates inclination, will, and right.
+	- 需要支配倾向、意志和权利。
+- To do all that one is able to do, is to be a man; to do all that one would like to do, would be to be a god.
+	- 做一个人有能力做的事，叫做人；做一个人想做的事，可以叫做神。
+- Man achieves in life only by commanding the capabilities nature has given him, or by creating them within himself by education and by knowing how to profit by the difficulties encountered.
+	- 人只有通过掌握自然赋予他的能力，或者通过教育和知道如何从遇到的困难中获利，才能在生活中获得成就。
+- It is a mistake, too, to say that the face is the mirror of the soul. The truth is, men are very hard to know, and yet, not to be deceived, we must judge them by their present actions, but for the present only.
+	- 这是一个错误，也就是说，脸是灵魂的镜子。事实是，人们很难了解，然而，我们不能被欺骗，我们必须以他们目前的行为来判断他们，但只能断定目前。
+- One is more certain to influence men, to produce more effect on them, by absurdities than by sensible ideas.
+- It is not true that men never change; they change for the worse, as well as for the better. It is not true they are ungrateful; more often the benefactor rates his favors higher than their worth; and often too he does not allow for circumstances. If few men have the moral force to resist impulses, most men do carry within themselves the germs of virtues as well as of vices, of heroism as well as of cowardice. **Such is human nature — education and circumstances do the rest.**
+- True character stands the test of emergencies. Do not be mistaken, it is weakness from which the awakening is rude.
+	- 真正的品格经得起紧急情况的考验。不要误会，这是来自粗鲁觉醒时的软弱表现。
+- One must learn to forgive and not to hold a hostile, bitter attitude of mind, which offends those about us and prevents us from enjoying ourselves; one must recognize human shortcomings and adjust himself to them rather than to be constantly finding fault with them.
+	- 一个人必须学会宽容，不要怀有一种敌对的、痛苦的心态，这种心态会冒犯我们周围的人，阻碍我们享受生活;一个人必须认识到人的缺点，并使自己适应它们，而不是不断地挑剔它们。
+- It is not necessary to prohibit or encourage oddities of conduct which are not harmful.
+	- 没有必要禁止或鼓励没有害的古怪行为。
+- The best way to keep one's word is not to give it.
+	- 遵守诺言的最好方法是——不要将其说出口。
+- In politics nothing is immutable. Events carry within them an invincible power. The unwise destroy themselves in resistance. The skillful accept events, take strong hold of them and direct them.
+	- 在政治上，没有什么是一成不变的。事件在他们心中具有不可战胜的力量。不明智的人在抵抗中自我毁灭。有技巧的人接受事件，掌握它们并引导它们。
+- Posterity alone rightly judges kings. Posterity alone has the right to accord or withhold honors
+	- 只有子孙后代才正确地审判国王。只有后代才有权授予或拒绝荣誉。
+- One can lead a nation only by helping it see a bright outlook. A leader is a dealer in hope.
+	- 只有通过帮助一个国家看到光明的前景，才能领导一个国家。领导者是希望的商人。
+- Parties weaken themselves by their fear of capable men.
+	- 政党因害怕有能力的人而削弱自己。
+- Democracy may become frenzied, but it has feelings and can be moved. As for aristocracy, it is always cold and never forgives.
+	- 只有谨慎、睿智和灵巧，才能实现伟大的目标，克服一切障碍。否则什么都不会完成。
+- To listen to the interests of all, marks an ordinary government; to foresee them, marks a great government.
+	- 倾听所有人的利益，标志着一个普通政府；预见他们，标志着一个伟大的政府。
+- It must be recognized that the real truths of history are hard to discover. Happily, for the most part, they are rather matters of curiosity than of real importance.
+	- 必须认识到历史真实的真相是很难发现的。令人高兴的是，在大多数情况下，它们都是好奇心而非真正重要的东西。
+- Laws which are consistent in theory often prove chaotic in practice.
+	- 理论上一致的定律在实践中常常是混乱的。
+- **In practical administration, experience is everything.**
+	- 在实际管理中，经验就是一切。
+- Fanaticism must be put to sleep before it can be eradicated.
+	- 狂热在消灭前，必须让其沉睡。
+- I do not see in religion the mystery of the incarnation so much as the mystery of the social order. It introduces into the thought of heaven an idea of equalization, which saves the rich from being massacred by the poor. ***Often paraphrased as “Religion keeps the poor from killing the rich.”***
+	- 在宗教中，我看不到化身的奥秘，更不知道社会秩序的奥秘。它将天堂的思想引入均等化的思想中，使富人免于被穷人屠杀。经常被解释为“宗教使穷人不致于杀害富人”。
+- A commander in chief ought to say to himself several times a day: If the enemy should appear on my front, on my right, on my left, what would I do? And if the question finds him uncertain, he is not well placed, he is not as he should be, and he should remedy it.
+	- 总司令每天应该对自己说几次：如果敌人出现在我面前，出现在我右边，出现在我左边，我该怎么办？如果问题发现他是不确定的，他就不好，他不是他应该的，他应该补救它。
+- The moment of greatest peril is the moment of victory.
+	- 最危险的时刻是胜利的时刻。
+- At the beginning of a campaign it is important to consider whether or not to move forward; but when one has taken the offensive it is necessary to maintain it to the last extremity. However skilfully effected a retreat may be, it always lessens the morale of an army, since in losing the chances of success, they are remitted to the enemy. A retreat, moreover, costs much more in men and materials than the bloodiest engagements, with this difference, also, that in a battle the enemy loses practically as much as you do; while in a retreat you lose and he does not.
+	- 在战役开始时，考虑是否向前推进很重要，但是当进攻进行到最后时，必须把它保持在最后一个极端。不管撤退多么巧妙，它总是会降低军队的士气，因为一旦失去成功的机会，就会被交还给敌人。此外，撤退比最血腥的战斗花费更多的人力和物力，还有一个差别，在战斗中敌人实际上损失和你一样多，而在撤退中你损失而不是他。
+- There is a joy in danger.
+	- 危险中充满喜悦。
+- The praises of enemies are always to be suspected.
+	- 敌人的赞扬总是值得怀疑的。
+- Courage cannot be counterfeited. It is one virtue that escapes hypocrisy.
+	- 勇气不能伪造。逃避虚伪是一种美德。
+- In war, groping tactics, half-way measures, lose everything.
+	- 在战争，集体摸索战术、中途措施，失去一切。
+- In order not to be astonished at obtaining victories, one ought not to think only of defeats.
+	- 为了不为取得胜利而感到惊讶，人们不应该只想到失败。
+- In war, luck is half in everything.
+	- 在战争中，运气是一切的一半。
+- In France, only the impossible is admired.
+	- 在法国，只有不可能的事值得钦佩。
+- Turks can be killed, but they can never be conquered.
+	- 土耳其人可以被杀死，但他们永远也无法被征服。
+- Morality has nothing to do with such a man as I am.
+	- 道德与我这样的人无关。
+- Surely in a matter of this kind we should endeavor to do something, that we may say that we have not lived in vain, that we may leave some impress of ourselves on the sands of time.
+	- 我们应当努力奋斗，有所作为。这样，我们就可以说，我们没有虚度年华，并有可能在时间的沙滩上留下我们的足迹。
+- A good sketch is better than a long speech.
+	- 好的画胜过长篇的演讲。一幅画胜过千言万语。
+- The hand that gives is above the hand that takes. 
+	- 给予之手在接纳之手的上方。
+- If I had succeeded, I would have been the greatest man known to history.
+	- 如果我成功了，我就会成为历史上最伟大的人。
+- The future destiny of the child is always the work of his mother. Let France have good mothers, and she will have good sons.
+	- 孩子的未来命运永远是他母亲的工作。让法国有好母亲，她会有好儿子。
+- Christ alone has succeeded in so raising the mind of man toward the unseen, that it becomes insensible to the barriers of time and space.
+	- 唯有基督，才成功地使人的心灵向着看不见的事物升起，以致于它对时间和空间的障碍变得麻木不仁。
+- An army of sheep, led by a lion, is better than an army of lions, led by a sheep.
+	- 一群狮子为首的羊群，胜过一群以羊为首的狮子。
+- Never ascribe to malice that which is adequately explained by stupidity.
+	- 永远不要把愚蠢足以解释的事情归咎于恶意。
+
+----
+
+## Medium
+
+- [How to Believe in Your Idea Enough to Take the First Step](https://themission.co/bonus-how-to-believe-in-your-idea-enough-to-take-the-first-step-56a93cb0986b)
+	- 足够的自信意味着你踏出了第一步。
+- 领导潮流前需要了解潮流。
+
+## Business
+
+- Get to market first. Customers want high-quality products at low prices, and they want them now. - ***Business@The Speed of Thought***, by Bill Gates
+- Leaders shouldn't try to make every decision. - ***Business@The Speed of Thought***, by Bill Gates
